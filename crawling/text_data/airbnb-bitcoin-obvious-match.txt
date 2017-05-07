@@ -1,0 +1,24 @@
+
+
+
+CryptoCoinsNews
+Bitcoin is by default and by nature a currency which shows no respect for borders. One of the less popularized advantages of Bitcoin is that, through the power of encryption, immutable transactions are possible, as well as the ability to withhold funds from seizure. In the nations which are currently producing the most refugees, Bitcoin’s digitization is another great aspect of it – people are less likely to steal what they cannot see. A private key can be written and stored virtually anywhere. For all intents and purposes, Bitcoin is precisely the currency you would want if your world were torn apart by war and famine, provided you had some way to turn it into usable goods.
+AirBNB recently entered the political conversation by launching its #WeAccept campaign. The decentralized rental service made a stern political statement, despite having a bright and positive message, with the following commercial:
+
+The sentiments expressed were not long ago what would be considered an “All-American” attitude. We urge the hungry, the tired, the broken to reach our shores and thrive in the land of the opportunity. For decades gone past, people from all corners of the globe have been able to do as much. Bitcoin’s resistance to regulatory jurisdiction, at the code level, is less of a political decision than it is a security matter. For it is obvious that if the state can compromise a Bitcoin transaction, someone else can, as well.
+But as long as AirBNB is advertising an internationalist message, perhaps it should also adopt an internationally immutable payment method. AirBNB could increase its own take of fees placed on providers, and attract users who may struggle to provide other forms of digital payment. CEO Brian Chesky recently asked Twitter followers:
+If @Airbnb could launch anything in 2017, what would it be?
+— Brian Chesky (@bchesky) December 26, 2016
+
+He then came back and said:
+Thanks for the 2,000 submissions. Most popular: Bitcoin, Guest Loyalty, upgraded homes & services, group travel, things to do, and Mars https://t.co/DbrBSTDlCl
+— Brian Chesky (@bchesky) December 30, 2016
+
+Multiple users had suggested Bitcoin. With things that can require later pull transactions such as rental services, the cryptocurrency has certain limitations that must be worked out within the solution in question.
+It’s not possible, for instance, to bill a person’s Bitcoin wallet for funds previously authorized. The Bitcoin holder must choose to push the funds to the requestor. In implementation, this could mean that Bitcoin users would be required to pay more than the amount of the actual rental via AirBNB, and have the remainder of funds returned to them upon successful closing of the transaction.
+But this writer is not here to talk about the technical implementation of Bitcoin for AirBNB. I am here to talk about the philosophical reasons for adopting Bitcoin, and potentially for refusing certain other payment methods which have shown themselves to be diametrically opposed to the views expressed by AirBNB. Credit card companies have willingly shut down freedom-fighting organizations like WikiLeaks as part of the “banking blockade.” Indeed, this episode in recent history was one of the most attention-bringing for Bitcoin, and one of Satoshi’s last memos expressed concern about
+Credit card companies have willingly shut down freedom-fighting organizations like WikiLeaks as part of the “banking blockade.” Indeed, this episode in recent history was one of the most attention-bringing for Bitcoin, and one of Satoshi’s last memos expressed concern about overflow government persecution:
+I make this appeal to WikiLeaks not to try to use Bitcoin. Bitcoin is a small beta community in its infancy. You would not stand to get more than pocket change, and the heat you would bring would likely destroy us at this stage.
+While the WikiLeaks project deferred to Satoshi at the time, they did later accept Bitcoin when it was flourishing. AirBNB accepting Bitcoin in order to protect the privacy of its users, as well as the peace of mind of its socially conscious board, seems an obvious plus for both parties. Chesky says the company has long considered the idea, but there is no time like the present. Intermingling the idea of a universal currency for a united race of humans would be a plus, but it’s unlikely anyone expects as much of the company.
+Intermingling the idea of a universal currency for a united race of humans would be a plus, but it’s unlikely anyone expects as much of the company.
+Featured image from Shutterstock.

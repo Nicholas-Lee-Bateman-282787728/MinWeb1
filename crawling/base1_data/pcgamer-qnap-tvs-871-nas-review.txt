@@ -1,0 +1,87 @@
+./html_data/pcgamer-qnap-tvs-871-nas-review.html
+
+
+ 
+ 
+ 
+ 
+
+
+By
+Tuan Nguyen
+ 
+
+Those who just need a simple storage or backup will find the $2,199 TVS-871 a bit too rich. But if you demand a lot, the TVS-871 is serious about delivering.
+If you're serious about storage, you're probably going to consider some type of NAS (network attached storage) system for your home. And if you're serious about a NAS, there are few companies you should consider. And of the ones you should consider, there are fewer still that have the right chemistry of performance and features rolled into one unit.
+Take a quick look through QNAP's website and you'll find a host of NAS options with very compelling features, that are fit for home use. Sure, QNAP makes products for large-scale enterprises and for people who are bent on using a server rack in their home closet, but its consumer line of NASes borrows some of the best features from the company's more serious offerings. Today, we'll look at one of QNAP's enthusiast-grade options, one that should satisfy even the majority of blood-thirsty storageivors.
+Enter the TVS-871, a beast of a NAS. The TVS-871 is a NAS that has everything except the kitchen sink thrown into it. Coming in several flavors, the TVS-871 can be configured with drool-worthy features such as 10Gb Ethernet, and up to an Intel Core i7-4790S processor. Our unit came preconfigured with the following make-a-standard-PC-jealous specs:
+The list above covers just a very small portion of what the TVS-871 is capable of. For the full list, check out the TVS-871's specifications page.
+We configured our NAS with eight Red NAS 4TB drives (WD40EFRX) from Western Digital, but you can configure the TVS-871 with whatever you wish. The TVS-871 supports SSD caching for increased outbound/read performance by installing an SSD in one of the bays, but we opted to fill all 8 bays with HDDs. Thinking back, it's a shame we didn't go with Western Digital's 6TB drives for more storage ridiculousness.
+Western Digital's Red series are positioned as NAS drives specifically. These drives are tuned to operate around the clock and the 4TB version can be had for roughly $150. If you're looking for higher levels of reliability, you may want to consider the company's Re-series, which cost more but are designed for high availability deployments and carry a longer 5-year warranty.
+
+Quad 1Gb Ethernet with support for quad 10Gb Ethernet expansion
+Officially, the TVS-871 currently supports up to 8TB hard drives for an insane total 64TB of storage (in RAID 0 or JBOD modes), but HGST recently announced the availability of its Ha10 Active Archive 10TB monster, which would have been extra sweet. If QNAP updates the firmware on the TVS-871, you could conceivably have yourself a whopping 80TB NAS at home. Now, why would you need such TB-awesomeness? We all know.
+For those who are in the market for a backup solution, getting a NAS would serve this purpose well. However, if you intend to use a NAS as a primary haven for your content such as videos, images, and personal files, keep in mind that RAID is not a "backup" solution. Thankfully, the TVS-871 supports backing up itself in numerous ways, including to another NAS, or popular cloud storage solutions such as Dropbox, Microsoft Azure, and even Amazon S3.
+
+Setting up the TVS-871 was a breeze: we simply installed the hard drives into their cages, and plugged them in. You're able to configure the storage array via the TVS-871's built-in screen or by logging into its web interface. We opted for setup using the web interface, since there's only so much you can do with the two-line built-in display.
+Upon login and the obligatory administration setup, we immediately configured the TVS-871 to RAID 6. The system recommended RAID 6 by default, but you're able to choose whatever RAID level you desire. On a NAS like this, there's really no point in using RAID 0, since performance won't be realized over 1Gb Ethernet, and you'll want some sort of redundancy. At our 32TB of total system capacity, RAID 1 would get you 16TB and allow up to four drive failures before complete catastrophe, but halving our total capacity seemed wasteful.
+We went with RAID 6 because you get the best combination of performance, redundancy, and capacity. RAID 6 is essentially like RAID 5, but with support for double drive failures. With RAID 6 configured, we were left with a total usable capacity of 24TB.
+Because we filled up all the drive bays in the TVS-871 for the array, no drives were left to act as a hot-spare, so we kept another Western Digital Red NAS drive on hand as a cold spare.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The TVS-871 isn't your average storage-only NAS, though. QNAP has integrated a wealth of kick-ass features, including: virtualization, Plex media server, web server, VPN server, MySQL server, TFTP server, and much more. You're able to download apps from the QNAP app center, and run CMS, gallery, and forum back-ends. Essentially, the TVS-871 is a complete standalone server on its own, with a focus on NAS storage.
+As a matter of fact, you're also able to use the TVS-871 as a full desktop PC running QTS Linux. The built-in HDMI output supports 4K output at 60Hz. Windows OS is not supported. However, since the TVS-871 can run virtual machines, you can install Windows and other OSes through the VM. We tested this feature using Lubuntu 15.04 and the TVS-871 handled it without a hitch.
+
+Lubuntu 15.04 running on as a VM with HTML5 remote control (VNC, too!)
+Windows 8.1 also installed as expected. Compared to more advanced VM solutions such as VMWare, you won't get advanced features though, such as Direct3D 9+ support, so running games is out of the question. Thankfully, no one is going to buy a TVS-871 to play games, so we don't see a problem.
+The TVS-871 allows you to control your VMs through an HTML5-based browser interface, or you can enable VNC remote in the configuration. The VNC feature on the NAS allows boot-time control of your VMs, so you're able to do normal OS installs without ever requiring an attached monitor.
+QNAP pitches the TVS-871 as a very capable media-delivery box. The unit comes equipped to serve out your movies utilizing KODI (a.k.a. XBMC), but you're more than welcome to go with Plex. We downloaded the Plex server client through QNAP's app repository and upgraded it to the latest version. Plex is more flexible about serving and transcoding your video files to a multitude of devices, and also allows you to serve your content over the public Internet, if you choose, with little fuss.
+We set Plex's transcoder to "make my CPU hurt" for maximum quality. With the Core i7-4970S's QuickSync hardware transcoding, streaming media to our tablets and phones was a breeze, taking up just a hair of the TVS-871's ample processing power. Playing through a Plex client on another PC, there wasn't any transcoding at all, as you're able to set the client to play the original file.
+One interesting feature that heavy downloaders will appreciate is the TVS-871's ability to act as a torrent client. Utilizing QNAP's Download Station, which is essentially an app built for the TVS-871, you're able to queue up a bunch of torrents on the NAS directly, without running anything on your PC. The TVS-871 will download and save directly to your volume. Download Station can be managed via your browser, and you're able to see the usual data you would see on a desktop torrent client.
+We tested several features of the TVS-871, including RAID fail, rebuild, and throughput. Unfortunately, the unit we have did not have its 10 GigE card installed, so we weren't able to test the full throughput potential of the TVS-871, but it lets you see performance on typical gigabit networks.
+Tests were done with the following hardware:
+Note: Thanks to CyberPower PC for supplying the Samsung 850 Pro 1TB SSDs!
+As shown in the above throughput tests, the limiting factor is our gigabit network. QNAP estimates that with a 10 GigE network and an array of SSDs, the TVS-871 would be able to hit 1,168 MB/sec writes and 1,178 MB/sec reads. Double that for a dual 10 GigE setup. Here are benchmarks for 10 GigE and dual 10 GigE performance from QNAP:
+
+It's worth noting that QNAP utilized a RAID 5 array in its benchmarks, which is less taxing than running a RAID 6 array due to the NAS having to compute half the parity. However, RAID 6 can withstand two drive failures while RAID 5 can only take one.
+One thing we wish the TVS-871 had, although it's unlikely that any home user would utilize it, would be support for RAID 60, which is RAID 6 with striping. The TVS-871 has eight drive bays, and RAID 60 requires at least eight drives to operate. We can only conclude that running RAID 60 would be too detrimental to performance, and so was left out.
+QNAP uses SSDs installed in the TVS-871 in its test to demonstrate maximum sustained throughput, which by all accounts is impressive, as one might expect. If you have such a network available to you, throughput will vary based on RAID type, the type and number of drives you have installed, cable, and client configuration.
+The TVS-871 has something for everyone, and in excess. Some people prefer having everything stored on multiple drives, installed directly inside their PCs for the absolute fastest access. But there's something to be said about a NAS that can handle multiple duties, freeing up precious CPU cycles for more immediate tasks, such as playing a game. The enormously capable TVS-871 will serve multiple PCs and devices simultaneously, handle a myriad of tasks, and not even even break a sweat.
+There is a drawback to all of this though: The TVS-871 performs at its peak when you're on a 10 GigE network. If we're talking about a desktop PC at home utilizing onboard gigabit Ethernet and a consumer-grade router, forget it. To maximize performance, you'll need to overhaul your entire network. This means getting an expensive network switch, as well as popping in a 10 GigE copper-based network card. Oh, and CAT5 cabling won't do either. Be prepared, as the costs can add up pretty quickly. But if you're well-heeled enough to get a TVS-871 for your home, perhaps cost isn't an issue to begin with.
+There's a lot to be said about the QNAP TVS-871, far more than can be written in this review alone. Depending on your needs, the TVS-871 can be a straight-up storage unit, or it can be much more. Those who are into some serious home-theater setups will appreciate what QNAP has done. All the fancy features aside though, having an obscene amount of terabytes at your disposal is drool-worthy by itself anytime—just make sure you have the cash for it.
+Those who just need a simple storage or backup will find the $2,199 TVS-871 a bit too rich. But if you demand a lot, the TVS-871 is serious about delivering.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

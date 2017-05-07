@@ -1,0 +1,164 @@
+./html_data/killing-time-at-lightspeed-review.html
+
+RPS Feature
+Antisocial media 
+By John Walker on July 11th, 2016 at 7:00 pm.
+
+Something I’m very much looking forward to is seeing the visual novel increasingly mature away from creepy adolescent dating simulators toward more interesting topics. It’s already happening, of course, but it’s safe to say the genre has a “norm”. A lovely example of something utterly different is Killing Time At Lightspeed [official site], a science fiction tale of future technologies and future travel, told through the medium on social media. Here’s wot I think:
+
+
+The premise is a lovely one – you, Jay, are aboard an interstellar ship travelling to a recently inhabited world in another solar system. The journey will take 29 Earth years, but for you the flight will last half an hour. Entertainment on board is provided in the form of a simple text-based computer that updates with the latest news stories, feeds from your social media platform FriendPage, and private messages, which are beamed from Earth slightly faster than you’re travelling allowing you to see annual updates over the course of your brief/extremely long trip. You can interact on a limited level, replying to various messages from a list of options, but mostly you’re passively taking on board the chatter as you would in such circumstances.
+The plot at the start focuses on the release of a new cybernetic implant called Oqular, a piece of tech that is implanted in your eye and allows you to experience the 2045 version of virtual reality. You read the discussions your friends are having about them, enthused early adopters, cynical skeptics, and those certain it’s going somewhere bad. So yes, it works as both a direct allegory for the current discussions taking place regarding VR (the similarity of the name to “Oculus” can’t be a coincidence), as well as a broader, more widespread fear of the pace of technology. Or more specifically, the abuse of technology.
+
+At the same time, you have access to Skimmit – a service that provides succinct snippets of world news in each upload, giving you a broader idea of the reception of advancements both in entertainment technology, and also the increased uptake of cybernetic implants, replacement limbs, and even replacement organs. The range of articles you get works extremely well, giving you straight reporting, loaded and embarrassingly ignorant tabloid-esque coverage, and the sort of ranty personal angles of tech blogs. While it’s a little heavy handed in its use of soundalike company names and products, the attitudes shown in the reporting do a nice job of prophetically speaking about our own state of affairs, which is of course always the sign of smart sci-fi.
+With each update another year passes on Earth, meaning you get these annual snapshots of your home planet, and see as your friends move on in their discussions and opinions… to a point. In fact, it’s here that the storytelling of Killing Time rather starts to unravel.
+
+It’s a touch peculiar, really. While the news stories move forward in leaps and bounds, exploring governmental intervention in personal tech and privacy, questioning understandings of reality, potential hazards for human augmentation, and so on, the social media snapshots seem like they could be from the next day. Your chums’ lives barely seem to edge forward, apparently taking years to make minor decisions, and certainly not seeming to react to the extraordinary amount of time that passes for them between your responding to their comments. In the first five years, none even alludes to commenting that you’re reacting to something they used to think, forgot they ever said, or now feels weirdly out-of-date. Instead they react like you’d IMd it to them. And I’m not exaggerating – this is a discussion that takes place over a year, about whether someone should go to the park!
+
+This does start to improve later on, but not comprehensively. There’s a conversation where you ask someone about the limited ability of a new synthetic robot, and by the time he’s able to reply all those issues have been long patched out – that makes sense. But in the same chain of messages your encouraging someone to change job is met as if in the same breath. Someone else (finally) criticises you for replying to a year old message, and well, the whole thing is in a muddle. Then I read a news story and for the first time in all of fiction history, saw the word “Luddite” used correctly! I immediately forgave it everything.
+It’s also pretty telling that my early complaints were that the game repeated the same motif far too many times, but by the second half I was lamenting how few years were left in my half hour journey (the game itself lasts as long as it takes you to read the messages – there’s no silly time limit here). Just reading the same timeline of the same people (plus other silly things like some bots and_ebooks equivalents), a wordy news feed, and a few personal messages, felt too repetitive, right up until I wanted it to last for longer. You get to know those few people through the process, even if the glimpses are a little erratically delivered, and the leaps and bounds in technology and the governmental response to such technologies is well handled. And frighteningly relevant. 
+It smartly picks up on current trends: hashtag-led rebellions, divisions based on being ‘in’ or ‘out’ of new developments, fear of unchecked police authority. But it isn’t too heavy-handed with these, and it certainly isn’t hand-wringing and shouting “AAH BUT AHHHHH!” at you, which is rather impressive. In fact, later on it becomes rather uncomfortably topical regarding events over the last week. (It’s less clear whether the dreadful grammar in some of the straight news stories is a commentary, or a lack of proofing.)
+
+The ending is lovely and perfect, itself its own gentle commentary on something else the game frequently touches upon. And I’ve come away enjoying the whole experience far more than I had thought was likely nearer the start. Yes, there are some significant narrative issues and it’s a shame they weren’t better managed, but the overall effect works well.
+It’s clever for all sorts of reasons, but the most smart aspect is its recognition of your passivity in the role of a visual novel player, and making that the most crucial part of the story is telling. It’s a chilling thought, spending less than an hour losing thirty years from the lives of everyone you know, and while I think the game does crucially badly fail to give the feeling that three decades have passed for the people you follow, the ten years or so it far more feels like has just the right effect of alienating distance and discomfort.
+This gives me far more hope for visual novels than I’d had before, and I imagine that’s largely due to a lack of exposure to the great stuff out there rather than for a lack of it. But if you were wanting some hope too, you’ll find it here. Progressive, witty, and touching, if chronologically troubled, Killing Time At Lightspeed a fine thing.
+Killing Time At Lightspeed: Enhanced Edition is out on Steam for around £6.
+
+11/07/2016 at 19:42
+
+Eight Rooks says:
+
+I don’t think I’m that interested in this particular game (not fond of the lo-fi look, whatever the aesthetic reasons) and I already know I disagree with RPS on the merits of various English-language “visual novels”. At the same time, any discussion of the strengths and limitations of the form intrigues me, although
+This gives me far more hope for visual novels than I’d had before, and I imagine that’s largely due to a lack of exposure to the great stuff out there rather than for a lack of it
+Do you mean a lack of exposure to other indie games which technically fit the same criteria but would have your average obsessive fan running screaming out of the room? If so, fair enough – but otherwise, no, even the good “visual novels” typically dive headlong into the same old tropes like Scrooge McDuck into his vault. If you find the usual genre signifiers problematic (and I’m not saying you shouldn’t, by any means!) there’s very little out there you haven’t heard of that wouldn’t have you rolling your eyes.
+
+11/07/2016 at 20:18
+
+Nauallis says:
+
+So basically we might have more fun commenting on old RPS articles, and get the same experience.
+
+11/07/2016 at 21:19
+
+InfamousPotato says:
+
+Sometimes, I’ll finish a story-driven game, and since I often try to avoid reading details beforehand, I’ll go back to all the RPS articles on the game that I wanted to read but couldn’t, because I wanted to go in nearly blind. But as I read people’s words, thoughts, and comments, I’ll know that I can’t join them in the discussion. Like the world in Killing Time at Lightspeed (or, according to the review, unlike), people have moved on, and there is no discussion to join. Only records of their joys and disappointments having played the game. I can read the about how everyone shared their experiences, but I can never participate.
+Perhaps I need to stop waiting for steam sales…
+
+13/07/2016 at 12:19
+
+Politik says:
+
+Outstanding observation. I was just reading through the comments here and saw a link to RPS discussing the ending to Life is Strange, thinking almost exactly the same thing!
+
+12/07/2016 at 02:21
+
+April March says:
+
+We can’t respond to year-old comments any more, though :(
+
+11/07/2016 at 20:54
+
+Drumclem says:
+
+Dear John,
+Great review, I’m looking forward to playing this game now, as it seems to be right up my alley.
+Quick question though, and as a non-native familiar with the whole “Luddite” concept: what is the right way of using “Luddite”? And what are the wrong ones that you have encountered?
+It seems to me like a pretty simple concept, so I’m curious to read how it could used wrongly.
+
+11/07/2016 at 22:21
+
+John Walker says:
+
+The Luddites were textile workers who destroyed the machinery that was being developed in order to protect their own jobs, and to improve their bargaining ability with their employers.
+The term has gone on to be misused to describe people who fear new technology, rather than those who are attempting to demonstrate the detrimental effect of a technology on the lives of people.
+
+12/07/2016 at 09:38
+
+mukuste says:
+
+That meaning is now in the dictionary though, so I’m not sure it really counts as a misuse.
+
+12/07/2016 at 09:58
+
+RaoulDuke says:
+
+How exactly were they “attempting to demonstrate the detrimental effect of a technology on the lives of people” by destroying the machines though? Going to someones poor woman’s hovel and smashing her new-fangled knitting jambo is just going to make her knitting take longer…
+It makes sense from the perspective of someone smashing machinery in the work place, where the human worker has become obsolete and destroying the machine means working again, earning money, etc. It seems to me like the word directly concerns increased industrialization and the general move forward of technology.
+
+12/07/2016 at 23:40
+
+BertieDugger says:
+
+Poor women didn’t have knitting machines in their hovels, the machines were industrial equipment in factories.
+
+11/07/2016 at 21:27
+
+MrUnimport says:
+
+I can’t bring myself to agree that topicality in the form of hashtags is the hallmark of smart sci-fi. If there’s anything that sets good sci-fi apart to me, it’s communicating and illuminating how we feel about certain universals, certain aspects of the human condition as we see it. I don’t think it’s a matter of stretching 2016 trends into 2026. Surely there are more relevant world headlines for the people of the next half-century than which consumer gadget is being adopted by the rich?
+
+11/07/2016 at 21:42
+
+Eight Rooks says:
+
+Maybe I’m missing something, but
+I can’t bring myself to agree that topicality in the form of hashtags is the hallmark of smart sci-fi
+I don’t think that’s what John was saying? I read it as 1) he thinks it’s smart SF because it’s using reportage in a narrative voice which clearly mirrors the way the news talks right now, and 2) he thinks it’s smart SF because it speaks in the language of the kids in a way that suggests it knows what it’s doing. Hold onto your seat, maybe, but – people do actually use social media for more than just spreading tabloid gossip, and I think it’s a fairly reasonable argument to suggest they’ll continue to do so. “Hashtag rebellions” are very much a thing, yes?
+
+11/07/2016 at 21:42
+
+Eight Rooks says:
+
+EDIT: Ugh, reply fail to MrUnimport up above.
+
+11/07/2016 at 21:46
+
+MrUnimport says:
+
+What I mean is that mirroring the way things are right now has never been a criterion for smart sci-fi, at least in my opinion.
+
+11/07/2016 at 22:23
+
+John Walker says:
+
+I didn’t say “mirroring”. I said “prophetically speaking about”. It seems odd to have quite so dramatically reinterpreted that!
+
+11/07/2016 at 22:55
+
+MrUnimport says:
+
+Ah, but you’ll note that Mr. Rooks used the term in his post, which hopefully accounts for its presence in my reply to him. I understand you are a busy man, however, so for your convenience I will attempt to restate my feelings in a new post less burdened by confusing conversational genealogies.
+What I’m doubtful about is whether this year’s public worries are really applicable to the next three decades. In the article you mention the game makes repeated use of soundalikes to represent modern-day tech companies, which suggests to me there might be too much of a focus on the thoughts and fears of today, projected with minimal change into the future, and not enough rumination about how these problems themselves might evolve, change, or even be solved in the decades to come.
+
+12/07/2016 at 08:15
+
+John Walker says:
+
+You should play the game, to find out.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Green Stripe Snake, Gritfish, Killing Time at Lightspeed, Killing Time at Lightspeed: Enhanced Edition, review, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

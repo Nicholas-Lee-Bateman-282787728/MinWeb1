@@ -1,0 +1,17 @@
+./html_data_bitcoins/r3-calls-sri-lankas-central-bank-join-blockchain-consortium.txt
+
+
+
+CryptoCoinsNews
+New York-based blockchain startup R3, known for spearheading an international banking-based blockchain consortium has reportedly called on Sri Lanka’s central bank to join the working group.
+R3 has wooed over 80 the world’s biggest banks and financial institutions to collaborate under the common roof of its blockchain consortium.  The consortium has notably worked with regulators in developing blockchain applications, including the likes of the Singapore’s central bank, Hong Kong’s financial regulator and South Korea’s central bank. Now, R3 is reportedly continuing its charm offensive of financial regulators in Asia by inviting the central bank of Sri Lanka to join the consortium.
+According to a report by Lanka Business Online, R3 representatives have already met with the Central Bank of Sri Lanka to discuss joint projects and collaborate on research between central banks.
+Speaking to the publication, Niki Ariyasinghe, project strategy director at R3, stated:
+The meeting with Sri Lanka’s Central Bank was about developments in blockchain technology, what R3 is doing and we also extended an invitation to the Central Bank if they would like to join.
+The executive pointed to its regulatory members with which the blockchain firm is already undertaking joint projects such as developing an inter-bank payments platform, based on a blockchain, with the Monetary Authority of Singapore.
+“From a regulatory perspective, there is no charges or anything like that because we want them involved,” stated Ariyasinghe, professing R3’s enthusiasm to rope in another central bank as a member.
+Perhaps pertinently, the R3-developed blockchain proved successful when put to use by Singapore’s central bank to complete its blockchain proof-of-concept (PoC) project earlier this month. Some of the proposed core applications of the interbank platform include cross-border payments and trading & settlement. If R3’s goal is to connect central banks to collaborate with each other, there is potential for near-instant, low-cost cross-border transactions over a blockchain between central banks.
+While not giving too many details away, Ariyasinghe added:
+We had a very positive discussion with the Central Bank Governor (of Sri Lanka) and we will follow up in the coming weeks.
+Meanwhile, Sri Lanka’s influential neighbor India, a major developing economy, recently published a whitepaper after researching blockchain technology. Penned by the Indian central bank’s research arm, the white paper determined that blockchain technology had “matured enough” to support the digitization of India’s fiat currency, the rupee and called the technology’s adoption in India.
+Featured image from Shutterstock.

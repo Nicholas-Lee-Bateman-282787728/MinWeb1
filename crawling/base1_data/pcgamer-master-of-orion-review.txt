@@ -1,0 +1,38 @@
+./html_data/pcgamer-master-of-orion-review.html
+
+
+ 
+ 
+ 
+
+
+By
+Leif Johnson
+ 
+
+A fun, serviceable update to the 4X legend that brings little memorable to the genre aside from its personality.
+What is it? A modern update of the formative 4X game Master of Orion drawing elements from the first two games.Expect to pay: $30/£23Developer: NGD StudiosPublisher: WargamingReviewed on: Windows 10, 16GB RAM, GeForce GTX 980Multiplayer: Yes, with up to 6 players. It's pretty dead, though.Link: Official site
+The subtitle for Wargaming's new Master of Orion reboot is "Conquer the Stars," but "Hire the Stars" would have worked just as well. Michael Dorn, the Worf of old, intones the interplanetary histories of alien races as nebulae and starships fly past. Mark Hamill snags another entry for his gaming resume, Alan Tudyk (Wash from Firefly) voices a grey alien emperor, and John de Lancie (Star Trek's "Q") and Robert Englund (Freddy Krueger) give different spins on human emperors. And so forth. Any constellation these guys made together would probably look like a VHS cassette.
+If you haven’t heard of these folks, there's a good chance you haven't heard of Master of Orion itself. It's the first 4X game that really mattered, even to the point of granting the genre its name after journalist Alan Emrich wrote about its core emphasis on Exploring, Expanding, Exploiting, and Exterminating. It's as old as The X-Files now, and for the most part the Civs and GalCivs have pushed it off the throne once confidently held by Master of Orion 2. The new Master Of Orion, oddly, does nothing to improve on their legacies. Its planets turn heads almost as well as Elite: Dangerous, its diplomacy screens animate alien leaders beautifully, but nevertheless this is a release that's stubbornly dedicated to recreating the 4X experiences of yesteryear.
+
+In singleplayer and multiplayer modes, these experiences usually involve founding a colonies, managing those colonies’ industrial and research output, all while sending scout ships out to nearby stars to find what may be hiding there. Sometimes you'll find untouched planets to colonize for yourself, but on other occasions you'll find aliens whom you can either befriend or crush.
+There's a lot of extra stuff sandwiched in menus between all that, such as raising taxes, following a lengthy tech tree, designing custom ships, or figuring out how to juggle a planet's population for maximum production efficiency. But one good thing about the new Master of Orion is that it never really gets out of hand. In fact, if anything, it's far more accessible and streamlined than the games it's based on, and that needn't be a bad thing. Part of Wargaming's reason for reviving Master of Orion was to introduce a new generation for 4X gaming, and it succeeds admirably through the help of an optional adviser and a user interface that conveniently draws attention to different elements as the turns roll on. 
+The design of Master of Orion 1 and 2 might have been revolutionary in the days when Britney Spears was still singing about Mickey Mouse...
+In the process, though, it plays things a little too by-the-book. The design of Master of Orion 1 and 2 might have been revolutionary in the days when Britney Spears was still singing about Mickey Mouse, but the reboot is so devoted to old, first-generation ideas that a sad sense of sameyness sets in as the map expands and empires amass more planets. Most newer games shake it up a little. Back in May, for instance, Stellaris took the 4X model and overlaid the grand strategy of a game like Paradox's own Europa Universalis 4, scrapped the turn basis for real-time, and peppered its gameplay with complex diplomacy and fun quirks like inviting you to deal with races who still haven't reached the space age.
+There's little of that here. Strangely, Master of Orion’s main annoyances usually spring from the few additions to the original template, such as the tendency for planets to need cleaning after getting too polluted, which gets tiresome when multiple planets come into play. In theory, it's a cool idea that speaks to the concerns of our time, but in practice it merely introduces needless micromanagement. Elsewhere, "star lanes" keep ships on straight paths between star systems, occasionally shattering the image of a sprawling, open galaxy with effective traffic jams.
+
+The additions aren't always bad. I'm particularly fond of the shift from turn-based to real-time combat in the battles that pop up when you fight alien civilizations or pirates. This shift, to put it lightly, has been a point of contention in the community during the game’s time in Early Access, but I've learned to admire the comparative speed of the approach and the way the right combination of timing and skill can let me use my smaller ships to outmaneuver the enemy's larger ones. (You can always auto-resolve them, too.) 
+Master of Orion’s greatest triumphs, though, are those of personality. Generally all those bucks spent hiring Hamill and friends went to good use, as it's always fun to watch the animated leaders bicker and cheer in the diplomacy screen and the minions of your chosen race give you advice in the research screens. From the Geth to the Krogan, these were the races that largely inspired Mass Effect, and the team's awareness of that legacy shows. There's even a little news show that sometimes pops up with two robotic newscasters recounting the big events happening between turns, which serves as a form of comic relief. (Sadly, they do threaten to wear out their welcome late into a match. It’s easily toggled off, though.)
+
+It's a shame, then, that the civilizations' differences usually amount to mere imagery and voicework. This may be a galaxy packed with 11 advanced races including warrior lizards and sexy cats and cruel robots, but venture deep down their technology trees and you'll find they all effectively amount to the same in practice. And while I wouldn't call the AI a failure, it's prone to puzzling actions like twiddling its thumbs after diplomacy negotiations led allies to declare war on your enemies. 
+A master of the 4X universe this is not. But neither is it unenjoyable, as its lively presentation, personality, and occasional humor do much to shore up its weak points, and its comparative accessibility make it a decent option for anyone wading into the genre for the first time. But for depth? There are many worlds other than these.
+A fun, serviceable update to the 4X legend that brings little memorable to the genre aside from its personality.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

@@ -1,0 +1,24 @@
+
+
+
+CryptoCoinsNews
+Wu Jihan, founder of Antpool, bitcoin’s biggest pool with around 14 percent of the network’s hardware share, recently shared a post from an unknown author on his Weibo account, which stated that solving the network’s problem can only be achieved by talking about the ‘distribution of interests’ and reaching a ‘compromise in the pursuit of those interests.’
+On Twitter, Jihan clarified that he is not the author of the post.
+However, Peter Todd, a key coding contributor to Bitcoin, responded by tweeting:
+Do you agree with the content of that post? Clarity on your position would be helpful; people will assume your position otherwise.
+Antpool recently announced that they were now mining with Bitcoin Unlimited (BU) as the bitcoin community continues to split over the potential hardfork issues.
+In light of the possible divide, a group of 18 bitcoin exchanges released a statement noting that they intend to support the split with a plan of listing BU as an alternative digital currency with its own token.
+According to the post, the author writes that the hardfork topic has become ‘heavily obfuscated’ with both sides claiming that their own ideas ‘are in line with Satoshi’s vision of decentralization’ thinking the other side’s idea will ‘lead to the perils of centralization.’
+The author states that the issue of the problem lies with the distribution of the fees for a transaction and whether they should be handled by the miners themselves or spread out to a second layer.
+He says:
+Up until now, every transaction on the Bitcoin network has been handled by the miners, and all fees have been given to miners.
+He adds, though, that this arrangement is likely to change with Bitcoin developers building a lightning network and side chain layer two protocols. As a result, miners will be bypassed, receiving less fees, as Bitcoin transactions go through these new protocols.
+Miners, though, have been given a blockchain blocking instrument, which is known as the malleability loophole.
+Recently, BitClub, a small bitcoin mining pool with around 4 percent of the network’s hardware share, decided to attack the bitcoin network by malleating transactions, causing confusion and nearly bringing blockchain.info down.
+It is this transaction malleability which has become the mining community’s first line of defense, making it hard for developers to implement second layer protocols. It’s claimed that the fix to this bug is through SegWit, which BitClub are supporting.
+The author states:
+Holding this point alone will strangle the development of layer two protocols, preventing transaction fee revenue being spread to outside of the mining community.
+However, Amaury Sechet, software engineer at Facebook and Bitcoin Unlimited developer, recently told CCN that ‘this makes a poor case for SegWit because it only solves malleability in specific use cases, not in general, so the attack would remain possible.’
+In the author’s opinion, the hardfork issue is simply a ‘conflict of interest’ that can’t be resolved through propaganda, fears of centralization or ‘fanning the flames of war amongst users.’ Instead, talking to each other to reach a compromise is the only solution.
+Miners shouldn’t try to strangle the developers in their development of new functionality, and the developers, in designing those new functionalities, must promote defending the interests of the miners.
+Featured image from Shutterstock.

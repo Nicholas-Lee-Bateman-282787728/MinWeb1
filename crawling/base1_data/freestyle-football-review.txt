@@ -1,0 +1,99 @@
+./html_data/freestyle-football-review.html
+
+RPS Feature
+A MintyFresh Midfielder 
+By Adam Smith on March 27th, 2017 at 9:00 pm.
+
+For years now, I’ve been looking for an arcade football game that has some of the best qualities of SWOS combined with an RPG-lite career structure. A niche desire maybe, but for a while New Star Soccer happily occupied that niche. Now that the series has moved to mobile, I’m left with an empty hole and I recently turned to Freestyle Football [Steam page] to fill it. It’s a free to play multiplayer football game with anime style characters.
+What could possibly go wrong?
+
+My alterego is MintyFresh. She is a midfielder and she wears a shark-head as a hat. The longer I play, the shorter her shorts become, because the best shorts are the shortest shorts. One day she will find the Platonic ideal of shorts; shorts so short that they cannot be seen. That day she will be unstoppable.
+Sports RPGs are something of a dream game for me and there’s an immediate problem there. Dream games aren’t supposed to exist. They’re concepts not yet made into code, possibilities that haven’t yet been programmed and probably never will be. One of my dream games is a sports simulation with the complexity of Football Manager that allows me to be a player rather than a manager, navigating the complexities of the artificial intelligence routines that can keep the world interesting tens, hundreds and thousands of years after the start date.
+
+It’d be Crusader Kings crossed with Football Manager, I suppose, allowing me to be an insignificant count (a fullback in the Conference) as well as the Holy Roman Emperor (Jose Mourinho). New Star Soccer is the closest I’ve ever come to that dream. The series began by presenting matches as a series of decisions, presented as text, which allowed you to make a choice and calculated the outcome with reference to your player’s stats. Later entries had a top-down match engine that brought back memories of SWOS, but controlling a single player meant the fluidity of arcade-style football was lost.
+New Star has migrated to mobile, though older versions are still available on PC. I don’t mind the shift to smartphones and tablets in and of itself, but there has been an accompanying shift to the kind of energy meters and paid-for-powerups that bring out the worst of free-to-play games. If you want your character to stay on top form, there are energy drinks to buy. I bought the PC versions but I haven’t spent a penny on the current mobile version, even though I prefer the actual match-play, which just plays out highlights that involve your own player rather than the entire game. The problem is, in a game about progression, about building a character’s skills and moving through their career, the inclusion of energy systems and paid-for stats undermines any real sense of development.
+Now that I’ve explained all of that, you should understand that I was very apprehensive about Freestyle Football. It’s not only a free-to-play game, it’s a multiplayer free-to-play game, and it has no career mode to speak of. There are the footballing equivalent of clans (Teams? Clubs? I forget) but you’re mainly just playing one-off matches to gain experience, which lets you unlock new cosmetic items, buffs and skills.
+
+It already sounds like a nightmare, doesn’t it? A playing field of unequals, some at a much higher level, some having paid to unlock the best characters, some lagging behind the action and eternally passing to nothing and nobody, or kicking the air where a ball once was.
+Remarkably, I’ve been playing for a week and I’m having a fairly good time. The most surprising thing about Freestyle Football is that it manages to make its five-a-side kickabouts, which only last a few minutes, feel like an actual football match. Not in any complex way, but in the sense that counterattacks and zones of control are relevant, and positioning on the pitch is more important than pressing the right button at the right time.
+In terms of controls, there are high passes, through balls, short passes to feet and shots on goal when attacking. In defense, you have standing or sliding tackles and blocks. You can sprint as well, or slow down for finer control, though I’ve never found that last particularly useful. What all of this translates into is a sort of microcosm of the full-pitch eleven vs eleven of FIFA or PES. Matches that are essentially highlight reels, every one containing last ditch defensive heroics, incisive passes that split the defense apart, and thundering drives that rebound off the woodwork.
+I might be overselling it now. The controls are sticky, players feeling like they’re navigating trenches carved into the pitch rather than having complete freedom of movement. Runs are rigid and while it’s possible to skip past defenders, that’s usually reliant on the metaphorical roll of the dice (taking players’ skills into account) rather than your ability to weave around challenges. Mostly, the ball is like a hot potato – you should be looking for a pass as soon as you receive it rather than trying to carry it down the pitch.
+
+Matches are frantic, with every outfield player sometimes chasing after a ball or the person who is dribbling it. What I like is that the winning team is usually the one that plays with restraint, burying the urge to run and chase, and covering outlets for passes instead. Matches are won and lost in control of the pitch as much as control of the ball, and a team in which each player takes responsibility for their own zone or opposite number, will almost always beat a team that has no awareness of formation.
+It seems daft to talk about formations in a game that only has three player roles – each team has one forward, two midfielders and one defender as well as an AI goalkeeper – but if your midfielders don’t form a link between one end of the pitch and the other, and your defender doesn’t stick to his job and goes on outrageous runs out of position, you’re going to be in serious trouble. Remarkably, playing with strangers, I haven’t had any difficulties communicating. There’s usually at least one vocal person per team, using an in-game text chat system rather than a mic, and that’s enough to keep everyone on the same page. And you can figure out what to do by covering whatever part of the pitch your teammates are neglecting.
+On the attack, your main goal is to find space and, as with defense, that doesn’t require a great deal of communication. I’ve actually let out little cheers when a teammate has found one of my runs with a perfectly timed through ball, leading to a goal and the awkward manually controlled celebrations that follow (I tend to spin around on the spot while everyone else plays the animations they’ve unlocked). It’s just as satisfying to make a run that a defender tracks, leaving a gap for a teammate to occupy and score. I’ve never found that in my brief time with FIFA and PES online, the joy of contributing without actually touching the ball.
+
+That’s what keeps pulling me back in, the sense of playing as part of a team. There’s a broad variety of outcomes as well, with all kinds of results possible. I thought it’d be all highscoring basketball type games, with a failure to turn possession into a goal a massive disaster, but I’ve played tight one-nil games where both sides are defending solidly throughout. The whole design is driven by the scale of the thing. With reduced team and pitch sizes, a brief time limit on each match, and simplicity of control, Freestyle Football gives every player responsibilities, and frequent chances to make a difference. 
+I’ve fucked up plenty of times, usually by failing to pick up a marker and leaving them with nobody to beat but the keeper. I expected abuse – the hairdryer treatment or a boot lobbed at my head – but Freestyle Football has been kind to me and my appointed avatar, MintyFresh. A group I’d stuck with for five or six games a couple of nights ago didn’t even turn on each other when we lost 7-0 in our final match together. Instead, everyone turned on the goalkeeper, insulting the AI rather than one another. That seemed sweet at the time, though our captain’s insistence that “this keeper shud be eviscerated lol” doesn’t look quite as heartwarming in retrospect.
+The point is, Freestyle Football has a friendly (or simply quiet or apathetic) community despite being competitive. It sometimes takes a few minutes to find a match, but whatever match-making system is at play doesn’t throw me in against teams too strong for me, and I leave the game minimised while it searches and then jump in when the change in music lets me know it’s GAME TIME.
+
+I probably won’t stick with it for too long but as a temporary diversion on the road to the grave, Freestyle Football is pleasant enough. It fits into a sweet spot for me, being skill-based but not requiring a great deal of practice or knowledge, and only taking up five or ten minutes at a time. As for the problem of real cash items and characters, it hasn’t bothered me at all. Or at least it hasn’t since I actually started playing rather than worrying about it.
+Right now, I have equipment that increases my abilities and I keep getting more stuff, as well as new skills, but I’ve barely noticed any difference between players at different levels. You can see in the screenshots that the characters are an odd bunch, and every now and then I encounter a player that looks like an actual angel or demon, or some kind of RPG boss. That’s worrying and if they’re on my team I just give them the ball and hope for the best, assuming they’re the Messis of Freestyle Football, but an ordinary looking player is just as likely to top the leaderboards at the end of a match. MintyFresh looks like a wacky NPC sidekick and she does just fine.
+
+If you’ve found FIFA and PES too complicated, with their many buttons and various modes, Freestyle Football is worth a shot. And if you’re a lapsed New Star Soccer player, this is, unexpectedly, a decent place to indulge in some vaguely tactical kickabouts. I find it all a bit of a mess in many ways, particularly the actual menus which are noisy and cluttered. It’s always giving me gifts for logging in but when I accept them, they just go and sit in one of my inventories and I forget about them. I never forget to open gifts in real life. And the next time an apparently perfect pass trickles into touch because of lag, I’ll probably hang my boots up for good. BUT it does have that solid kernel of teamplay, built around these rapid, weirdly convincing football matches.
+MintyFresh isn’t ready to retire just yet.
+You can play Freestyle Football now, through Steam (though it does run an external client).
+
+27/03/2017 at 21:32
+
+RandomOracle says:
+
+Just FYI: You can play New Star Soccer on mobile and never have to worry about spending money on energy drinks. You just save up to buy a stables, buy some horses, upgrade them, and get money from placing well in races. After a while, you never have to worry about in-game cash or energy drinks again.
+
+28/03/2017 at 00:53
+
+Jac says:
+
+I’m similarly drawn to the allure of the 11v11 online fifa matches as they seem to be the closest thing to this sporting RPG holy grail. Sadly they instantly descend into guaranteed farce with little team play or passing just people getting the ball and running until they lose it.
+Such potential in a game that can somehow force people to play as a team and keeping it 5 aside sounds like a good idea. Sadly this doesn’t look like the game for me although given that I’ve never heard of it until now it raises the distinct possibility that there are other similar games out there that might be better.
+
+28/03/2017 at 08:53
+
+Harlander says:
+
+“a temporary diversion on the way to the grave”
+If RPS is looking for a new tagline…
+
+28/03/2017 at 14:18
+
+Shar_ds says:
+
+Thanks for covering this! I’d wondered about whether this was worth downloading. Read this, gave it a try, spoiled the game for many people with a tiny lady defender that would not give up!
+
+28/03/2017 at 14:22
+
+kud13 says:
+
+Sounds a lot like the indoor version of recreation soccer they have in Canada, except it’s 6 on 6 and no sliding allowed in indoor. 
+Everything else seems eerily familiar to what I do IRL for fun.
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Freestyle Football, Joycity, review.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

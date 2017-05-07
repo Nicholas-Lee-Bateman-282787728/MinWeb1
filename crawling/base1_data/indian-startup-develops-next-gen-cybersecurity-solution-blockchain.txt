@@ -1,0 +1,19 @@
+./html_data_bitcoins/indian-startup-develops-next-gen-cybersecurity-solution-blockchain.txt
+
+
+
+CryptoCoinsNews
+A new innovative prototype startup powered by blockchain technology for cybersecurity has recently launched in India aimed at curbing the global phenomenon of cybercrime.
+Mumbai-based Block Armour was thought up by Narayan Neelakantan, former CISO and Head of IT Risk and Compliance with India’s National Stock Exchange (NSE) and Floyd DCosta, who has a background in management consultancy and spent 11 years at Capgemini.
+
+Representing a disruptive approach to reclaiming enterprise cybersecurity, Block Armour is attempting to do so faster and at a fraction of the current cost. According to U.S. market research firm Gartner [PDF], global expenditures for IT security rose by $148.5 billion from $65.5 billion in 2013 to $83 billion in 2016 with cloud security expected to grow by 50 percent.
+And yet, despite a significant rise in global IT security spending, cybersecurity incidents continue to grow across industries with existing solutions struggling to keep pace.
+Speaking to CCN, Neelakantan said that the dramatic increase in networked devices and the Internet of Things (IoT) has further complicated the situation while the use of yesterday’s technology to fight cybercrime is further compounding the issue. With cybersecurity challenges expected to get bigger, bolder and more complex in the years ahead, a solution is needed.
+He said:
+We have emerging technologies like blockchain and TLS technology as well as architectures like the Software Defined Perimeter that can be effectively used to reclaim cybersecurity. That’s exactly what we are bringing together at Block Armour.
+With the use of the Software Defined Perimeter, the team at Block Armour are planning to use digital signatures based on authentication for humans, devices and data.
+According to Neelakantan, this then allows them to securely ring-fence critical infrastructure in addition to providing IoT related security.
+As this is an issue that cuts across many industries the interest the team has received is expected to be high from those keen to have a solution that will provide the protection they need.
+Whether it provides the answer is yet to be determined; however, given that such a platform could be available before the summer is bound to give many the confidence that Block Armour may provide the answer where others have failed.
+Since the launch of the prototype, Block Armour has received positive feedback on the potential that it can achieve. As a result, the team are keen to bring the solution to the market with an alpha version expected to be launched in February and a beta version expected to launch in May 2017.
+Images from Block Armour.

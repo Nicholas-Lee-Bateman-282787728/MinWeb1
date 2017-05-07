@@ -1,0 +1,136 @@
+./html_data/a-normal-lost-phone-review.html
+
+RPS Feature
+Smart phone 
+By John Walker on January 27th, 2017 at 5:00 pm.
+
+Originally released as a game jammed freebie in April last year, A Normal Lost Phone [official site] has been revamped and expanded and now has a paid (albeit only £2) release on Steam. And it’s really rather wonderful. Here’s wot I think:
+On the 1st December 2015 Sam got a new phone, with a new phone number. As people do, a text was sent out to the entire contact list stating,
+“I have a new phone! Now you have my new number! Sam”
+On the 31st January 2016, Sam’s 18th birthday, the phone is lost. And you find it.
+
+I’ve never found someone’s lost phone since they became smart, so I haven’t been in the situation of not being quite sure how much to invade someone’s privacy for the sake of safely returning it to them. I’ve found people’s wallets, and I know how odd it feels to start rifling through their cards and receipts in the hope of finding clues as to who it might have been – your goals are purely altruistic, but your actions are invasive and uninvited. I vaguely remember finding a phone in the late 90s, when all there was to invade was a contacts list and some text messages, and still felt like I was doing something illicit as I searched through for “my number” or similar to contact the owner. It feels weird. It feels wrong. Today, presuming one could unlock a phone in the first place, gosh, what would you even look for? And where would you stop looking? Would you start scanning through their text message history for more details? I genuinely don’t know where I’d draw the line.
+That’s a line A Normal Lost Phone wants you to cross pretty much straight away, the game beginning with no introduction, no explanation, just a stylised phone screen in front of you, and the text message app open. Without thinking, I started reading Sam’s chats with Dad – warm, friendly messages, always signed off with “Dad” at the end of each text, as my dad did. Except at the end of this run of texts are some increasingly worried missives, asking Sam what’s happened, suddenly missing from the long-planned 18th birthday party, explaining Mom’s worried, she wants to call the police.
+
+I read the next thread too, with “Sophie Board Games”, not because I needed to, but because it was there. Quite whether this was because of nosiness, or because I had slipped into exploring the narrative of a game, I’m not sure. But after that one, I realised, hang on – this isn’t what I ought to be doing – and went to the phone’s main menu. I tried to do a couple of other things, more useful things, but there’s no wifi or mobile access, and that was limiting me. So I went back to the texts (mostly because it was the more interesting thing to do) and read the back and forth between Sam and Uncle Raymond.
+Uncle Raymond always types IN CAPS, with a jazz approach to punctuation. We all have an Uncle Raymond. And on 23rd Jan he says to Sam,
+“DUM TEO DOESN’T KNOW MELRENS WIFI PASSWORD!!!! WE NEED INTERNEEEEET!!!”
+“I just sent it to him :)” replied Sam, and that was me hooked.
+Right! I need to find the chats with Teo, because then I might be able to access the town’s local internet? I’m not sure! I’ve stopped caring about privacy, and Sam’s possibly in trouble. I’m helping now!
+The more you explore, the more you piece together Sam’s recent life. The text messages are superbly crafted, presented in an order that allows you to experience a carefully appearing narrative if you read from top to bottom, pieces slotting together as you combine information from different chats, functional and candid. Then you can jump into Sam’s emails, and eventually into a dating app, forum conversations, photo albums, and all the while listening to a lovely collection of songs. Or, you know, you could just go to erase all the data from his phone from the start and not be such a nosy parker.
+What you learn about Sam is all deep spoiler territory, which is frustrating because I want to celebrate it for some really wonderful things, but to explain them would be to ruin the experience of playing. I do want to offer a content warning without giving anything key away: I think it’s worth saying that the game discusses suicide at one point. Beyond this, just know that it explores sensitive subjects with a deft hand, portraying both dismay and hope, cruelty and kindness, and it taught me an awful lot.
+
+The writing is always strong, and its balance of drip-feeding you key information as you progress is really splendidly handled. It has a couple of excellent red herrings along the way, but they’re pieced together in your own head rather than overtly telegraphed by the game itself. Which is to say you can’t say, “Oh but they implied…” It’s always you who inferred. Does it trip over the line from being informative to a little preachy? Probably. But I entirely forgive it that.
+There are a couple of issues. The most confusing being that despite being an apparently American-set game, the dates on the phone’s messages and emails are all in the UK format. This becomes significantly confusing at some points in the game where dates are important – it might perhaps have something to do with the game’s originally being French, and having been translated into multiple languages. There’s also a puzzle where the code solution seemed barely hinted at all to me, and I confess I sought the help of the internet – I’m not sure what I might have missed that should have clued me in there.
+
+At a certain point it starts to feel really not OK that you’re interfering in this person’s life. You can send unfinished emails, and, well, worse, and I love that it includes this. Because at that point you really start to ask questions about what you’re doing here, and at that point the game becomes something more, something bigger than just a narrative you’re experiencing – it crosses over into feeling a teensy bit real. I love those moments. It’s to A Normal Lost Phone’s credit that it achieves this.
+I love this whole genre, this found phone genre that if I call a genre enough will magically become a real genre. So far it’s this, Sara Is Missing and Mr. Robot:1.51exfiltrati0n.apk by Night School/Telltale [and Replica –Ed]. It’ll get there. The three games are wholly dissimilar (proving what a varied and interesting genre it is!), and I just want to keep on finding people’s lost phones if it will offer me experiences as special and moving as this.
+A Normal Lost Phone is out now on Windows, Mac and Linux via Steam for £2/$3/€3.
+
+27/01/2017 at 17:37
+
+kud13 says:
+
+Isn’t activating the “auto-lock your phone after 30 seconds of inactivity” setting the first thing people do when they get a new phone these days? Or is that just me?
+
+27/01/2017 at 19:09
+
+Iskandar says:
+
+Yeah, with the added step on my phone that failing ten times in a row wipes it.
+Shrug, it breaks immersion a bit but you kinda gotta for a game like this.
+
+27/01/2017 at 20:05
+
+DelrueOfDetroit says:
+
+Just assume the person you are playing as has already done the work of inspecting the greasy finger smudges to get the code/pattern.
+
+28/01/2017 at 19:01
+
+Noumenon says:
+
+First thing I do is turn off the lock screen and download GravityScreen so the phone is on the second it comes out of my pocket. That kind of latency is just unacceptable when I might want to navigate, have a flashlight, or check my shopping list at any time.
+
+27/01/2017 at 22:52
+
+john_silence says:
+
+My name is Sam and I am French. Give me my phone back, John.
+Also, my phone’s not locked – unlocking it every time is such a hassle. If someone ever steals it they’ll just erase everything anyway to sell it on. So you could really snoop around, you scoundrel.
+But really, fascinating write-up. You have me teased like a tickled pony. I like that this could become a genre. The digital intrusions into private lives were the most interesting and fun part of Watch Dogs the first for me, mini-games deserving of being blown into full games, even on a relatively small scale – an intimate scale, actually, fitting.
+
+27/01/2017 at 23:59
+
+Rainshine says:
+
+I have ‘played’ the real life that this is based on a couple times. My ramblings go to contacts, calls, and texts in an effort to find a home, but that’s usually it. I did make an exception for one with a non-functional screen that I found, pulling all the pictures via cable because that’s about all I could get to, confirming my suspicions that it was a touring device, and ended up sending it to the service provider so they could hopefully get it home. Most all the time it is a very strange experience that baffles me at just how other people live and participate in life.
+
+28/01/2017 at 00:01
+
+draglikepull says:
+
+It’s quite unfortunate that on the front page, with no spoiler warning, Kotaku has spoiled precisely the plot development that you’ve very carefully avoided.
+
+28/01/2017 at 01:56
+
+Thants says:
+
+Yeah, don’t even do a Google search on this game because Google has helpfully put Kotaku’s spoiler in a box at the top of the page.
+
+28/01/2017 at 06:04
+
+Nymera says:
+
+That made me irrationally angry, seeing Kotaku spoil the biggest surprises in their title. I’m on the verge of striking them from my gaming new sites altogether over it.
+I had not gotten to play this yet.
+
+28/01/2017 at 20:13
+
+flidget says:
+
+I appreciated that spoiler, though. The one in-game action the reviewer was really upset about would be a deal-breaker for a lot of people, it’s certainly a deal-breaker for me.
+
+30/01/2017 at 13:58
+
+darkmorgado says:
+
+Why on earth would it be a deal breaker?
+
+28/01/2017 at 11:24
+
+ThePuzzler says:
+
+I found someone’s phone not that long ago.
+Didn’t feel any need to go through their texts or whatever. I just waited for them to phone it and then arranged to return it.
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+A Normal Lost Phone, Accidental Queens, feature, review, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

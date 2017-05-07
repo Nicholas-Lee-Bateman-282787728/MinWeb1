@@ -1,0 +1,17 @@
+
+
+
+CryptoCoinsNews
+The Internal Revenue Service (IRS) has revealed that only a small number of people are declaring their bitcoin profits or losses in their yearly tax returns.
+Documents, filed Thursday, by the IRS in San Francisco federal court, come a year after the IRS summoned Coinbase to hand over customer data, including customer account information with detailed transaction records.
+However, Coinbase refused to comply while a customer of Coinbase filed a motion in December to block IRS access. Coinbase has since filed a response to the IRS summons, asking the court to quash the summons in its entirety.
+Yet, in March, the IRS filed a lawsuit to carry out its summons enforcement.
+It can be revealed, though, in a new affidavit from IRS agent David Utzke, how the agency is undergoing its investigation.
+According to Utzke, the IRS holds a multitude of databases with information from filed returns. One of these databases is the Modernized Tax Return Data Base (MTRDB), which continues information reported on electronically filed tax returns.
+Capital gain or loss for property transactions, including those of digital currencies, are reported on Form 8949. However, according to Utzke, he found that less than 1,000 people filed a Form 8949 to detail ‘property description likely related to bitcoin.’
+After receiving results from searches he had conducted during 2013 to 2015, he reports that in 2013, 807 people reported a transaction on Form 8949; in 2014 that figure was 893; and in 2015, that fell to 802.
+In a statement from Coinbase, they said they had not provided any records under the summons:
+We will continue to work with the IRS to assess the government’s willingness to fundamentally reconsider the focus and scope of the summons. If it does not, we anticipate filing opposition papers in court in coming months.
+Undoubtedly, Coinbase has attracted the attention from the tax authority because of how long it has been running. At a time when Bitcoin wasn’t worth much to a market value that is now worth over $17 billion, there are many people who could have gained a significant amount of capital, but have yet to pay any tax on the profits they received.
+Of course, while Coinbase is the most mainstream Bitcoin platform, it remains to be seen whether the IRS will also target other digital currency operators. With digital currencies such as Ethereum growing, they could find themselves the target of the tax agency in the future too.
+Featured image from Shutterstock.

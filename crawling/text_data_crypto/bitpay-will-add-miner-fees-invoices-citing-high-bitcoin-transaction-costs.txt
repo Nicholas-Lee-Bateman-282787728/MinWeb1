@@ -1,0 +1,20 @@
+./html_data_bitcoins/bitpay-will-add-miner-fees-invoices-citing-high-bitcoin-transaction-costs.txt
+
+
+
+CryptoCoinsNews
+BitPay, the global bitcoin payment service provider, has announced that it will adding a fee to each invoice, in light of high network transaction fees.
+In a BitPay blog, the company announced that from March 23, a new fee will be added to each BitPay invoice to cover the increased transaction costs; however, the blog adds that merchants’ fees won’t be affected by this change.
+For purchases paying a BitPay invoice, ‘the automatically calculated (based on current network fee estimates) network cost will be shown as a part of the total amount to be paid.’
+However, if the network cost is higher than the purchaser is willing to pay, the payment provider states that the purchaser can ‘allow the invoice to expire without paying it.’ It is still free, though for payees to receive money through the invoice service.
+BitPay said:
+Until now BitPay has covered the network costs for combining and sweeping Unspent Transaction Output’s (UTXO) from BitPay invoice payments.
+BitPay revealed that Bitcoin’s network mining fees crossed $50,000 in February, forcing the company to increase the minimum invoice amount from $0.04 to $1.
+BitPay adds that this is unlikely to have a significant impact on most payments made through the service provider.
+However, we realize that for many users, this network cost may make smaller payments uneconomical. The Bitcoin network’s growth and its growth constraints are forcing innovation around this problem, particularly here at BitPay.
+The ongoing debate surrounding the blockchain’s transaction problems has increased of late.
+Just last month it was reported that for the first time ever Bitcoin was running over capacity as transaction backlogs become a common problem. At one point, it was reported that around 900,000 Bitcoin transactions were waiting to clear as they remained stuck on the blockchain.
+With potential solutions to Bitcoin’s network issues circulating, discussions about a possible Bitcoin split are looming. As a result, the price of Bitcoin dropped below $950 over the weekend before recovering to $1,043.
+Much of the Bitcoin community is turning to Bitcoin Unlimited (BU) as a possible solution. At its highest, it reached 40 percent support; however, those in the SegWit camp are backing it believing it to hold the answer to the network problem.
+How long it will take before a decision is reached remains to be seen, but if a hardfork does take place, it will effectively split the currency into two, and who knows how that will impact the currency’s price.
+Featured image from Shutterstock.

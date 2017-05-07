@@ -1,0 +1,15 @@
+./html_data_bitcoins/bitcoin-p2p-lending-platform-bitbond-raises-1-2-million-in-equity-funding.txt
+
+
+
+CryptoCoinsNews
+Bitbond, a German peer-to-peer bitcoin loan platform closed an equity funding round of $1.2 million in new capital as it looks to fuel user growth in potential markets.
+As a platform to connect lenders and borrowers, Bitbond facilitates loans in bitcoin by checking the credit-worthiness of applicants while studying the purpose of the loan to determine the interest rate for the loan. Notably, the platform uses the Bitcoin blockchain for payment processing to facilitate cross-border lending.
+A large proportion of Bitbond’s borrowers are usually online sellers with storefronts on e-commerce sites like Amazon or eBay. The borrowed sums are used for inventory and working capital. Credit checks are performed based on the revenue data of merchants.
+Berlin-based Bitbond has now raised a total of $2.3 million in funding. The latest founding round was led by Şekip Can Gökalp, who formerly founded Turkish mobile ad network Mobilike. Other angel investors participating in the funding round included mobile advertising firm Fyber’s founders Janis Zech and Andreas Bodczek as well as Alexander Graubner-Müller, CEO and co-founder of German online lender and Fintech firm Kreditech.
+Bitbond founder and CEO Radoslav Albrecht stated:
+The additional resources will help us to continue realizing our mission which is to make lending and borrowing globally accessible. We are happy to have such experiences investors supporting us on this exciting journey.
+The bitcoin startup received EUR600,000 in an angel funding round in mid-2015 following its launch in 2013. The company has come a long way since. Over 1,600 loans worth $1.2 million have originated on Bitbond since its launch and the platform claims to service 76,600 registered users from 120 countries.
+In previous comments to CCN, Bitbond representative Chris Grundy added that the platform also follows up with measures to ensure repayment of loans. “This starts with emails and phone calls, in the case of late repayments, and can culminate in the involvement of debt collectors to regain the owed sum,” Grundy revealed.
+Bitbond’s growth in the global bitcoin P2P lending market is in contrast to that of another lending platform BitLendingClub, which cited regulatory hurdles as the reason behind its decision to shut down a number of services. Meanwhile, Bitbond is now operating with a regulatory license issued by Germany’s financial regulator BaFin, issued in October 2016. The license allows the bitcoin startup to operate independently of banks.
+Image from Shutterstock.

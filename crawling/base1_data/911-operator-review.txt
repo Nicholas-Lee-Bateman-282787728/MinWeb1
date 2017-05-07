@@ -1,0 +1,127 @@
+./html_data/911-operator-review.html
+
+RPS Feature
+Police, ambulance or fire services? 
+By Alec Meer on March 3rd, 2017 at 6:00 pm.
+
+A few days before Christmas, I was involved in a car accident. No-one was seriously hurt, but I spent 90 minutes stood alone on a central reservation, shaking from both cold and shock, watching car after car after car nearly collide with my own wrecked and dangerously stranded vehicle, waiting for police who never came. I called twice. Both times I was told they’d be right there. They did not show (FYI roadside recovery did eventually, an hour after their ETA). I was as furious as I was terrified.
+15 minutes with 911 Operator [official site] was all it took to entirely sympathise with why they didn’t send a car out. 
+The rule here is “if nobody’s dying, there’s no hurry”. Squad cars, ambulances and fire engines – the holy rescue trinity in this emergency services strategy game – are forever at a premium. Dispatch one to help resolve a situation that is, at the time of a call, bloodless and there’s every chance you’ll find you can’t send anyone to help an even more serious situation. Or it’s simply that all your cars are on other, non-lethal calls, so whichever unforunate just dialled up simply has to wait. 
+
+Maybe all the police in Dartford were in a stand-off with armed criminals when I called. Maybe there was a particularly high number of disputes about trees growing into neighbour’s yards. Maybe my story just didn’t meet the operators’ criteria for calamity. I mean, no-one did get hurt in the end. They made their judgement calls. Perhaps they were right. 
+But they could have been wrong, as I have been several times in 911 Operator. I told someone who asked for a pizza to stop wasting my time, failing to twig that they were pretending to the other, violent person in the room with them that this was the purpose of their call. They ended up in hospital. The next day, I was slightly more inquisitive about but ultimately again dismissive of a woman’s complaint about how loud her neighbour’s TV was, and only later did I find out it was because the man had died in his own living room. 
+
+Judgement calls. 911 Operator is all about judgement calls. It’s a quiet revelation about scenarios I imagine most of us have suspected but never fully thought about. The other revelation is that initial panic and guilt about these kinds of situations soon gives way to cold utilitarianism. My thoughts shifted away from “I have to help this person” or “what if there’s more to this than meets the eye?” and into “well, nothing is obviously wrong, so I just can’t justify the units,” and increasingly I felt no remorse if an initially shrug-worthy situation had awful consequences. 
+If I’d have sent someone out there speculatively, I wouldn’t have been able to stop the sexual assault on the other side of town. I wouldn’t have been able to put out that fire in a parking garage. 
+911 Operator succeeds more as thought experiment about this constant dilemma for emergency service workers than it does a game. As a game, it’s the same looped five minute experience, with varying degrees of pressure to it. You sit in front of a map of the city you’re playing in, choosing which emergencies to assign which vehicles to, interspersed with phone calls in which you need to elicit appropriate information – severity, location, possible escalations, if it’s a total idiot – in order to make your judgement call. 
+Some situations require multiple vehicles, some situations escalate even after you’ve arrived – your police need backup because someone starts shooting, or someone’s injured because you couldn’t get to them in less than a heartbeat – and some situations have to be abandoned because something more terrible has occurred elsewhere. 
+
+Mostly, though, you’re just right-clicking to send a police car, ambulance or fire engine to a point on the map, and hoping nothing else goes wrong while you wait for them to get there. It’s compelling in small doses, but only a few hours in I’d taken its point to heart and struggled to see what else I might take from it. It’s definitely effective at creating tension, which I admire, but that tension grows increasingly one-note.
+There’s a meta-game that entails efficient, well-judged decisions gradually earning enough money to purchase more and better vehicles and ancillary equipment. Perhaps there’s commentary here about ruthless government/state restrictions on police budgets, but in a game context it came across like artificial gating. This’d be easy if I had a fleet of helicopters, but to get that I have to grind. 
+
+The other big selling point here is that, as well as playing in a campaign mode that darts between various US cities, you can freeplay in any city from anywhere in the world, and a fair few small towns too. Unfortunately you’re stuck with US voices, equipment and terminology wherever you plump for – and indeed crimes. I can assure you that the only shootings in Pershore, Worcestershire involve poor wildfowl. 
+Localisation seems like the most obvious and necessary addition 911 needs to add in, if its current Steam sales hot streak lasts long enough. The other is that, though it’s briefly pleasing to see the more or less recognisable monochrome outline of my home city, you can’t zoom in to see street names or photographic imagery, so it might as well be anywhere. 
+The ‘what about… [pissant small town you grew up in]’ is a one-off delight that lasts only moments, but I can definitely see how this thing could evolve. That said, some of the crimes it features are horrific, and as such becoming too playful might become deeply inappropriate.
+
+It’s a couple of evening’s worth of exploring a concept and buying a few upgrades for under a tenner. I don’t not recommend it on that basis – the single greatest thing about PC gaming is that it’s a medium which will explore every niche, and I was glad for a brief nose at this one. It is a bit crashy in its current form through, and that paired with the feeling that it needs a little more meat on its bones makes me more inclined to suggest waiting a month or two. 
+911 Operator is avaiable now for PC and Mac, via Steam, for £10.99/$14.99 (discounted to £8.79/$11.99 for a couple of a days at the time of writing).
+
+03/03/2017 at 18:37
+
+fuggles says:
+
+I’ve often pondered over a similar design, only police focused (they largely assist the others anyway so a broader scope of incidents).
+I thought that having more of a staff management focus would add to it, picking the right officers for the job, looking after those who suffered injury or trauma etc I imagine it would be satisfyingly stressful!
+I’ve read two articles on this game, both mentioned the pizza thing. This needs a lot of jobs to create more anecdotes.
+
+04/03/2017 at 15:46
+
+Naum says:
+
+You might want to look into This Is the Police, which sounds similar to what you describe. I haven’t played it, but there are a couple of reviews online.
+Edit: Also DRM-free from GOG.
+
+04/03/2017 at 16:43
+
+Philopoemen says:
+
+I’ve played This is the Police, and have preface my opinion with the fact I am a cop. It’s okay for a little while, but then it gets bogged down in the narrative, which is a bit weird.
+The job system is similar to 911 Operator, but dependent on rank of officers present etc, so you partner up a rookie and a senior copper, which most forces do, and then find out it’s better to have a a superstar team, and send the rookies to mundane stuff. You also have detectives to “investigate”, and SWAT, because every force of 13 or so needs a tactical element.
+The “investigations” are supposed to be heirarchically based, ie take down the low-level guys to get the boss, but in my experience, you literally could take down the boss in one or two steps. Your mileage may vary though.
+I haven’t played it since it came out, but simply because of the storyline, and how you’re beholden to work around it, I can’t recommend it. Other than that, it’s a basically a timer based puzzle game with minor RPG elements. There’s no real “sim” component.
+
+03/03/2017 at 20:47
+
+vorador says:
+
+I will put this on the “wait to see if it improves and/or gets a sale” wishlist pile.
+It’s an interesting concept, that’s for sure.
+
+03/03/2017 at 22:31
+
+Doc Revelator says:
+
+A response from a good friend of mine who is a senior ambulance dispatcher for the NHS – ‘Very interesting indeed. “One note tension”. Yep. When he says the software is a bit “crashy” in its current form, he’s failed to spot that it’s just part of the simulation.’
+
+04/03/2017 at 05:08
+
+Kong says:
+
+City Skylines.
+Please.
+
+04/03/2017 at 05:26
+
+JackMultiple says:
+
+“I don’t not recommend it…”
+I do not disapprove of this review, and I can’t hardly wait to play this.
+
+04/03/2017 at 14:42
+
+StAUG says:
+
+I’ve worked as an Australian equivalent of a 911 operator (it’s called 000 here) for the last 6 years so this was an interesting read.
+“I called twice. Both times I was told they’d be right there. They did not show (FYI roadside recovery did eventually, an hour after their ETA). I was as furious as I was terrified.”
+Like you say, if the only unit in the area is already attending something worse, that’s just how it is. For what it’s worth, it’s frustrating from our end that we can’t do more.
+“The other revelation is that initial panic and guilt about these kinds of situations soon gives way to cold utilitarianism.”
+Maintaining empathy has been the biggest challenge in my time in the job. Once you’ve had to talk to a parent whose 4 year old has drowned in a dam or you’ve listened to someone shoot themselves in the head over the phone, you become numb to most things pretty quickly or you quit.
+
+04/03/2017 at 16:29
+
+Philopoemen says:
+
+Mate, I’ve been on both sides, back before our force went to the centralised call centre – people calling up the police station to report there were fires, cows on the road, and my favourite was the doctor who called up to request police attend her address to locate the water main, because the shower was leaking. She actually got quite indignant when we refused to attend.
+On the other side, I’ve been at jobs getting my head punched in calling for back-up, and crickets on the radio. Even though I was the one getting hurt, the calltaker trying to get me help sounded more upset as she was trying so hard, and there was nothing she could do.
+I played the game (to support the developer mainly) and the “horrific” crimes it details I would consider mundane. And I understand why, as most normal people shouldn’t be exposed to what actually happens in the real world. It definitely needs a bit more variety, as the range of scenarios is is limited. Interesting to see if people enjoy it though.
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+911 Operator, feature, Jutsu Games, review, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

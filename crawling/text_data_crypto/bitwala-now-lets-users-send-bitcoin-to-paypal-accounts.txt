@@ -1,0 +1,23 @@
+./html_data_bitcoins/bitwala-now-lets-users-send-bitcoin-to-paypal-accounts.txt
+
+
+
+CryptoCoinsNews
+Bitwala’s newest feature allows users to send Bitcoin to any PayPal account, anywhere in the world.
+
+Crypto-to-SEPA payments service platform Bitwala is now offering its users the means to send Bitcoin to any PayPal account with the simple requisite of a PayPal email address. The company charges a flat fee at 0.5% of the transacted amount.
+In a blog post today, Bitwala made the announcement along with launching the feature with immediate effect. Additional details revealed that the Euro is the accepted currency presently and all transfers made toward destination PayPal accounts will be done with EUR, with the exchange rates dictated by PayPal.
+An excerpt from the blog post read:
+We are able to top up PayPal accounts in any currencies, but please be aware that we only guarantee the price denominated in Euro. We don’t take over any exchange fees that might be charged by PayPal for the currency exchange.
+Bitwala CEO Jörg von Minckwitz spoke to CCN about his company’s newest feature, one that understandably took time due to the regulations involved. The biggest hurdles along the way of setting up the feature were legal issues, confirms von Minckwitz.
+Since we are dealing with PayPal and Bitcoin, the legal frame work was not clear. Now, our lawyers have given the go-ahead to release the new feature.
+
+The means to send BTC to any PayPal account, including one’s own, is also something Bitwala had thought of to tap into.
+“That’s what we have in mind, giving people the choice to use (send BTC) to their own PayPal account,” von Minckwitz added.
+Although the currency choice is restricted to EUR presently, Bitwala’s CEO is drawing up plans to change that soon, along with bigger plans for the future.
+The next thing we’re working on is implementing more currencies, way more, along with a new application for Bitwala. They will both be released and implemented next year.
+Furthermore, he revealed plans in the pipeline for Netherlands-based Bitwala to expand, beyond the continent.
+We are closing our investment round soon and with it get the necessary funding. Step by step, we are planning the expansion of Bitwala to Asia and Africa.
+This is going to change everything.
+Text revised for clarity.
+Images from Youtube and Bitwala.

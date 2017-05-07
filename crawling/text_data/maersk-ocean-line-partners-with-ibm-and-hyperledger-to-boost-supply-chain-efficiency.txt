@@ -1,0 +1,22 @@
+
+
+
+CryptoCoinsNews
+Maersk Line, the world’s largest ocean container shipper, has teamed with IBM to create a supply chain using blockchain technology. Using Hyperledger Fabric, the blockchain will include a network of freight forwarders, ocean carriers and ports.
+The project’s goal is to get 10 million containers on the blockchain by year end out of a total 70 million shipped annually, said IBM. Container shipping comprises about half the value of all maritime trade. IBM estimates shipping carriers could save about $38 billion per year using digital technology.
+A recent pilot involved a consignment of goods from Schneider Electric. The blockchain shadowed the complete process, from the purchase order to delivery of goods, which can take as long as 60 days, according to International Business Times
+An empty container arrived at a Schneider facility in Lyon and was loaded with electric goods. A truck took it to Rotterdam, where a customs declaration saw it enter the water. It reached Newark on Feb. 23, where customs signed off on the import declaration. It then moved to the Schneider’s facility.
+The blockchain captured every document and approval, said Ramesh Gopinath, a vice president at IBM.
+The solution is applicable to the entire industry, not just Maersk, he said.
+It remains to be clarified who will be running nodes on the network and how participants will engage with the system, Gopinath said. He expects all major participants to run nodes.
+Blockchain technology has been recognized as a tool to improve trade finance and supply chain efficiency.
+Gopinath said there are two classes of solutions to transform global trade. One is the flow of goods, while the other is the flow of money associated with it. The two will come together eventually, he said, but the present project “is really putting the foot forward in terms of the actual physical movement of goods, knowing where things are; where are my flowers, are my vaccines being kept at the right temperature and so on.”
+An industry standard API for the centralized sharing of data and shipping information on the cloud was devised by David Hesketh, head of customs research and development, HM revenue and customs, and Frank Heijmann, head of trade relations, customs administration of the Netherlands.
+The concept has been tested over the past year for shipping Mandarin oranges, flowers and pineapples, in addition to the Schneider test.
+Damco, Maersk’s supply chain solutions company, participated in the project, along with the U.S. Department of Homeland Security Science and Technology Directorate. The U.S. Customs and Border Protection also participated, as did Damco, Maersk’s supply chain provider.
+Also read: Here’s a sneak peak inside IBM’s blockchain system
+Last year, Marine Transport International (UK) Limited announced the deployment of the world’s first public blockchain solution in the global shipping industry. MTI is a freight forwarder based in the United Kingdom and the United States. It provides technology-based freight forwarding solutions for global shipping companies worldwide.
+MTI uses the TrustMe public blockchain technology and the services from predictive analytics provider Black Swan Data Limited. The technology will be used within its SolasVGM product offering to enable the secure and open dissemination of shipping container information.
+Blockfreight, designed as the first end-to-end blockchain solution for the global cargo shipping industry, also announced its technology last year and launched an initial token sale.
+Blockfreight claimed its technology marks one of the most significant developments since the invention of the shipping container 60 years ago that lowered costs to a major degree. The shipping container created specified dimensions and handling requirements for containers, ending the practice of shipping and loading in individual bulk packaging.
+Image from Shutterstock.

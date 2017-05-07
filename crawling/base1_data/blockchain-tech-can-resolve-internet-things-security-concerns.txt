@@ -1,0 +1,18 @@
+./html_data_bitcoins/blockchain-tech-can-resolve-internet-things-security-concerns.txt
+
+
+
+CryptoCoinsNews
+The vice president and digital head of Indian technology solutions firm Tech Mahindra has said that embracing the Internet of Things (IoT) doesn’t mean people will have to give up their privacy.
+In an interview with CNBC, Amit Sharma, said that the IoT is lacking adoption because of privacy issues and data protection, but that a possible solution to this through the blockchain could resolve security concerns.
+He said:
+Sooner rather than later, blockchain and IoT will converge. And the cryptographic algorithms being used by blockchain will obviously help us to protect this data.
+Due to its transparency and immutable ledger, it’s not hard to see why the blockchain could present the answer for greater adoption of the Internet of Things.
+The Internet of Things, an inter-networking of physical devices, vehicles, buildings, and other items that have software, sensors and network connectivity enabling them to collect and exchange data, is continually growing.
+As a result, more organizations are realizing the benefits that it can bring particularly in relation to boosting a country’s digital transformation.
+Thailand is one such country that is understanding this. So much so, that last month Microsoft (Thailand) announced that throughout 2017 it would see five digital technology trends to help push its digitization to the next level. Of the five, it included the IoT and blockchain technology.
+Of course, while it’s nothing new that the Internet of Things and the blockchain may join forces at some point, it seems as though now is the time when things are increasing between the two.
+While many people may still be concerned by how much they are willing to let technology enter into their lives, we only have to look at the increasing use of mobiles around the world to see that it says things differently.
+India is one country that has the highest number of mobile phones with one billion phone users and a largely young population. It is this Generation Z that IoT companies need to reach out to as they are more likely to be more open to the idea of sharing data in the technologically-advanced world they live in.
+And yet, while advances are certainly being made with the Internet of Things and its connection with the blockchain, it could be another couple of years before Generation Z can fully take on board what is being proposed and created.
+Featured image from Shutterstock.

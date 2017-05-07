@@ -1,0 +1,15 @@
+
+
+
+CryptoCoinsNews
+Samsung Card, the conglomerate’s credit card arm is reportedly set to benefit from blockchain technology.
+Samsung SDS, the IT subsidiary that provides technology for electronics giant Samsung has signed to partner with Korean blockchain startup Blocko. The joint venture, to be operational both domestic in Korea and beyond its borders will be focused on the development of blockchain applications.
+Announced by Blocko today, the Korean blockchain and Fintech company has signed a memorandum of understanding (MOU) with Samsung SDS to meet the growing demand for blockchain technology in domestic and international markets.
+More specifically, the announcement points to blockchain applications in areas including authentication and payments as well as remittance.
+“Through synergies based on the resources of the two companies, we are actively exploring new markets [for the spread] of blockchain technology,” a statement from Samsung SDS read. “As the demand for blockchain technology grows in domestic overseas financial markets, the related industries are expanding.”
+Samsung SDS notably invested in Blocko in June 2016 as a part of the company’s effort to diversify its information and communications technology (ICT) portfolio. At the time, the IT arm of Samsung Group underlined its investment in Blocko as an opportunity to introduce blockchain technology to areas such IoT (the Internet of Things).
+According to a report on ZDNet, the two companies are reportedly developing blockchain technology for Samsung Card, the conglomerate’s credit card company. Blocko already has operational experience with clients in the payments industry, including the likes of Korea’s JB Bank, Paygate, Lottecard and KISA, among others.
+As a blockchain technology firm, Blocko is quickly gaining prominence as the leading force in Korea’s Fintech space by providing a handful of notable implementations of bitcoin’s underlying innovation in the country.
+The startup’s blockchain-as-a-service middleware platform Coinstack was put to use the Korea Exchange, South Korea’s securities exchange operator for startups to share equity shares on the open market. The implementation of blockchain technology was the first commercial application of the innovation in the Korean over-the-counter market.
+More recently, the province of Gyeonggi-do, South Korea’s most populous, made use of a voting system based on blockchain technology go gather a community vote which saw 9000 residents partaking both online and offline. Developed by Blocko, the blockchain voting platform made use of smart contracts with no requirement of management from a central authority, a necessity with any traditional voting system.
+Image from Shutterstock.

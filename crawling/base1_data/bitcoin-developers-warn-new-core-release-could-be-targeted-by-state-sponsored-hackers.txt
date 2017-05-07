@@ -1,0 +1,16 @@
+./html_data_bitcoins/bitcoin-developers-warn-new-core-release-could-be-targeted-by-state-sponsored-hackers.txt
+
+
+
+CryptoCoinsNews
+Bitcoin.org, the Bitcoin Core website, has warned users to be vigilant downloading binaries for the upcoming 0.13.0 Bitcoin Core release because it will likely be targeted by state-sponsored attackers. 
+Bitcoin.org does not believe it has the resources to defend against the attack. The Chinese bitcoin community is especially warned. A key is recommended for download.
+Not being careful before downloading binaries could result in the loss of all of a user’s coins, the website warned. The malware could also cause a computer to participate in attacks against the bitcoin network. “We believe Chinese services such as pools and exchanges are most at risk here due to the origin of the attackers,” the website noted, but it did not go into any details.
+The notice included a link to a key users can use to cryptographically sign hashes of Bitcoin Core binaries. It strongly recommended users download the key, which should contain a fingerprint of 01EA5486DE18A882D4C2684590C8019E36C2E964.
+The notice advised users to securely verify the signature and hashes prior to running Bitcoin Core binaries as a safe and secure way to ensure the binaries are the same as those the Bitcoin Core developers created.
+Eric Lombrozo, a Bitcoin Core contributor, said the bitcoin.org site posted the advisory without consulting anyone else, according to The Register. He said verifying cryptographic signatures for builds is a recommended practice in any use case.
+Lombrozo further noted that nothing in the binaries has been targeted by state-sponsored attackers that the Bitcoin Core team is aware of. He urged the community not to unnecessarily spread paranoia about the binaries.
+Also read: Breaking: Bitcoin.org under DDoS attack
+A Reddit post by a Theymos said “almost nobody” in China’s bitcoin community verifies signatures. Theymos said it would be helpful for someone to offer similar guidance in Chinese.
+Theymos recommended not updating highly sensitive items to 0.13.0 for at least three to eight weeks after its release, and cautioned against trusting Linux package repositories since the packages are managed by volunteers who are unknown, with little oversight.
+Featured image from Shutterstock.

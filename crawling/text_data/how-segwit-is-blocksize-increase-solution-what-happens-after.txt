@@ -1,0 +1,18 @@
+
+
+
+CryptoCoinsNews
+Contrary to most claims, Segregated Witness (Segwit) doesn’t necessarily require users to manually upgrade their systems or wallets in order to receive Segwit transactions. 
+The activation of Segwit does provide notable changes to the layer one of the bitcoin network and as a result, wallet platforms will be required to alter their applications pertaining to the changes made by Segwit to the bitcoin protocol.
+For users of major bitcoin wallet platforms which already are Segwit-ready such as Blockchain, Coinbase, Copay, Ledger and Keepkey, upon the activation of Segwit, they will be able to receive Segwit-enabled transactions.
+According to David Harding, the co-author of the Bitcoin.org developer documentation, users will be automatically introduced to Segwit-enabled versions of wallets, wallet addresses will start with a “3”–identical to how multi-signature wallets start with a “3”–, and bitcoins spent or received after the upgrade will be counted as 1 unit.
+Over the past few months, bitcoin experts and developers including Lightning co-author Thaddeus Dryja have been emphasizing their discovery of Segwit as an actual block size increase for bitcoin. In Dryja’s series of tests, he discovered that Segwit is able to handle a single block of 3.7MB.
+“The new software doesn’t touch non-witness blocks. The blocks are bigger. I have a script that will spam testnet and make 3.7MB blocks. It’s not a 800KB regular block with txids and output scripts, and a 2.9MB witness block with just a bunch of signatures. It’s a single block, that looks pretty much the same as old blocks with a few extra requirements, that’s 3.7MB,” wrote Dryja.
+In opposition to the claims of Bitcoin Unlimited supports and developers, Segwit actually expands the bitcoin block size by 3.7x, from 1MB to 3.7MB in a safe and non-contentious manner as explained by Bitpay CEO Stephen Pair.
+This is where Harding’s comment on the 4 MB limit of Segwit becomes more relevant. Harding stated that bitcoins received before the upgrade will be counted as 4 units toward the 4 million unit weight in Segwit, each byte counting toward a 1 MB limit of the original bitcoin block size. 
+With Segwit-enabled transactions however, the size of transactions will be reduced by 4 times, from 4 units to 1 unit counting toward a 4 MB limit. Thus, essentially, it can be said that Segwit-enabled wallets and transactions can increase the block size by up to 4 MB and on average, 3.7 MB as discovered by Dryja.
+Harding wrote:
+“If you spend bitcoins received before the upgrade, each witness byte will be counted as 4 units towards the 4 million unit weight in segwit, effectively each byte counting towards a 1 MB limit. If you spend bitcoins received after the upgrade, each witness byte will be counted as 1 unit towards the 4 million unit weight in segwit effectively each byte counting towards a 4 MB limit.”
+Conclusively, the activation of Segwit will not lead to manual upgrades in the part of users. The vast majority of businesses, exchanges and wallet platforms are already in support of Segwit and therefore, are Segwit-ready.
+
+Featured image from Shutterstock.

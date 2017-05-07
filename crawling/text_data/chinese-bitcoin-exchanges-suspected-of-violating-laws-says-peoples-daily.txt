@@ -1,0 +1,16 @@
+
+
+
+CryptoCoinsNews
+The People’s Daily, an official newspaper of the Chinese Communist Party and the biggest newspaper group in China, has warned of bitcoin’s risks, mainly based on the operation of exchanges. According to a translation obtained by CCN, the paper stated:
+“Some institutions have been suspected of engaging in financial business by violating laws and regulations, including leveraged trades, margin trades, continuous bidding, centralized matching, etc;
+Second, some institutions have not yet established compliant internal control systems with the provisions of the anti-money laundering. (Funds) may be used by criminals to become a channel for money laundering. In addition, some platforms are non-compliant, with technical and security risks, and platform-related business risks.”
+The paper further stated that “the current bitcoin trading platforms are often mistaken as exchanges. However, they are not. An exchange needs to get a financial license before it can call itself an exchange.”
+Most Chinese exchanges have been under inspection by China’s Central Bank which has stated they will take a forgiving attitude towards past transgressions, but now require strict compliance.
+In response, many exchanges have temporarily stopped bitcoin deposits or withdrawals to set up a new system that addresses PBoC’s concerns. They were meant to open earlier this month, but issued a new statement which further extended the halt until PBoC gives a green light.
+PBoC, in turn, is considering how to enforce AML/KYC compliance, with some suggestions that exchanges may require face to face account opening. A requirement that would have both advantages and disadvantages as exchanges would need to open branches in metropolitan areas, thus giving the currency greater visibility.
+No final official statement has been made on the matter to lay out the exact requirements, but PBoC is probably most concerned with capital flights and thus is probably thinking of a way to limit bitcoin purchases to foreign currency levels.
+There has been no public consultation on how exchanges should be regulated so as to best protect investors while encouraging business growth and innovation. Most of the news rarely comes officially, with usually just hints here and there.
+The People’s Daily article is one such hint. It suggests exchanges will probably be required to apply for a license, with likely further strict measures to prevent any legal or regulatory violations.
+How long this process will take no one currently knows, nor is there any indication of when deposits and withdrawals will be re-opened, with PBoC seemingly preferring to operate through closed-door meetings with exchanges rather than publicly consulting and requesting expert opinions as is the usual course of action by the more developed nations.
+Featured image from Shutterstock.

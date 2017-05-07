@@ -1,0 +1,26 @@
+
+
+
+CryptoCoinsNews
+Press Release: Stratis Group has announced today it is launching an ambitious cryptocurrency project, aimed at increasing financial privacy available to the users of Bitcoin and the Stratis Platform.
+The project dubbed “Breeze Wallet” incorporates the innovations brought by TumbleBit to both Bitcoin and Stratis, into a real-world production environment combined with the privacy enhancements introduced by the Full Block Secure Payment Validation system.
+Stratis plans to integrate TumbleBit into the Breeze Wallet making it the first Bitcoin wallet that addresses the privacy issues in blockchain transactions, the Breeze Wallet works with the current Bitcoin protocol and does not require any forks.
+Stratis Financial Privacy Protocol
+The Stratis development team will be extending the Stratis blockchain to support the Stratis Financial Privacy Protocol based on the TumbleBit concept. Our goal is to offer a truly trustless and decentralized privacy protocol on the Stratis blockchain and its private chains, while working with financial services regulators on developing regulatory compliant blockchain solutions utilizing the Stratis Privacy protocol.
+Enhanced Privacy
+Presently there is a huge demand for privacy on the blockchain. One of the main hurdles faced by the adoption of Blockchain technologies in the financial services industry is the privacy of financial data on the blockchain. When the Stratis Financial Privacy protocol is implemented into the Stratis Platform, businesses will have the possibility to use the Stratis Blockchain with a guarantee of privacy from their transactions (payments, records and data). That’s a big advantage over other Blockchain projects.
+Why TumbleBit?
+The team behind Stratis carefully evaluated the different concepts and technological options to deliver a truly trustless and secure privacy solution that would meet the requirements of enterprise and consumers worldwide. After extensive research, it became evident that TumbleBit was the best fit for our future development goals because it is:
+Private: Transactions are truly private and unlinkable.
+Untrusted: No one (including Tumbler) can steal payments
+Compatible: TumbleBit is fully compatible with today’s Bitcoin protocol.
+TumbleBit includes (offblockchain) cryptographic protocols that work with the very limited set of (on-blockchain) instructions provided by today’s Bitcoin scripts
+The TumbleBit/Stratis Roadmap
+A few weeks ago, Stratis put in motion a development plan for the integration of TumbleBit capabilities into Stratis. Having established the feasibility of such an endeavour, we immediately took the initial steps to make this a reality in the shortest term.
+To help us accomplish a smooth and speedy process, we secured the services of Adam Ficsor, one of the contributors to the TumbleBit research paper (https://eprint.iacr.org/2016/575.pdf) and the official implementation of Tumblebit NTumbleBit.  As a Technical Advisor for the development of a production ready Tumblebit full block SPV wallet in C# (Breeze Wallet), Adam will help us achieve our goal, by delivering a fully functional full block SPV, while also working on the Stratis Wallet framework and the completion of NTumbleBit.
+According to Adam:
+“Everyone who is not using Bitcoin Core has already had all their addresses linked together by third parties. This is not a theoretical “assume the worst case” strategy, this is reality. The third parties are either the central servers your wallet relies on or in case of SPV wallets all Blockchain surveillance companies.”
+Trustless Exchange: Trustless Stratis <-> Bitcoin exchange
+The planned TumbleBit implementation not only will speed up and streamline the development of Stratis full-block SPV TumbleBit wallet, but will also make possible to include in it a trustless, secure exchange for Bitcoin-Stratis pair.
+Exposure of Stratis to millions of Bitcoin Users
+The expected inflow of Bitcoin users towards a TumbleBit enabled Bitcoin wallet offering enhanced privacy, will undoubtedly translate into making it the de-facto wallet for such transactions around the world. This in turn, will represent an extraordinary opportunity to expose Stratis and its platform to all those users, and this will further cement our symbiotic relationship with the leading cryptocurrency and its community.

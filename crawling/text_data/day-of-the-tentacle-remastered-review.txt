@@ -1,0 +1,545 @@
+
+RPS Feature
+It's time to go BACK, TO THE MANSION! 
+By John Walker on March 21st, 2016 at 12:00 pm.
+
+It’s frightening to realise that Day Of The Tentacle Remastered [official site] is a reworking of a game that’s been in my top five games since I first played it, a whopping 23 years ago. And a game that for the better part of the last decade, has been near impossible to buy or play. With Double Fine’s Remaster updating or restoring its graphics, music and sound, at the very minimum what we have here is a purchasable, playable version of the original game. On top of that, you can now play it in wide- and full-screen, with a smartly reimagined interface, much improved music, and the voices crystal clear without all the hissing and bubbly weirdness that affected the original CD-ROM version of the game. Which is to say, if anyone doesn’t like any of the changes they’ve made, they can switch them off and they’ve absolutely nothing to complain about. Which is neat. Here’s wot I think:
+
+But what if you’ve never heard of DOTT? As upsetting as that is to me, let me précis: Bernard, Hoagie and Laverne are three college students who go to the mansion of mad scientist Dr. Fred on the invite of their friend, Green Tentacle. His brother, Purple Tentacle, has consumed toxic sludge and become super-intelligent, and now plans to take over the world.
+On arriving it appears the only way to stop this from happening is to turn off the Sludge-O-Matic machine yesterday, so the trio are put in Dr. Fred’s time machines, the Chron-O-Johns. Except a cheap diamond in the machine means things go horribly wrong, with Hoagie appearing 200 years in the past, and Laverne 200 in the future. Bernard remains right where he started.
+
+
+This opens up the premise of time-based puzzles alongside the regular inventory puzzles that made up the bulk of LucasArts adventures. Objects can be passed between the three by flushing them down the Chron-O-Johns, as Hoagie attempts to find a way to harness electricity in the company of the USA’s founding fathers and their struggle to create a constitution, while Laverne is imprisoned by the tentacle overlords and must find a way to escape.
+What was (and very much still is) a very funny, very well written story of complete nonsense, is made magical by the use of time. If you need vinegar, say, then find a way to hide a bottle of wine in the past, and discover it in the future. If there’s a tree in the future that’s iny your way, chop it down in the past. And if that involves writing in requirements that all Americans have vacuum cleaners in their basements into the constitution, or changing the US flag into a tentacle costume, then so be it.
+
+
+It was a sequel to an even earlier adventure game, Maniac Mansion, set five years later and making numerous in-joke references to the previous game. (References that in 2016 are even more confusing.) And it famously included that original game on a computer within itself. To clear up any doubt: no, sadly, they’ve not secretly also updated Maniac Mansion – it’s there, but it runs in its EGA pixel glory. 
+But despite this, it’s barely dated. The three core stereotypes – nerd, hippie-chick and roadie – still very much exist, and the Chuck Jones-inspired cartoon approach created something resistant and timeless.
+
+
+So how do you modernise a game with an interface as dated as DOTT’s? The answer is, really smartly. DF have been extremely clever about how they’ve approached updating the interactions, letting the player choose their preferred iteration. If you want to insist on laboriously clicking on verbs from the bottom third of the screen, you can switch back to the original look of the game at any time. If you want the game to smartly pick relevant verbs for what you’re clicking on, then you click the right mouse button for a contextual graphical verb wheel. (These aren’t stingy, either – some objects have nine options.) If you want to deliberately choose irrelevant verbs to see if you can find any of the millionty-five hidden gags, then you can scroll the mousewheel for your cursor to change to each verb in turn, then mouseover anything in the screen to build a floating sentence. Scroll for “Open”, then roll over a hamster for, “Open hamster”, and then click to try that.
+
+
+They’ve… done a great job. It looks like – well, it looks like what the game looks like in my memory, rather than the pixelly blur it truly was. If you’re like me, you’ll spend the game obsessively hitting F1 to switch between the original and new graphics, refusing to believe they were ever so crude, and wondering at how your memory had already done all this hard work for Double Fine earlier.
+The update is so faithful to the original/using the same code that the character’s mouths still move in the same daft way that makes it look like they’re only ever saying, “Ooobeedoobiee”. Animations are identical, right down to Bernard still taking that inexplicable route between two adjacent doors on the second floor of the mansion, and Laverne still walking like she’s being electrocuted.
+
+
+Of course, your mileage may vary, and whether you’ll like the simply shaded ‘Flash animation’ look they’ve gone for is entirely in your hands. For me, it mostly feels appropriate, and in many cases looks just right. In other places I think a lot of texture is lost – one good example is Hoagie’s chatting with the horse. The original looks far more detailed and complex, while the update appears very slapdash and simplistic. It’s a weird mix of this, some scenes looking very blank now, others looking just like they ought.
+
+
+I’ll be absolutely fascinated to know how people who’ve never played DOTT feel about this game. I’m in the odd position of replaying a game I’ve replayed so, so many times, meaning that the puzzle solving is more by muscle memory at this point. And even then, I’ve reached points where I’ve not remembered what needs doing next in any of the three timelines, and had to stumble around for a bit. It’s interesting to see how – as was normal for the early 90s – there are few great flashing neon signs telling you what to do next. The complexity, and the freedom to do so very much of the game in the order you choose, is a little daunting 23 years on.
+And they seem to know it, too. There’s a little knowing nod when Hoagie cleans the carriage to create a storm, with an achievement popping up saying, “Obvious. Really.” It’s interesting that there’s an appreciation that some of the puzzles were perhaps a little… unflagged (although, let’s be fair, Hoagie mentions how dirty it is a bunch of times, but then again, gathering all the items to clean it is hardly common sense nor encouraged), but they’ve also chosen not to include a new hint system at all.
+
+
+They’ve kept actual changes to a complete minimum, beyond aesthetics and controls. And I wonder if that was necessarily the best idea. I think this could have been an opportunity to make a few tweaks that would make the game slightly more amenable – most obviously, I’d suggest, would be an instant access to the Chron-O-Johns, rather than having to laboriously walk each character to them in order to exchange items. Edit: OMG, I never, ever knew you could just click items on their portraits. In 23 years, I never knew. Good grief, I’m such an idiot. Thank you to Richard Cobbett for pointing this out!
+But then at the same time, what if they changed a bit I especially liked?! Then there’d be righteous uproar.
+And gosh, there’s so much to like here. It’s fair to say some gags have lost their impact on me, so familiar am I with them all. But others still hit every time. I love that the tumble dryer with the jumper dings when Laverne walks into the room – that’s always great. I love that Dr. Fred is literally wrapped in red tape when the IRS show up, forcing a puzzle that involves painting a mummy. I love the voices, the beats, the number of puzzles involving false teeth, and if that wasn’t George Washington’s real accent, then I don’t want to know.
+
+
+I still adore this game. It’s still the smartest, most elegant, most entertaining adventure game ever made. And now, if you want, it looks new and sounds amazing. Not having Laverne sound likes she’s underwater is a real joy. More could have gone into adding detail to particular scenes, and I think the extra effort of implementing a hint system would have opened the game up to many (having written a complex hint system for a remastered adventure game, I can tell you it’s not really that much work). But when your starting point is, “Day Of The Tentacle is playable again!” then you really have to work hard to complain. I love what they’ve done here, I love that there’s a commentary with the original creators (although it’s a little sparse), and I love that this could make DOTT a game enjoyed by a whole new generation. It certainly deserves to be.
+Day Of The Tentacle Remastered is out tomorrow.
+
+21/03/2016 at 12:09
+
+IJC says:
+
+Thanks for the review, propably gonna pick it up soon. Sidenote: couldn’t you send items through time quickly by dragging them onto the corresponding character’s portrait in the original? I remember someone telling me about this. Is something similar still possible in the new interface?
+
+21/03/2016 at 12:14
+
+Marclev says:
+
+“is out soon.”
+Gah, take my money already!
+
+21/03/2016 at 12:16
+
+zappeo says:
+
+For anyone trying to remember it, you had physically go to the chron-o-john to flush an object only the once, after that the game enabled the “quick flush” by simply dragging the object on the respective character avatar. I guess it’s the same in the remake.
+
+21/03/2016 at 12:17
+
+zappeo says:
+
+*only once *sobs*
+
+21/03/2016 at 12:16
+
+TΛPETRVE says:
+
+I think it looks absolutely atrocious. The choppy 2-frame animation simply does not work with high-res graphics.
+
+21/03/2016 at 12:49
+
+klops says:
+
+F1
+
+21/03/2016 at 17:20
+
+Vandelay says:
+
+I assume hitting F1 will also remove the higher quality sound, new interface and other modern niceties though. If that is the case then it is disappointing that you couldn’t pick and choose which of the old and new you would like.
+
+21/03/2016 at 17:24
+
+basilisk says:
+
+As far as I know, you can pick and choose. Let me quote from Mr Cobbett’s review at Eurogamer:
+“You can also have the old verb interface (rather than pop-up icons when selecting something) with the new graphics, the new graphics with the new music, or any other variant you want.”
+I think I remember DF promised this when they announced the remake.
+
+21/03/2016 at 19:53
+
+Vandelay says:
+
+That is great to hear! I personally don’t mind the new art style, but it is good to have the option to revert back to the old style without losing the other bits.
+
+21/03/2016 at 12:24
+
+Dicehuge says:
+
+So glad this has been remastered. One of those “I can’t believe I never played this” games I was miffed to have missed out on.
+
+21/03/2016 at 12:27
+
+caff says:
+
+Phew… glad this turned out to be a good update.
+
+21/03/2016 at 12:28
+
+gbrading says:
+
+Never played DOTT but all other LucasArts games I hold in extremely high regard, and I will definitely be playing this as soon as possible.
+Next up: Full Throttle and Curse of Monkey Island!
+
+21/03/2016 at 12:45
+
+Didero says:
+
+Honestly, Curse Of Monkey Island doesn’t even need a graphical update, it looks good enough.
+They just need need NEED to make it available for purchase. Please.
+
+22/03/2016 at 10:14
+
+jrodman says:
+
+Delivering it as a click-and-play on win/mac/linux would be nice though.
+
+21/03/2016 at 12:43
+
+supermini says:
+
+This is my favorite adventure game of all time – I love it more than Monkey Island because of the characters. If you haven’t played it, I highly recommend it. It’s a timeless masterpiece.
+
+21/03/2016 at 12:46
+
+phenom_x8 says:
+
+More on this topic (it’s a great and massive read ) : link to usgamer.net
+You can find the other 2 more lengthy articles inside.
+I’m afraid my post are considered as spam if write more than 1 link.
+
+21/03/2016 at 12:51
+
+Asokn says:
+
+As much as I enjoyed this WIT I wonder if it was necessary to spoil so many of the puzzles. I loved DOTT as a child and have very fond memories of it so most of the references are things I vaguely remember anyway but for people who have never played the game or don’t remember the puzzles this WIT was pretty blunt in giving away some solutions.
+
+21/03/2016 at 14:19
+
+Great Cthulhu says:
+
+As someone who has not yet played the game, I have to agree. It’s not like I’m super upset about the spoilers (the puzzles are 23 years old, after all), but I definitely found it a bit inconsiderate.
+
+21/03/2016 at 14:27
+
+John Walker says:
+
+I vaguely mentioned portions of a couple of the dozens of puzzles, deliberately not giving away their beginnings nor endings. Even though it’s a 23 year old game.
+
+21/03/2016 at 14:55
+
+Great Cthulhu says:
+
+Like I said, I haven’t actually played the game yet, but something like “Hoagie cleans the carriage to create a storm, with an achievement popping up saying […]” sounds like it’s at the very least a strong hint to the solution of a puzzle. And with the gameplay of an adventure being mostly about the puzzles, that’s not something that I want to read when I’ve yet to play the game.
+Not trying to start an argument here, just trying to explain why I’m not as happy with the WIT as I otherwise might have been.
+
+21/03/2016 at 14:58
+
+somnolentsurfer says:
+
+The review I read in PC Review in 1993 had a box out with a step by step walkthrough of exactly how to do the tree cutting puzzle. Probably quite fortunate for me, really. As a 13 year old Brit there’s no way I’d have known stories about George Washington.
+
+22/03/2016 at 20:37
+
+ansionnach says:
+
+That sounds familiar. Isn’t that the one where Cal Jones had sworn that she’d eat her leather trousers if it was funnier than Monkey Island 2 (or was it better than Fate of Atlantis)?
+
+23/03/2016 at 15:38
+
+somnolentsurfer says:
+
+Yeah, she swore in the Day of the Tentacle review she’d eat her leather trousers if a better adventure game came out that year. When Sam and Max came out I was convinced she only marked it down to get out of it.
+Weird the things you remember.
+
+21/03/2016 at 17:00
+
+draglikepull says:
+
+I agree. It would be one thing if this was just a retrospective of some kind, but it’s clearly marked as a review. Spoiling puzzle solutions in a review is not cool, and as a person who didn’t play the original (but is going to play the remaster), I’m quite annoyed.
+
+21/03/2016 at 13:05
+
+jonfitt says:
+
+Yay!
+I haven’t played DOTT with my children yet, so this version had come at the right time.
+
+21/03/2016 at 13:12
+
+Alistair Hutton says:
+
+The Puzzles in DoTT are juuuuuuust right.
+I played Sam & Max Hit the Road and Day of the Tentacle Back to Back.
+Sam & Max had funnier writing (not that DoTT was in any way bad) but good grief some of the ‘puzzles’ were utterly rank. I don’t think I sighed heavily at any of the DoTT puzzles but I came close to unconsciousness due to all the exhaling I did at stupid nonsense solutions in S&M.
+
+21/03/2016 at 13:18
+
+JamesTheNumberless says:
+
+So pleased to see this, it was arguably the high point of Lucasarts point-and-click adventure games. Nothing will ever recapture the awe of seeing and hearing this game for the first time 25 years ago on a state of the art 486 based DOS PC. However, this does looks like the best yet among the special/remastered editions at hiding the ways in which the game has aged, while preserving the original art design. I suppose it’s easier here than it was for Monkey Island because DoTT was always meant to look like a cartoon.
+
+21/03/2016 at 14:00
+
+Risingson says:
+
+Hm, very detailed description of the graphical update, but what about the sound? In the trailer the music sounded like very cheap midi.
+
+21/03/2016 at 14:28
+
+John Walker says:
+
+I do mention the sound quite a bit. But if you mean the music, they’ve updated it, but it’s still midi – they didn’t hire an orchestra to perform the score or anything. But it sounds a lot nicer.
+
+21/03/2016 at 16:00
+
+Risingson says:
+
+Sooorry. Meant the music.
+I think they could have used better soundfonts in there. In my ears it sounds a bit cheap, but anyway.
+
+22/03/2016 at 00:06
+
+syllopsium says:
+
+See my comment at the bottom, it’s not that different from the original.
+
+21/03/2016 at 14:13
+
+Williz says:
+
+Am I the only person that honestly prefers Pixel art?
+
+21/03/2016 at 14:29
+
+John Walker says:
+
+Yes, the only one in the whole world. It’s what makes you special.
+
+21/03/2016 at 14:41
+
+JamesTheNumberless says:
+
+It’s a minor point but the original art is not pixel art, it’s pixellated art. It wasn’t painted pixel by pixel except in the case of some fine detail in post-processing. The pixellation is a side-effect of the technical limitations of the time, namely the resolutions and memory available, and not a part of the art-direction. If they could have, they would have completely eliminated all visible pixels. Of course you’re allowed to prefer the original and you’re definitely not the only one who does, it just isn’t pixel art though.
+
+21/03/2016 at 16:02
+
+Risingson says:
+
+Actually we discussed this before: adventure games in general used to have painted backgrounds that later were scanned and processed. Very few games in the 90s actually used pixel art for everything (Pixel Painters were among the few exceptions). Unless my memory has rewritten history.
+
+22/03/2016 at 10:35
+
+JamesTheNumberless says:
+
+Er, yes, that’s what I said.
+
+21/03/2016 at 16:18
+
+Geebs says:
+
+I disagree with this, actually. Back in the day, game artists did a lot more than just present the work as an approximation of a higher-resolution image. It wasn’t just the pixels, it was the right pixels – which is why HD remasters often seem to lose a lot of texture from the artwork.
+
+21/03/2016 at 16:19
+
+Geebs says:
+
+(A lot of the background work in the later PC adventure games was digitised paintings, but the character work was usually digital-first)
+
+22/03/2016 at 10:39
+
+JamesTheNumberless says:
+
+Before DoTT, digitizing wasn’t common because scanning tech was pretty primitive but on DoTT they did scan most of the art. Of course they then had to do a pixel-by-pixel pass by hand to clean things up which is what I referred to as “post processing” The point is that the goal in computer graphics, whatever the techniques used, 90% of the time was always to minimize the appearance of pixels which is the opposite of what you do if you’re setting out to make “pixel art”
+
+22/03/2016 at 10:48
+
+JamesTheNumberless says:
+
+The important thing is the art direction, in DoTT they were targeting a style similar to old Disney movies and contemporary TV cartoons, the inevitable pixellation was considered an annoying limitation of the tech, as was the need to sometimes draw with a mouse. If they had higher resolutions and better scanning tech available, they would not have had any visible pixellation in the art. This is why remastering with high-res cartoony graphics is appropriate for this game, much more so than it was for Monkey Island where the art direction was (when not being confused by different artists pulling in different directions) more realistic – this is why the Monkey Island special edition graphics were less faithful to the original.
+
+22/03/2016 at 10:50
+
+JamesTheNumberless says:
+
+Anyway, I mainly want to play this for the developer commentary
+
+23/03/2016 at 15:44
+
+somnolentsurfer says:
+
+Really wished the Monkey Island 2 SE could have just returned to the original Steve Purcell painted backgrounds and rescanned them in higher resolution. Would have been beautiful. Alas, I suspect they’re all long since lost.
+
+22/03/2016 at 10:17
+
+jrodman says:
+
+I knew lots of people doing game art in that era, and I certainly didn’t see anyone working in other higher resolution media, digitizing, or any other approach without at least hand-retouching the work. At 320×200 you can’t get any sort of acceptable results without hand-pixel work.
+
+21/03/2016 at 14:48
+
+cunningmunki says:
+
+I’m glad I’m not alone in wanting/needing a hint system for older games. I’m about a third of the way through Grim Fandango, and loving it, but I’m ashamed to admit I’ve had to refer to online guides several times already to figure out what the hell to do next (and I really dislike having to use walkthroughs, they are always a last resort).
+
+21/03/2016 at 14:58
+
+JamesTheNumberless says:
+
+Personally I’m really looking forward to getting stuck in DoTT. Getting hopelessly stuck, annoyed, depressed, and then overcoming it by yourself was a very important and special part of these games. Hopefully it’s been long enough since my last playthrough that I’ve forgotten some bits.
+This is what made Broken Age so totally worth it for me, the experience of getting stuck and then coming back the next day and finally spotting the clue in the conversation with a minor character you’ve had 10 times already.
+
+21/03/2016 at 15:11
+
+drygear says:
+
+When I played as a kid there was only one time I was completely stuck on what I thought was a reflex puzzle that I was just too slow for. A month or two later the actual answer came to me in a dream.
+
+21/03/2016 at 17:08
+
+Robmonster says:
+
+Check out the Ultimate Hint System (UHS) . I’m using that for Grim Fandango at the moment, it gives you more and more blatant nudges in the right direction instead of just having to read a walkthrough ( and risk spoiling a puzzle you haven’t yet got to)
+
+21/03/2016 at 22:04
+
+Hypocee says:
+
+There’s nothing shameful in cheating Grim Fandango. Adventure games I recall cheating: Ben There Dan That twice, Discworld twice. I see people complaining about Sam and Max but it seemed pretty smooth to me when I first played in the early aughts. Same for Curse of Monkey Island and some others that don’t come to mind. I didn’t cheat GF but I slightly wish I had and I’ve enthusiastically recommended others do so. In particular I at least recommend pretending the racetrack ticket puzzle isn’t in the game. Take its fetch quest sub-puzzles if the walkthrough allows, but the overall structure is just a wobbling pile of worms.
+
+22/03/2016 at 20:58
+
+alison says:
+
+There’s no shame in consulting a walkthrough. I remember the days when you had to write a letter to a magazine in the faint hope of possibly receiving a hint months later, and I think walkthroughs are a God-send. I even consult walkthroughs in modern adventures. If I spend more than 15 minutes on a puzzle, after revisiting all the locations and re-exhausting all the dialog options, it’s shift-tab time. There are way too many good games out there – not to mention other entertainment media – to waste hours clicking about randomly. I don’t get any pleasure out of figuring out a puzzle after hours of bashing my head against a wall. I just wish I had spent those hours doing something more fun instead. But then, I also hate games with grind mechanics, random encounters and trial-and-error death scenarios, so I guess it’s a matter of taste.
+
+21/03/2016 at 14:52
+
+K_Sezegedin says:
+
+Nigh impossible to buy or play? Someone tell ebay and the SUMMVM guys.
+
+22/03/2016 at 01:58
+
+Raoul Duke says:
+
+Yeah, I was going to post this! Perfectly possible to play, at least.
+
+21/03/2016 at 15:08
+
+drygear says:
+
+For new players, there are some items that you should use on every character in every time period to see how they react. Two I can think of are the fake barf and the textbook.
+
+21/03/2016 at 17:04
+
+mwoody says:
+
+Correct me if I’m wrong, but I don’t think the sludge made Purple Tentacle super intelligent. I think it gave him tiny arms, and it was these new appendages with which he was able to carry out his dastardly schemes, what with his newfound ability to, uh, hold stuff.
+
+22/03/2016 at 01:10
+
+kalzekdor says:
+
+Well, I don’t know about “super” intelligent, but the words he used were “It makes me feel great. Smarter. More aggressive. I feel like I could… like I could… like I could… TAKE ON THE WORLD!”
+*THUNDER*
+
+21/03/2016 at 18:15
+
+patricklibuda says:
+
+Hi, nice review. One little objection though. As someone who still has the English CD version released at the time, the sound stuff is fine if you play the game under DOSBox with a reasonable sound chip. Voices are crystal clear and with decent General Midi stuff (Roland in my case) the music sounds fairly similar to that in the trailer.
+For example, Laverne’s ‘anatomy final’ in the introduction actually sounds like final and not more like vinyl as it used to with early to mid 1990s sound chips (even reasonably good ones). And of course an s actually sounds like an s and not as if the speaker had a bad lisp. (Even in those days I switched to General Midi as soon as the stuff became affordable and I never looked back – just could not stand Soundblaster/Adlib FM music ;-).)
+Apart from that, DotT still is my favourite all time adventure game. Virtually all puzzles are logical in their own way and it is the only adventure game where I managed to do around 85% without having a look at a walkthrough. LucasArts adventures still are a league of their own (still have the CDs). Alright, some I like more than others but all of them were good. The user interface that was introduced with Monkey2 still is the best (bugger fullscreen graphics ;-)).
+Will definitely get the remake one of these days and otherwise keep biting my fingernails until Thimbleweed Park gets released ;-).
+
+22/03/2016 at 00:04
+
+syllopsium says:
+
+It’s not a million miles away from a Roland MT32/CM32L, which is what the game was written for. I’d have to do an A/B comparison with my retro PC to be picky, but it sounds like they’ve gone with some higher quality but arguably too subtle samples.
+Certainly not as bad as the Fate of Atlantis re-issue, where the music output is substantially worse than a real MT32.
+
+22/03/2016 at 02:05
+
+Raoul Duke says:
+
+It’s still the smartest, most elegant, most entertaining adventure game ever made.
+Outrageous! Sam and Max and Fate of Atlantis are superior IMHO. Sam and Max is easily the funniest adventure game ever.
+
+22/03/2016 at 07:36
+
+Dicehuge says:
+
+And clearly mister Walker hasn’t heard of a little game called ‘Myst’.
+
+22/03/2016 at 13:52
+
+wu wei says:
+
+Oh, John has definitely heard of Myst :)
+Good grief, I hate stinking Myst. And I hate anyone who likes it. I hate you, and your ghastly taste. If this was good enough – if this was what you wanted from gaming – then I hope the litany of miserable clone games that destroyed the joy of adventuring has made you very happy.
+
+24/03/2016 at 10:44
+
+patricklibuda says:
+
+Yes and no. Some bits are really funny, others less so unfortunately. However, the thing that really annoyed me at the time was the then new user interface so they could make the graphics full-screen. I would have much preferred widescreen plus the Monkey2 user interface underneath. It still is the best by far (cf. Thimbleweed Park).
+For example take Monkey1 CD (Monkey2 user interface) and the Grog refill race from the ScummBar to the prison in order to free useless Otis. You have to be quick and due to the good user interface it works quite well. When I played the remake, I immediately switched back to the old look for that particular puzzle. Now try to imagine having to do it with the user interface from Sam and Max and others.
+Another thing that I did not like was the symbols instead of plain text in the dialogue options. Unfortunately the same stuff was also used in The Dig. And that is an adventure I would love to see as an HD remake! I just hate it when the respective user interface becomes an extra puzzle and that is why I am so fond of the user interface that was introduced with Monkey2.
+
+22/03/2016 at 20:42
+
+alison says:
+
+I would also be very interested to read about how people completely new to DOTT experience it today. Honestly, if this had come out 10 years ago I probably would have been thrilled. DOTT was my favorite adventure game as a teenager, and my sister and I spent years quoting its lines to one another. I would have loved to revisit the game as an adult, and perhaps finally complete it. Except then the 2010s adventure gaming renaissance happened. I tried to get through a few other so-called classics on ScummVM recently, and although I could see hints of the magic that people at the time fell in love with, the mechanics were painful and the storyline and pacing couldn’t hold a candle to contemporary stuff coming out of Wadjet Eye, Daedelic etc.
+It’s neat to see that this remake tries to address that by modernizing the mechanics, but even still I feel like many of the older games were designed around the experience of getting stuck – potentially for weeks or months at a time – whereas modern adventures have tense stories designed to be completed in one or two sittings. There is no way Gemini Rue has enough content to keep my interest for a year of being stuck. On the other hand, there is no way my adult self would get a year’s worth of kicks out of repeatedly punching Oozo the Clown in the hope of being able to finally figure out how to turn a cat into a skunk. Of course the exception that proves the rule is Edna Bricht Aus, which has far more unique and hilarious “combine X with Y” responses than any of the classics, but by going so completely in that direction it shines an even brighter light on how shallow the classics actually were when you got stuck.
+I am sure there must be a few people out there who still enjoy the old-fashioned approach to adventures where the game is as much about being stuck as it is about advancing the plot (and to those people I would say play Edna Bricht Aus), but in this era of Netflix binging, Steam backlogs and TellTale interactive movies, the traditional pacing doesn’t seem to have much of a place any more. DOTT was indeed a masterpiece at the time, but like so many other games of the 80s and 90s, I worry it’s appreciated a lot better through the rose-tinted lenses of memory than through a nostalgia-busting replay.
+
+23/03/2016 at 16:50
+
+Angstsmurf says:
+
+I don’t get it. People apparently enjoy spending hours on a single boss in Dark Souls, not because they like frustration but because the triumph when you finally succeed is so much greater when the fight was long and difficult. The same ought to apply to adventure game puzzles.
+
+23/03/2016 at 20:13
+
+alison says:
+
+I think this is a very fundamental difference in how people want to consume entertainment. For me, one of the biggest drawcards is the storyline. I love a really good story in novels, in film/TV, in computer games. Modern adventure games have a laser focus on the story beats and plot progression, and this is something that matters a lot to me. Of course, games are a different medium to passive entertainment – the interactivity offers some control over the content of the story, and some control over the order of progression – but getting stuck on a puzzle inevitably results in the story stopping altogether, which ruins the pacing for me.
+A good analogy might be splitting a newspaper with a partner or friend. If someone offered me the choice between the crosswords or the long-form articles, I would choose the long-form articles every time. It’s the same with games. I’ve always seen adventure games as interactive stories and not as puzzles – a great story is what I look for in the genre.
+That said, I do play games that are explicitly more skill/challenge based. But even in those skill-based games where I always choose “hard”, the absence of a decent story or tedious grind mechanics will turn me off. From what I understand of Dark Souls it is a game where you are forced to repeat the same sections over and over until you eventually improve. That, to me, sounds equally as tedious as learning how to play a musical instrument or training to excel in a real-life sport like boxing. And then I would prefer to spend my time doing one of those real-life things than sit in front of a PC. It’s the same reason why I gave up on CS – one of my favorite FPSes of all time. If I need to “train” so hard to get any kind of reward, then why not spend my time “training” to do something that makes me feel creative or strong vs something that just gives me tired eyes and repetitive strain injury? I already work 8-10 hours a day in front of a computer for my job, so when I do it at home I am looking for an experience that is less challenging and more meditative or cerebral. But that’s just me, sittin here with my Netflix, Euro Truck Simulator and modern adventure games. ¯\_(ツ)_/¯
+
+11/05/2016 at 10:00
+
+UW says:
+
+Doubt you’ll read this but the analogy here doesn’t really hold up in my opinion. In Dark Souls you are repeating ostensibly the same task but you are improving over time, and you also generally have the option of doing other things. The point is that you are playing the game all the time.
+Getting stuck in an adventure game results in either a) Trying every possible combination of item and talking to every NPC with every item until something sticks or b) stop playing the game and think about what to do next. As someone who has played a lot of adventure games I tend to find that option a has gotten me out of more ruts than option b, especially as some of the puzzles in these games are ridiculous. Trying random combinations until something works isn’t satisfying or challenging, it’s just time consuming. You’re no better at solving puzzles than you were before you did it – that’s the key difference with Dark Souls. Once you beat a boss you have fundamentally improved as a player, and that improvement is incremental with every failure. It might seem like you’ve stopped dead but in reality you’re carving away at a rock, making progress non-stop. In an adventure game quite often you really do just stop playing and stop making progresss, think about it and come back later. Back when I had a new game every few months I was willing to do that, I guess. Nowadays, not so much.
+
+23/03/2016 at 00:40
+
+syllopsium says:
+
+What have they done?! I’ve bought it, and it’s just not as good as the original.
+The music is if I remember correctly, better than OPL3 on a Soundblaster, but it’s not as good as a Roland MT32. They’ve unnecessarily changed various sound samples including the tentacle sucker sound, the cow moo sound, and others.
+The animation is not as high quality, but it’s inconsistent – some is decent, and the increased resolution and detail is appreciated. Others is below the standard of 320×200 animation from the 90s..
+There’s something up with the ‘original’ artwork too. In short, it looks and sounds worse using the remastered ‘original’ settings, as compared to SCUMMVM with the real original files, scaling with no smoothing, and the MT-32 emulator, never mind firing up my real MT32 and DOS DOTT.
+So, there you go. A modern remake on what’s presumably a reasonably limited budget, produces a worse output than a well funded early 90s team. I’m going to play it anyway, and I’m sure there’s some advantages, but it’s more disappointing than the MI2 remake, which only had a few issues with animation and detail.
+
+24/03/2016 at 00:26
+
+patricklibuda says:
+
+Hi,
+Have so far only watched Youtube clips of DotT Remastered. However, so far, as far as music and sound effects are concerned, my favourite is the original English DOS CD version with my hardware Roland SC-55 or SCB-7 (Waveblaster upgrade board with a Waveblaster to Midi adapter) in General Midi mode plus Soundblaster effects (‘tentacle g330 s220/5/8’) although I also still have an MT-32 playthrough on my to-do list (was mad and got myself a hardware MT-32 as well some time ago – at least Monkey2 and Fate of Atlantis sound utterly lovely ;-) (in the case of Monkey2 particularly so with the fan patch that combines MT-32 music with Soundblaster sound effects!). MT-32 (‘tentacle r330 s220/5/8’) also sounds very good but GM music definitely sounds better in DotT, at least to my ears…
+Otherwise, I agree with your verdict on the tentacle and cow sounds in the intro. It is a bit of a shame that they were changed. Anyway, will have a closer look once I get my hands on the remastered version ;-).
+(Apart from that, you said something about having to fire up your old computer to compare. Have you tried connecting your MT-32 to your newer PC with a midi to USB adapter? In case you really have not tried yet, it actually is very easy. All you need is a Midi to USB adapter (e.g. the one from Roland/Edirol plus driver – over here in Germany it costs around 35-40 Euro), a line-in cable to connect your MT-32 to your sound card, and running ‘mixer /listmidi’ under DOSBox so that you know what Midi ID to enter in the according DOSBox config so that DOSBox can actually avail itself of your MT-32. (In case you have already done/tried, kindly ignore this drivel ;-)))
+As far as DotT is concerned, it still is my favourite adventure of all times – the puzzles just are beautifully mad and still logical in their own way. So far, at least in my opinion no other adventure has managed to achieve this in terms of puzzle quality (in this context cf. also the recent interview with Ron Gilbert on this site regarding puzzle design in connection with Thimbleweed Park).
+Cheers
+
+24/03/2016 at 23:38
+
+syllopsium says:
+
+Hi, yes, I have tried using the UM One MIDI to USB adapter (tip to anyone thinking of trying a cheap third party version – don’t bother, they don’t work properly) and it does get you 99% of the way there. SCUMMVM and an MT32 is certainly easier than a real DOS PC, or even DOSBox.
+I have to admit I haven’t tried DOTT with other sound modules yet (I also have an SC55) because it was written for an MT32. If you connect the MT32 up it displays ‘Lucasfilm Games’ on the MT32 display, as that’s what Lucasarts were called at the time.
+Personally I prefer Fate of Atlantis to DOTT, but both are fine adventures. I’ve also recently re-started Sam and Max, and it’s better than I remember.
+I’m hoping Thimbleweed Park is decent; I do like the trailer.
+
+25/03/2016 at 12:15
+
+patricklibuda says:
+
+On the whole, I definitely prefer General Midi over MT-32. According to my experience, you can basically forget about MT-32 if General Midi is supported by a game. I have for example also tried out things like Tie Fighter, Sam and Max, Pirates! Gold (for General Midi use the extra General Midi patch! – the patched CD-Version still is the MT-32/CM-32L version – if you have the CD version copy or install it (from the harddisk directory on the CD) to the harddisk – if you have the GOG version mount the CD and copy the according files to your harddisk and then install the General Midi patch and follow the instructions given – things sound much better than MT-32!!!), Battle Isle 2, Panzer General 1, Realms of Arkania 2 (Star Trail – DSA2 Sternenschweif – General Midi on Roland’s SC-55 and SCB-7 sound more or less exactly like the CD audio tracks supplied with the German version of the game), Ultima 8, Space Quest 5, etc.. Basically name it and I’ve probably tried it ;-). Both my SCB-7 and SC-55 sound much better than my MT-32 with these games, which is best with older stuff, e.g. the old Sierra adventures (e.g. KQ4, SQ3, SQ4), Wing Commander 1&2, Monkey 2, Fate of Atlantis (although the music there works even better with the CM-L (the same actually also applies to DotT although General Midi sounds better) – on the MT-32 a couple sounds are missing (e.g. cf. the MT-32 games list on en.wikipedia.org).
+I really love both DotT and Fate of Atlantis (General Midi support in the case of the latter would really be the icing on the cake… :-)). However, puzzle quality on DotT is better while the three paths in Fate of Atlantis are superb. DotT also unfortunately is a teensy bit short. Nevertheless, both are true masterpieces in their own way.
+All you need to know with LucasArts games in DOSBox is the startup options – e.g. type Monkey2 ?. I definitely prefer DOSBox although I also use SCUMMVM. If Soundblaster digital sounds do not work in DOSBox (DotT and Fate of Atlantis), reduce CPU cycles (15,000 or lower – try 10,000 and take it from there).
+The good thing about the Roland General Midi hardware stuff is that you have far less problems with Midi lag. For example, I have the Soundblaster X-Fi as my digital card (EAX in older Windows games (particularly Knights of the Old Republic 1&2) ;-) – and surround sound in supposedly stereo only games such as Fifa 14 via Alchemy / OpenAL – a football stadium atmosphere just sounds better if you hear the crowd from all speakers and not just the front two ;-) – yes it works and basically does so with virtually every DirectX9 game (even DirectX10 games work in a lot of cases cases – just a little hint ;-)) – all you need to do is to copy the two files dsound.dll and dsound.ini to the respective game directories) and if you put DOSBox cycles too high, midi music gets played virtually in slow motion – regardless of the size of the sound font (be it 2MB or 1 or more GB!). I have tried a number number and was not really happy with either of them (regardless of size and supposed quality) and have since gone back to the 4MB sample set that Creative have been providing ever since the Soundblaster Live as a good alternative (for a start, good bass punch ;-) – stuff such as Tie Fighter sounds really good as well indeed). In games, it actually also sounds better than its 8MB ‘colleague’ also kindly provided by Creative.
+
+25/03/2016 at 12:17
+
+patricklibuda says:
+
+sorry, of course I meant the CM-32L and not CM-L – silly me ;-)
+
+25/03/2016 at 13:27
+
+patricklibuda says:
+
+a little correction: not just DirectX 9 but basically any version of DirectSound in hardware mode, be it 2D or 3D!
+hardware sound is just so much better than weak software sound – it more or less blows your roof off by comparison ;-)
+all you need to do is put the X-Fi card in games mode – only then do you get hardware sound with Alchemy / OpenAL!
+
+24/03/2016 at 10:53
+
+patricklibuda says:
+
+By the way, Mr. Walker / John, did you get round to have a look at Zak2? Considering it is ‘only’ a fan-made adventure, it is remarkably good and of course it is for free (and has also been available in English since mid last year). Apart from that, it also is kind of officially endorsed by Mr. Fox. He actually also features in the game!
+
+27/03/2016 at 17:30
+
+Marclev says:
+
+Just finished it. I don’t see what the people complaining about the graphics are worried about, they look very faithful.
+The puzzles are surprisingly not-impossible for a game of that era. Compared to Monkey Island, Sam and Max, etc… they’re downright logical. I only needed a walk-through twice, once because I forgot what a clown does and the second time because I didn’t notice a door could be closed that was opened.
+If there’s one complaint I’d have it’d be that there wasn’t as much to do in the future as in the other timelines, but that’s not the remake’s fault. The game as a whole has definitely aged well.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+adventure, Day of the Tentacle, Day Of The Tentacle Remastered, Double Fine Productions, feature, Lucasarts, review, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

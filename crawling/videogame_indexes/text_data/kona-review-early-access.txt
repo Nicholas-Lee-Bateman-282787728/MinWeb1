@@ -1,0 +1,235 @@
+./html_data/kona-review-early-access.html
+
+RPS Feature
+The Long Dark meets Gone Home. 
+By Rob Zacny on March 14th, 2016 at 9:00 pm.
+
+Every Monday, Rob Zacny braces himself for the chilly wastes of Early Access and attempts to find warmth by the side of a worthy in-progress game.
+From its opening on a park-bench at a roadside rest stop in northern Quebec, Kona tantalized me with a combination of period detail and immersive-sim mechanics. Before my character, private detective Carl Faubert, even finished his cigarette, I’d made sure to stash his extra smokes, Instamatic camera, and map in my inventory. Then it was time to hop into a carefully recreated ’65 Chevy pickup and drive up a narrow ribbon of backcountry highway, while a gentle snowfall turned into a blizzard outside my windows.
+Kona is a wonderfully atmospheric game, though atmosphere isn’t hard to come by when you’ve turned the blizzard effects up to 11 and marooned the player in the wastes of northern Canada. With nothing but howling winter winds and a mysteriously deserted village for company, it’s easy to get caught up in the setting and its feeling of menacing isolation.
+
+
+The problem is that once you get beyond the evocative art and sound, there isn’t a whole lot that’s interesting or exciting about Kona’s setting: a tiny logging and mining community. The problems start with the narrator, who sounds a bit like an actor on old radio dramas as he attempts to inject drama into boring lines and trite observations: “The eyepatch: the preferred choice of the one-eyed and those with other eye conditions.” Most of what the narrator says is gruel-flavored flavor text that turns the narrator into an atonal, grating presence through much of the game.
+
+Even after a few hours playing the first chapter of Kona that’s available on Early Access, I still couldn’t tell you anything interesting about my character or the client that I was supposedly there to help. A list of credit accounts at the local general store told me who lived in the area, but further investigation failed to turn up a single reason to care about them.
+That’s partly down to Kona’s large, slightly empty world. You can open-up practically every dresser drawer and kitchen cabinet in the game, but most of them don’t have anything of interest inside them. The feeling of impending discovery begins to wane as Kona starts to feel like an extended rummage through a kitchen junk-drawer. While the rustic homes of the 1970s Québécois are charming and beautifully rendered, the environmental storytelling is confined to some hastily-packed luggage, abandoned cookware, and random diary entries from characters I struggled to keep straight. The village feels less like it’s been deserted and more like it was never inhabited in the first place.
+
+My confidence in developer Parabole’s storytelling did not increase when I got to the first major plot-twist: at the northern edge of town, the highway had collapsed into an impossible chasm, where a side-trail lead to a mysterious, glowing rock-face. Approaching it, the world vanished and I could see a series of neon ghosts standing by the cliff. Always ready to ensure that a big moment lands with a thud, the narrator remarked that “Carl wasn’t surprised to see the spirits, but he couldn’t figure out what they wanted.” Silly me, thinking that Carl would be surprised or interested by a spectral quartet hanging out in the woods.
+The fact that Kona almost always struggles to fulfill its narrative ambitions would bother me more if it were just a narrative exploration game, but it’s also a survival adventure. This is where that atmosphere I mentioned earlier starts to show more potential than serving as window-dressing on semi-competent ghost story.
+
+Carl Faubert’s current condition is measured by a series of meters showing his current health, warmth, and stress. Leave Carl out in the cold too long, he takes damage from it. Get him inside and light a fire, and he’ll be right as rain.
+If this implies that that Kona is operating in the same territory as fellow Canadian survival sim The Long Dark, you’d be correct. The difference is that, at least in this first chapter, those meters are mostly there for show. Warmth and shelter are never far away, and Carl’s quick to rally from a walk through the snow. Occasionally I spotted a wolf dashing across the snowfields, but never felt menaced by potential predators. Where The Long Dark is constantly asking you where your next meal is coming from, and where you can safely sleep, Kona’s environment exists as a potential threat, not really an active one.
+
+That said, there are lots of hints that survival and living by your wits will be a larger part of future adventures in Kona. The first location you visit, the general store, has you solve a little puzzle to repair a torn power-line from the backup generator, then use the circuit breaker to restore power to the main building. Each home and cabin usually has a wood-pile that can fuel the cast iron stoves in each kitchen, and there’s a precious small amount of firearm ammunition and healing items to be had.
+
+Kona is stubbornly hard to assess. It’s a much more substantial offering than I’d expect for a game that just hit Early Access: after about four hours of play, I’m still not sure I’ve seen everything there is to see in this build. Yet what’s there is also very rough: not only is the writing and storytelling fairly clunky in places, but there are also a lot of little issues like somewhat obscure interface and a save system that doesn’t always seem to want me to save.
+
+While I’m thrilled that Kona has an entire chapter ready to play right now, I’m also not sure that I like the direction of its overall narrative, or that my issues with it can still be corrected. As much as I enjoyed searching and exploring throughout this snowbound Québécois community, I kept waiting for the revelation or discovery that would make that search worthwhile. Right now I’d still say that it’s packed with potential to be a terrific hybrid of The Long Dark and Gone Home, but this first act hits so many flat notes that I’m wary (though still hopeful) about Kona’s ability to deliver on all that potential.
+
+Kona is available on Steam and GOG for a generous, temporary price of £ 7.09 / $9.37. My impressions are based on build 1018416 on 13 March 2016.
+
+14/03/2016 at 21:10
+
+rubmon says:
+
+Best game name ever, if you understand portuguese.
+link to urbandictionary.com
+
+14/03/2016 at 21:29
+
+AlexandreFiset says:
+
+We know about that :P According to some of our fans, it also means “wife” in Norwegian and “woman” in Icelandic.
+It’s also a city in Hawaii, a bike brand, a kind of a coffee and a brewery. 
+But, it’s meant to be the Cree word for “Snow”, which is Kôna.
+
+14/03/2016 at 22:06
+
+rubmon says:
+
+It’s cool, it’s only used in Portugal I believe.
+Anyway, game’s looking good, I think you nailed it on the atmosphere and as long as it doesn’t turn into yet another zombie/jump scare/paranormal fest it should turn out well. Keep it up!
+
+14/03/2016 at 21:25
+
+AlexandreFiset says:
+
+Hi! 
+I’m Alex, producer and UI designer on Kona. 
+We really appreciate the constructive and detailed feedback here. Opinions on narration are quite split, but I do have to admit there’s a lot of work left in order to make it sounds as good as it’s original French counterpart. 
+Texts and narration are not fully integrated and polished; it’s a Early Access after all. The lo-fi filter applied on the narrator voice will be tuned down and we have asked for a lot of retakes on some lines that felt like they were being read. 
+English texts have been translated by a friend of ours and will soon pass through a professional correction and validation process that will certainly improve the English narrative.
+As for the story itselfs, it unfortunately can’t unfold in a Early Access build; that would spoil the whole game. We are confident that once you do try the final thing, everything will make sense to you. 
+That being said, I have added this page to my favorite bar as it’s a great reminder of things we have to work on and improve. Thank you for being critic and honest as this is exactly what we need to make a better game for everyone (and the reason why we went into Early Access, after all).
+Cheers!
+
+15/03/2016 at 00:23
+
+grrrz says:
+
+yep, the french quebecois voice over in the previous trailer I saw seemed a lot more fitting to the atmosphere than the english one. Hope the game will still be playable in french.
+link to youtube.com
+It’s too bad the english speaking community is so reluctant to movies/games with subtitles (more so than in the rest of the world it would seem). Would be a good idea to offer english (or other languages) subs with the original voiceover.
+
+15/03/2016 at 01:43
+
+AlexandreFiset says:
+
+Yes it is planned to have the game playable with the voice actor of your choosing. In fact, it is already working in the game code, but French voice overs are temporarly turned off.
+
+15/03/2016 at 09:54
+
+grrrz says:
+
+ok, thanks (This is based on the trailers, I will probably give it a go once it’s finished). seems promising anyway.
+
+16/03/2016 at 09:01
+
+Dux Ducis Hodiernus says:
+
+Will french with eng subs be an option in the full game? I like the french narration, also gives me an opportunity to better understand the language
+
+16/03/2016 at 13:40
+
+Jean-Francois Fiset says:
+
+Yes, this option will even come during Early Access ;)
+Jean-Francois Fiset
+Community Manager at Parabole
+
+20/03/2016 at 06:22
+
+Phasma Felis says:
+
+Yeah, I find I usually prefer non-English stuff in its original language, with subtitles. For whatever reason, redubbed voiceovers are just never as good.
+It would be interesting to see the game reviewed that way, once it’s finished.
+
+14/03/2016 at 21:44
+
+JFS says:
+
+The header image made me think of that artsy Eastern bloc driving game. What was it called?
+
+14/03/2016 at 22:02
+
+flibbidy says:
+
+jalopy link to twitter.com
+
+14/03/2016 at 22:04
+
+klops says:
+
+Jalopy or My Summer Car.
+
+15/03/2016 at 13:02
+
+theapeofnaples says:
+
+Exactly this ^
+
+15/03/2016 at 15:38
+
+JFS says:
+
+Thanks a lot! I knew they’d changed the name sometime ago.
+
+14/03/2016 at 22:02
+
+klops says:
+
+Ooh!
+
+14/03/2016 at 23:04
+
+Ddub says:
+
+“The eyepatch: the preferred choice of the one-eyed and those with other eye conditions.” Most of what the narrator says is gruel-flavored flavor text that turns the narrator into an atonal, grating presence through much of the game.
+This reminds me of the Darkest Dungeon narrator.
+
+14/03/2016 at 23:08
+
+Ddub says:
+
+Lots of phallic shaped foods in that picture.
+
+14/03/2016 at 23:41
+
+teije says:
+
+Looks quite interesting – I’ll keep on eye on this one. If they deliver on the potential could be solid.
+
+15/03/2016 at 08:09
+
+Unsheep says:
+
+Yes but Kona still seems more cool and interesting than Gone Home.
+For one thing there seems to be actual gameplay in Kona.
+So ‘no’, I definitely don’t want this to be another Gone Home.
+Reading on the game’s website it also says this will be a 8-20 hour game once all four episodes are released.
+Each episode is 2-5 hours long, so for $20 you can either buy the 20 minute long Gone Home, or roughly three episodes of Kona (assuming they are priced the same), giving you 6-15 hours worth of content.
+On their website they further describe their game as a modern survival game but with deeper storytelling than what you would normally expect in a survival game, as well as puzzle elements inspired by traditional adventure games. Its a combination of at least two different genres.
+I assume expected range of completion, 8-20 hours, varies so much because of the survival and puzzle-solving elements, which will affect gamers differently.
+So I think comparisons to Ethan Carter or Ether One are more appropriate, as it seems to combine puzzle elements from these kind of games with some “light” survival aspects inspired by games like the Long Dark and similar.
+
+15/03/2016 at 08:30
+
+borvid says:
+
+20 mins GTFO
+
+15/03/2016 at 08:27
+
+BlackLabel says:
+
+Rob dude,
+you can save anywhere where thee is a heatsource. make a fire and save the game.
+I like the mechanic but some People might find itinconvinent.
+
+15/03/2016 at 09:17
+
+iainl says:
+
+And now I’m wondering if the mechanic is poor, or merely the explanation of it. It doesn’t strike me as immediately obvious.
+It sounds like the bones of a really good experience are there, but I’m not sure narrative things like this are best suited to Early Access. I tend to just wait until games are finished these days.
+
+15/03/2016 at 16:34
+
+Jean-Francois Fiset says:
+
+We made this Early Access for financial reasons, but we tried to avoid spoiling too much of the story in the build. If we could, we would have waited to release the whole thing. If someone wants to wait for the full release, they can buy it now at 33% off and wait for the big update or pay it full price once it’s out. We know Early Access is not for everyone ;)
+For the saving feature, there are tooltips to tell players when they can save. As of now, they don’t work 100% of the time, we are working on it though.
+Jean-Francois Fiset
+Community Manager at Parabole
+
+15/03/2016 at 10:00
+
+Mr Wonderstuff says:
+
+Once out of early access I’ll pick this up.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+alpha, Early Access, feature, Kona, Parabole, Premature Evaluation.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

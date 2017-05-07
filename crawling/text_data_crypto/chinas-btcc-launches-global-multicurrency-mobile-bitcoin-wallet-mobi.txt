@@ -1,0 +1,18 @@
+./html_data_bitcoins/chinas-btcc-launches-global-multicurrency-mobile-bitcoin-wallet-mobi.txt
+
+
+
+CryptoCoinsNews
+Chinese bitcoin company BTCC, the operator of China’s first oldest bitcoin exchange BTCChina, has launched Mobi, a multicurrency bitcoin wallet for iOS and Android today.
+Launched today with support for over 100 currencies, the Mobi app is linked to a user’s phone number with instant money transfers guaranteed by Mobi via its ‘private blockchain’. Users’ accounts are linked to their mobile numbers with a focus on ease-of-use and convenience. Mobi will also support bitcoin transfers on the public bitcoin blockchain, the company announced.
+
+Mobi claims to be the only mobile app to allow instant conversion, storage and transfer of money with support to over 100 currencies including the US dollar, the British Sterling pound, the Euro, gold, silver and bitcoin.
+“Mobi eliminates friction in money transfer, making money truly global,” said BTCC chief executive Bobby Lee. “With Mobi, you can send any money to anyone anywhere.”
+Taking a cue from ChangeTip, Mobi also supports payments to any one of Twitter’s 300 million(+) accounts, albeit with a focus on larger payment than tips.
+Aiming to gain a presence in the global money transfer market, the Chinese bitcoin company is making a marked effort in diversifying beyond digital currency exchanges and mining pools.
+Mobi will also enable users with an option Visa debit card, linked to their accounts. The card allows cash withdrawals at over 2 million Visa-enabled ATMs and supports transactions at point-of-sale retail storefronts powered by the world’s largest payments network, in Visa.
+“Our conversion rates are calculated from a very comprehensive base of commercial sources and banks around the world, a given currency’s volatility in the past 365 days, and a user’s daily conversion volume,” reads an explainer on Mobi’s conversion fees. “We offer one of the best rates on this planet, and we confidently encourage everyone to compare our rates to those of other services.”
+With support for over 15 languages including English, French, German, Japanese, Korean and Spanish, among others, Mobi is available for both iOS and Android, starting today.
+As the head of a bitcoin-oriented company, Lee adds that BTCC’s newest product will help push bitcoin adoption and awareness in the mainstream, calling it the “killer app” for the cryptocurrency.
+Mobi will take bitcoin mainstream, with mobile-number accounts, Twitter payments, and a Visa debit card. Mobi is the killer app for bitcoin.
+Images from Mobi.

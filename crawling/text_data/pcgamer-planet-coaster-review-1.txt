@@ -1,0 +1,46 @@
+
+
+ 
+ 
+ 
+
+
+By
+Jody Macgregor
+ 
+
+Better than RollerCoaster Tycoon World, but doesn't do much to innovate on the formula.
+What is it? One of several theme park management sims keen on reviving the venerable genre.Expect to pay £30 / $45Developer Frontier DevelopmentsPublisher Frontier DevelopmentsReviewed on Windows 10, GeForce GTX 960, Intel Core i7, 8GB RAMMultiplayer NoneLink Official site 
+Let's get this elephant out of the room: Planet Coaster is made by Frontier, developers of the well-loved RollerCoaster Tycoon 3. The day before its release, Atari's RollerCoaster Tycoon World comes out, having had a rough beta thanks to flaws including limited coaster heights and a clumsy camera. The community is siding with Planet Coaster in a repeat of SimCity versus Cities: Skylines—the official continuation alienates fans, the nostalgic throwback wins hearts.
+And Planet Coaster is definitely a throwback, sharing enough RollerCoaster Tycoon 3 DNA it should come with papers like a pedigree dog. It has a cartoon look that disguises the spreadsheet management side, and a lovely 3D engine that lets you experience your own rides in first-person. It's comfortingly familiar.
+
+There are three ways to play Planet Coaster. Career mode hands you someone else's half-built park and the job of saving it from calamity, whether unhappy customers or an alien monolith that makes rides break down. RollerCoaster Tycoon featured a park spread over several North Atlantic icebergs, so there's form for this kind of oddness. Even at its weirdest, career mode does feel like playing with someone else's toys. You can't even use the terrain tools to make some of the nice tunnels Planet Coaster is capable of.
+The campaign levels do provide inspiration for my own parks, and can be exported into the freeform sandbox mode where funds are unlimited, terrain deformation is on, and there's no need to research rides and shops to unlock the good ones. Almost everything can be customized, encrusted with theming down to signs with your own text in a variety of fonts. If you're the kind of person who can happily spend hours designing a toilet block this will make you happy.
+Watching guests enjoy themselves gives me a warm glow.
+Challenge mode is where it's at. The need to budget provides structure, and challenges offer rewards for making a coaster a certain length, or for achieving a particular rating. My park grows, gaining burger and milkshake stalls, bins and janitors. People complain about the queues not only being long but also boring, so I go all out on theming. I fill my park with dragons, including an animatronic that eats guests and piles dragonpoop behind it. There's also the option to cop out and buy a golden treasure chest for $10,000, lazily guaranteeing instant happiness for customers near it.
+Watching guests enjoy themselves gives me a warm glow. So does watching my profits climb even as I keep the research budget up, provide training and payrises for staff, and throw money at marketing to see what happens. At first there's always a little hump to get over before the profits start rolling in, but once I clear that it's just a matter of speeding the timer up whenever I'm low on cash and then throwing my earnings at the latest problem. Rides breaking down? Hire another mechanic. Need more guests? Pay for ads.
+The only difficulty is that there's no way to give all my janitors a raise or train all my entertainers simultaneously once my park gets big. The sedate feeling I get from slipping into this management zone is within spitting distance of boredom, and getting to grips with the staff roster system pushes me over the line, but within the zone it's undeniably pleasant.
+
+Planet Coaster is made to create a certain kind of park, the guided experience where you turn a corner and suddenly see something amazing from the perfect angle. Trying to recreate something like Melbourne's Luna Park, where everything is anarchically plonked down within a big triangle you explore as you please, doesn't work so well. Like city simulators with grids that make every city look American, the pathing of Planet Coaster comes with implicit assumptions about what you want to build baked in.
+The paths are real fussbudgets too. More than once I've designed a coaster only to realise the fiddly queue won't connect and I need to go back and edit the original path again. Customers complain about queues endlessly, even after I hire entertainers like a cow who bounces on her udders repeating, “Boing!” There's nothing fun about fiddling with pavement this much, though presumably it's necessary to keep the AI from getting confused.
+In Planet Coaster the rides are quieter, and instead of wind I mostly hear other passengers babbling away like Sims.
+Actually riding the coasters doesn’t offer the same rush as it did in RollerCoaster Tycoon 3’s evocative first-person mode. I still remember the kerchunking anticipation in RCT 3 as a lift chain pulled me up to a summit, and the howling windrush of the fall. In Planet Coaster the rides are quieter, and instead of wind I mostly hear other passengers babbling away like Sims. It takes the edge off, leaving me sitting there like Mr Bean yawning as everyone else screams.
+Planet Coaster feels so similar to RollerCoaster Tycoon 3 it's impossible not to compare. Guests have better AI here, sticking together in family groups, though during their rush to get on rides they clip through each other creating monsters of jumbled faces and limbs. More significantly, there are fewer rides than in RollerCoaster Tycoon 3, even before its expansions. To make up for that you can copy blueprints from other players on the Steam Workshop. There’s already a huge variety, so if you want Hogwarts or a Millennium Falcon, you can find them.
+
+Nothing I make can compete, but I still design my own coasters. Manipulating every section of track down to the angle of banking is a bit much, but slotting canned cobra loops and helix swirls into my design works well, and it's easy to let the autocomplete tie it all up at the end. This is one clear improvement from RollerCoaster Tycoon 3: autocomplete is fast and doesn't return those “Station is not long enough” errors.
+I test repeatedly as I build to avoid the heartbreak of finishing only to realise the first corner is too sharp, though testing on an incomplete track sacrifices the lives of many crash-test dummies. The thorough testing process gives you a heatmap that highlights problem areas and notes when nausea and fear ratings are high. When my rollercoaster finally opens only one brave woman tries it. She walks away thinking, “at least the queue was short.”
+Planet Coaster is a familiar, warm bath of a thing, relaxing and constant.
+Thanks to RollerCoaster Tycoon World lowering expectations, Planet Coaster will be hailed the official sequel that should have been—at least by players who aren't into the even more old-fashioned Parkitect, currently in Early Access. But while Planet Coaster is a solid continuation of what came before, it's hard not to wonder what a more ambitious version could have done. 
+For instance, imagine having to compete against rival parks, or a co-operative multiplayer mode in which you and a friend build together and can separate out who looks after what. The research system, which mainly exists to gate progress, suggests a mode about playing through the history of theme parks, starting out with a scenic railway in 1912 and having to evolve through the 20th century.
+Instead Planet Coaster is a familiar, warm bath of a thing, relaxing and constant. That's OK, and I do think Planet Coaster is a very good game, but there's not much here to stop me from wanting to load an old save in RollerCoaster Tycoon 3 instead.
+This review was originally published with a score of 70%, but didn't take into account content added on release day. This is the revised, complete review. We apologize for any confusion caused.
+Better than RollerCoaster Tycoon World, but doesn't do much to innovate on the formula.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

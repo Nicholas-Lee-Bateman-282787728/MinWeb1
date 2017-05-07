@@ -1,0 +1,1828 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta property="fb:pages" content="176784995741043"/>
+<meta name="Googlebot-News" content="noindex, nofollow"><title>The Witcher 3: Hearts Of Stone review | Rock, Paper, Shotgun</title>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/style.css?cb=acf3c73" type="text/css" media="screen"/>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/icon-fonts/css/fontello.css?cb=c8c7fe11" type="text/css" media="screen"/>
+<link rel="pingback" href="https://www.rockpapershotgun.com/xmlrpc.php"/>
+<link rel="shortcut icon" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/favicon-new.ico"/>
+<link rel="next" href=""/>
+ 
+ 
+ 
+<meta name="description" itemprop="description" content="The Witcher III: Hearts Of Stone has a simple moral: be careful what you wish for, unless it's more The Witcher III, obviously. Taking place after the main"/>
+<meta name="keywords" itemprop="keywords" content="cd projekt red,feature,review,rpg,the witcher 3: hearts of stone,the witcher 3: wild hunt,wot i think"/>
+<link rel="canonical" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Feed" href="https://www.rockpapershotgun.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Comments Feed" href="https://www.rockpapershotgun.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Wot I Think: The Witcher III: Hearts Of Stone Comments Feed" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/feed/"/>
+<meta property="og:title" content="Wot I Think: The Witcher III: Hearts Of Stone"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/"/>
+<meta property="og:site_name" content="Rock Paper Shotgun"/>
+<meta property="og:image" content="https://www.rockpapershotgun.com/images/15/oct/w31.jpg"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.rockpapershotgun.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='eu-cookie-directive-css' href='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/style.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='bbspoiler-css' href='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='https://www.rockpapershotgun.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='rps_features-css' href='https://www.rockpapershotgun.com/wp-content/plugins/rps-features/rps-features.css?ver=1.10' type='text/css' media='all'/>
+<link rel='stylesheet' id='lightboxStyle-css' href='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/css/textframe/colorbox.css?ver=2.7' type='text/css' media='screen'/>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/wp-gfycat/js/gfycat_test_.js?ver=4.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var title = {"unfolded":"Expand","folded":"Collapse"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.5.3'></script>
+<link rel='https://api.w.org/' href='https://www.rockpapershotgun.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.rockpapershotgun.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.rockpapershotgun.com/wp-includes/wlwmanifest.xml"/>
+<link rel='prev' title='Mordheim: City Of The Damned Explained In New Trailer' href='https://www.rockpapershotgun.com/2015/10/09/mordheim-city-of-the-damned-overview-trailer/'/>
+<link rel='next' title='The Doctor Who Game Maker Is A Bit Rubbish But Vital' href='https://www.rockpapershotgun.com/2015/10/09/doctor-who-game-maker/'/>
+<meta name="generator" content="WordPress 4.5.3"/>
+<link rel='shortlink' href='https://wp.me/pkbbD-1lih'/>
+<link rel="alternate" type="application/json+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2015%2F10%2F09%2Fthe-witcher-3-hearts-of-stone-review%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2015%2F10%2F09%2Fthe-witcher-3-hearts-of-stone-review%2F&#038;format=xml"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity - Full Post Feed" href="https://www.rockpapershotgun.com/feed/?dualfeed=2"/>
+ 
+<meta property="fb:pages" content="176784995741043"/>
+<link type="text/css" rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/plugins/simple-pull-quote/css/simple-pull-quote.css"/>
+<style>.theiaPostSlider_nav.fontTheme ._title,.theiaPostSlider_nav.fontTheme ._text{line-height:16px;}.theiaPostSlider_nav.fontTheme ._button{color:#c1272c;}.theiaPostSlider_nav.fontTheme ._button ._2 span{font-size:16px;line-height:16px;}.theiaPostSlider_nav.fontTheme ._button:hover,.theiaPostSlider_nav.fontTheme ._button:focus{color:#db5357;}.theiaPostSlider_nav.fontTheme ._disabled{color:#727272!important;}</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel="amphtml" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/amp/"/> <script>
+                        function mormontLoaded () {
+                                mormont('set', 'section', 'article');
+                                mormont('set', 'language', 'en');
+                                mormont('set', 'platforms', ["pc"]);
+                                mormont('set', 'published', "2015-10-09T18:00:35+00:00");
+                                mormont('set', 'article_type', "news");
+                                                                mormont('set', 'tags', ['tag:cd-projekt-red','tag:feature','tag:review','tag:rpg','tag:the-witcher-3-hearts-of-stone','tag:the-witcher-3-wild-hunt','tag:wot-i-think']); 
+                                mormont('send', 'pageview');
+                            };
+                </script>
+<script src="//cdn.gamer-network.net/2015/scripts/mormont/v2/mormont.js" async onload="mormontLoaded()"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/plugins.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/application.js" type="text/javascript" charset="utf-8"></script>
+<script src="//cdn.gamer-network.net/plugins/dfp/async.dfp.1.1.16.js"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/ad-related.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/InlineAds.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('.entry img').each(function(){jQuery(this).attr('title',(jQuery(this).attr('alt')))});
+});
+</script>
+ 
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-2667859-1', 'auto');
+
+    ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
+
+    ga('send', 'pageview');
+
+            ga('set', 'dimension4', '0');
+    </script>
+ 
+<meta name="readability-verification" content="EDFS6HqfEsVJByL2MzxYRrype6cdTyPbjFaJAWj5"/>
+ 
+<script type='text/javascript'>
+    var OA_source = 'article';
+</script>
+ 
+<meta name="twitter:card" value="summary"/>
+<meta name="twitter:url" value="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/"/>
+<meta name="twitter:title" value="Wot I Think: The Witcher III: Hearts Of Stone"/>
+<meta name="twitter:description" value="The Witcher III: Hearts Of Stone [official site] has a simple moral: be careful what you wish for, unless it&#8217;s more The Witcher III, obviously. Taking place after the main campaign, though not at all related to it, Hearts of Stone is a ten hour tale of ambition, of regret, of manipulation, cruelty and sorrow [&hellip;]"/>
+<meta name="twitter:image" value="https://www.rockpapershotgun.com/images/15/oct/w31.jpg"/>
+<meta name="twitter:site" value="@rockpapershot"/>
+<meta name="twitter:creator" value="@rockpapershot"/>
+ 
+ 
+</head>
+<body class="single single-post postid-320185 single-format-standard category-featured-articles category-pc-game-reviews">
+<div id="header">
+<div id="header-content">
+<div class="logo">
+<a href="https://www.rockpapershotgun.com">Rock, Paper, Shotgun</a>
+</div>
+<div class="header-items">
+<a class="hidden-desktop mobile-link search-link" href="#header-search">Search</a>
+<div id="header-search" class="mobile-menu visible-desktop">
+<form method="get" action="/" id="search">
+<fieldset>
+<input type="text" name="s" id="search-site" placeholder="Search the site"/>
+<input type="submit" class="submit" value="Go"/>
+</fieldset>
+</form>
+</div>
+<div id="menu-header-links-container" class="hidden-mobile"><ul id="menu-header-links" class="menu"><li id="menu-item-260401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-260401"><a href="https://www.rockpapershotgun.com/2015/10/16/best-free-games-on-pc/">50 Best Free Games On PC</a></li>
+<li id="menu-item-419715" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-419715"><a href="https://www.rockpapershotgun.com/2016/12/01/best-games-of-the-year-2016/">Best PC Games of 2016</a></li>
+</ul></div>
+<a class="hidden-desktop mobile-link menu-link" href="#menus-wrapper">Menu</a>
+<div id="menus-wrapper" class="mobile-menu visible-desktop">
+<div id="menu-main-container"><ul id="menu-main-nav" class="menu"><li id="menu-item-168856" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168856"><a href="/category/featured-articles/">RPS Features</a></li>
+<li id="menu-item-168857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168857"><a href="/pc-game-reviews/">Reviews</a></li>
+<li id="menu-item-168858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168858"><a href="/category/pc-game-news/">News</a></li>
+<li id="menu-item-168859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168859"><a href="/category/free-pc-games">Free Games</a></li>
+<li id="menu-item-287901" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287901"><a href="https://www.rockpapershotgun.com/category/esports/">Esports</a></li>
+<li id="menu-item-168860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168860"><a href="/category/hardware/">Hardware</a></li>
+<li id="menu-item-281803" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-281803"><a href="https://www.rockpapershotgun.com/category/guides/">Guides</a></li>
+<li id="menu-item-168861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168861"><a href="/supportrps">Support RPS</a></li>
+<li id="menu-item-168862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168862"><a href="/forums/forum.php">Forum</a></li>
+</ul></div>
+<div id="menu-utility-container">
+<ul id="menu-utility" class="menu"><li id="menu-item-142626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142626"><a href="https://www.rockpapershotgun.com/about-pc-gaming-rps/">About Us</a></li>
+<li id="menu-item-168863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168863"><a href="https://www.rockpapershotgun.com/advertise-pc-games/">Advertise</a></li>
+<li id="menu-item-142627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142627"><a href="https://www.rockpapershotgun.com/hey-prs-and-developers/">Hey, developers!</a></li>
+<li id="menu-item-142628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142628"><a href="https://www.rockpapershotgun.com/privacy-stuff/">Privacy</a></li>
+<li id="menu-item-168865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168865"><a href="http://feeds.feedburner.com/RockPaperShotgun">RSS</a></li>
+<li id="menu-item-168864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168864"><a href="http://steamcommunity.com/groups/rps">Steam</a></li>
+<li id="menu-item-249683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249683"><a href="https://twitter.com/rockpapershot">Twitter</a></li>
+<li id="menu-item-266251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-266251"><a href="https://www.facebook.com/rockpapershot">Facebook</a></li>
+</ul> <ul>
+<li><a href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.rockpapershotgun.com%2F2015%2F10%2F09%2Fthe-witcher-3-hearts-of-stone-review%2F">Login</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page-wrapper">
+<div class="leaderboards hidden-mobile">
+ 
+<div class="ad-desktop ad-hd ad-leaderboard-top-desktop" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90,970x250,1260x110,1260x250" id="div-ga-RPS_LB_1" data-ghost-zone="25" data-yafa-name="bwxynpjn" data-yafa-img="https://images.eurogamer.net/2017/vv4y5y544y5vbbyv45/n598nyv43tn98.jpg" data-yafa-click="http://bit.ly/2o8OYcq" data-yafa-target="#page-wrapper" data-yafa-style="padding-top:200px; background-color: white; background-repeat: no-repeat; background-position: 50% 0;" data-yafa-linktarget="#page-wrapper, #inner-wrapper, .page" data-yafa-linkheight="1200"></div>
+ 
+ 
+<div class="ad-tablet ad-leaderboard-top-tablet" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90" id="div-ga-RPS_LB_1_TABLET" data-ghost-zone="25"></div>
+ 
+</div>
+<div id="page">
+<div id="content">
+<div class="content">
+<article id="post-320185" class="block featured-block">
+<p class="featured-block-title">
+<a class="featured-block__text  featured-block__text--feature" href="https://www.rockpapershotgun.com/category/featured-articles">RPS Feature</a>
+Between a rock and a hard choice </p>
+<div class="post-inner">
+<nav>
+<ul class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com" rel="v:url" property="v:title">
+Home </a>
+</li>
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com/pc-game-reviews" rel="v:url" property="v:title">
+Reviews </a>
+</li>
+</ul>
+</nav>
+<header>
+<h1>Wot I Think: The Witcher III: Hearts Of Stone</h1>
+<aside class="byline">
+<p>By <a href="mailto:&#114;i&#99;&#104;&#97;rd&#64;&#114;&#111;&#99;k&#112;&#97;&#112;&#101;rsh&#111;t&#103;u&#110;.co&#109;">Richard Cobbett</a> on October 9th, 2015 at 6:00 pm.</p>
+</aside>
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Wot I Think: The Witcher III: Hearts Of Stone https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</header>
+<div class="entry">
+<p><img src="https://www.rockpapershotgun.com/images/15/oct/w31.jpg"/></p>
+<p><a href="https://www.rockpapershotgun.com/tag/the-witcher-3-hearts-of-stone/">The Witcher III: Hearts Of Stone</a> [<a href="http://www.thewitcher.com">official site</a>] has a simple moral: be careful what you wish for, unless it&#8217;s more The Witcher III, obviously. Taking place after the main campaign, though not at all related to it, Hearts of Stone is a ten hour tale of ambition, of regret, of manipulation, cruelty and sorrow that gets to push aside fears of the incoming apocalypse in favour of focusing deep on the series&#8217; love of finding compassion in the most cynical of situations. The worst I can say is that it&#8217;s &#8216;just&#8217; more of The Witcher 3 to play, but rarely has that word more deserved its air-quotes.</p>
+<p>Here&#8217;s Wot I Think, as if you haven&#8217;t already guessed.</p>
+<p><span id="more-320185"></span></p>
+<p><img src="https://www.rockpapershotgun.com/images/15/oct/w32.jpg"/></p>
+<p>As ever, it begins with a contract to kill a monster &#8211; one that you&#8217;ll want to be Level 30 to take up, though if you don&#8217;t have a suitable save, Hearts of Stone offers a custom New Game mode that switches off the main storyline quests, but boosts you to Level 32 and gives you lots of nice gear. It&#8217;s not long though before the real story kicks in, that of fallen noble turned bandit Olgierd von Everec, who wished for immortality, only to discover that every deal comes with a price that is known, and a price that is not. Now, his benefactor, The Man of Glass, needs Geralt to be his debt collector, and won&#8217;t take no for an answer. The brand on Geralt&#8217;s face? Just a polite reminder.</p>
+<p>It&#8217;s a strong story, going straight to the heart of what makes The Witcher universe so interesting &#8211; the menace of fairy tales made flesh, a character study that uses its ten hours to consider von Everec through the eyes of those who truly love as well as hate him. Much like the Bloody Baron in the main game, he sits between monster and tragic figure; a man with his own darkness, but also one targeted and manipulated in ways that at least merit compassion. Forgiveness, though? A trickier question.</p>
+<p><img src="https://www.rockpapershotgun.com/images/15/oct/w33.jpg"/></p>
+<p>What&#8217;s perhaps most surprising about Hearts of Stone is how well it justifies its own existence. Often, DLC has that element of cleaning up after the party to it, especially when the party involved the most important people in Geralt&#8217;s life and the fate of multiple worlds. Hearts of Stone though is clever about it, feeling more like a new Witcher short story than just another chapter. One of its smartest moves for instance is bringing back Shani from the first game as a major player, giving Geralt an emotional connection to a story that otherwise doesn&#8217;t concern him all that much. Another is using its time very carefully, with what initially seems like a lazy premise (complete, yes, three tasks for von Everec) allowing the characters and story to breathe.</p>
+<p>The Man of Glass himself is a particularly fantastic piece of work. He&#8217;s a jovial fellow, happy to banter with Geralt and share gingerbread making tips with the common folk. When the mask drops though, it&#8217;s the bursting of a balloon in a quiet room &#8211; his words the stab of a knife into flesh, his smile the twisting of it. He&#8217;s a fairly stock archetype in many ways &#8211; he&#8217;s the manipulative genie, Rumplestiltskin, the owner of that mysterious shop that wasn&#8217;t here yesterday &#8211; but a very effective one who&#8217;s fully aware that knowing his deal doesn&#8217;t mean he won&#8217;t be able to strike one with you, even if he has to set up your complete downfall to get you to sign on the dotted line.</p>
+<p>As with Shani on the friendly side of things, his presence and the often unspoken power behind it is a big part of the reason that Hearts of Stone feels worthy of being a standalone expansion instead of just a bolted on quest. He&#8217;s not planning world domination or anything so base, but he&#8217;s still a power to be reckoned with. In particular, while there&#8217;s no time pressure on his quest and you can completely ignore it if you like, CD Projekt does a great job of making it clear that the only reason Geralt has that choice is because it amuses the Man of Glass to let him think he does. For now.</p>
+<p><img src="https://www.rockpapershotgun.com/images/15/oct/w34.jpg"/></p>
+<p>That&#8217;s as much of the main story as I&#8217;m going to talk about &#8211; don&#8217;t worry, all of that is presented very early on. What it sets up though is a great expansion where my only real complaint is that after over 50 hours, the scenery is getting a touch familiar. There&#8217;s a point early on where Geralt finds himself captured by Ofrier soldiers (non white-guys, incidentally, who are dicks, but with reasons for it, and balanced out by other non-dicks from the same part of the world) and bundled onto a ship bound for their homeland, and it&#8217;s hard not to feel a little bit disappointed when he escapes to continue questing around Oxenfurt. Ditto for dealing with dudes in armour instead of cool monsters.</p>
+<p>That being said, Hearts of Stone has always been set up as the smaller of the two expansions planned, with the next, Blood and Wine, taking us somewhere brand new. Also, more importantly, the lack of dramatic new scenery absolutely doesn&#8217;t mean a lack of new areas or lots of cheap set re-use in the existing map. Far from it.</p>
+<p>As with the main game, CD Projekt treats each major story as not just a handwave for some more combat or looting, but as a chance to try a different (albeit often &#8216;use your Witcher senses to&#8230;&#8217;) spin on the action. Here, that means Geralt gathering a team to pull a heist, to explore haunted memories of better times, and most notably, to let a ghost take over his body and take Shani to a wedding. Admittedly, spending time with a possessed Geralt does drive home that, voice-wise, Doug Cockle seems to have the range of a punch-dagger. Still, the whole sequence is the stuff that great big grins are made of &#8211; the usually stoic Geralt chasing pigs, making ludicrous bets with Gwent players and delivering insulting speeches, all with the main game&#8217;s wonderfully subtle facial animation to visibly show the difference between the two men.</p>
+<p><img src="https://www.rockpapershotgun.com/images/15/oct/w35.jpg"/></p>
+<p>There&#8217;s just so much here, and it&#8217;s all so well made. At this point I almost <em>want</em> CD Projekt to phone something in. Please. Anything! I&#8217;ll feel better about my laziness, and the rest of the industry needs a break from being so comprehensively schooled.</p>
+<p>At no point does anything in Hearts of Stone seem to have been treated as &#8216;just&#8217; DLC, or any way less important than anything on the main Witcher 3 questline. Let me give a quick example that won&#8217;t be too spoilery &#8211; there&#8217;s a point where Geralt goes to an auction house, just to meet someone. Once inside though there are about five characters to talk to, several with a micro-quest to accomplish. You get to play through the actual auction, including bidding for items and spawning at least one mini-quest depending on how you did earlier. The whole thing is wrapped in ambient dialogue. And then, when the objects are being presented by the auctioneer&#8230; if I&#8217;ve just missed the object re-use from the main game here, then I apologise, but I can think of several things just like this that I could drop in its place&#8230; you find that someone on the art team has bothered <em>to model the Maltese Falcon</em>. Purely as a quick sight gag!</p>
+<p>The amount of love in this game is ridiculous. I can&#8217;t wait for Cyberpunk 2077.</p>
+<p><img src="https://www.rockpapershotgun.com/images/15/oct/w36.jpg"/></p>
+<p>The whole sequence at the wedding is probably my favourite. Again, it&#8217;s a mix of what CD Projekt does better than anyone at the moment &#8211; that fusion of character study and RPG mechanics. It&#8217;s such a tight piece of design, with Geralt, the ghost and Shani all sharing the spotlight, and their relationship and respect for each other slowly evolving as you complete mini-games or simply react to events. Shani herself makes a surprising impact given the nature of some of the other players in the story, being essentially an antidote to what many people mistakenly consider The Witcher&#8217;s sins &#8211; a very strong character whose life doesn&#8217;t revolve around Geralt, and definitely not Geralt&#8217;s penis. Everything about their relationship here works beautifully, up to what it means if the two of them do sleep together, and The Witcher&#8217;s acceptance that their limits are every bit as much because of her professional calling as Geralt&#8217;s Path.</p>
+<p>But the whole expansion is about as good. Nothing outstays its welcome, nothing feels like it&#8217;s been cut-down to size. The heist mission for instance could easily have been &#8220;Go speak to the best people and recruit them&#8221;, but no, Geralt gets to choose. There are big choices to make which affect fights. The new bosses added are a genuine challenge, particularly a rat-bastard hard fellow called The Caretaker who can heal himself with one good swing of his weapon, either at you or the ghosts he summons. Most notably of all though, every moment of the game feels like a collaboration between everyone on the team, whether it&#8217;s the programmers whipping up a natural media shader for a sequence, or the art team drawing up Wanted posters to decorate a back wall, or the writers taking a moment to sprinkle in a little extra ambient dialogue here and there to bring the newly added bits of the game into the wider world.</p>
+<p>The only two quests that I did find a little underwhelming were one of the optional ones near the start, where Geralt investigates a murder that just leads into an irritating group fight that doesn&#8217;t contribute anything to the plot and feels like it should be possible to complete without actually throwing down, and the very last bit, which I won&#8217;t describe because Spoilers, but takes what should be a tense stand-off and makes it distinctly &#8216;Urgh&#8217;. Disappointingly, it&#8217;s also the only bit set somewhere brand new. Careful what you wish for, even if it is more Witcher 3, I guess. But only a bit. A tiny, <em>tiny</em> bit. And it&#8217;s only because of the quality of the rest that either even raises a flicker of irritation.</p>
+<p><img src="https://www.rockpapershotgun.com/images/15/oct/w37.jpg"/></p>
+<p>As far as mechanical changes go, don&#8217;t expect much. There&#8217;s a new merchant who can upgrade your equipment with runes, such as keeping the enhancements from grind-stones permanently or treating all armour equally, though at this point in the game there&#8217;s not much most enemies are realistically going to do to you except splash blood on your new shoes. I was hoping for something a bit more dramatic here, or at least a more interesting quest than just giving him a big bag of money to get started. As in the main game, the only challenge there is finding enough merchants to buy your mountains of accumulated crap, before watching Geralt gravely demand the equivalent of pennies for his services. Starting at Level 30-ish, it&#8217;s just too late in the game for this stuff to matter. That said, if you&#8217;re playing New Game Plus or for the first time, it will offer some handy mid-game upgrades for getting past the occasional hell levels.</p>
+<p>There aren&#8217;t that many new monsters either, but that&#8217;s fine. All the best stuff takes place in social areas rather than out in the wilderness, so guards and the remnants of the Order of the Flaming Rose tend to show up a lot. I will however gripe about one thing &#8211; and CD Projekt, please, come close. Over here. Yes, that&#8217;s right. A word.</p>
+<p>Ahem. CD Projekt? You decided to add giant spiders to The Witcher 3&#8230; <em>now?</em></p>
+<p>Sigh. And I thought we were friends.</p>
+<p><img src="https://www.rockpapershotgun.com/images/15/oct/w38.jpg"/></p>
+<p>This <em>savage betrayal of trust aside</em>, I have nothing but good things to say about this expansion. It&#8217;s not just more of The Witcher 3, but confirmation that more of The Witcher 3 is a good thing. Sure, you&#8217;ve probably got about a hundred more hours of content you&#8217;ve never even seen in the base game&#8230; I know I have&#8230; but having a solid chunk of it like this, with a satisfying plot arc, room to breathe, and another ending in sight to work towards really does make for a different proposition than just riding out in search of something cool (especially since if you&#8217;ve finished the game, very little that came before will offer any challenge, or even much reward except their stories.)</p>
+<p>The really bizarre thing though is that this DLC, which honestly shows just about every other company how it&#8217;s done, is only CD Projekt&#8217;s idea of a taster, with the next one planned to be double the size, as well as offering a whole new world to explore. It&#8217;s not due out until 2016, but I can&#8217;t wait. Honestly, after finishing The Witcher 3 back on release, especially under the pressure of having a deadline, I was a bit worried at having burned out on the damn thing, and that the DLC would be a bit underwhelming.</p>
+<p>Far from it. Hearts of Stone reminded me exactly what I loved about it the first time around, and all I could think when the credits rolled was how much I look forward to firing this game up in a few more months and concluding both Geralt&#8217;s final adventure, and one of the PC&#8217;s finest RPGs. Give or take a few giant bloody spiders. Grr.</p>
+<p><em>The Witcher 3: Hearts of Stone expansion is out October 13th.</em></p>
+</div>
+<footer class="article-footer">
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Wot I Think: The Witcher III: Hearts Of Stone https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</footer>
+ 
+<link rel="stylesheet" type="text/css" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/css/recommendations.css" media="screen"/>
+ 
+<div id="recommendations-wrapper">
+<div id="recommendations">
+<div id="rcjsload_gam148"></div>
+<script type="text/javascript">
+                            (function() {
+                            function ad_block_test(e,o){if("undefined"!=typeof document.body){var t="0.1.2-dev",o=o?o:"sponsorText",n=document.createElement("DIV");n.id=o,n.style.position="absolute",n.style.left="-999px",n.appendChild(document.createTextNode("&nbsp;")),document.body.appendChild(n),setTimeout(function(){if(n){var o=0==n.clientHeight;try{}catch(d){console&&console.log&&console.log("ad-block-test error",d)}e(o,t),document.body.removeChild(n)}},175)}}
+                            ad_block_test(function(is_blocked){
+                            var widget_id =48030;
+                            if (is_blocked === true) {
+                            widget_id =48136;
+                            }
+                            var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+                            var rcel = document.createElement("script");
+                            rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+                            rcel.type = 'text/javascript';
+                            rcel.src = "//trends.revcontent.com/serve.js.php?w="+widget_id+"&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth) +"&referer="+referer + '&is_blocked=' + is_blocked;
+                            rcel.async = true;
+                            var rcds = document.getElementById("rcjsload_gam148"); rcds.appendChild(rcel);
+                            });
+                            })();
+                            </script>
+</div>
+</div>
+</div>
+<div id="rps-article-carousel" class="rps-carousel-container">
+<header>
+<h4>From this site</h4>
+</header>
+<div class="rps-carousel">
+<a class="prev navigation"><span class="icon-angle-left"></span></a>
+<section>
+<article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/overwatchcharacterguide.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/23/overwatch-character-guide-abilities-and-strategy-tips/"><div class="text"><h5 class="title">Overwatch Character Guide</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/snapmapbest.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/24/best-doom-snapmaps/"><div class="text"><h5 class="title">DOOM’s Best SnapMaps</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/civho1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/"><div class="text"><h5 class="title">Civilization VI Is Exciting & Aggressive</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/oct/warcraft1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/26/warcraft-the-beginning-review/"><div class="text"><h5 class="title">Warcraft: The Beginning review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/bw_6.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/the-witcher-3-blood-and-wine-review/"><div class="text"><h5 class="title">The Witcher 3: Blood And Wine review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/OW1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/27/overwatch-review/"><div class="text"><h5 class="title">Overwatch review</h5></div></a></article>
+</section>
+<a class="next navigation"><span class="icon-angle-right"></span></a>
+</div>
+</div>
+</article>
+<div id="mobile-ads" style="display:none;">
+<div id="mobile-leaderboard-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-leaderboard-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-leaderboard-mobile" data-dfp-id="RPS_LB_MOB" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_LB_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile" data-dfp-id="RPS_MPU_MOB" data-dfp-sizes="300x250,320x400,300x600, 320x100, 320x50" id="div-ga-RPS_MPU_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-2-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-2" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-2" data-dfp-id="RPS_MPU_MOB_2" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_2"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-3-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-3" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-3" data-dfp-id="RPS_MPU_MOB_3" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_3"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-4-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-4" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-4" data-dfp-id="RPS_MPU_MOB_4" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_4"></div>
+ 
+</div>
+</div>
+</div>
+<script>
+                var inline_ads = new InlineAds({ container: jQuery("#content .post-inner > .entry").first(), mpu_ads: jQuery("#mobile-ads .mpu") });
+
+                ga('set', 'dimension1', "featured-articles,pc-game-reviews");
+                ga('set', 'dimension2', "cd-projekt-red,feature,review,rpg,the-witcher-3-hearts-of-stone,the-witcher-3-wild-hunt,wot-i-think");
+                ga('set', 'dimension3', "Richard Cobbett");
+
+                </script>
+<div id="comments">
+<div class="block" style="padding-bottom: 0;">
+<h3 class="comments">68 Comments</h3>
+</div>
+<div class="block no-back no-border" id="all-comments">
+ 
+ 
+<div class="pagination">
+</div>
+<ol class="commentlist">
+<li class="comment byuser comment-author-flea even thread-even depth-1 comment-role-subscriber" id="li-comment-2033849">
+<div id="comment-2033849">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/b8736569125fa3911de8215bae81f817?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b8736569125fa3911de8215bae81f817?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033849">09/10/2015 at 18:14</a>
+</span>
+<cite class="fn">Flea</cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;m happy to see preordering (which I rarely do) was a good decision in this case. Can&#8217;t wait to jump back in next week.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-robinottens odd alt depth-2 comment-role-subscriber" id="li-comment-2035381">
+<div id="comment-2035381">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/2689f83ebb957108afb3dc472cf19a42?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/2689f83ebb957108afb3dc472cf19a42?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2035381">12/10/2015 at 14:01</a>
+</span>
+<cite class="fn"><a href='http://www.robinottens.com' rel='external nofollow' class='url'>RobinOttens</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Was there any perks to ordering ahead of time? Am I missing out on some bonus goods if I didn&#8217;t pre-order?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-auldman even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2033853">
+<div id="comment-2033853">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/224973ba86a5d5933f075dabf855a99a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/224973ba86a5d5933f075dabf855a99a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033853">09/10/2015 at 18:23</a>
+</span>
+<cite class="fn">Auldman</cite> <span class="says">says:</span></span>
+</p>
+<p>I feel like a bad player. I haven&#8217;t jumped off Roach enough to run into every single wooded area. It&#8217;s my third playthrough and I still feel overwhelmed by all I haven&#8217;t seen or done yet. Now here come ten more hours&#8230;love this game.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-nioji odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2033861">
+<div id="comment-2033861">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/a05cba432ead85da90e79842a67ca26f?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/a05cba432ead85da90e79842a67ca26f?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033861">09/10/2015 at 18:33</a>
+</span>
+<cite class="fn">Nioji</cite> <span class="says">says:</span></span>
+</p>
+<p>Breaking News : CDPR makes a fantastic DLC to their fantastic games. Truly the world is shocked :D (sarcasm of course)</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-kud13 even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2033867">
+<div id="comment-2033867">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/022542721ac97d873ac0d301cc6116ac?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/022542721ac97d873ac0d301cc6116ac?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033867">09/10/2015 at 18:41</a>
+</span>
+<cite class="fn">kud13</cite> <span class="says">says:</span></span>
+</p>
+<p>So CAN this be played before completing the main story or not? I&#8217;m slightly confused. I&#8217;ve held off replaying the ending sequence, and not rushing off without master-crafted gear to see how the DLC will slot in. Does it HAVE to be played after the main line&#8217;s done?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-richard-cobbett bypostauthor odd alt depth-2 comment-role-contributor" id="li-comment-2033875">
+<div id="comment-2033875">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033875">09/10/2015 at 18:52</a>
+</span>
+<cite class="fn"><a href='http://www.richardcobbett.com/' rel='external nofollow' class='url'>Richard Cobbett</a></cite> <span class="says">says:</span></span>
+</p>
+<p>No, but the quest is Level 30-36, so it expects you have.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-kud13 even depth-3 comment-role-subscriber" id="li-comment-2033915">
+<div id="comment-2033915">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/022542721ac97d873ac0d301cc6116ac?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/022542721ac97d873ac0d301cc6116ac?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033915">09/10/2015 at 19:26</a>
+</span>
+<cite class="fn">kud13</cite> <span class="says">says:</span></span>
+</p>
+<p>Ah, cool. I&#8217;m lvl 30 right before I head off to the big showdown. So maybe I&#8217;ll give this a shot next week.<br/>
+Who knows, maybe the new patch will allow me to finish those few bugged quests while I&#8217;m at it.<br/>
+Thanks for the response, Mr. Cobbett!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-shagen454 odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2033869">
+<div id="comment-2033869">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5c065d6ad942ceb44e53fe5db3031deb?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5c065d6ad942ceb44e53fe5db3031deb?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033869">09/10/2015 at 18:43</a>
+</span>
+<cite class="fn">shagen454</cite> <span class="says">says:</span></span>
+</p>
+<p>Whooaaaa now! That monitor of yours is all wet now!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-suicideking even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2033885">
+<div id="comment-2033885">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7cacb78c7a5b1b810888b4078b15588b?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7cacb78c7a5b1b810888b4078b15588b?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033885">09/10/2015 at 19:05</a>
+</span>
+<cite class="fn">SuicideKing</cite> <span class="says">says:</span></span>
+</p>
+<p>I haven&#8217;t player or owned TW3 (or any of these games), but from the way you&#8217;re describing it, it really seems like it should get the &#8220;Game of the Month&#8221; honour, or something.</p>
+<p>Are they really big spiders, though? Because I honestly can&#8217;t handle spiders (assuming I ever get around to playing this game &#8211; in which case I&#8217;ll probably just skip the expansion).</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-richard-cobbett bypostauthor odd alt depth-2 comment-role-contributor" id="li-comment-2033889">
+<div id="comment-2033889">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033889">09/10/2015 at 19:08</a>
+</span>
+<cite class="fn"><a href='http://www.richardcobbett.com/' rel='external nofollow' class='url'>Richard Cobbett</a></cite> <span class="says">says:</span></span>
+</p>
+<p>They&#8217;re about cow sized. Don&#8217;t show up a lot, but&#8230; urgh. Damn it! Not as bad as many in other games, though I still object on principle.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-michael-fogg even depth-3 comment-role-subscriber" id="li-comment-2033993">
+<div id="comment-2033993">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/555a077616660e42c7d58abf16a4bc69?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/555a077616660e42c7d58abf16a4bc69?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033993">09/10/2015 at 20:59</a>
+</span>
+<cite class="fn">Michael Fogg</cite> <span class="says">says:</span></span>
+</p>
+<p>Well the base games had &#8216;arachas&#8217; which are actually called &#8216;crab-spiders&#8217; in book lore and are basically spiders wearing shells on their backs. I&#8217;d be more dissapointed with CDPR if they added skellingtons.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-richard-cobbett bypostauthor odd alt depth-4 comment-role-contributor" id="li-comment-2033997">
+<div id="comment-2033997">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033997">09/10/2015 at 21:04</a>
+</span>
+<cite class="fn"><a href='http://www.richardcobbett.com/' rel='external nofollow' class='url'>Richard Cobbett</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Arachas are in the game, have been since at least Witcher 2 (can&#8217;t remember if they were in the first). These are Arachnomorphs though, which are just straight up giant spiders that also come in spectral forum.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-jac even depth-2 comment-role-subscriber" id="li-comment-2033941">
+<div id="comment-2033941">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d5849324b893da33bc4cc4460fc759a8?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d5849324b893da33bc4cc4460fc759a8?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033941">09/10/2015 at 19:49</a>
+</span>
+<cite class="fn">Jac</cite> <span class="says">says:</span></span>
+</p>
+<p>I can understand not liking spiders in real life but in a game?! Especially one with totally fucked up zombie babies and Theresa May Water Hags etc. I&#8217;m genuinely interested in this phenomenon as have seen quite a lot of people say it and always makes me wonder just what it is.</p>
+<p>I&#8217;m shit scared of dogs in real life but if I encounter one in a game that fact never registers.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-richard-cobbett bypostauthor odd alt depth-3 comment-role-contributor" id="li-comment-2033981">
+<div id="comment-2033981">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033981">09/10/2015 at 20:42</a>
+</span>
+<cite class="fn"><a href='http://www.richardcobbett.com/' rel='external nofollow' class='url'>Richard Cobbett</a></cite> <span class="says">says:</span></span>
+</p>
+<p>That&#8217;s the joy of phobias, they&#8217;re not necessarily logical.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-edna even depth-3 comment-role-premium_user" id="li-comment-2033983">
+<div id="comment-2033983">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1126c5525a49a7373a61e6426ce7e2ae?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1126c5525a49a7373a61e6426ce7e2ae?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033983">09/10/2015 at 20:44</a>
+</span>
+<cite class="fn">edna</cite> <span class="says">says:</span></span>
+</p>
+<p>I went on an arachnophobia course at London Zoo once. I had a mild fear of spiders I wanted to conquer. It was quite an eye-opener to see the level of phobia that some people have. Bits of thread in a corner can cause real panic, let alone a massive spider in a relatively immersive environment. One woman was sent on the course by her family because she felt she had to tackle spiders in her home using rolled up paper that she had set on fire. Phobias can be powerful things.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-ribby odd alt depth-4 comment-role-subscriber" id="li-comment-2034009">
+<div id="comment-2034009">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/33e95d09de944f458779a8d3f5fa5b1a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/33e95d09de944f458779a8d3f5fa5b1a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034009">09/10/2015 at 21:42</a>
+</span>
+<cite class="fn">ribby</cite> <span class="says">says:</span></span>
+</p>
+<p>I saw a thing about phobias with a woman who was terrified of birds. And she was really freaking out about this psychologist moving a feather towards her. Must be so difficult to live with something like that.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-pilouuuu even depth-5 comment-role-subscriber" id="li-comment-2034135">
+<div id="comment-2034135">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034135">10/10/2015 at 00:44</a>
+</span>
+<cite class="fn">criskywalker</cite> <span class="says">says:</span></span>
+</p>
+<p>She probably missed a fun Hitchcock movie&#8230; What a shame!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-waltc odd alt depth-5 comment-role-subscriber" id="li-comment-2034571">
+<div id="comment-2034571">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4d133aab423e1183617169e8eb347640?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4d133aab423e1183617169e8eb347640?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034571">10/10/2015 at 17:34</a>
+</span>
+<cite class="fn">waltC</cite> <span class="says">says:</span></span>
+</p>
+<p>One Halloween we, being grown men ourselves, played a little prank on a friend (also grown &amp; an adult), and we put a 2&#8243; black rubber spider in his desk drawer. We ran to his office upon hearing a ghastly, piercing scream, and saw this 6&#8217;6&#8243; 250-lb. man reduced to gibbering terror&#8211;collapsed into a heap in the corner&#8211;crying and shaking and gibbering in uncontrollable terror. It took us an hour to get him calm enough to speak&#8211;we felt horrible, of course! Had no idea of the depth of his phobia. Incredible sight. Would never in a million years have guessed it.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-ribby even depth-4 comment-role-subscriber" id="li-comment-2034013">
+<div id="comment-2034013">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/33e95d09de944f458779a8d3f5fa5b1a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/33e95d09de944f458779a8d3f5fa5b1a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034013">09/10/2015 at 21:45</a>
+</span>
+<cite class="fn">ribby</cite> <span class="says">says:</span></span>
+</p>
+<p>I feel like common phobias, whilst also irrational are not actually &#8216;phobias&#8217; for most people. I mean a lot of people don&#8217;t like spiders, myself included (recently- I never used to mind them), but that doesn&#8217;t mean I&#8217;ve got arachnophobia.</p>
+<p>I assume people who get freaked out by spiders in film or videogames actually do have a proper &#8216;phobia&#8217; of spiders</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-procrastinatingsod odd alt depth-3 comment-role-subscriber" id="li-comment-2034193">
+<div id="comment-2034193">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/ead04642a7ce2aee8ad9341615429cfe?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/ead04642a7ce2aee8ad9341615429cfe?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034193">10/10/2015 at 04:43</a>
+</span>
+<cite class="fn">ProcrastinatingSod</cite> <span class="says">says:</span></span>
+</p>
+<p>Yeah, fellow arachnophobe here. The mere sight of these ungodly, daemon spawns is enough to tackle some primal part of the brain. Sometimes I find myself flinching at pictures of spiders on the internet. The thought of them swarming an avatar I controll in a video game is also terrifying.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-erraticgamer even depth-4 comment-role-premium_user" id="li-comment-2034217">
+<div id="comment-2034217">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c6f7ffbf7b9ef0af7720eca4c31edd29?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c6f7ffbf7b9ef0af7720eca4c31edd29?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034217">10/10/2015 at 06:44</a>
+</span>
+<cite class="fn"><a href='http://www.erraticgamer.com' rel='external nofollow' class='url'>ErraticGamer</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Also in this camp. I am legit a little less excited to play this now. Sigh. No, it doesn&#8217;t make sense. &#8220;Sense&#8221; is not how that works.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-suicideking odd alt depth-3 comment-role-subscriber" id="li-comment-2034337">
+<div id="comment-2034337">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7cacb78c7a5b1b810888b4078b15588b?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7cacb78c7a5b1b810888b4078b15588b?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034337">10/10/2015 at 12:02</a>
+</span>
+<cite class="fn">SuicideKing</cite> <span class="says">says:</span></span>
+</p>
+<p>I don&#8217;t dislike them per se &#8211; they just creep me out. I don&#8217;t mind small spiders at all, but I won&#8217;t ever pick one up. It&#8217;s the eyes that get me (mainly).</p>
+<p>Heck, spiderants in Borderlands used to make me freeze a bit initially, but then I found them cute. Actual spiders (tiny tina DLC) and large varkids still sort of make me freeze if they&#8217;re too close &#8211; I just close my eyes and shoot them with fire.</p>
+<p>Finally, you speak of zombie babies and other things in TW3&#8230;there&#8217;s a reason I haven&#8217;t played this game yet!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-biggus_dikkus even thread-even depth-1 comment-role-subscriber" id="li-comment-2033905">
+<div id="comment-2033905">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/18636b57c27afaa468136843bcf4082f?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/18636b57c27afaa468136843bcf4082f?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033905">09/10/2015 at 19:16</a>
+</span>
+<cite class="fn">Biggus_Dikkus</cite> <span class="says">says:</span></span>
+</p>
+<p>Giant spiders?<br/>
+Preordered it.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-rino88 odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2033921">
+<div id="comment-2033921">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/8cd2060c1b91abf1d43ad71f08f98b14?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/8cd2060c1b91abf1d43ad71f08f98b14?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033921">09/10/2015 at 19:35</a>
+</span>
+<cite class="fn">Rino88</cite> <span class="says">says:</span></span>
+</p>
+<p>How would the DLC fit in if you go with the -bad- ending, meaning SPOILER ALERT</p>
+<p>basically that you suicide yourself after killing the last crone?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-richard-cobbett bypostauthor even depth-2 comment-role-contributor" id="li-comment-2033967">
+<div id="comment-2033967">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033967">09/10/2015 at 20:17</a>
+</span>
+<cite class="fn"><a href='http://www.richardcobbett.com/' rel='external nofollow' class='url'>Richard Cobbett</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Then you probably want the save BEFORE that.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-kwisatzhaderach odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2033939">
+<div id="comment-2033939">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6f5024bf51f2a4696f8cab4f51241cb2?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6f5024bf51f2a4696f8cab4f51241cb2?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2033939">09/10/2015 at 19:49</a>
+</span>
+<cite class="fn">KwisatzHaderach</cite> <span class="says">says:</span></span>
+</p>
+<p>O god! I wanted to hold off with the DLCs until after the launch of Blood &amp; Wine for my second playthrough! But I do miss playing that game alot&#8230; Listening to the soundtrack every once in a while makes me realise that TW3 is one of the very few games that made a lasting impression on me&#8230;</p>
+<p>What the hell! Fine&#8230; I&#8217;ll do it!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-ivory-samoan even depth-2 comment-role-subscriber" id="li-comment-2036243">
+<div id="comment-2036243">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7d1b158ba7786628982f4aa802d305f6?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7d1b158ba7786628982f4aa802d305f6?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2036243">13/10/2015 at 05:46</a>
+</span>
+<cite class="fn">Ivory Samoan</cite> <span class="says">says:</span></span>
+</p>
+<p>I was going to do the exact same thing&#8230; but I can&#8217;t hold off this burning desire to get all Witchery again.</p>
+<p>Hearts of Stone, here I come!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-ribby odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2034007">
+<div id="comment-2034007">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/33e95d09de944f458779a8d3f5fa5b1a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/33e95d09de944f458779a8d3f5fa5b1a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034007">09/10/2015 at 21:41</a>
+</span>
+<cite class="fn">ribby</cite> <span class="says">says:</span></span>
+</p>
+<p>&#8220;There’s a point early on where Geralt finds himself captured by Ofrier soldiers (non white-guys, incidentally, who are dicks, but with reasons for it, and balanced out by other non-dicks from the same part of the world)&#8221;</p>
+<p>You really don&#8217;t need to bother with that caveat. Honestly the controversy over that stuff was such silliness.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-richard-cobbett bypostauthor even depth-2 comment-role-contributor" id="li-comment-2034011">
+<div id="comment-2034011">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034011">09/10/2015 at 21:43</a>
+</span>
+<cite class="fn"><a href='http://www.richardcobbett.com/' rel='external nofollow' class='url'>Richard Cobbett</a></cite> <span class="says">says:</span></span>
+</p>
+<p>It&#8217;s not a caveat, it&#8217;s a comment, mentioned in passing.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-smgreer odd alt depth-3 comment-role-subscriber" id="li-comment-2034093">
+<div id="comment-2034093">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/29fe7dad774d44b87bacdc135f42042e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/29fe7dad774d44b87bacdc135f42042e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034093">09/10/2015 at 22:55</a>
+</span>
+<cite class="fn">SMGreer</cite> <span class="says">says:</span></span>
+</p>
+<p>Well for what it&#8217;s worth I was glad to see it mentioned, as it was something I was very invested in seeing.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-lakshmi even depth-2 comment-role-subscriber" id="li-comment-2034255">
+<div id="comment-2034255">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4008917f121d5ec75e774510b46acdff?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4008917f121d5ec75e774510b46acdff?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034255">10/10/2015 at 09:43</a>
+</span>
+<cite class="fn">Lakshmi</cite> <span class="says">says:</span></span>
+</p>
+<p>I was happy to hear it. It didn&#8217;t ruin the game for me, but I did notice it. It&#8217;s always good to know CKProject Red do listen.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-pilouuuu odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2034017">
+<div id="comment-2034017">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034017">09/10/2015 at 21:46</a>
+</span>
+<cite class="fn">criskywalker</cite> <span class="says">says:</span></span>
+</p>
+<p>Why the lack of complains about the lack of diversity?</p>
+<p>They included giant spiders, but couldn&#8217;t somehow shoehorn some black characters on this DLC? </p>
+<p>What kind of terrible developers are these guys? </p>
+<p>How dare they include lots of amazing quests in an already amazing game and not include something that gamers ask just because, even if it makes no sense whatsoever?</p>
+<p>They&#8217;re worse than Ubisoft and EA together!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-richard-cobbett bypostauthor even depth-2 comment-role-contributor" id="li-comment-2034033">
+<div id="comment-2034033">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034033">09/10/2015 at 21:54</a>
+</span>
+<cite class="fn"><a href='http://www.richardcobbett.com/' rel='external nofollow' class='url'>Richard Cobbett</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Except that they did? Only a couple, but still. Doing exactly what people were saying, that the world of The Witcher (at least the game version) is bigger than just Temeria and its surroundings, and there being no reason not to have characters from Zerrikania and other places. So, uh, yeah.</p>
+<p><a href="http://imgur.com/fC8UDSR" rel="nofollow">link to imgur.com</a></p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-pilouuuu odd alt depth-3 comment-role-subscriber" id="li-comment-2034063">
+<div id="comment-2034063">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034063">09/10/2015 at 22:14</a>
+</span>
+<cite class="fn">criskywalker</cite> <span class="says">says:</span></span>
+</p>
+<p>Oh, well, so that confirms what I thought. That CDPR are such amazing developers that are constantly listening to their costumers. Even when complains are totally absurd they still wink and say: &#8220;we&#8217;re listening to you&#8221;.</p>
+<p>They have been improving since their first game and I can only imagine fantastic Cyberpunk 2077 is going to be.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-shatteredawe even depth-4 comment-role-subscriber" id="li-comment-2034087">
+<div id="comment-2034087">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e62cc4922541b8ab7cb3f4a3c7b8e50c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e62cc4922541b8ab7cb3f4a3c7b8e50c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034087">09/10/2015 at 22:43</a>
+</span>
+<cite class="fn">ShatteredAwe</cite> <span class="says">says:</span></span>
+</p>
+<p>Complaints*, Customers*, &#8220;They have been improving since their first game and I can only imagine *how* fantastic Cyberpunk 2077 is going to be&#8221;</p>
+<p>I hate to be a grammar Nazi but if you&#8217;re going to insult people/ throw shade could you at least try to come off as knowledgeable?</p>
+<p>&#8220;Even when complains are totally absurd they still wink and say: “we’re listening to you”.&#8221;</p>
+<p>Even when complaints are totally absurd in *your* opinion, you mean. </p>
+<p>I mean this is getting tiring. When people complained about the female representation in TW1 and TW2 I guess those would be &#8220;absurd complaints&#8221; too, right? In your logic anyway.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-pilouuuu odd alt depth-5 comment-role-subscriber" id="li-comment-2034125">
+<div id="comment-2034125">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034125">10/10/2015 at 00:32</a>
+</span>
+<cite class="fn">criskywalker</cite> <span class="says">says:</span></span>
+</p>
+<p>Haha, sorry for my awful grammar, but English is not my first language. I guess you understood my message perfectly though. I still appreciate your comments as they can help me correct my silly mistakes. </p>
+<p>And my intention is not to insult anyone, but to express how annoying is to see those kind of complaints every time a game is released and characters of absolutely all races are included. That is really tiring. I could complain when a game doesn&#8217;t include a latin character, but guess what, I enjoy playing games as an american or british guy or gal. People need to relax!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-pilouuuu even depth-5 comment-role-subscriber" id="li-comment-2034127">
+<div id="comment-2034127">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034127">10/10/2015 at 00:34</a>
+</span>
+<cite class="fn">criskywalker</cite> <span class="says">says:</span></span>
+</p>
+<p>&#8220;and characters of absolutely all races are NOT included&#8221;. The lack of a edit button doesn&#8217;t help my grammar.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-theangriesthobo odd alt depth-5 comment-role-subscriber" id="li-comment-2034157">
+<div id="comment-2034157">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/ceee31e94166fd6f7fdf1b1e8e9dddbb?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/ceee31e94166fd6f7fdf1b1e8e9dddbb?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034157">10/10/2015 at 01:14</a>
+</span>
+<cite class="fn">TheAngriestHobo</cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;m always kind of amazed that people forget that not everyone on the internet is from their country.</p>
+<p>I have nothing to say about the actual comment, because the entire debate is and always has been ridiculous, but taking people you disagree with to task over the grammar is one of those arguments that screams &#8220;I&#8217;ve lost the debate and don&#8217;t want to admit it&#8221;.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-shatteredawe even depth-5 comment-role-subscriber" id="li-comment-2034183">
+<div id="comment-2034183">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e62cc4922541b8ab7cb3f4a3c7b8e50c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e62cc4922541b8ab7cb3f4a3c7b8e50c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034183">10/10/2015 at 02:42</a>
+</span>
+<cite class="fn">ShatteredAwe</cite> <span class="says">says:</span></span>
+</p>
+<p>@TheAngriestHobo </p>
+<p>I agree that my comment on his/her grammar was out of line, but:</p>
+<p>&#8220;I’m always kind of amazed that people forget that not everyone on the internet is from their country.&#8221;</p>
+<p>*Sigh*</p>
+<p>This argument would&#8217;ve worked if CDProjekt Red had just created a Polish Historical Fiction and only released the game in Poland. The moment they called it a Fantasy and then released it to a wider, *international* audience, they brought the ire of an international audience. The international audience is a very diverse one. They could&#8217;ve avoided this criticism (And that&#8217;s all it is. Criticism. Not censorship) if they properly anticipated the needs of an international audience, like so many other works have/do when they open/ed themselves up to it (Naruto, Bleach, Berserk, SAGA, Multiple Comic Book Franchises, a lot of internationally successful anime, hell even the *Polish* developers who made Dead Island and Dying Light anticipated this. The developers of Divinity: Original Sin are *Belgian*, yet they understood this).</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-lachlan1 odd alt depth-5 comment-role-subscriber" id="li-comment-2034717">
+<div id="comment-2034717">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/860f1880a358086177992eca297326e3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/860f1880a358086177992eca297326e3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034717">10/10/2015 at 23:38</a>
+</span>
+<cite class="fn">Lachlan1</cite> <span class="says">says:</span></span>
+</p>
+<p>I think the comment about not everyone being from someone&#8217;s own country has to do with the criticism of grammar, and does not relate to CDRP. Meaning that just because the grammar is poor doesn&#8217;t necessarily mean the argument isn&#8217;t well founded. Oh, I am also also a grammar nazi, btw.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-shatteredawe even depth-3 comment-role-subscriber" id="li-comment-2034083">
+<div id="comment-2034083">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e62cc4922541b8ab7cb3f4a3c7b8e50c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e62cc4922541b8ab7cb3f4a3c7b8e50c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034083">09/10/2015 at 22:39</a>
+</span>
+<cite class="fn">ShatteredAwe</cite> <span class="says">says:</span></span>
+</p>
+<p>This sounds really great, and it&#8217;s awesome that there are developers that out there that listen to criticism.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-kud13 odd alt depth-2 comment-role-subscriber" id="li-comment-2034041">
+<div id="comment-2034041">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/022542721ac97d873ac0d301cc6116ac?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/022542721ac97d873ac0d301cc6116ac?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034041">09/10/2015 at 21:59</a>
+</span>
+<cite class="fn">kud13</cite> <span class="says">says:</span></span>
+</p>
+<p>Richard mentioned that they DID insert some POC (Zerrikanians, I presume) into the plot.<br/>
+*cue complaints of &#8220;it was only done to stem the MASSIVE PUBLIC OUTCRY&#8221; variety*</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-richard-cobbett bypostauthor even depth-3 comment-role-contributor" id="li-comment-2034047">
+<div id="comment-2034047">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034047">09/10/2015 at 22:04</a>
+</span>
+<cite class="fn"><a href='http://www.richardcobbett.com/' rel='external nofollow' class='url'>Richard Cobbett</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Ofriri. I think I&#8217;m spelling that correctly.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-shatteredawe odd alt depth-2 comment-role-subscriber" id="li-comment-2034081">
+<div id="comment-2034081">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e62cc4922541b8ab7cb3f4a3c7b8e50c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e62cc4922541b8ab7cb3f4a3c7b8e50c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034081">09/10/2015 at 22:37</a>
+</span>
+<cite class="fn">ShatteredAwe</cite> <span class="says">says:</span></span>
+</p>
+<p>Sigh.<br/>
+&#8220;They included giant spiders, but couldn’t somehow shoehorn some black characters on this DLC? &#8221;<br/>
+I&#8217;m sorry but if you feel that Black people existing in a fantasy world is somehow impossible without them being &#8220;Shoehorned&#8221; in then I encourage you to expand your horizons to be wider than whatever *homogeneous* backyard you&#8217;re looking through. Thank you *very* much.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-distec even depth-3 comment-role-subscriber" id="li-comment-2034111">
+<div id="comment-2034111">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/3d9aebd6c44c26d1967718bd3a5a96a0?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/3d9aebd6c44c26d1967718bd3a5a96a0?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034111">10/10/2015 at 00:06</a>
+</span>
+<cite class="fn">Distec</cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;m so done with this &#8220;controversy&#8221;, and I don&#8217;t know how much more can be said about it. </p>
+<p>But it&#8217;s not a matter of POC being &#8220;impossible&#8221; in a fantasy setting, nor is such a setting an excuse to just throw in whatever you feel like. Unless you like crap writing.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-distec odd alt depth-4 comment-role-subscriber" id="li-comment-2034113">
+<div id="comment-2034113">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/3d9aebd6c44c26d1967718bd3a5a96a0?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/3d9aebd6c44c26d1967718bd3a5a96a0?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034113">10/10/2015 at 00:07</a>
+</span>
+<cite class="fn">Distec</cite> <span class="says">says:</span></span>
+</p>
+<p>That said, &#8220;baiting&#8221; bullshit like crisky&#8217;s post above are childish and stupid.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-pilouuuu even depth-3 comment-role-subscriber" id="li-comment-2034129">
+<div id="comment-2034129">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034129">10/10/2015 at 00:40</a>
+</span>
+<cite class="fn">criskywalker</cite> <span class="says">says:</span></span>
+</p>
+<p>Well, I would say that including black people in a game like The Witcher is, to use another word, fanservice maybe?</p>
+<p>I like black people in games, but in this case it doesn&#8217;t make sense. Diversity is great! Give a black female protagonist anyday in Cyberpunk, but not here.</p>
+<p> My complaint is that people should stop complaining about such a thing. The developers are free to include or not whichever character they want&#8230; Even giant spiders (I&#8217;m so sorry, Richard) if it makes sense in that universe.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-shatteredawe odd alt depth-4 comment-role-subscriber" id="li-comment-2034181">
+<div id="comment-2034181">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e62cc4922541b8ab7cb3f4a3c7b8e50c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e62cc4922541b8ab7cb3f4a3c7b8e50c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034181">10/10/2015 at 02:33</a>
+</span>
+<cite class="fn">ShatteredAwe</cite> <span class="says">says:</span></span>
+</p>
+<p>Sorry for insulting your English earlier. It was out of line and I&#8217;m sorry for making fun of your issues with the language. For the record I think it&#8217;s really cool/brave of you to be learning this language.</p>
+<p>I hope I don&#8217;t come off as someone who demands diversity in every single video game she plays, but the only reason why I&#8217;m complaining here is that the problem is that I barely ever get diversity in ANY of the games I play. It&#8217;s a problem of a limited perspective, and honestly there are just so many other stories to be told other than stories from the perspective of White Males. There&#8217;s nothing wrong with stories from that perspective, but it&#8217;s 2015. I&#8217;m tired of them.</p>
+<p>Literally this game&#8217;s majority-white cast wouldn&#8217;t have been a problem (and it&#8217;s not a problem by itself) if the world was in a more racially equal state. The problem is that it&#8217;s not. The problem is that unfortunately, this otherwise very interesting story (especially from a Polish/Slavic perspective) is sort of tainted by the times. Add that with the fact that when the reverse happens (i.e an all Black cast to a video game/movie), that work is usually attacked, forced to add white (for example) characters itself, or shut down because it&#8217;s labelled as a &#8220;Ethnic work&#8221;, and yeah. I can&#8217;t really be non-critical of a trend that usually is critical of me/mine.</p>
+<p>I could understand the lack of racially diversity in a lot of other games, but the problem is that here I just can&#8217;t find the excuse. If it was a Polish-Medieval-Fiction then I&#8217;d only really expect to see Europeans and maybe some Roma, but it&#8217;s a Slavic-Inspired *Fantasy* . I know that you can&#8217;t throw *anything* into fantasy to make it work, but we have harpies, Witchers and Fictional Kingdoms but somehow a Black, Asian or South Asian person would have been out of place? Come on. </p>
+<p>So tiring to keep having to repeat myself. Not just towards you but yeah.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-procrastinatingsod even depth-5 comment-role-subscriber" id="li-comment-2034199">
+<div id="comment-2034199">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/ead04642a7ce2aee8ad9341615429cfe?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/ead04642a7ce2aee8ad9341615429cfe?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034199">10/10/2015 at 04:50</a>
+</span>
+<cite class="fn">ProcrastinatingSod</cite> <span class="says">says:</span></span>
+</p>
+<p>The thing is, a lot of people who thought Tauriq Moosa&#8217;s Polygon article was dumb, actually agree with his larger point that video games have a race problem. I certainly do, yet still think that attacking W3 for it, is very misguided.</p>
+<p>My brain has no problem differentiating between the larger problem of industry as a whole, and recognising that this particular game has good, specific reasons for being the way it is.</p>
+<p>Plus, the way I look at this is seeing Witcher 3 as exactly the kind of first step into cultural diversity we see in gaming. Couse it very much is a game created by a minority (a minority that just happens to be white). And even though much of it is based on various well-known myths and easily recognisable fantasy tropes, the game is either subverting or somehow enriching those tropes as often as it&#8217;s using them, and though much of the cultural imprint is lost in translation, it&#8217;s still recognisable enought to make the game quite unique when compared to the rest of the post-tolkien, post-d&amp;d fantasy titles flooding the market.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-pilouuuu odd alt depth-5 comment-role-subscriber" id="li-comment-2034601">
+<div id="comment-2034601">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034601">10/10/2015 at 18:35</a>
+</span>
+<cite class="fn">criskywalker</cite> <span class="says">says:</span></span>
+</p>
+<p>No offense taken! I took them as constructive criticism and it&#8217;ll help me improve my English in the future.</p>
+<p>I totally support diversity and as I mentioned before it would be great to play as other characters which are not white males. Mirror Edge and The Walking Dead are good examples.</p>
+<p>It&#8217;s only that in the specific case of The Witcher, I think it&#8217;s a bit unfair, especially considering how much love they put on their games. I&#8217;m pretty sure they&#8217;ll do something regarding diversity with Cyberpunk.</p>
+<p>We&#8217;re not so far apart in our opinions and I also apologize if my post was excessively sarcastic and or offensive.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-klayz0r even depth-5 comment-role-subscriber" id="li-comment-2034743">
+<div id="comment-2034743">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/04d6bc4fcfd864bccc3f949541cd0459?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/04d6bc4fcfd864bccc3f949541cd0459?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034743">11/10/2015 at 01:06</a>
+</span>
+<cite class="fn">Klayz0r</cite> <span class="says">says:</span></span>
+</p>
+<p>I literally registered after years of lurking just to respond. </p>
+<p>See, the thing is, we Europeans (I come from a small and unimportant country next to Poland) don&#8217;t feel as strongly about race as you folks from more diverse environments do. We&#8217;ve only ever had to be racist about Roma and Jewish people in our glorious past, because by the time the Iron Curtain fell and we started seeing bona fide black people around, it was already generally understood that they&#8217;re pretty much the same as us white folk. Therefore, we haven&#8217;t had racial segregation, sitting in the back of the bus and &#8220;whites only&#8221; signs &#8211; at least, not with black people, anyway.<br/>
+I can honestly say race or skin color doesn&#8217;t even register with me. When I watch a TV show and the main lead is black, it&#8217;s just a physical feature, similar to having long hair or a beard (or short hair or not having a beard). Therefore, I see nothing wrong with a fantasy material inspired by Medieval Europe not featuring many people of color, same as I wouldn&#8217;t think of complaining that the entire cast is African, if said fantasy was inspired by Medieval Africa.<br/>
+As I recall, no one has ever complained about Jade Empire cast being entirely Asian, or have they? </p>
+<p>What I&#8217;m trying to say is, people in Central Europe (including Witcher developers) might genuinely not understand that this could be an issue.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-lennyleonardo odd alt depth-2 comment-role-subscriber" id="li-comment-2034321">
+<div id="comment-2034321">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/39150d84bbe4581e7ced11857ce42aab?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/39150d84bbe4581e7ced11857ce42aab?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034321">10/10/2015 at 11:43</a>
+</span>
+<cite class="fn">LennyLeonardo</cite> <span class="says">says:</span></span>
+</p>
+<p>I demand that they stop listening to our demands!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-slinkusss even depth-3 comment-role-subscriber" id="li-comment-2036173">
+<div id="comment-2036173">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/126d6fdba4b31cb37a339384e4e8880e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/126d6fdba4b31cb37a339384e4e8880e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2036173">13/10/2015 at 00:50</a>
+</span>
+<cite class="fn">Slinkusss</cite> <span class="says">says:</span></span>
+</p>
+<p>The game/novels/story takes its inspiration and setting from medieval Europe. How many black people, or asians or indians would you have found in medieval Poland? Before the Suez canal and trans-oceanic commercial seafaring? Moors would have been the closest thing, and they certainly would only have been encountered in war, not trade and certainly not living among the Europeans. </p>
+<p>As always, racial diversity is treated as a blanket rule, and context and accuracy are never accounted for, creating debate and fervor that does absolutely nothing to address rampant institutional racism and gender biases, barely driving them underground let alone abolishing them. Perhaps, for example, we should be developing game development university programs in Africa, so that Africans can tell their own stories through the wonderful medium of gaming, rather than being granted the &#8216;privilege&#8217; by white people of appearing as tokens in a European game&#8230; </p>
+<p>So bored with white people (myself included) trying to incorporate black people into our own stories so that WE feel better and can sell our stories to more black people, while their stories remain untold&#8230;</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-slinkusss odd alt depth-4 comment-role-subscriber" id="li-comment-2036181">
+<div id="comment-2036181">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/126d6fdba4b31cb37a339384e4e8880e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/126d6fdba4b31cb37a339384e4e8880e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2036181">13/10/2015 at 00:57</a>
+</span>
+<cite class="fn">Slinkusss</cite> <span class="says">says:</span></span>
+</p>
+<p>Sorry I suppose I pressed the wrong reply button in the thread</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-duke-flipside even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2034097">
+<div id="comment-2034097">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/bdfafd06cb74c1096015655dc8d8fd06?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/bdfafd06cb74c1096015655dc8d8fd06?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034097">09/10/2015 at 23:10</a>
+</span>
+<cite class="fn">Duke Flipside</cite> <span class="says">says:</span></span>
+</p>
+<p>But but but you didn&#8217;t answer the most important questions about &#8220;more Witcher III&#8221;: is there more Gwent to play? Are there more Gwent cards to collect? Have they added a Gwent-based multiplayer mode?!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-richard-cobbett bypostauthor odd alt depth-2 comment-role-contributor" id="li-comment-2034101">
+<div id="comment-2034101">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034101">09/10/2015 at 23:21</a>
+</span>
+<cite class="fn"><a href='http://www.richardcobbett.com/' rel='external nofollow' class='url'>Richard Cobbett</a></cite> <span class="says">says:</span></span>
+</p>
+<p>I have still never played Gwent. (hides)</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-pilouuuu even depth-3 comment-role-subscriber" id="li-comment-2034131">
+<div id="comment-2034131">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/bb675b7c2d75de4706013c0f7d6b1d32?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034131">10/10/2015 at 00:42</a>
+</span>
+<cite class="fn">criskywalker</cite> <span class="says">says:</span></span>
+</p>
+<p>You are not alone. I&#8217;d much rather go play Hearthstone&#8230;</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-procrastinatingsod odd alt depth-3 comment-role-subscriber" id="li-comment-2034201">
+<div id="comment-2034201">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/ead04642a7ce2aee8ad9341615429cfe?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/ead04642a7ce2aee8ad9341615429cfe?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034201">10/10/2015 at 04:52</a>
+</span>
+<cite class="fn">ProcrastinatingSod</cite> <span class="says">says:</span></span>
+</p>
+<p>Wise man. You wouldn&#8217;t want to get addicted to tavern music, like the rest of us did.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-lakshmi even depth-3 comment-role-subscriber" id="li-comment-2034257">
+<div id="comment-2034257">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4008917f121d5ec75e774510b46acdff?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4008917f121d5ec75e774510b46acdff?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034257">10/10/2015 at 09:49</a>
+</span>
+<cite class="fn">Lakshmi</cite> <span class="says">says:</span></span>
+</p>
+<p>I used to like you :(</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-racccoon odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2034141">
+<div id="comment-2034141">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4ac5217f83e543405b13272f323014c2?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4ac5217f83e543405b13272f323014c2?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034141">10/10/2015 at 00:48</a>
+</span>
+<cite class="fn">racccoon</cite> <span class="says">says:</span></span>
+</p>
+<p>Amazing development team they need many gold stars Brilliant masters of to make games.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-enkinan even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2034197">
+<div id="comment-2034197">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/716aee26928cce40436cff1ba23f527b?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/716aee26928cce40436cff1ba23f527b?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034197">10/10/2015 at 04:50</a>
+</span>
+<cite class="fn">Enkinan</cite> <span class="says">says:</span></span>
+</p>
+<p>It&#8217;s so great to see a game maker in their prime just absolutely keep nailing it like this. I did literally everything in the base game before finally walking away, I&#8217;m glad I have a reason to head back.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-madminstrel odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2034225">
+<div id="comment-2034225">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c068c35b658fc7f16dee405673939d84?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c068c35b658fc7f16dee405673939d84?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034225">10/10/2015 at 08:11</a>
+</span>
+<cite class="fn">MadMinstrel</cite> <span class="says">says:</span></span>
+</p>
+<p>Cool. Is there any new music though?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-paul even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2034247">
+<div id="comment-2034247">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/44adb4fef9ae7a7b0fdb53509c50aff7?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/44adb4fef9ae7a7b0fdb53509c50aff7?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034247">10/10/2015 at 09:06</a>
+</span>
+<cite class="fn">Paul</cite> <span class="says">says:</span></span>
+</p>
+<p>Great review as always from Richard. I have a question, are there any references to the state of the main quest in the DLC? Is any character referencing that in any way ?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-richard-cobbett bypostauthor odd alt depth-2 comment-role-contributor" id="li-comment-2034297">
+<div id="comment-2034297">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e7d71ea9faa87084e5ae10fba23b8623?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034297">10/10/2015 at 10:57</a>
+</span>
+<cite class="fn"><a href='http://www.richardcobbett.com/' rel='external nofollow' class='url'>Richard Cobbett</a></cite> <span class="says">says:</span></span>
+</p>
+<p>One character asks about Vesemir, but otherwise not that I saw.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-chaoslord-aj even thread-even depth-1 comment-role-subscriber" id="li-comment-2034379">
+<div id="comment-2034379">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7b12ee73ea9b167f34a6561ff1864fb2?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7b12ee73ea9b167f34a6561ff1864fb2?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034379">10/10/2015 at 13:14</a>
+</span>
+<cite class="fn">Chaoslord AJ</cite> <span class="says">says:</span></span>
+</p>
+<p>Oh man, now I&#8217;m so hyped to play it immediately instead of waiting out on the last DLC then playing the entire game again with its fixes. -sigh-</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-his-divine-shadow odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2034405">
+<div id="comment-2034405">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/24e4302bbfd98f5f0cc1c9223ec56baa?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/24e4302bbfd98f5f0cc1c9223ec56baa?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034405">10/10/2015 at 14:09</a>
+</span>
+<cite class="fn">Rumpelstilskin</cite> <span class="says">says:</span></span>
+</p>
+<p>Thanks for the review, Richard; it made me realize I missed the second &#8216;t&#8217;.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-tylaris even thread-even depth-1 comment-role-subscriber" id="li-comment-2034745">
+<div id="comment-2034745">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/de006998f63064b02a7bb453a5bd0552?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/de006998f63064b02a7bb453a5bd0552?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2034745">11/10/2015 at 01:13</a>
+</span>
+<cite class="fn">Tylaris</cite> <span class="says">says:</span></span>
+</p>
+<p>Nice review. Honestly, I was only looking forward to second expansion and from the bare info(immortal bandit lord..sounds like something better placed in WoW), it sounded like nothing more than a simple &#8220;mash-up&#8221; of few unoriginal side quests. It seems CDPR can take even the most obvious cliches and thropes we&#8217;re used to and make something entirely different out of them&#8230;amazing characterization.<br/>
+These guys never stop surprising me.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-aircool odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2039831">
+<div id="comment-2039831">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/f597a418a6791436843c6cdccda3cfda?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/f597a418a6791436843c6cdccda3cfda?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2015/10/09/the-witcher-3-hearts-of-stone-review/#comment-2039831">16/10/2015 at 17:38</a>
+</span>
+<cite class="fn">aircool</cite> <span class="says">says:</span></span>
+</p>
+<p>Nnnnnnngg! This is now the fourth time I&#8217;ve installed W3 and tried to get into it. It&#8217;s just such a great game except:</p>
+<p>Stupid fucking controls and the FoV gives me a migraine after about half an hour (which can put me out for up to three days).</p>
+<p>It&#8217;s like having the worlds best car to drive on the worlds best road with the worlds best view, except there&#8217;s no fucking steering wheel and it is as painful to drive as the &#8216;IT&#8217; monowheel from a certain episode of South Park!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ol>
+<div class="pagination">
+</div>
+</div>
+</div>
+</div>  
+<ul id="sidebar" class="hidden-mobile hidden-tablet">
+<li id="rpstagsearch-2" class="widget-container RPSTagSearch"> <div id="affiliate-disclaimer">
+<h4>Disclaimer</h4>
+<div class="disclaimer"><p><small>If you click our links to online stores and make a purchase we may receive a few pennies. Find more information <a href="/affiliate-linking-policy/">here</a>.</small></p></div>
+</div>
+<h4>Tags</h4>
+<p class="tags"><a href="https://www.rockpapershotgun.com/tag/cd-projekt-red/" rel="tag">cd projekt red</a>, <a href="https://www.rockpapershotgun.com/tag/feature/" rel="tag">feature</a>, <a href="https://www.rockpapershotgun.com/tag/review/" rel="tag">review</a>, <a href="https://www.rockpapershotgun.com/tag/rpg/" rel="tag">RPG</a>, <a href="https://www.rockpapershotgun.com/tag/the-witcher-3-hearts-of-stone/" rel="tag">The Witcher 3: Hearts of Stone</a>, <a href="https://www.rockpapershotgun.com/tag/the-witcher-3-wild-hunt/" rel="tag">The Witcher 3: Wild Hunt</a>, <a href="https://www.rockpapershotgun.com/tag/wot-i-think/" rel="tag">wot i think</a>.</p>
+<h4 class="widget-title">Search <span>for clues</span></h4>
+<form method="get" action="/" id="tagsearch">
+<fieldset>
+<input type="hidden" name="valuesUrl" id="valuesUrl" value="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/values.php"/>
+<input type="text" name="tagsearchtext" id="tagsearchtext" placeholder="Search for a tag" style="width:230px"/>
+<input type="submit" class="submit primary" value="Go"/>
+</fieldset>
+</form>
+</li><li id="rpsadblock-2" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<style>*{margin:0;padding:0;border:0;}</style>
+ 
+<style>.home.infinite-scroll #sidebar #div-ga-RPS_MPU_MOB{display:none!important;}</style>
+ 
+<style>.rps-carousel article .text{right:0;}.entry a{font-weight:bold;text-decoration:none;}div.content div.block p.featured-block-title,div.content div.block p.premium-block-title,div.content div.block p.giveaway-block-title{min-height:32px;}p.giveaway-block-title span{background-image:url(/wp-content/themes/rockpapershotgun2013/images/giveaway-title-bg.png);background-size:77px 15px;padding-left:0;}div.content div.block p.giveaway-block-title{padding-right:15px;}</style>
+ 
+ 
+<style type="text/css">#rps-article-carousel .navigation:after{background-image:url(/wp-content/plugins/rps-article-carousel/carousel-arrows.png);}@media screen and (max-width: 665px) {#header .logo a{background-image:url(/wp-content/themes/rockpapershotgun2013/images/logo-single-line.png);}}</style>
+ 
+<style type="text/css">.infinite-wrap .rps-carousel-container{display:none;}</style>
+<script>
+jQuery(document).ready(function () {
+    jQuery('a[href="https://twitter.com/asponge"]').remove();
+});
+</script>
+ 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_1" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_1"></div>
+ 
+</div>
+</li><li id="rpsnews-2" class="widget-container RPSNews"><h4 class="widget-title">News <span>and things</span></h4>
+<ul class="no-bullets thumbs">
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/" rel="bookmark" title="Come see developer sessions this week at EGX Rezzed"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/kenlevine.jpg&w=50&h=50&cc=#000" alt="Come see developer sessions this week at EGX Rezzed"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/" rel="bookmark" title="Come see developer sessions this week at EGX Rezzed">
+Come see developer sessions this week at EGX Rezzed </a></h5>
+<p>They look quite good</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/" rel="bookmark" title="Rumour! Call of Duty: WW2 is real, and a real bad name"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/28cod.jpg&w=50&h=50&cc=#000" alt="Rumour! Call of Duty: WW2 is real, and a real bad name"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/" rel="bookmark" title="Rumour! Call of Duty: WW2 is real, and a real bad name">
+Rumour! Call of Duty: WW2 is real, and a real bad name </a></h5>
+<p>PING!</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/dark-souls-3-the-ringed-city-dlc-released/" rel="bookmark" title="Dark Souls 3 now concluded in The Ringed City"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/28darksouls3ringed.jpg&w=50&h=50&cc=#000" alt="Dark Souls 3 now concluded in The Ringed City"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/dark-souls-3-the-ringed-city-dlc-released/" rel="bookmark" title="Dark Souls 3 now concluded in The Ringed City">
+Dark Souls 3 now concluded in The Ringed City </a></h5>
+<p>This is the end</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/" rel="bookmark" title="Destiny 2 announced, but why do we care?"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/destiny2.jpg&w=50&h=50&cc=#000" alt="Destiny 2 announced, but why do we care?"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/" rel="bookmark" title="Destiny 2 announced, but why do we care?">
+Destiny 2 announced, but why do we care? </a></h5>
+<p>Dest2ny</p> </li>
+<li class="more"><a href="https://www.rockpapershotgun.com/category/pc-game-news/"><strong>And much more&hellip;</strong></a></li>
+</ul>
+<div class="clear"></div>
+</li><li id="autofeature-2" class="widget-container AutoFeature">
+<a data-id="422987" class="widget-link invert-widget" id="autofeature-422987" href="https://www.rockpapershotgun.com/2017/01/13/the-50-best-fps-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/may/wasd3header3.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best FPS On PC</h4>
+<p>The Worthiest Reticules Of All Time</p> </a>
+</li><li id="autofeature-3" class="widget-container AutoFeature">
+<a data-id="437667" class="widget-link " id="autofeature-437667" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/rainworld_wit_1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Rain World</h4>
+<p>The 5175th series of Planet Earth </p> </a>
+</li><li id="rpstagaz-2" class="widget-container RPSTagAZ"><h4 class="widget-title">Browse <span>our tags</span></h4>
+<ul class="tag-list tag-list--alphabet">
+<li><a href="/tags?letter=a">A</a></li>
+<li><a href="/tags?letter=b">B</a></li>
+<li><a href="/tags?letter=c">C</a></li>
+<li><a href="/tags?letter=d">D</a></li>
+<li><a href="/tags?letter=e">E</a></li>
+<li><a href="/tags?letter=f">F</a></li>
+<li><a href="/tags?letter=g">G</a></li>
+<li><a href="/tags?letter=h">H</a></li>
+<li><a href="/tags?letter=i">I</a></li>
+<li><a href="/tags?letter=j">J</a></li>
+<li><a href="/tags?letter=k">K</a></li>
+<li><a href="/tags?letter=l">L</a></li>
+<li><a href="/tags?letter=m">M</a></li>
+<li><a href="/tags?letter=n">N</a></li>
+<li><a href="/tags?letter=o">O</a></li>
+<li><a href="/tags?letter=p">P</a></li>
+<li><a href="/tags?letter=q">Q</a></li>
+<li><a href="/tags?letter=r">R</a></li>
+<li><a href="/tags?letter=s">S</a></li>
+<li><a href="/tags?letter=t">T</a></li>
+<li><a href="/tags?letter=u">U</a></li>
+<li><a href="/tags?letter=v">V</a></li>
+<li><a href="/tags?letter=w">W</a></li>
+<li><a href="/tags?letter=x">X</a></li>
+<li><a href="/tags?letter=y">Y</a></li>
+<li><a href="/tags?letter=z">Z</a></li>
+<li><a href="/tags?letter=0-9">#</a></li>
+</ul>
+</li><li id="bdp-comments" class="widget-container widget_bdp_comments"><h4 class="widget-title">Respond <span>to our gibber</span></h4><ul id="widget_bdp_comments_ul">
+<li>SuicideKing</a> : &ldquo;I wish you'd talk to Eugen too, about Steel Division, being published by Paradox, etc. ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/#comment-2409215'>Come see developer sessions this week at EGX Rezzed</a></li>
+<li>ZX k1cka55 48K</a> : &ldquo;Just read the Changelog in disgust without realizing that it's just a joke, because it ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/#comment-2409213'>The RPG Scrollbars: Predicting Planescape</a></li>
+<li>Chromatose</a> : &ldquo;I was a complete sad-sack and purchased an Xbox 360 especially to play Destiny. Sure, ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/#comment-2409211'>Destiny 2 announced, but why do we care?</a></li>
+<li>Drib</a> : &ldquo;Missed an opportunity for "Call of 2dy 2: WW2"&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/#comment-2409209'>Rumour! Call of Duty: WW2 is real, and a real bad name</a></li>
+<li>Bull0</a> : &ldquo;In vidyagames characters scream I'M OUT when they reload, like they're duncan bannatyne with hearing ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/#comment-2409207'>Rumour! Call of Duty: WW2 is real, and a real bad name</a></li>
+</ul>
+</li><li id="rpsadblock-3" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_2" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_2" data-ghost-zone="59"></div>
+ 
+</div>
+</li><li id="autofeature-14" class="widget-container AutoFeature">
+<a data-id="413239" class="widget-link invert-widget" id="autofeature-413239" href="https://www.rockpapershotgun.com/2016/11/18/the-50-best-strategy-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/apr/stratheader.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 best strategy games on PC</h4>
+<p>Hit Parade</p> </a>
+</li><li id="autofeature-15" class="widget-container AutoFeature">
+<a data-id="432371" class="widget-link " id="autofeature-432371" href="https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/feb/plane1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The RPG Scrollbars: Predicting Planescape</h4>
+<p>The long awaited follow-up to Forgotten Realms: Baldur's Gate</p> </a>
+</li><li id="autofeature-4" class="widget-container AutoFeature">
+<a data-id="437233" class="widget-link " id="autofeature-437233" href="https://www.rockpapershotgun.com/2017/03/27/the-best-games-of-my-lifetime-year-by-year-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/chartists.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of *my* lifetime, year by year</h4>
+<p>A list, probably wrong</p> </a>
+</li><li id="autofeature-13" class="widget-container AutoFeature">
+<a data-id="408185" class="widget-link invert-widget" id="autofeature-408185" href="https://www.rockpapershotgun.com/2016/10/31/the-50-best-free-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/dec/awardsheader_small.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best Free Games On PC</h4>
+<p>No free-to-play, just free.</p> </a>
+</li><li id="autofeature-12" class="widget-container AutoFeature">
+<a data-id="437071" class="widget-link " id="autofeature-437071" href="https://www.rockpapershotgun.com/2017/03/26/the-sunday-papers-443/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/sep/papers2.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The Sunday Papers</h4>
+<p>Read more</p> </a>
+</li><li id="autofeature-10" class="widget-container AutoFeature">
+<a data-id="437303" class="widget-link " id="autofeature-437303" href="https://www.rockpapershotgun.com/2017/03/25/best-free-games-of-the-week-46/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/mar/gabey.png&w=280&h=112&zc=11" alt=""/>
+<h4>Gabe Newell to write, direct and star in Half-Life movie</h4>
+<p>NEWS ALERT. NEWS ALERT</p> </a>
+</li><li id="autofeature-9" class="widget-container AutoFeature">
+<a data-id="373643" class="widget-link invert-widget" id="autofeature-373643" href="https://www.rockpapershotgun.com/2016/06/15/if-only-text-adventures-for-people-who-hate-guessing-the-verb/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jun/superluminalvagrant.jpeg&w=280&h=112&zc=11" alt=""/>
+<h4>IF Only: Text Adventures For People Who Hate Guessing The Verb</h4>
+<p>Parsers Verbed</p> </a>
+</li><li id="autofeature-8" class="widget-container AutoFeature">
+<a data-id="436299" class="widget-link " id="autofeature-436299" href="https://www.rockpapershotgun.com/2017/03/25/whats-wrong-with-mass-effect-andromeda/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/mea.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Everything else that's wrong with Mass Effect Andromeda</h4>
+<p>A Galaxy Of Errors</p> </a>
+</li><li id="autofeature-7" class="widget-container AutoFeature">
+<a data-id="437299" class="widget-link " id="autofeature-437299" href="https://www.rockpapershotgun.com/2017/03/25/what-to-play-this-weekend-28/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/nov/wypalice.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>What are we all playing this weekend?</h4>
+<p>WELL?</p> </a>
+</li><li id="autofeature-5" class="widget-container AutoFeature">
+<a data-id="359811" class="widget-link invert-widget" id="autofeature-359811" href="https://www.rockpapershotgun.com/2016/04/13/build-engine-duke-nukem-blood-shadow-warrior/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/apr/build1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Blood, Sweat & Laughter: The Beauty Of The Build Engine</h4>
+<p>2.5D remembered.</p> </a>
+</li><li id="autofeature-6" class="widget-container AutoFeature">
+<a data-id="437049" class="widget-link " id="autofeature-437049" href="https://www.rockpapershotgun.com/2017/03/24/future-unfolding-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/futureunfolding1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Future Unfolding</h4>
+<p>A trip through nature</p> </a>
+</li><li id="autofeature-11" class="widget-container AutoFeature">
+<a data-id="436887" class="widget-link " id="autofeature-436887" href="https://www.rockpapershotgun.com/2017/03/24/kona-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/kon8.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Survival meets adventure in Kôna</h4>
+<p>Chilling</p> </a>
+</li><li id="autofeature-16" class="widget-container AutoFeature">
+<a data-id="347951" class="widget-link invert-widget" id="autofeature-347951" href="https://www.rockpapershotgun.com/2016/02/19/xcom-2-guide/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/feb/sectoid.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>XCOM 2 Guide To Strategy, Performance, Mods & More</h4>
+<p>Everything you need to know.</p> </a>
+</li><li id="autofeature-17" class="widget-container AutoFeature">
+<a data-id="435671" class="widget-link " id="autofeature-435671" href="https://www.rockpapershotgun.com/2017/03/24/warframe-bard-update/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/warframe1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Warframe: now a game of music-making as well as action</h4>
+<p>Digital Extremes explain Octavia's Anthem</p> </a>
+</li><li id="autofeature-18" class="widget-container AutoFeature">
+<a data-id="437087" class="widget-link " id="autofeature-437087" href="https://www.rockpapershotgun.com/2017/03/24/the-best-games-of-my-lifetime-year-by-year/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/lifegames.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of my lifetime, year by year</h4>
+<p>This is my life (in games)</p> </a>
+</li><li id="autofeature-19" class="widget-container AutoFeature">
+<a data-id="342317" class="widget-link invert-widget" id="autofeature-342317" href="https://www.rockpapershotgun.com/2016/01/21/best-fallout-4-mods-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jan/falloutsettlementanywhere.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best Fallout 4 Mods</h4>
+<p>For graphics, weapons, the UI and more.</p> </a>
+</li><li id="autofeature-20" class="widget-container AutoFeature">
+<a data-id="437013" class="widget-link " id="autofeature-437013" href="https://www.rockpapershotgun.com/2017/03/24/best-pc-gaming-deals-of-the-week-26/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/oct/12hitmanjapan.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best PC gaming deals of the week</h4>
+<p>Square and 2K go Humble</p> </a>
+</li><li id="autofeature-21" class="widget-container AutoFeature">
+<a data-id="436917" class="widget-link " id="autofeature-436917" href="https://www.rockpapershotgun.com/2017/03/23/making-dungeon-crawl-stone-soup-with-253-cooks-and-no-head-chef/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/crawl1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Making Dungeon Crawl Stone Soup with 253 cooks and no head chef</h4>
+<p>One of the best roguelikes, one of the strangest dev teams</p> </a>
+</li>
+</ul>
+</div>  
+<div id="skyscraper">
+ 
+<div class="ad-hd ad-halfpage" data-dfp-id="RPS_HP" data-dfp-sizes="160x600,300x600" id="div-ga-RPS_HP" data-ghost-zone="26"></div>
+ 
+</div>  
+</div>  
+</div>  
+<div id="footer">
+<div class="container">
+<div id="footer-content">
+<div class="footer-col">
+<h4>All our stuff <span>and things</span></h4>
+<ul>
+<li><a href="/">home</a></li>
+<li><a href="/about-pc-gaming-rps/">about</a></li>
+<li><a href="/advertise-pc-games/">advertise</a></li>
+<li><a href="/hey-prs-and-developers/">hey, developers!</a></li>
+<li><a href="/supportrps/">support RPS</a></li>
+<li><a href="/forums/">forums</a></li>
+</ul>
+<ul>
+<li><a href="http://steamcommunity.com/groups/rps">steam group</a></li>
+<li><a href="https://twitter.com/rockpapershot">twitter</a></li>
+<li><a href="https://www.facebook.com/rockpapershot">facebook</a></li>
+<li><a href="http://rps.libsyn.com/">podcast</a></li>
+<li><a href="http://feeds.feedburner.com/RockPaperShotgun">rss</a></li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Rock, Paper, Shotgun <span>was</span></h4>
+<ul style="width:180px;">
+<li>
+<a href="mailto:graham@rockpapershotgun.com">Graham Smith</a>
+<a href="https://twitter.com/gonnas" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alec@rockpapershotgun.com">Alec Meer</a>
+<a href="https://twitter.com/bonzrat" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://www.bonzrat.co.uk/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:john@rockpapershotgun.com">John Walker</a>
+<a href="https://twitter.com/botherer" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://botherer.org/blog/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:adam@rockpapershotgun.com">Adam Smith</a>
+<a href="https://twitter.com/noneconomical" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alice@rockpapershotgun.com">Alice O'Connor</a>
+</li>
+<li>
+<a href="mailto:pip@rockpapershotgun.com">Philippa Warr</a>
+<a href="https://twitter.com/philippawarr" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Info <span>and appendices</span></h4>
+<ul style="width:300px;">
+<li>&copy; 2007-2017 <a href="/">Rock Paper Shotgun</a> Ltd.</li>
+<li>Designed by Jonathan Sutcliffe.</a></li>
+<li>Hosted by <a href="http://www.positive-internet.com/">Positive Internet.</a></li>
+<li>Today's scotch egg consumption: 1705</li>
+<li>Hivemind Throbometer reading: 1.436%</li>
+<li class="write-to-rps">Write to RPS <a href="mailto:contact@rockpapershotgun.com">contact@rockpapershotgun.com</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<div id="eg-network" class="hidden-mobile">
+<div class="inner"></div>
+<div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+            jQuery(function(){
+                jQuery('#eg-network .inner').load('https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/eg-footer.php');
+            });
+        </script>
+</div>
+</div>
+ 
+<script type='text/javascript'>
+    
+        jQuery(document).ready(function() {
+
+            var custom_variables = {};
+            custom_variables['source'] = 'article';
+            custom_variables['url'] = document.location.pathname.substr(0, 40);
+            custom_variables['tags'] = "rpg,featured-articles,pc-game-reviews,cd-projekt-red,feature,review,rpg,the-witcher-3-hearts-of-stone,the-witcher-3-wild-hunt,wot-i-think,long-article";
+                            custom_variables['games'] = "the-witcher-iii:-hearts-of-stone";
+                        
+            try {
+                jQuery('.ad-tablet .ad-desktop, .ad-mobile, .ad-hd').getDFPads({'custom_variables' : custom_variables});
+            } catch(e) {
+                                    yafaIt();
+                                }
+
+            var lazyloading = true;
+           
+            function lazyloadAds() {
+                lazy_mpus = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus.length == 0) {
+                    lazyloading = false; 
+                    clearInterval(lazyloadInterval);
+                } else {
+                    for ( var i = 0; i < lazy_mpus.length; i++ ) {
+                        mpu_pos = jQuery(lazy_mpus[i])[0].getBoundingClientRect();
+                        if(mpu_pos['top'] < 1300 && lazyloading == true){
+                            jQuery(lazy_mpus[i]).getDFPads({'custom_variables' : custom_variables});   
+                            jQuery(lazy_mpus[i]).removeClass('lazyload').addClass('lazyloaded');                 
+                        }
+                    }    
+                }            
+            }
+
+            if(custom_variables['source'] == 'article'){
+                lazy_mpus_check = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus_check.length > 0) {
+                    var lazyloadInterval = setInterval(lazyloadAds, 300);
+                }
+            }
+
+        });
+
+    </script>
+ 
+<script type="text/javascript" src="//s.skimresources.com/js/87431X1560958.skimlinks.js"></script>
+ 
+ 
+<script>
+        function yafaIt() {
+            var ads = document.querySelectorAll('[data-dfp-id]');
+            for(var i = 0;i < ads.length;i++)
+            {
+				var ad = ads[i];
+				if( ad.hasAttribute("data-yafa-img") ) {
+					var yafa_click = ad.getAttribute("data-yafa-click");
+					var yafa_img = ad.getAttribute("data-yafa-img");
+					var yafa_target = ad.getAttribute("data-yafa-target");
+					var yafa_style = ad.getAttribute("data-yafa-style");
+					var yafa_linktarget = ad.getAttribute("data-yafa-linktarget");
+					var yafa_linkheight = 0;
+					if( ad.hasAttribute("data-yafa-linkheight") ) {
+						yafa_linkheight = ad.getAttribute("data-yafa-linkheight");
+					}
+					var tgt = jQuery(yafa_target);
+					tgt.attr(
+						'style', 'background-image: url(' + yafa_img + ');' + yafa_style
+					);
+					jQuery('html').bind('mousemove', function(e) {
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							jQuery('html').css({ 'cursor' :'pointer' });
+						} else {
+							jQuery('html').css({ 'cursor' :'auto' });
+						}
+					});
+					jQuery('html').bind('click', function (e) { 
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							window.open(yafa_click,'_top');
+						}
+					});
+				}
+                jQuery(ad).hide();
+            }
+        }
+		</script>
+ 
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",opacity:0.8,loop:false,scrolling:false,top:false,right:false,bottom:false,left:false});
+});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ecd_params = {"cookie_message":"Rock Paper Shotgun uses cookies. For some reason we are now obliged to notify you of this fact. Not that you care. <a href=\"\/privacy-stuff\">More info here<\/a>.","cookies":{"0":{"name":"wp-settings-3","group":"WordPress","description":""},"1":{"name":"wp-settings-time-3","group":"WordPress","description":""},"2":{"name":"wordpress_test_cookie","group":"WordPress","description":""},"3":{"name":"__utma","group":"Google Analytics","description":""},"4":{"name":"__utmb","group":"Google Analytics","description":""},"5":{"name":"__utmc","group":"Google Analytics","description":""},"6":{"name":"__utmv","group":"Google Analytics","description":""},"7":{"name":"__utmz","group":"Google Analytics","description":""},"9":{"name":"","group":"","description":""}}};
+var ecd_cookies = [{"name":"wp-settings-3","description":"","group":"WordPress"},{"name":"wp-settings-time-3","description":"","group":"WordPress"},{"name":"wordpress_test_cookie","description":"","group":"WordPress"},{"name":"__utma","description":"","group":"Google Analytics"},{"name":"__utmb","description":"","group":"Google Analytics"},{"name":"__utmc","description":"","group":"Google Analytics"},{"name":"__utmv","description":"","group":"Google Analytics"},{"name":"__utmz","description":"","group":"Google Analytics"}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/script.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var infinite = {"ajax_url":"https:\/\/www.rockpapershotgun.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/rps-feature-stepper/infinite-features.js?ver=1.0'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201713'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type="text/javascript">
+			var bwpRecaptchaCallback = function() {
+				// render all collected recaptcha instances
+			};
+		</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=bwpRecaptchaCallback&#038;render=explicit" async defer></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc1fd178d1","applicationID":"26676767","transactionName":"MwBUZUZXWkpZAkMNCQpKd1JAX1tXFxJeCgEIAA==","queueTime":0,"applicationTime":1452,"atts":"H0dXEw5NSUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

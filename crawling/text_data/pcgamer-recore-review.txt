@@ -1,0 +1,49 @@
+
+
+ 
+ 
+
+
+By
+James Davenport
+ 
+
+ReCore buries a great action platformer beneath layers and layers of open world busywork.
+What is it? An action platformer set in a vast desert environment.
+Price: $40 / £30
+Publisher: Microsoft Studios
+Developer: Comcept, Armature Studio
+Reviewed on: Windows 10, i7-6700K, 16GB RAM, GeForce GTX 980 Ti 
+Multiplayer: None 
+Link: Microsoft Store
+ReCore spreads an action platformer across a barren desert planet, so it works about as well as tennis does on a football field. It’s a trip back in the game design continuum, the skeleton of a springy 3D platformer tragically undernourished by an empty open world and a narrative that plays out like Asimov Cliff Notes. But what if robots were sometimes bad?
+You play as Joule Adams, one of the last humans sent to Far Eden in hopes of transforming it into a new home. When you arrive the only sign of humanity is mechanical wreckage half-buried in the sand, so you team up with a robot dog in search of answers. But first, you’ll need some Prismatic Orbs, and before that, you’ll need to level up, and before that, you’ll need to find some security bots buried in the sand, and before that, you’ll need to trek across an empty desert. ReCore is an infuriating cycle of checklists and chores, suffocating its best design beneath miles of boring bloat.
+The classic 3D platformer in ReCore actually works well. Platforms float in the sky without a single wink toward the fiction, score multipliers litter the screen during combat, and shiny resources spill out of robot monsters like Smarties out of a cheap Pinata—walk over them and plink, plink, plinkplinkplink. It’s dated, but it feels good. The double jump and dash physics are dependable and easy to gauge. They have to be: most of the platforming dungeons—linear levels you load into from the overworld—are focused and challenging, even if they’re made of featureless level design building blocks. They leave little question about where to go next, reducing the action to precise, urgent acrobatics. But there are only a handful of these sequences locked behind hours of boring collection quests.
+
+Combat makes use of the same skills, and occurs in designated dungeon arenas and wherever there's sand in the overworld. Evil robots pop out of the ground without warning and respawn whenever you load back into an area. Point the reticle near an enemy and you can lock on for easy circle-strafing, a refreshing take on shooter design that shifts the challenge from a test of accuracy to one of acrobatics and crowd management. Some enemy robots charge, others send out waves of fire, a few shoot tracking missiles—the screen fills with projectiles that move just slowly enough to jump and dash around, an acrobatics challenge in its own right. You can sic your robot companions on enemies, charge up a shot, and extract their core once they’re whittled down enough. Eventually, robots appear in a variety of colors, only vulnerable to beams that match. Combat becomes a hectic dance of beam switching and spatial awareness that I enjoyed at first, but grew tired of over repeated treks across the same expanse of sand no matter how good it might look. A full suite of graphics options and smooth performance might allay concerns about the dodgy reputation of Universal Windows Apps so far, but pretty sand won't make a desert fun.
+ReCore’s action is good on its own, it's just completely diminished by a grotesque open world structure that hides it away and chops it up with progress gates. As a means of setting the scene, the vast sandscapes do well to characterize Far Eden as a fresh rimworld ready for whatever sci-fi terraforming technology future humanity has cooked up. But they’re empty, with no vehicles and few fast travel checkpoints, forcing me to jam the dash button as I traverse long, barren stretches. I spent about six hours just running between objectives and looking for required collectibles.
+Primary objectives push Joule through the environments and the bulk of the story. I diverted from the main path a few times, checking out a few metallic structures for secrets and some optional (or so I thought) underground dungeon challenges, but only because I felt obligated to. In all that space, I figured there had to be something interesting and alien hidden away. I found a lot of sand and rock barriers, not much else.
+
+There’s no true incentive to explore Far Eden. The world is a means to an end, a big boring level select screen for sparse combat or platforming challenges that, as I soon found out, you aren’t allowed to enjoy before several hours of running through the desert to collect enough junk and shoot enough robots.
+In one instance, I spent an hour scouring the desert for hidden security bots to just to unlock a dungeon door, and once I got in and halfway through exploring it, I found out I couldn’t proceed because I wasn’t a high enough level to defeat some enemies. They turned invincible as a result, and the only way to get more experience was to go back outside and shoot more robots. Why not lock the dungeon until I’m capable?
+In one instance, I spent an hour scouring the desert for hidden security bots just to unlock a dungeon door.
+Robot companions are another constant source of frustration. You can only bring two companions with you at a time, and each has a unique ability necessary for progression in specific instances. I felt antagonized when I knew I had to dig up a Prismatic Orb (the collectible keys) using my dog bot Mack, but because I left him back at home base, I had to teleport back (the only time you’re allowed convenient travel), switch out my party, and then desert dash back to the dig spot. That’s a couple load screens and three minutes of extra travel time, just to use a contextual action. I can’t conceive of a reason why having all of the companion robots’ unique abilities with you at once would break the game. Let me dig, damn you.
+And then there’s the horrendous endgame. Right before you finish, the narrative screeches to a halt. The final objective that essentially means ‘go upstairs’ is strung out into several floors of platforming and combat challenges set in a massive void, with each floor gated by an additional five Prismatic Orbs. Which means I had to head out to the overworld and collect about two dozen more orbs before finishing up. It reduces ReCore to an even more monotonous grind that pays no mind to narrative pacing, and takes equally as long as the campaign does until that point. ReCore starts off strong, but with such little consideration for players’ time, you’re better off spending it elsewhere.
+
+
+
+
+
+
+
+
+ReCore buries a great action platformer beneath layers and layers of open world busywork.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

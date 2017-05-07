@@ -1,0 +1,18 @@
+
+
+
+CryptoCoinsNews
+The state of Kerala, situated along the southern tip of the Indian subcontinent, will be home to the country’s second blockchain academy.
+The academy, set up jointly by a regional educational institution and an international blockchain learning and development platform, will endeavor to research and provide consulting with blockchain technology.
+The collaborative initiative was first announced during a recent workshop on blockchain technology at the state’s coastal capital of Thiruvananthapuram. The blockchain workshop was held at ‘Technopark’, a large IT-dedicated space in the city, and saw participation from a senior research scientist from prominent blockchain-tech giant IBM.
+The academy was set up by the Indian Institute of Information Technology and Management-Kerala (IITM-K) and international blockchain learning platform Blockchain Education Network (BEN). Michael Gord of the BEN also participated in the event, speaking about blockchain technology via a video conference.
+Dr. Asharaf S, an associate professor at IITM-K pinpointed the areas of focus in which the academy will seek to explore blockchain solutions.
+In quotes reported by a regional publication, he stated:
+Banking, healthcare, and governance are the three major avenues where blockchains will find applications.
+Pertinently, IITM-K is also running Maker Village, a Kerala-based electronics incubator that is funded by the central and state governments of India. The incubator notably sees blockchain to provide a tamper-proof storage system with transparency in digital applications.
+“Blockchain technology, which leverages the idea of a distributed and decentralized ledger, will open up new avenues both in the software and hardware sectors,” stated professor S Rajeev, who is also a consultant at Maker Village.
+The city of Thiruvananthapuram now joins Vishakhapatnam as Indian centres that will develop blockchain applications. Led by the government’s initiatives, the latter is, in particular, fast-tracking its way toward becoming India’s Fintech hub. Vishakhapatnam’s state government is already looking at using blockchain technology to fight cybercrime. More recently, it was revealed that Visa, the world’s largest payments network and Thomson Reuters, a global data and technology provider, will launch operations in Vishakhapatnam to develop financial innovations in digital payments.
+Altogether, India is home to a number of bitcoin- and blockchain-related developments in recent times.
+In early February, the Reserve Bank of India (RBI), the nation’s central bank issued a public notice to state that bitcoin or bitcoin-related companies were not authorized or licensed by the institution. Further, reworked regulations to accommodate financial technologies and digital payments companies did not include bitcoin under the definition of legal tender. The lack of a regulatory effort led to India’s nascent but growing bitcoin industry to unite and form a self-regulatory body. Earlier this month, a senior RBI official was quoted pouring scorn on the plausibility of bitcoin or any blockchain-based digital currencies replacing cash.
+Meanwhile, the RBI published a whitepaper earlier this year that fundamentally summed up blockchain as a technology that had matured enough to support the digitization of India’s fiat currency, the rupee.
+Featured image of Thiruvananthapuram from Shutterstock.

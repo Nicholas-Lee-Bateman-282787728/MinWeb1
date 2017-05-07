@@ -1,0 +1,17 @@
+./html_data_bitcoins/us-blockchain-firm-launches-digital-currency-irs-tax-software-bitcoin-support-next.txt
+
+
+
+CryptoCoinsNews
+IRS-friendly tax software Node40 Balance supports Dash with Bitcoin next in line.
+While San Francisco-based bitcoin exchange Coinbase locks horns with the IRS for the upcoming trial, a blockchain governance firm has unveiled a tax reporting software that will allow Americans to report their digital currency gains.
+Launched today, the software is developed by New York-based governance firm Node40, commonly known as the masternode host provider for Dash, a prominent cryptocurrency.
+The software, named ‘Node40 Balance’, performs cost-bases calculations on net gains and losses on all transactions in a calendar year. Data sourced from the blockchain before directly filing details into IRS Form 8949. The form seeks taxpayers to report capital gains and losses from transactions related to investment property.
+“A simple FIFO [First In First Out] strategy is not sufficient in dealing with digital currency transactions,” stated Node40 CEO Perry Woodin in a statement. A method of asset valuation, FIFO assumes that the first assets produced or acquired are the first products sold. The valuation is frequently used for traditional investments where assets are seen as whole units.
+Woodin claims the method to be inadequate for digital currencies where transactions will have multiple inputs, stating “Node40 Balance uses the true carry cost and days held to calculate precise valuations that ensure you are not over-reporting your tax liability.”
+The software sees its launch after a two-year development cycle which included a beta program involving real-world testing by Dash traders, miners, accountants, lawyers and tax professionals. It is designed to work for individuals, small businesses, large corporations as well as government departments to file taxes.
+Woodin added:
+Node40 Balance analyzes the blockchain and provides valuation data for all your transactions. You annotate your transactions according to your real-world needs and Node40 Balance provide reports with your gains, losses and income.
+At launch, the software supports the Dash blockchain and Node40 adds that bitcoin users will be able to use the software before the next tax season later this year.
+The software release comes within days after the IRS stated that, during the course of its investigation into Coinbase, less than 1,000 users were declaring bitcoin earnings each year. The standoff between the tax agency and the bitcoin exchange continues after the IRS filed a civil petition targeting bitcoin transactions of Coinbase users in November.
+Featured image from Shutterstock.

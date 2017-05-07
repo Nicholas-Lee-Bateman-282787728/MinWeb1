@@ -1,0 +1,42 @@
+./html_data_bitcoins/emercoin-leading-way-towards-decentralized-world-interview-jason-cassidy.txt
+
+
+
+CryptoCoinsNews
+Emercoin was founded in 2013 as a hybrid of PPCoin and Namecoin and was established with the vision of creating a fully functioning merchant platform.
+
+This was achieved and now Emercoin is at the forefront of crypto development. Over the past 2 years, the project has developed many interesting features.
+My favorite feature developed so far is the advertising platform. Coming from a marketing background, I guess I am biased. Although it is simply a pay per click system, having it integrated into a coin is phenomenal. I think this feature will likely get noticed more as the coin expands its base. Next comes the transaction optimizer which tries to find an exact match to a transaction being sent to reduce the return transaction or “Change”. We will talk more about that with Jason in the interview Emercoin has nine services in total including:
+DNS – built from namecoin called EMCDNS.
+EMCSSH-  Secure shell management system needed by every site admin.
+EMCLNX-  Decentralized pay-per-click advertising network.
+EMCTTS – Trusted storage for digital timestamps on the blockchain.
+EMCDPO – Digital proof of ownership solution for physical or digital goods and services.
+InfoCard –  Storage for electronic business cards for use with EMCSSL.
+Magnet – Distributed torrent tracker for internet file sharing.
+Emercoin was added to Microsoft Azure on it BaaS platform. Although Emercoin is not the first coin added to the platform and the service does not focus on crypto as payment method. The uses of this new service are yet to be fully explored.
+Jason Cassidy is the CCO OF Emercoin. He has a background in programming and left Blackberry in 2012 to branch out into crypto. 
+After launching Canada’s first Blockchain consulting firm (CryptoConsultant.com) and a media company called BlockchainTV, he joined Emercoin  to help  bring his vision of a decentralized world.  Now Jason sits down with me to discuss the future and how Emercoin is leading the way in developing solutions in a decentralized world.
+So Jason, it looks like Emercoin is a fully developed platform for commerce providing security, DNS, marketing and even advertising. Tell us a little more about it.
+Yes, EMCLNX.  Emercoin has nine (9) services already developed and being used. This separates us from virtually every other digital currency or blockchain platform today.
+Why do you think Emercoin hasn’t gotten the recognition that other less developed projects (litecoin, Dash) have gotten?
+In my opinion, this has to do with the company’s focus on underpraising and over delivering. I came from a background at BlackBerry where we were constantly going over our projected dates. This was because there was a culture of overpromising and under delivering, and people began to accept this.  I worked hard to try and change that philosophy and BlackBerry during my time. So when I joined the Emercoin group, I was overjoyed to see the team had employed the same mindset. The focus of Emercoin has been on the development of tools and services the public can use.
+We were not interested in securing external funding based on promises of technological innovations several years in the future. We wanted to create the future ourselves and then let the market know about our solutions.  I believe that because we took that path to create and innovate over hype and promise, we have “flown under the radar” so to speak.
+
+Now, another big innovation you have released is the Transaction Optimizer. This is like finding an exact match for each individual transaction. What are its benefits?
+Yes, one of our many innovations is the Transaction Optimizer. This is an algorithm we developed and have tested internally on the EMC blockchain for several months now. In essence, we use a different method of finding the best subset.  If an exact UTXO subset exists for any given amount output, this subset will always be found by the Transaction Optimizer and utilized to complete a new transaction. The additional and unnecessary second UTXO is no longer being generated, reducing the amount of information being input into the transaction on the blockchain. The Optimizer uses a dynamic programming approach and requires some math involved of course.
+O(V) memory and O(V*N) time, which is much more optimized than the current O(2^N).
+It is only a few lines of code however, it cuts down on that second (chargeback) output. It reduces bloat on the blockchain by cutting down on the net (total) amount of UTXO’s
+So basically, what you’re saying is that by reducing the total number of transactions you have enhanced the efficiency?
+In this one aspect yes, when we look at the total amount of savings it is about 5-10% for memory usage of the blockchain.  So Bitcoin should be looking at this.  And if it does not, then the question should be asked to the Developers  -“Why not?”. Every cryptocurrency / digital currency utilizing a blockchain has the impetus to look at this for adoption. In a market with open source fundamentals, everyone is able to analyze and then decide if a certain technology is worthy of adoption. We respect this and hope our other family member in the industry take a look.
+Have you spoken with any developers within the bitcoin core community about your solution?
+We have yet to formally reach out however we will be doing this so. With the recent news of Mike Hearn’s departure and the subsequent controversy, it has caused we have been waiting for the dust to settle.
+Now let’s talk about Microsoft.  You have recently partnered with their cloud services to bring Blockchain as a Service (BaaS) to their customers. Will this involve EMC as a token? 
+Right now the goal is to integrate our suite of blockchain services into the BaaS marketplace. In terms of how actions will be facilitated through these cloud services, there has not been an official decision. Currently, Emercoin (EMC) itself functions as a wonderful companion to the Emercoin blockchain. An Azure user will then be able to deploy their own blockchain running our EMC services. This is by far the most exciting aspect of the partnership as it brings the Emercoin blockchain to anyone in the Azure cloud with the few simple steps.
+So there are infinite possibilities as to how this could be used?
+Yes, there are applications for literally every industry you can imagine. This is why our focus is on blockchain innovation as much as it is on developing a payment and settlement system.
+Finally, I want to give you an open mic to say whatever you want. What do you want the world to know? 
+The industry is maturing very quickly now as businesses and governments enter into this space. What we are witnessing is the beginning of a filtration process, where all digital currency and blockchain offerings are being analyzed with a fine tooth comb.
+The early days of being able to garner success from forking the codebase of a popular currency, slap on a new name, logo and add in one or two minor features is now over. Today, major VC firms are exploring the possibilities of blockchain technology and digital currencies with a long-term vision. You are noticing many of the true innovators in the industry receiving major funding. This capital is not invested without careful consideration of where the market is today and where it projects to be many years in the future. To be relevant going forward a digital currency will have to offer significantly move than an alternative payment option to Bitcoin. The message being sent to the industry is clear: Innovate or be left behind.
+I believe we have created a blockchain that offers exactly what the market is looking for right now.. The response you are seeing in the partnerships being formed the increase in value of EMC is simply a reflection of the market taking notice. Emercoin is going to be evolving into many other areas of technology in 2016, and we feel this is the type of forward thinking approach needed to be a top blockchain in this industry.  Keep an eye out for us; we have many big developments taking form right now and some absolutely fascinating innovations that will be hitting the market soon.
+Images from Shutterstock and Emercoin.

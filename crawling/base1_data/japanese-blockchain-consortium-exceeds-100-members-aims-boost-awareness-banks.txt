@@ -1,0 +1,19 @@
+./html_data_bitcoins/japanese-blockchain-consortium-exceeds-100-members-aims-boost-awareness-banks.txt
+
+
+
+CryptoCoinsNews
+The Blockchain Collaborative Consortium (BCCC), Japan’s first industry blockchain consortium has revealed it has now reached 109 member companies and organizations in total, less than a year after its inauguration in April 2016.
+Launched with the likes of Microsoft Japan and Ethereum-coder collective ConsenSys as its members, the blockchain consoritum was launched with the vision to push blockchain innovation for “the evolution of information systems, in just about every industry.” The working group launched with 34 companies as founding members to collectively place blockchain technology at the very core of the Fintech revolution.
+In a public release today, the BCCC has revealed that its membership has expanded to 109 companies and organizations.
+An increased interest among financial institutions to consider the adoption blockchain technology has led to a swell in inquiries about the innovation, BCCC said. As a result, the blockchain consortium has made a decision to inaugurate the ‘Financial Services Subcommittee’.
+With its launch this month, the subcommittee is mainly tasked to boost awareness of blockchain technology among financial services companies. Banks, securities brokerages and insurances companies will all partake as members and share information and study sessions of blockchain innovation among each other. Further, the subcommittee will also carry out industry activities as a blockchain collective “specialized” in the financial services sector.
+While its founding members were predominantly backers and promoters of blockchain technology, the addition of 75 new member companies over the past year are new to exploring the innovation, the consortium revealed. Manufacturing companies, service industry firms and financial institutions are among the new members showing interest.
+Japan’s biggest banking corporations, the so-called big three “megabanks’ have led the foray into researching blockchain-based banking processes in the country.
+In November 2016, the three banking corporations – Mizuho, SMBC and Mitsubishi UFJ – revealed the successful testing of a nine-month of domestic money transfers over a blockchain. The trial used “miyabi”, a proprietary blockchain developed by Japan’s biggest bitcoin exchange, bitFlyer. The tests conclusively scaled 1,500 transactions per second, beating the 1,400 Tns/sec that the current interbank wire system is capable of at peak speeds.
+In February, all three banks notably became investors in the bitFlyer.
+Earlier this month, Ripple CEO Brad Garlinghouse claimed that blockchain was moving into production following a successful blockchain money transfer pilot that saw participation from 47 Japanese banks. Using a Ripple-powered cloud-based blockchain platform ‘RC Cloud’ the Japanese banks were able to conduct real-time domestic and international money transfers.
+The chief executive underlined the blockchain solution as a “concrete example” of how blockchain technology was transforming money transfers around the world.
+Garlinghouse stated:
+Consortiums are not hard to come by in this industry, but what makes this significant is that these leading Japanese banks are focused on a clear use case and moving blockchain into production.
+Image from Shutterstock.

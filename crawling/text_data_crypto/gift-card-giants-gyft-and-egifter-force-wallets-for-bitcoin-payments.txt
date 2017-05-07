@@ -1,0 +1,18 @@
+./html_data_bitcoins/gift-card-giants-gyft-and-egifter-force-wallets-for-bitcoin-payments.txt
+
+
+
+CryptoCoinsNews
+eGifter and Gyft, two major online gift card stores that had previously accepted bitcoin payments, now require bitcoin payments to be made through a major bitcoin wallet.
+Gyft requires bitcoin payments to be made through Coinbase or BitPay. eGifter requires bitcoin payments through Coinbase.
+Neither site states that they now require a customer to use these wallets, but when this reporter recently attempted to buy gift cards with bitcoin, both sites indicated that the purchases required paying with a Coinbase wallet. Gyft also offered the option of using BitPay.
+Gyft notes on its website that it was one of the first places to accept bitcoin.
+A Gyft blog states that Gyft has directly integrated with Coinbase so users can pay with their Coinbase wallet and enjoy a seamless checkout experience.
+The Gyft website instructs those users who don’t have a Coinbase account to set one up, providing a link to Coinbase.
+As for eGifter, a Reddit recently posted a notice from eGifter that announced “very important changes to your eGifter account.” The notice states that if you don’t already have a Coinbase wallet, you will need to get one set up before your next purchases. A Coinbase link is provided.
+The eGifter notice further states that if you have significant buying needs, you might want to consider converting to a VIP Consumer Member or a Corporate Bulk Account. Regardless of which of the three options an eGifter user chooses, they will first need a Coinbase wallet.
+Also read: Gift card king Gyft teams up with Coinbase for seamless transactions
+A response from eGifter stated that the website is in the process of making changes in how it accepts bitcoin. It further stated that it has always used Coinbase as its bitcoin payment processor and recently updated to its latest integration to improve performance and security. “We realize this may not be right for everyone and are considering other options going forward,” it stated.
+These changes demonstrate rising monopolization of bitcoin acceptance of retail purchases by two of the largest bitcoin wallets. Such monopolization will be viewed by many bitcoiners as contrary to one of bitcoin’s initial benefits – decentralization.
+Gift cards have been critical in enabling the use of bitcoin to pay for everyday purchases. Both Gyft and eGifter allow users to purchase gift cards for many retail establishments that don’t accept bitcoin directly.
+Image from Shutterstock.

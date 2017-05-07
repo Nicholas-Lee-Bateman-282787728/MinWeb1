@@ -1,0 +1,14 @@
+./html_data_bitcoins/newsflash-bitcoin-loses-200-falls-950.txt
+
+
+
+CryptoCoinsNews
+Bitcoin price has sunk to a 30-day low, losing over $200 in a 24-hour period to hit a low of $938.73 on the Bitstamp Price Index (BPI).
+The ongoing debate about a hardfork of the bitcoin blockchain that could see two separate networks with two separate assets has possibly triggered a bitcoin price spiral to levels unseen since February 9. At the time, price crashed to a low of $915 from trading levels above $1050 after two of China’s biggest bitcoin exchanges paused bitcoin withdrawals, a measure that still stands today.
+At 15:45 UTC on Friday, BPI figures reveal the cryptocurrency trading at nearly $1,160. 24-hours later, bitcoin lost over 18% of its value, hitting a low of $948.73.
+At the time of publishing, bitcoin is rebounding back toward the $1000 level, trading at $979.
+
+As bitcoin falls, its closest competing crypto-token, ether, has now been surging for a week. Ethereum prices nearly scaled $60 yesterday.
+For a live Bitcoin Price chart, click here.
+All time references are in Coordinated Universal Time (UTC).
+Image from Shutterstock. Charts from Bitcoin Wisdom.

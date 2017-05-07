@@ -1,0 +1,26 @@
+./html_data_bitcoins/bittylicious-santander-uk-terminate-users-bank-accounts-sending-fiat-bitcoin-exchanges.txt
+
+
+
+CryptoCoinsNews
+Editor’s Note: Article headline and content amended for clarity.
+U.K. bank Santander is terminating its users’ bank accounts if it discovers they have sent fiat money to Bitcoin exchanges, according to Bitcoin exchange Bittylicious. However, the bank fails to explain the reasons for doing so.
+Bittylicious took to Twitter to break the news saying:
+@Santanderuk are now closing down accounts of anyone that sends to #BTC exchanges. The anti-competitive UK banking system must be broken up.
+.@santanderuk are now closing down accounts of anyone that sends to #BTC exchanges.The anti-competitive UK banking system must be broken up. pic.twitter.com/A5POQO553I
+— Bittylicious (@Bittylicious_) March 16, 2017
+
+According to a letter from Santander, it said:
+Under the terms and conditions of the account we can withdraw banking facilities by giving you notice in writing and, in line with our company policy, we don’t give further information about how we’ve made our decision.
+It adds that users have two months to find ‘alternative banking services.’
+In response to Bittylicious’ statement that the banking system needs to be broken up, users indicated that as Santander is reportedly pro-blockchain, it was doubtful that was the reason for the closures.
+Just last month, it was reported that Santander had joined corporate giants to launch the Enterprise Ethereum Alliance (EEA), driving Ethereum blockchain technology best practices by focusing on security, privacy, scalability and interoperability.
+However, when one user on Twitter asked how Bittylicious know it is Bitcoin users Santander are targeting, they responded by saying:
+Because the bank account in question had personal funds put into it, and the only outgoing transfers were to an exchange.
+While it certainly doesn’t provide concrete proof that the accounts targeted were closed for that reason, it does raise questions as to why Santander has decided to terminate these bank accounts, particularly in line with its assumed pro-blockchain stance.
+This latest news from Santander follows in the footsteps of SurBitcoin.
+In February, the Venezuelan Bitcoin exchange announced to its users that it should start using LocalBitcoins after the country’s bank, Banesco Banco Universal, had decided to suspend its bank account. It was later reported that it was hoping to resume services soon.
+With the rise in value that the digital currency is experiencing, and the upward trend it has been undergoing of late, more banks appear to be cracking down on the currency.
+The People’s Bank of China (PBoC) is one such bank that is slowly putting together regulations for bitcoin exchanges in the country to suppress potential money laundering activities that are being used with the currency.
+And yet, despite this, the currency remains a popular alternative to millions of people that is showing no signs of going anywhere anytime soon.
+Featured image from Shutterstock.

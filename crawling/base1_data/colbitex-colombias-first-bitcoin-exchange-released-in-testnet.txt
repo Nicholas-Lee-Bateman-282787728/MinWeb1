@@ -1,0 +1,13 @@
+./html_data_bitcoins/colbitex-colombias-first-bitcoin-exchange-released-in-testnet.txt
+
+
+
+CryptoCoinsNews
+On June 3, 2016, Colombia’s first Bitcoin exchange, Colbitex, launched in testnet. The Colombian market seems to have all the right characteristics for increased adoption and the embrace of exchanges. Time will tell.
+The project was founded by Roman Parra, an industrial production engineer and marketing specialist, and Carlos Mesa, a computer systems engineer. When officially launched, Colbitex will be a full-service exchange allowing for the traditional functionality users have come to expect from exchanges, according to Latin American bitcoin publication, Diario Bitcoin.
+Parra and Mesa also plan to add some sort of alarm mechanism that will alert users when there is suspicious account activity. The goal, they say, is to prevent “illegal activities” on the exchange. There is no word yet on the functional details of this feature.
+The Bitcoin Market Potential Index (BMPI) produced by the London School of Economics ranks Colombia at 84 out of 178 countries, certainly a positive sign for Colbitex. As the country’s potentially first exchange Colbitex is checking all of the boxes that signal a quality, market-ready exchange. Regarding the market positioning and potential of the exchange in Colombia, Parra told the publication:
+[The] Bitcoin market in Colombia has grown very slowly when compared to other countries such as Argentina, Brazil and Venezuela, but this growth has been sustained and steady; every day there are new users, new investors and new technologies interested in knowing [blockchains] as Bitcoin and Ethereum.
+[With] the current economic situation of Colombia and its strategic geographic location, there is a high potential for enterprise development and use of these new technologies.
+The release of Colbitex is just the beginning for the group as they plan to roll it out to other neighboring countries eventually. They also plan to allow assets other than just Bitcoin to be traded. As the macros in the world economy continue to signal a slow down and the trend towards cryptos continues, Parra and Mesa’s timing might be impeccable.
+Featured image from Shutterstock.

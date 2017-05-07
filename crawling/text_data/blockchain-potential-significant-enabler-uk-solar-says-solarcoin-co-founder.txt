@@ -1,0 +1,16 @@
+
+
+
+CryptoCoinsNews
+The blockchain presents the opportunity of becoming a ‘potentially significant enabler’ for U.K. solar, according to SolarCoin co-founder Francois Sonnet.
+Speaking ahead of his panel on the future of solar technology at the Managing European Solar Assets event next month in London, he said that Bitcoin’s distributed ledger technology could be utilized across a number of different areas in the U.K. such as operation and management (O&M) and peer-to-peer energy trading, according to a report from Solar Power Portal.
+He said that the blockchain can help calculate any form of data, which can include transactions involving solar energy data.
+It can be an enabler for O&M in the case of the solar industry, anything which is related to peer-to-peer energy transfers. That’s certainly going to be a very big enabler because the latencies, the fluidity of information is actually much higher than it is from other systems.
+Created in January 2014, SolarCoin rewards people for using solar energy. With a supply of coins designed to last 40 years, the aim of the company is to boost solar electricity use worldwide by rewarding the generators of solar electricity. It is thought that it will generate 97,500 terawatt hours of solar electricity, with the network growing as more people claim SolarCoin.
+Energy companies are increasingly exploring the potential that the blockchain can present when it comes to energy consumption. Over the last year, alone, there have been several tests undertaken to determine the how effective it can be.
+U.K.-based startup Electron created a platform on the Ethereum blockchain, in December, which showed that energy supplier switches could be performed 20 times faster than at present, presenting major cost savings.
+Other countries that are exploring the blockchain’s potential are Austria and Germany.
+Only last month is was reported that Austria’s biggest regional energy company, Wien Energie, was joining a group of others within the industry to take part in a blockchain pilot with the intention of cutting down costs for consumers within the sector.
+While a survey conducted in November found that German energy companies were outlining how to implement the blockchain to improve services.
+Often referred to as the technology that is going to change the way the energy industry functions, as the blockchain is currently doing within the finance sector, it has the potential to fix current energy systems as it aims to meet growing customer expectations.
+Featured image from Shutterstock.

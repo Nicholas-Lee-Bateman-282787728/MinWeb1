@@ -1,0 +1,252 @@
+
+RPS Feature
+Point'n'squeeze 
+By Alec Meer on December 7th, 2016 at 8:00 pm.
+
+I’ve already yammered about the design and capabilities of the Oculus Touch motion controller hardware itself, and now it’s time to talk software. Around 50 Touch-enabled VR games and apps launched this week – more than I can feasibly hope to look at, but I’ve been able to finger-gun and swipe and prod in enough of ’em to give you a clear sense of what this whole experience is like right now for games and software, and whether the Touch is generally a goer or not.
+Also: SUPERHOT.
+
+I’ve broken this into capsule ‘reviews’ of several games and apps, but really it’s one longform discussion of what the Touch controllers can do by looking at different applications thereof.
+How to navigate this feature – use the arrows or cursor keys to skip back and forth between pages. And in the interests of full disclosure, some of these screenshots are marketing materials, as grabbing one’s own screens in a VR game is hard enough at the best times, but I also found that many of the ones I did take came out all-black. I would pay for a voice-controlled screenshot app or a magic button that sticks onto a VR controller.
+ 
+
+07/12/2016 at 20:14
+
+Sakkura says:
+
+Medium is not the Oculus analog of Tilt Brush. Quill is.
+
+07/12/2016 at 20:24
+
+titanomaquis says:
+
+Yeah, Medium is not like Tilt Brush really at all, and the complaint that it is presented like an application is silly, because it is meant to be a tool, not a “game.”
+I’ve seen some pretty impressive sculpting work being done in medium, so that is promising.
+
+07/12/2016 at 20:26
+
+plsgodontvisitheforums says:
+
+I did a little celebratory dance when I threw a VHS tape in the bin in First Contact
+
+07/12/2016 at 20:38
+
+Regibo666 says:
+
+I love VR, my family love VR (have Vive). I would love to buy a second HMD and would love for that to be Oculus Rift/Touch but I point blank refuse to support a the Rift until it stops this exclusives nonesense.
+I know I’ll get heavily flamed for this attitude but they are seriously hurting VR on pc by purposely fragmenting the pc VR market. It goes against everything I love about pc gaming.
+
+07/12/2016 at 20:40
+
+Sakkura says:
+
+No, they are not hurting VR on PC. They are the ones pushing it forward, with better funded games and more advanced software features (like ASW).
+The company doing VR exclusives is Sony, for the PSVR.
+
+07/12/2016 at 20:46
+
+Regibo666 says:
+
+Yes they are. I’m not talking about store exclusives. That’s fine. I’m talking about games that only work on Rift Hardware. Where ALL other pc VR hardware manufacturers treat the HMD as a peripheral, like a mouse or gamepad…Occulus are selling it as a system.
+This is bad for VR on PC.
+
+07/12/2016 at 20:48
+
+Sakkura says:
+
+There are no hardware exclusives.
+
+07/12/2016 at 20:57
+
+Regibo666 says:
+
+There are many games that don’t work on Vive and are only available on the Occulus store. Yes you can use revive but it doesn’t always work.
+It’s common knowledge Occulus are throwing money at devs to make games that only support Rift natively.
+Where companies like valve offer to fund VR projects without commitment to any Hardware. They just want VR to succeed.
+
+08/12/2016 at 05:29
+
+k.t says:
+
+I’d find this notion that Valve is committed to widespread compatibility easier to take seriously if they hadn’t put a riduculous amount of effort into keeping the Vive hidden from Oculus.
+
+08/12/2016 at 09:38
+
+Malarious says:
+
+Not really sure what you mean. Abrash had a Valve dev blog ( link to blogs.valvesoftware.com ) where he talked _at length_ about VR and AR, before the Oculus kickstarter even. Considering Oculus poached him in 2014, and they collaborated with Valve even before then, I find the proposition that Valve was trying to keep the Vive a secret from Oculus very flimsy. At the very least, Oculus was aware that Valve was developing VR tech, if not the exact Vive product.
+
+08/12/2016 at 11:31
+
+Herring says:
+
+Valve never wanted to market their VR stuff. It was a research project which they then started to open up to get VR implemented in the market as they considered it The Next Big Thing. They gave Oculus free access to all their research.
+Then there was The Big Falling Out. Valve stopped co-operating with Oculus and started the ball rolling with HTC to release a direct implementation of their research.
+I’d love to know why. The 3 theories I’ve heard;
+1) The mass poaching of their VR staff by Oculus.
+2) The purchase of Oculus by Facebook
+3) Disagreements over the importance of roomscale / touch.
+There were some fairly pointed comments by one of the Valve engineers about how people would be surprised about how much the internal workings of the Rift were similar to the early Valve prototypes…
+
+08/12/2016 at 12:10
+
+k.t says:
+
+Abrash only made one mention of VR before the Oculus Kickstarter, and that was in the context AR. He mentioned QuakeCon — specifically talking with Carmack and Luckey — as being the start of the VR journey. In February 2013 those that were still working on AR at Valve were fired, and more followed them out the door in protest.
+Valve spent the next year saying they had no intention of releasing hardware. They wanted Oculus and others to do that while Steam acted as the software hub — that’s where the money is, after all. Facebook bought Oculus in March 2014 and Valve went dark. They stopped updating their VR software and refused to respond to questions regarding what was happening. By May they were working on the Vive.
+In March 2015 it had been unveiled. At GDC Chet was openly talking about how glad he was that he could finally use his laptop on planes without worrying about someone finding out. At EGX he said all the developers they recruited were made to sign an NDA just to get access to the second NDA which forbid them from talking about it. He then spoke about the lengths these developers had to go to to keep the hardware hidden.
+So, yes, they went out of their way to keep it secret. There are plenty of other wrinkles to this story, and none of the major players come out of it looking entirely altruistic.
+
+08/12/2016 at 13:15
+
+Herring says:
+
+I remember Valve’s VR stuff being at worst an open secret. Lots of people saw it and were disgruntled that Valve never seemed to want to got beyond PoC with it.
+Valve’s a company and “company” and “altruistic” rarely go together.
+That said, if Valve had tied their store to their hardware (the way Oculus has) then Oculus would have been stone-dead in an instant. Just looking at the release notes for the Steam VR updates you can see how much effort goes into ensuring the Rift works fine in Steam.
+I tend to believe them that they want VR to succeed rather than Vive in particular. But they have a very specific idea of what “VR” is…
+
+08/12/2016 at 09:07
+
+Clavus says:
+
+Dean Hall wrote a post on VR game funding and the community’s paradoxical behaviour around it just today on /r/Vive:
+link to reddit.com
+Truth of the matter is, exclusives is how new platforms get funded. If they can’t have exclusives, how do you subsidise this platform? VR devs simply don’t break even, they need these subsidies if you want them to create quality games.
+
+07/12/2016 at 20:46
+
+heretic says:
+
+LOL your laugh when she hits the post :P
+
+07/12/2016 at 21:03
+
+tannerd says:
+
+SIPER
+
+07/12/2016 at 21:06
+
+tannerd says:
+
+Sigh.
+
+07/12/2016 at 21:28
+
+Nathan says:
+
+There are definitely far too many gun gallery games, but I’ve had a lot of fun with Dead and Buried regardless. It’s a neat pack-in, and all the modes that I’ve played have been super enjoyable.
+
+14/12/2016 at 17:44
+
+duffster says:
+
+Agreed, Dead and Buried is a lot of fun. Prior to that I hadn’t played any online games, and didn’t realise how well the built-in mic works. No breathing noises, or background noise, just the voice.
+
+07/12/2016 at 22:29
+
+G-Lord says:
+
+Finished Superhot VR today. Really glorious indeed.
+
+07/12/2016 at 22:41
+
+Themadcow says:
+
+Having recently got hands on with the Holo-Lens (which almost feels like alien tech from the future) it’ll take a lot to convince me that pure VR is the way forward. Superhot sounds like a good start though…
+
+07/12/2016 at 22:52
+
+MrMetlHed says:
+
+Super Hot was the first game I tried (after the tutorial) when I got my Touch controllers on Monday. It’s. Well. Wow.
+I just remember picking up throwing stars to get a couple of dudes, punching another, grabbing someone else’s gun and blasting them with it, and then taking a deep breath before going to the next room.
+Now maybe that all didn’t happen in the same scene, but that’s the feeling I’m left with. Like I was somehow teleported into a super spy and got to muck around without consequence for a little while.
+I don’t know how long I have left in the game, but I’m SHOCKED there aren’t challenge rooms and times to compare and ghosts of other players and SO MUCH MORE.
+
+08/12/2016 at 09:11
+
+Clavus says:
+
+I can see your point when talking about challenge rooms etc, but this is the reality VR consumers have to put up with for a while longer. Even with Oculus’ funding, it is far from generating the same income for the developer as a decently popular indie game. It got enough money to be made, but not much more.
+
+08/12/2016 at 15:29
+
+MrMetlHed says:
+
+And that’s cool, I get it. I just hope there’s a next step, because most of the VR “Experiences” are too short and not very deep. The Climb is about as good as it gets when it comes to having replay value and depth, so it can be done.
+Honestly I’m just looking for more adventure / RPG style games with some heft to them. But I’ll settle for smaller, replayable games full of challenges and such.
+
+08/12/2016 at 07:54
+
+Unsheep says:
+
+While the games are boring, the “experience” stuff – like theBlu – is what makes VR interesting to me. If there was a good number of these imagined travel experiences, I would actually consider getting a VR.
+
+08/12/2016 at 08:54
+
+tonicer says:
+
+Oculus? More like Facebookulus … I’ll see myself out …
+
+08/12/2016 at 11:42
+
+Tetrode says:
+
+Gahhhh I really want superhot to come to the Vive, sounds so good!
+
+09/12/2016 at 07:32
+
+particlese says:
+
+They’ve coyly hinted at it being worked on in their recent backer email, at least, and I’m extra excited for it after this article.
+I’m now also slightly annoyed/inconvenienced/patience-tested by my recently bolstered anti-Facebook sentiment, which comes from non-VR stuff but extends to Oculus because reasons.
+
+09/12/2016 at 17:24
+
+Howl says:
+
+What no Dead and Buried?
+It’s the jewel in the crown mate, the freaking jewel!
+
+13/01/2017 at 06:52
+
+Simplex says:
+
+“Try playing this and then claiming the Rift doesn’t do roomscale, I dare you.”
+I did play this and it’s not roomscale. The game is designed in a way, that the enemies are always in front of you, or to your sided, never behind you. Also, you are more or less planted in one place, moving maybe one or two steps in each direction, at best. That is not roomscale – roomscale is full 360 and possibility to walk around in a virtual space.
+
+13/01/2017 at 07:01
+
+Simplex says:
+
+“I’m going to write about slo-mo first person shooter SUPERHOT VR in its own piece, because it bloody well deserves it, so will be brief here
+That said, Superhot… More on which soon.”
+It’s been over a month and no piece on Superhot VR appeared, sadly.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+Arizona Sunshine, feature, Hardware, I Expect You To Die, Kingspray Graffiti, Oculus Medium, Oculus Rift, Oculus Touch, Serious Sam VR: The Last Hope, Space Pirate Trainer, SUPERHOT VR, Surgeon Simulator: Experience Reality, The Climb, TheBlu, VR, VR games.
+35% faster than a 1080
+Oh gosh!
+Believes huge tech improvements incoming
+A bitter Rift
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

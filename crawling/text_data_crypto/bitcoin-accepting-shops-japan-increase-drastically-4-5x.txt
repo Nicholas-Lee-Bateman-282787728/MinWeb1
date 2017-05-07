@@ -1,0 +1,15 @@
+./html_data_bitcoins/bitcoin-accepting-shops-japan-increase-drastically-4-5x.txt
+
+
+
+CryptoCoinsNews
+The Japanese bitcoin market has added a significant number of bitcoin merchants this past year. Local publications such as NHK revealed that there were over 4,200 bitcoin-accepting shops in Japan by the end of 2016, demonstrating roughly an annual growth rate of 4.6x.
+Rapid increase in the acceptance of bitcoin by merchants can be directly attributed to the Japanese government’s recognition of bitcoin as money. In May of 2016, the National Diet of Japan passed a bill to regulate digital currency exchanges, declaring bitcoin as a legal form of money.
+Local lawmakers further emphasized the role of the government in the development of fintech and cryptocurrencies, explaining that the collaboration between Japanese bitcoin exchanges or service providers and the nation’s Financial Services Agency will allow the general population to build trust on bitcoin and consider it as a legal tender.
+“[The Japanese government] also said when the legal status of the virtual currencies is established, more firms, including big conservative Japanese firms, will enter the market to energize the industry and facilitate the use of cryptocurrencies, such as bitcoin. The new rule defines virtual currencies as “asset-like values” that can be used in making payments and can be transferred digitally,” a local media outlet reported.
+One important event which indirectly steered the Japanese government to thoroughly consider and evaluate bitcoin was the Mt. Gox theft in 2013, which resulted in the loss of millions of dollars in user funds. At the time, the Japanese government allocated resources and capital of its law enforcement agencies to assist Mt. Gox and its former investigation partner Kraken to look into the hack.
+In 2013, Kraken stated,” In November 2014, Kraken was selected to assist Tokyo District Court-appointed Trustee Nobuaki Kobayashi in the bankruptcy investigation of missing Bitcoin, receiving claims and distributing remaining assets to creditors of MtGox,” describing the collaborative project of the Japanese government, Kraken and Mt. Gox.
+As the government continued to express their optimism towards bitcoin and its vast potential in the global financial ecosystem, an increasing number of merchants began to adopt the digital currency despite its volatility. In fact, some analysts and experts in Japan warned merchants against the volatility of bitcoin, stating that even in an upward trend, the highly fluctuating price largely affect the operations of local merchants.
+“While it seems that opportunities to use bitcoin as a mean of payment are increasing, it is important to pay attention to the risk of price fluctuations,” a Japanese analyst told NHK.
+Regardless of bitcoin’s volatility, major Japanese industries observed a gradual increase in the number of merchants accepting bitcoin, as a direct result of rising awareness of bitcoin and its efficiency as a global store of value.
+Image from Shutterstock.

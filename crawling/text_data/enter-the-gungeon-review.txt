@@ -1,0 +1,338 @@
+
+RPS Feature
+Bullet Heaven 
+By John Walker on April 5th, 2016 at 1:00 pm.
+
+Do we need another pixel graphics roguelite dungeon crawler with permadeath? DO WE? Well, if they’re as good as Enter The Gungeon [official site] we do. Here’s wot I think:
+
+I am RUBBISH at Enter The Gungeon, but boy am I having a good time being rubbish at it. 
+Dodge Roll’s permadeath bullet-storm-ish dungeon crawler may not do anything enormously original in the retro-pixel-post-Meat-Boy/Nuclear-Throne space, but bloody hell, it does everything so well. Movement, the twin-stick aiming, the ridiculous numbers of guns and items, different play styles for different classes, randomised levels that feel coherent, and gorgeous animation make it feel slick and idiotically moreish.
+
+There’s a premise to the nonsense. Something about defeating the future to change the past? I’m not entirely sure – it wasn’t really coherent. Doesn’t matter. What matters is picking between The Marine, The Convict, The Pilot or The Hunter (I especially love The Hunter, with her slow but powerful crossbow), and then plunging into the rapid difficulty of clearing out room after room of ridiculously cute enemies.
+The whole game has a remarkably upbeat nature, cheerful where the genre is so often grim, utterly lovely animated bullet enemies, delightful ghosts, birds that sort of lay blaster-eggs out of their mouths, beefy bullet-spraying sentient iron maidens, and each level with a random boss that is certainly not taking itself seriously. A huge gull with a gatling gun, two giant bullets with goofy faces, a terrifying (yet charming) King Bullet who lets loose ridiculous volleys of attacks.
+
+Complete a floor, kill the boss, and your reward is more, tougher, faster. But as you progress you find random drops that can dramatically change your game. From the start of each floor you have two bomb-things (Blanks) that remove all the fired bullets on the screen, which becomes one of your two most important tactics. The other is your dodge-roll, which provides a moment of invulnerability in the first half. Think of it is diving into a somersault, leaping over the blasts and then tuck-n-rolling. Alongside those you can tip over tables to create impromptu (and very breakable) shields, or hide behind barrels until they’re ruined. A neat and silly tutorial at the start walks you through all that.
+But your real hope is finding a new weapon or item. Health drops and more ammo are horribly rare and very precious – if anything, a new weapon is more likely. Each level has at least one or two rooms with locked chests, containing a surprise. It might be a laser beam that bounces off enemies to cause havoc in whole rooms, or a bow whose arrows explode when you reload, or a ridiculous double beam of energy that weaves in a helix (“inspired by real science” according to its description) that’s a pain in the arse to aim. Or so many others. Or it could be a bonus item, passive or fired off at will. The best I’ve found so far is something that means a bonus Blank is fired off every time you tip a table. It completely rewrote how I played the game, throwing the furniture to create attack opportunities, rather than as a means of defence. And then when I quickly died soon after, it was horribly missed as I readjusted.
+
+I can’t think of a game in recent times where I’ve scolded myself out loud so often. “BLOODY HELL, WALKER!” I’ve shouted to the empty house, as I screw up and trundle into the path of enemy fire for no damned reason. “OH FOR FUCK’S SAKE, JOHN!” I’ve cried when failing to time a dodge roll sufficiently to avoid a wave of bullets. “ARRRRRGGGGGHHHHHH!” I’ve bellowed inarticulately as yet another character meets a quick and fruitless grisly end right after finding some super-cool pick-up.
+I’ve said a lot of “ARRRGGGHHH!”s. And crucially, they’ve all been directed at me, not the game. Which is, I think, the crucial decider on a game like this. When you scream at the game, then there’s likely an element of its being unfair, or at least, imbalanced. When you scream at yourself, then you know where the blame lies and who it is that needs to improve. After a fairly decent run I uttered the words that should never be said, of a “gunbow” I’d found, “Oh my God, I love this weapon.” Death came seconds later.
+
+My only disappointment, and it’s such a minor one, is the pointlessness of smashing objects. Every room is filled with breakable items, shattered by firing at them or just running through them, and all for no reason at all. While a huge part of the point of Gungeon is the paucity of drops, having at least the outside chance of discovering a blob (or, as is of course the case here, a bullet) of health would give you a reason to be more thorough in a room, make the effort to enjoy running riot through a library with book pages scattering everywhere. It seems odd as it is.
+It’s a little strange in its setup. It loaded on the secondary monitor for me, despite the settings seeming to default to primary (fixed by a couple of Alt-Enters), and it failed to detect that the controller I use is specifically a 360 one. For some reason despite it all working perfectly well, it defaulted to PS4 on-screen info, which is a bit silly. And I spent a good deal of time reassigning buttons to try to find something that fit comfortably for me – I’m still not entirely happy with the set-up, but I think this is as close to something my fingers are willing to remember as I’ll get.
+
+I’m not going to confess to you just how bad I am at Enter The Gungeon. But I think it’s testament to the superbly high quality of its construction that I’m not tiring of trying. This is the genre done right, although with an upbeat, uncruel approach that feels atmospherically more reminiscent of Rogue Legacy than, say, Nuclear Throne. It’s very silly in presentation, but very serious in pixel-perfect controls. Goodness knows if it’s good deeper in, but I’m having a brilliant time not finding out.
+Enter the Gungeon is out today on Windows, Max and Linux.
+
+05/04/2016 at 13:13
+
+bandertroll says:
+
+Wait for release in my time zone.
+
+05/04/2016 at 13:16
+
+Kemuel says:
+
+But is there any gunge?
+
+05/04/2016 at 14:53
+
+ran93r says:
+
+Final boss is Dave Benson Phillips.
+
+05/04/2016 at 13:20
+
+Neurotic says:
+
+Those last two screenshots make me hunger for more Hammerwatch.
+
+05/04/2016 at 14:39
+
+deadlybydsgn says:
+
+Yeah. The last one definitely looks like Hammerwatch.
+The one before that reminds me of Zombies Ate My Neighbors. We really need a modern version of that.
+
+05/04/2016 at 14:59
+
+Zach Fett says:
+
+We got Monster Madness, which was supposed to be a sorta spiritual successor to Zombies Ate My Neighbors, but it was pretty mediocre.
+
+06/04/2016 at 12:33
+
+CaptainSchmaptain says:
+
+The guys who made hammer watch ARE making a sort-of-sequel, Serious Sam’s Bogus Detour! Obviously it’s a bit more overtly shooty but it’s built on the same engine and looks to be shaping up well…
+
+05/04/2016 at 13:37
+
+liquidsoap89 says:
+
+I’ve been excited for this for a while now, but one question still lingers. Is it an endless game, or is there a “final boss” of sorts?
+
+05/04/2016 at 13:38
+
+liquidsoap89 says:
+
+For the record, I’d prefer some finality to a run. I’m not as interested in leaderboards with endlessly increasing time scores.
+
+05/04/2016 at 14:00
+
+internisus says:
+
+Each character meets a final boss specific to them.
+
+05/04/2016 at 13:42
+
+Da5e says:
+
+Does it have the same controls as Nuclear Throne, that whole ‘aim with the right stick and fire with a trigger’ thing? I hated that, and it put me off playing; if this game autofires on moving the right stick I’ll buy it right now. Immediately. ASAP.
+
+05/04/2016 at 14:45
+
+Riaktion says:
+
+A guess isn’t what you want, but I can give you an educated guess. I would say that it will be point with the stick and shoot with a button. Ammo conservation is rather important I would assume, just like Nuclear Throne, (especially for your more powerful weapons) so it would probably be a bad thing that it went into auto fire mode when you push the stick to line up a shot. I could be wrong, as I say…. I am guessing, but I think it is a good guess :D
+
+05/04/2016 at 16:03
+
+internisus says:
+
+There are also slow-firing weapons that you would not want to shoot until after you’ve aimed, so aiming and firing need to be separate.
+
+05/04/2016 at 16:49
+
+Kitsunin says:
+
+Unfortunately, I think it does work as in Nuclear Throne. For such a game, where precision and conservation is important, I think there’s quite simply no way around M+KB being a notably superior control scheme.
+
+05/04/2016 at 21:09
+
+internisus says:
+
+For a bullet-hell dodge-roll game, I find ease of movement to be more important than precision of aim, so I’ll happily sacrifice mouse aim so that I can avoid awkward WASD movement, especially when I would be simultaneously fumbling at the Q or shift keys with my ring and pinky fingers.
+If you have and are comfortable using the Steam controller (it takes some getting used to), its best-of-both-worlds offer might be perfect here, but otherwise I’ll stick to my Xbox controller.
+
+06/04/2016 at 13:58
+
+Kitsunin says:
+
+It’s probably because I play Japanese shmups at a reasonably high level, but I find keyboard to give more precision of movement. You’re stuck with orthagonal and diagonal movement, sure, but at least you know the character will do exactly what you input. With a controller there’s always at least a tiny margin of error for the direction you point the stick. It also takes slightly longer to nudge a stick than hit a key, and is less precise for moving a set intended distance.
+
+06/04/2016 at 16:36
+
+Da5e says:
+
+I too play shmups at a pretty high level – enough to justify high three-figure purchases of CAVE PCBs, and top 50 leaderboard scores at Mushihimesama and Deathsmiles on Steam – and I couldn’t imagine using WASD to get anywhere with any of them. To each their own.
+
+08/04/2016 at 14:27
+
+Kitsunin says:
+
+Might be because of our choice of shmup, I’ve had trouble getting particularly into any other than Touhou, finding most to be too chaotic. I tried playing with the arcade stick I usually play fighting games with for a while when I didn’t have a comfortable desk to game at, and I was never able to get the same level of precision. Using three fingers instead of one hand just offers so much more control in my opinion, it’s easier to be positive you are inputting the correct direction for the correct length of time. Also, it means I can use my right hand for the important part.
+I guess if you want to know my level of skill, I’ve 1cced every game in the Touhou series on Hard, and most on Lunatic.
+
+05/04/2016 at 13:56
+
+Ericusson says:
+
+Glad I bought this then, just have to wait for the unlock now …
+Also grabbed Neurovoider which was pretty nice the few minutes I tried (died) it.
+
+06/04/2016 at 09:24
+
+Ericusson says:
+
+And funnily enough, though EtG is a very nice game, I kinda prefer the raw experience of NeuroVoider somehow.
+
+05/04/2016 at 14:03
+
+caff says:
+
+Nice. Looking forward to playing this later.
+
+05/04/2016 at 14:28
+
+buenaventura says:
+
+Is it a requirement to use a controller, or does mouse+keyboard work? Also, it would be nice to play this on my old (11yrs, 2gb RAM, 1GHz, no 3d accell under GNU/linux) computer, would that be possible, or is the seemingly old fashion’d graphics just a ruse?
+
+05/04/2016 at 15:00
+
+Viral Frog says:
+
+Minimum specs:
+Pentium III or Athlon MP
+GeForce 6200 LE or Radeon 7000 64mb
+500 Mb RAM
+Windows XP
+DX9
+50 Mb HDD space
+Basically the game will run on your toaster. So your old build should be fine!
+Note: I Googled these and pulled them from the first site that popped up. Given that it’s pixel art, I’d say these are probably accurate.
+
+05/04/2016 at 16:07
+
+internisus says:
+
+Most of the YouTubers I’ve seen who have been showing off their early access to the game are using mouse & keyboard. I’m sure that both control schemes are fine; you basically have to choose whether you’d rather have accurate aim with a mouse or accurate, comfortable, fully directional, single-finger movement with a stick. I can tell just from looking at the game that I’ll prefer a controller.
+
+05/04/2016 at 14:31
+
+Viral Frog says:
+
+I broke my rule of not pre-ordering and bought this game before I left for work about an hour ago. I’ve seen so many good things about it here, and watched some streams for about two hours last night.
+I can’t wait to get home and… not be able to try it out right away, because I’ll be installing my brand new GPU. ;)
+Once that’s done, I’ll be diving the gungeons.
+
+05/04/2016 at 15:49
+
+VAgentZero says:
+
+Honestly, I’m okay with the breakables not having anything in them. There’s nothing I find more boring than enjoying an action game only to have to tediously spend two minutes breaking every goddamn thing in the room because one of them might have a coin or a bit of health. When the optimal play of your game is tedious and boring, a fix is in order. Removing random pickups seems like the right call.
+
+05/04/2016 at 16:08
+
+internisus says:
+
+Yeah, creating an incentive to break all the random crap strewn about seems like a terrible idea that would destroy the game’s flow.
+
+05/04/2016 at 19:20
+
+Tiax says:
+
+I couldn’t agree more, it’s one of the few things that annoy me in the Binding of Isaac
+
+05/04/2016 at 16:39
+
+DelrueOfDetroit says:
+
+I guess I’ll be the one to the ask the million dollar question. Why is this it OK for this game to be difficult but Hyper Light Drifter gets an entire rage article dedicated to how angry it makes you that the game is hard?
+
+05/04/2016 at 17:16
+
+Viral Frog says:
+
+Pacing. This game is difficult from the get go. HLD has random difficulty spikes. If HLD was just brutally difficult from the get go, then it would have set the expectation that the bosses would be the same level of brutal difficulty as well.
+Just my guess based on the streams I’ve seen of HLD and Enter the Gungeon.
+
+05/04/2016 at 17:40
+
+thebigJ_A says:
+
+Cuz he somehow missed that HLD is open, that the game heavily hints you go a different way than he did, and that he can teleport from anywhere.
+Bunch of mistakes then slamming his head against the wall instead of stopping and thinking.
+
+05/04/2016 at 19:24
+
+Cerzi says:
+
+Anyone remember back in the PC Gamer days when he was a pretty good games journalist?
+
+06/04/2016 at 01:03
+
+noodlecake says:
+
+Definitely bizarre. Also we haven’t even had a “Wot I think” for Hyper Light Drifter, which really does such an excellent game a real disservice. Why does this get a review on release but Hyper Light Drifter has been out for a week and still hasn’t had one?
+I completed Hyper Light Drifter yesterday and bought Enter The Gungeon this evening and have had a pretty good time with it too. Enter the Gungeon is a LOT harder than the boss fights in Hyper Light Drifter. I’ve been playing it since early evening today and I haven’t made it past any of the second level bosses.
+
+06/04/2016 at 01:27
+
+FhnuZoag says:
+
+Maybe he’s waiting a bit so he has a bit more distance from that game before going back with a fresh viewpoint? Maybe he just finds Enter the Gungeon a less frustrating experience to play overall? Do you actually want him to hurry up and say he dislikes it?
+
+07/04/2016 at 03:45
+
+Ericusson says:
+
+Well EtG you expect to die a lot. I’m pretty bad at it and would need some training to process (and a different computer cause I can’t quite handle the game requirements).
+HlD you die, it’s just a pain to get back to the boss only to die again.
+But I loved HlD atmosphere to the point of trying then buying. I’m a sucker for art and it looks and sounds like that.
+
+07/04/2016 at 14:47
+
+noodlecake says:
+
+There aren’t any bosses that it takes time to get back to. I got killed by all of the bosses at least a few times, but generally managed to beat them in under 20 attempts and it takes maybe 10-15 seconds generally to walk back to where the boss is including the coming back to life animation.
+
+05/04/2016 at 21:57
+
+caff says:
+
+It has it’s own title music with a load of voices singing the name of the game! AMAZING. Reminds me of Bitmap Brothers games of the 90s!
+
+05/04/2016 at 23:39
+
+Riaktion says:
+
+Great game, but great scott my kingdom for a “Save & Exit” option. Just being able to come out mid run and feed my daughter or go to work would be excellent, without the need for leaving it on pause and the PC turned on for all time.
+
+05/04/2016 at 23:57
+
+buzzmong says:
+
+Rapid Fire Raven is a homage to a boss in Metal Gear Solid
+The game sounds like it’s right up my street though :)
+
+06/04/2016 at 02:56
+
+therighttoarmbears says:
+
+Played like 20 minutes: total blast. Haven’t made it far enough to say, but may help me get over my Nuclear Throne addiction.
+
+06/04/2016 at 10:55
+
+jeeger says:
+
+Prize Question: Is it easier or harder than Nuclear Throne? I’m absolutely rubbish at NT, and despite having played 77 hours, I’ve reached the throne once or twice, only to die immediately. It’s beginning to encroach on my enjoyment of the game.
+
+06/04/2016 at 15:47
+
+noodlecake says:
+
+Finding your enjoyment of a game only starting to wane after a whole 77 hours is pretty much an indicator that the game is excellent!
+I play a lot of games and I think the only one I have over 70 hours on is Isaac (possibly at 110 hours and I’ve been mostly bored of it for a while but it’s a good go to while I’m listeninbg to podcasts). If I get 20+ enjoyable hours out of a game then the game has served it’s purpose and been worth the money I spent on it, especially if it was under £20. Some games I’ve really enjoyed have only been a few hours long and I’ve been happy to experience them.
+Maybe your enjoyment of Nuclear Throne is waning because you’ve played it so much.
+I’ve got about 45 hours on Nuclear Throne and I still enjoy it in very short bursts. I’ve only gotten to the throne once and I had no ammo which was frustrating. I don’t think it’s an indication that I’m bad at it. I’m probably as good as the average player who’s put any reasonable amount of time into it.
+I’ve got 9 hours on Enter the Gungeon and I’m still really enjoying it. I’ve only ever gotten to the 4th stage (out of five stages) so far but I’m totally hooked.
+
+07/04/2016 at 23:46
+
+dbsmith says:
+
+I’ve had about 4 hours with this, and I’d say its a little harder than Nuclear. That’s mostly because of the difficulty spikes at the bosses for me. But I am improving each time I play, so hopefully those spikes flatten out
+
+09/04/2016 at 13:31
+
+tciecka says:
+
+This looks like it would be fun on a WiiU gamepad.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+Devolver Digital, Dodge Roll Games, Enter the Gungeon, feature, review, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

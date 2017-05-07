@@ -1,0 +1,28 @@
+./html_data_bitcoins/coinbase-releases-buy-widget-to-simply-buying-bitcoin.txt
+
+
+
+CryptoCoinsNews
+Coinbase has introduced Coinbase Buy Widget to make it easier for users to buy bitcoin, the company announced in a blog. The hosted widget can be embedded and is configurable.
+
+The widget enables users to buy bitcoin using debit cards, delivers bitcoin to a specified address instantly, and provides a seamless user experience.
+Users can have bitcoin sent directly to the address the app provides.
+The widget offers a debit card form and an easy way to create a Coinbase account that will be especially helpful to new users.
+Existing Coinbase users will be able to make purchases more easily.
+Developers will be able to allow their users to purchase bitcoin into their apps using a couple of code lines rather than a full-blown “OAuth” integration.
+The widget gives new users an easy way to try more applications. It helps developers grow their communities, and it helps novel bitcoin-use cases succeed.
+In initiating the widget, the user is greeted with an email field. The user is asked to log in or sign up with Coinbase.
+To set up the widget, users can embed it into their own application with Coinbase’s Javascript SDK, or use a direct link and open it in a separate web view in either a new browser tab or in the web view on a mobile app.
+Partnering with Coinbase on the widget are Brave Browser, Hammercoin and PopChest.
+
+Brave users will be able to purchase bitcoin to support their preferred websites. Brendan Eich, CEO of Brave Software, said the company’s goal is to increase browsing speed and safety for users while supporting content creators. Brave wants users to bring their own bitcoin to self fund their wallets and micropay their preferred websites. He said the widget will make it easy for Brave users to purchase bitcoin.
+(The Brave browser blocks unwanted web ads and replaces them with Brave-generated ads, with the goal of making browsing easier, allowing users to see ads they are more likely to want to see, and to enable all parties to receive revenue in the process, CCN reported in January.)
+
+Hammercoin, which makes BitQuest, a minecraft server with a bitcoin-denominated monetary system, believes the widget will provide a new minecraft experience. Cristian Gonzalez, CEO of Mego Games, a game creator, said the most commonly asked question about Hammercoin is how to get bitcoin. He said the widget provides a way to address this user need.
+PopChest is a new monetization model for video producers that has Coinbase-powered micropayments. Valerian Bennett, CEO at PopChest, said Coinbase opens micropayments to a whole new audience. He called the widget a game changer for PopChest since its viewers can immediately get the benefits of bitcoin without already being familiar with cryptocurrency.
+
+PopChest wants to make it easy for content developers to offer video in exchange for micropayments as opposed to only relying on advertising. “We don’t force viewers to watch commercials before seeing the video they really want,” he said.
+Also read: Brave browser seeks to revamp web ad revenue model using cryptocurrency
+The widget is currently limited to customers in the United States using debit cards. To allow instant buys with limited KYC, the widget supports purchases up to $5 per day. Each user has a lifetime limit of $50, then they are asked to set up a Coinbase account. Coinbase will adjust the limitations and add more payment methods to increase limits in the future.
+Coinbase is seeking input from developers interested in working with the widget.
+Images from Coinbase.

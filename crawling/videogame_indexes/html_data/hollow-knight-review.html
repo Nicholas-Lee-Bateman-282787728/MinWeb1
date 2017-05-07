@@ -1,0 +1,1576 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta property="fb:pages" content="176784995741043"/>
+<meta name="Googlebot-News" content="noindex, nofollow"><title>Hollow Knight Impressions | Rock, Paper, Shotgun</title>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/style.css?cb=acf3c73" type="text/css" media="screen"/>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/icon-fonts/css/fontello.css?cb=c8c7fe11" type="text/css" media="screen"/>
+<link rel="pingback" href="https://www.rockpapershotgun.com/xmlrpc.php"/>
+<link rel="shortcut icon" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/favicon-new.ico"/>
+<link rel="next" href=""/>
+ 
+ 
+ 
+<meta name="description" itemprop="description" content="A solid metroidvania that brings little original to the genre"/>
+<meta name="keywords" itemprop="keywords" content="feature,hollow knight,impressions,metroidvania,review,team cherry"/>
+<link rel="canonical" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Feed" href="https://www.rockpapershotgun.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Comments Feed" href="https://www.rockpapershotgun.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Hollow Knight feels too familiar, despite being a solid metroidvania Comments Feed" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/feed/"/>
+<meta property="og:title" content="Hollow Knight feels too familiar, despite being a solid metroidvania"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/"/>
+<meta property="og:site_name" content="Rock Paper Shotgun"/>
+<meta property="og:image" content="https://www.rockpapershotgun.com/images/17/mar/hol03.jpg"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.rockpapershotgun.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='eu-cookie-directive-css' href='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/style.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='bbspoiler-css' href='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='https://www.rockpapershotgun.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='rps_features-css' href='https://www.rockpapershotgun.com/wp-content/plugins/rps-features/rps-features.css?ver=1.10' type='text/css' media='all'/>
+<link rel='stylesheet' id='lightboxStyle-css' href='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/css/textframe/colorbox.css?ver=2.7' type='text/css' media='screen'/>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/wp-gfycat/js/gfycat_test_.js?ver=4.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var title = {"unfolded":"Expand","folded":"Collapse"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.5.3'></script>
+<link rel='https://api.w.org/' href='https://www.rockpapershotgun.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.rockpapershotgun.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.rockpapershotgun.com/wp-includes/wlwmanifest.xml"/>
+<link rel='prev' title='Bez it up in Stage Presence' href='https://www.rockpapershotgun.com/2017/03/02/stage-presence-released-2/'/>
+<link rel='next' title='Sunless Skies definitely happening, KS closes tomorrow' href='https://www.rockpapershotgun.com/2017/03/02/sunless-skies-release-date/'/>
+<meta name="generator" content="WordPress 4.5.3"/>
+<link rel='shortlink' href='https://wp.me/pkbbD-1OxF'/>
+<link rel="alternate" type="application/json+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F&#038;format=xml"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity - Full Post Feed" href="https://www.rockpapershotgun.com/feed/?dualfeed=2"/>
+ 
+<meta property="fb:pages" content="176784995741043"/>
+<link type="text/css" rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/plugins/simple-pull-quote/css/simple-pull-quote.css"/>
+<style>.theiaPostSlider_nav.fontTheme ._title,.theiaPostSlider_nav.fontTheme ._text{line-height:16px;}.theiaPostSlider_nav.fontTheme ._button{color:#c1272c;}.theiaPostSlider_nav.fontTheme ._button ._2 span{font-size:16px;line-height:16px;}.theiaPostSlider_nav.fontTheme ._button:hover,.theiaPostSlider_nav.fontTheme ._button:focus{color:#db5357;}.theiaPostSlider_nav.fontTheme ._disabled{color:#727272!important;}</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel="amphtml" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/amp/"/> <script>
+                        function mormontLoaded () {
+                                mormont('set', 'section', 'article');
+                                mormont('set', 'language', 'en');
+                                mormont('set', 'platforms', ["pc"]);
+                                mormont('set', 'published', "2017-03-02T17:00:18+00:00");
+                                mormont('set', 'article_type', "news");
+                                                                mormont('set', 'tags', ['tag:feature','tag:hollow-knight','tag:impressions','tag:metroidvania','tag:review','tag:team-cherry']); 
+                                mormont('send', 'pageview');
+                            };
+                </script>
+<script src="//cdn.gamer-network.net/2015/scripts/mormont/v2/mormont.js" async onload="mormontLoaded()"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/plugins.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/application.js" type="text/javascript" charset="utf-8"></script>
+<script src="//cdn.gamer-network.net/plugins/dfp/async.dfp.1.1.16.js"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/ad-related.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/InlineAds.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('.entry img').each(function(){jQuery(this).attr('title',(jQuery(this).attr('alt')))});
+});
+</script>
+ 
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-2667859-1', 'auto');
+
+    ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
+
+    ga('send', 'pageview');
+
+            ga('set', 'dimension4', '0');
+    </script>
+ 
+<meta name="readability-verification" content="EDFS6HqfEsVJByL2MzxYRrype6cdTyPbjFaJAWj5"/>
+ 
+<script type='text/javascript'>
+    var OA_source = 'article';
+</script>
+ 
+<meta name="twitter:card" value="summary"/>
+<meta name="twitter:url" value="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/"/>
+<meta name="twitter:title" value="Hollow Knight feels too familiar, despite being a solid metroidvania"/>
+<meta name="twitter:description" value="Hollow Knight [official site] presents a peculiar issue. What do you do with a game that is genuinely good, but rather unoriginal? A game that is so, so similar to others that have come recently before it, but is still a beautifully drawn, solidly built metroidvania? Do you say, &#8220;Get this one, because it&#8217;s the [&hellip;]"/>
+<meta name="twitter:image" value="https://www.rockpapershotgun.com/images/17/mar/hol03.jpg"/>
+<meta name="twitter:site" value="@rockpapershot"/>
+<meta name="twitter:creator" value="@rockpapershot"/>
+ 
+ 
+</head>
+<body class="single single-post postid-432615 single-format-standard category-featured-articles category-pc-game-reviews">
+<div id="header">
+<div id="header-content">
+<div class="logo">
+<a href="https://www.rockpapershotgun.com">Rock, Paper, Shotgun</a>
+</div>
+<div class="header-items">
+<a class="hidden-desktop mobile-link search-link" href="#header-search">Search</a>
+<div id="header-search" class="mobile-menu visible-desktop">
+<form method="get" action="/" id="search">
+<fieldset>
+<input type="text" name="s" id="search-site" placeholder="Search the site"/>
+<input type="submit" class="submit" value="Go"/>
+</fieldset>
+</form>
+</div>
+<div id="menu-header-links-container" class="hidden-mobile"><ul id="menu-header-links" class="menu"><li id="menu-item-260401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-260401"><a href="https://www.rockpapershotgun.com/2015/10/16/best-free-games-on-pc/">50 Best Free Games On PC</a></li>
+<li id="menu-item-419715" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-419715"><a href="https://www.rockpapershotgun.com/2016/12/01/best-games-of-the-year-2016/">Best PC Games of 2016</a></li>
+</ul></div>
+<a class="hidden-desktop mobile-link menu-link" href="#menus-wrapper">Menu</a>
+<div id="menus-wrapper" class="mobile-menu visible-desktop">
+<div id="menu-main-container"><ul id="menu-main-nav" class="menu"><li id="menu-item-168856" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168856"><a href="/category/featured-articles/">RPS Features</a></li>
+<li id="menu-item-168857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168857"><a href="/pc-game-reviews/">Reviews</a></li>
+<li id="menu-item-168858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168858"><a href="/category/pc-game-news/">News</a></li>
+<li id="menu-item-168859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168859"><a href="/category/free-pc-games">Free Games</a></li>
+<li id="menu-item-287901" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287901"><a href="https://www.rockpapershotgun.com/category/esports/">Esports</a></li>
+<li id="menu-item-168860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168860"><a href="/category/hardware/">Hardware</a></li>
+<li id="menu-item-281803" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-281803"><a href="https://www.rockpapershotgun.com/category/guides/">Guides</a></li>
+<li id="menu-item-168861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168861"><a href="/supportrps">Support RPS</a></li>
+<li id="menu-item-168862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168862"><a href="/forums/forum.php">Forum</a></li>
+</ul></div>
+<div id="menu-utility-container">
+<ul id="menu-utility" class="menu"><li id="menu-item-142626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142626"><a href="https://www.rockpapershotgun.com/about-pc-gaming-rps/">About Us</a></li>
+<li id="menu-item-168863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168863"><a href="https://www.rockpapershotgun.com/advertise-pc-games/">Advertise</a></li>
+<li id="menu-item-142627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142627"><a href="https://www.rockpapershotgun.com/hey-prs-and-developers/">Hey, developers!</a></li>
+<li id="menu-item-142628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142628"><a href="https://www.rockpapershotgun.com/privacy-stuff/">Privacy</a></li>
+<li id="menu-item-168865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168865"><a href="http://feeds.feedburner.com/RockPaperShotgun">RSS</a></li>
+<li id="menu-item-168864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168864"><a href="http://steamcommunity.com/groups/rps">Steam</a></li>
+<li id="menu-item-249683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249683"><a href="https://twitter.com/rockpapershot">Twitter</a></li>
+<li id="menu-item-266251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-266251"><a href="https://www.facebook.com/rockpapershot">Facebook</a></li>
+</ul> <ul>
+<li><a href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F">Login</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page-wrapper">
+<div class="leaderboards hidden-mobile">
+ 
+<div class="ad-desktop ad-hd ad-leaderboard-top-desktop" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90,970x250,1260x110,1260x250" id="div-ga-RPS_LB_1" data-ghost-zone="25" data-yafa-name="bwxynpjn" data-yafa-img="https://images.eurogamer.net/2017/vv4y5y544y5vbbyv45/n598nyv43tn98.jpg" data-yafa-click="http://bit.ly/2o8OYcq" data-yafa-target="#page-wrapper" data-yafa-style="padding-top:200px; background-color: white; background-repeat: no-repeat; background-position: 50% 0;" data-yafa-linktarget="#page-wrapper, #inner-wrapper, .page" data-yafa-linkheight="1200"></div>
+ 
+ 
+<div class="ad-tablet ad-leaderboard-top-tablet" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90" id="div-ga-RPS_LB_1_TABLET" data-ghost-zone="25"></div>
+ 
+</div>
+<div id="page">
+<div id="content">
+<div class="content">
+<article id="post-432615" class="block featured-block">
+<p class="featured-block-title">
+<a class="featured-block__text  featured-block__text--feature" href="https://www.rockpapershotgun.com/category/featured-articles">RPS Feature</a>
+Rings a little </p>
+<div class="post-inner">
+<nav>
+<ul class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com" rel="v:url" property="v:title">
+Home </a>
+</li>
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com/pc-game-reviews" rel="v:url" property="v:title">
+Reviews </a>
+</li>
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com/tag/hollow-knight" rel="v:url" property="v:title">
+Hollow Knight </a>
+</li>
+</ul>
+</nav>
+<header>
+<h1>Hollow Knight feels too familiar, despite being a solid metroidvania</h1>
+<aside class="byline">
+<p>By <a href="mailto:&#106;ohn&#64;roc&#107;pap&#101;rsho&#116;&#103;&#117;&#110;&#46;co&#109;">John Walker</a> on March 2nd, 2017 at 5:00 pm.</p>
+</aside>
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Hollow Knight feels too familiar, despite being a solid metroidvania https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</header>
+<div class="entry">
+<p><img src="https://www.rockpapershotgun.com/images/17/mar/hol03.jpg" alt=""/></p>
+<p><a href="https://www.rockpapershotgun.com/tag/Hollow-Knight/">Hollow Knight</a> [<a href="http://hollowknight.com/">official site</a>] presents a peculiar issue. What do you do with a game that is genuinely good, but rather unoriginal? A game that is so, <em>so</em> similar to others that have come recently before it, but is still a beautifully drawn, solidly built metroidvania? Do you say, &#8220;Get this one, because it&#8217;s the most recent?&#8221; That&#8217;s not a coherent argument. Unfortunately for Hollow Knight, I think the design decisions that narrowly define it are really its core weaknesses.<span id="more-432615"></span></p>
+<p>I love these sorts of games. I can wile away many hours jumping around their labyrinthine caves, eeking out new abilities to reach new areas, incrementally improving my health, jump, attacks and skills so that what was once a challenge becomes a corridor on the way to the new challenge. It&#8217;s a wonderful model, and it&#8217;s been done wonderfully many times before. So Hollow&#8217;s choices to make what are stalwarts of the genre into its most frustrating features is a disappointing decision. I have played for a good few hours, but am only a fraction of the way into the game. Keep that in mind as you read.</p>
+<p><img src="https://www.rockpapershotgun.com/images/17/mar/hol01.jpg" alt=""/></p>
+<p>We&#8217;re not short of competition. This year has already offered us the utterly splendid <a href="https://www.rockpapershotgun.com/2017/02/08/alwas-awakening-review/">Alwa&#8217;s Awakening</a>, then just a few months back we had the triumphant release of <a href="https://www.rockpapershotgun.com/2016/11/01/owlboy-review/">Owlboy</a>. 2016 also saw the competent (but extraordinarily familiar) <a href="https://www.rockpapershotgun.com/2016/07/14/song-of-the-deep-review/">Song Of The Deep</a>, and the sublime <a href="https://www.rockpapershotgun.com/2016/05/03/ori-and-the-blind-forest-definitive-edition-review/">Ori &#038; The Blind Forest&#8217;s definitive edition</a>. Then there&#8217;s Aquaria, Axiom Verge, Environmental Station Alpha, The Swapper, VVVVVV, Cave Story+, Guacamelee, and the dozen others you&#8217;re annoyed I&#8217;ve not listed. And of that list, most problematic for Hollow Knight is Ori &#038; The Blind Forest.</p>
+<p>The two games have a great deal in common, but Ori is just better in every element. And sure, that&#8217;s an awkward critical path (&#8220;this game isn&#8217;t as good as the best example of this genre&#8221;), but it starts to become a more imposing issue when the game in question appears to bring nothing new to the table.</p>
+<p><img src="https://www.rockpapershotgun.com/images/17/mar/hol04.jpg" alt=""/></p>
+<p>In Hollow Knight, you play a bug-like creature exploring (wait for this) a formerly rich and vibrant underground world that is now grey and ruined. Goodness me, how did they think of this?! At the start you&#8217;re limited to a melee attack and a basic jump, and as you progress through its caves you gain new skills and buy others from a growing number of above-ground merchants. Out of reach areas become in reach when you gain, say, a dash move, which leads you to new zones and their fresh crop of currently impassable obstacles. It is, to put it more briefly, a stock metroidvania.</p>
+<p>From this foundation most games listed a couple of paragraphs above bring their own new details. Owlboy has your character able to carry another in his talons, bringing in their unique abilities as you fly through its world. The Swapper has its key mechanic to make it stand out. Ori has a tale of deep emotion, breathtaking art and&#8230; well, here&#8217;s the rub. Ori is actually not especially original &#8211; it just messed things up for those that come after it by taking the core foundations and delivering them with something close to perfection. So when Hollow Knight steps onto the battlefield with no unique weapon of its own, Ori just squishes it.</p>
+<p><img src="https://www.rockpapershotgun.com/images/17/mar/hol02.jpg" alt=""/></p>
+<p>I began by alluding to its weaknesses and perhaps now I name them you&#8217;ll take umbrage. Hollow Knight takes core features of the genre and then tries to tell you they&#8217;re special. Like, perhaps at its most egregious, your position on a map. Maps are tricky enough here, with new zones not possible to even map as you explore them &#8211; you have to buy or find a pre-created map to even bring up the map screen for an area, and then fill in the dotted lines of where you&#8217;ve yet to explore. Quite why your character can&#8217;t know that they just walked down a path and went left I&#8217;m not sure, but that&#8217;s how it is. You can spend long stretches aimlessly stumbling around until you find your way out. But on top of this, to see where your character is on a map when you have one is considered a feature, a special ability gained by purchasing it from a shop and then using one of your precious ability slots to implement it. A basic standard of the genre, locked up behind a purchase and a skill use. So, so weird.</p>
+<p>So rather than enjoying a burgeoning pool of abilities, you&#8217;re restricted to however many ability slots you have, and choosing between them. I&#8217;d <em>love</em> to use the skill I paid a small fortune for that makes drops magnetically attracted toward me, but I really can&#8217;t live without the extra soul gathering from attacked enemies (used for both healing and crucial ranged attacks), and knowing where the hell I am on the near-identical monochrome section of a level at any point. Any other game in the genre lets me have all three without a fuss, and doesn&#8217;t even consider one of them a special feature.</p>
+<p><img src="https://www.rockpapershotgun.com/images/17/mar/hol05.jpg" alt=""/></p>
+<p>My other big issue here is again something that might have you cry, &#8220;At last! What I&#8217;ve always wanted!&#8221;, and all power to you. The game feels way too loose and sprawling to me. With a real lack of direction about why you&#8217;re there, what you&#8217;re trying to achieve, and why you should want to go anywhere beyond &#8216;because it&#8217;s there&#8217;, the openness of the multiple zones ends up leaving me feeling agoraphobic rather than freed. You know that eventually you&#8217;ll hit an ability wall, perhaps a chimney of rock with alternating spikes on either side, and you&#8217;ll think, &#8220;Oh, I&#8217;m going to be able to bounce off walls at some point then,&#8221; but there&#8217;s no notion of how, or where, or when, or why. There are so many dead ends to go in at once! I&#8217;m left wishing for some allusion toward direction, or at least a more meaningful motivation for such rambling. </p>
+<p>All this said, it delivers on what it delivers. The movement is fast but sturdy, the combat nifty, and the artwork is really lovely. Its choice of greys and muted greens and blues doesn&#8217;t do it enormous favours, and each area is pretty monotone. Animations are great, and the world is pleasingly detailed, but it also feels flat and dulled. Again, the comparison with Ori is a heavy blow, and if you were choosing between the two it&#8217;d be another strike against.</p>
+<p><img src="https://www.rockpapershotgun.com/images/17/mar/hol06.jpg" alt=""/></p>
+<p>But perhaps you&#8217;re not. Perhaps you just want to plough through another metroidvania (if only we had a better name than that), and then this is a fine game for you. It ticks most of the boxes, completely with difficulty spike bosses that make me want to carve my hate for the experience in the sides of mountains, but apparently people love those. It&#8217;s a pretty, competent, if needlessly frustrated standard of the standard. That might be just what you need.</p>
+<p>If you&#8217;re looking for something <em>like</em> this, then get yourself Ori &#038; The Blind Forest, which is truly tremendous.</p>
+<p><em>Hollow Knight is out now on Windows for £11/$15/€15 via <a href="http://store.steampowered.com/app/367520/">Steam</a>, <a href="https://www.humblebundle.com/store/hollow-knight">Humble</a> and <a href="https://www.gog.com/game/hollow_knight">GOG</a>.</em></p>
+</div>
+<footer class="article-footer">
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Hollow Knight feels too familiar, despite being a solid metroidvania https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</footer>
+ 
+<link rel="stylesheet" type="text/css" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/css/recommendations.css" media="screen"/>
+ 
+<div id="recommendations-wrapper">
+<div id="recommendations">
+<div id="rcjsload_gam148"></div>
+<script type="text/javascript">
+                            (function() {
+                            function ad_block_test(e,o){if("undefined"!=typeof document.body){var t="0.1.2-dev",o=o?o:"sponsorText",n=document.createElement("DIV");n.id=o,n.style.position="absolute",n.style.left="-999px",n.appendChild(document.createTextNode("&nbsp;")),document.body.appendChild(n),setTimeout(function(){if(n){var o=0==n.clientHeight;try{}catch(d){console&&console.log&&console.log("ad-block-test error",d)}e(o,t),document.body.removeChild(n)}},175)}}
+                            ad_block_test(function(is_blocked){
+                            var widget_id =48030;
+                            if (is_blocked === true) {
+                            widget_id =48136;
+                            }
+                            var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+                            var rcel = document.createElement("script");
+                            rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+                            rcel.type = 'text/javascript';
+                            rcel.src = "//trends.revcontent.com/serve.js.php?w="+widget_id+"&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth) +"&referer="+referer + '&is_blocked=' + is_blocked;
+                            rcel.async = true;
+                            var rcds = document.getElementById("rcjsload_gam148"); rcds.appendChild(rcel);
+                            });
+                            })();
+                            </script>
+</div>
+</div>
+</div>
+<div id="rps-article-carousel" class="rps-carousel-container">
+<header>
+<h4>From this site</h4>
+</header>
+<div class="rps-carousel">
+<a class="prev navigation"><span class="icon-angle-left"></span></a>
+<section>
+<article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/overwatchcharacterguide.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/23/overwatch-character-guide-abilities-and-strategy-tips/"><div class="text"><h5 class="title">Overwatch Character Guide</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/snapmapbest.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/24/best-doom-snapmaps/"><div class="text"><h5 class="title">DOOM’s Best SnapMaps</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/civho1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/"><div class="text"><h5 class="title">Civilization VI Is Exciting & Aggressive</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/oct/warcraft1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/26/warcraft-the-beginning-review/"><div class="text"><h5 class="title">Warcraft: The Beginning review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/bw_6.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/the-witcher-3-blood-and-wine-review/"><div class="text"><h5 class="title">The Witcher 3: Blood And Wine review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/OW1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/27/overwatch-review/"><div class="text"><h5 class="title">Overwatch review</h5></div></a></article>
+</section>
+<a class="next navigation"><span class="icon-angle-right"></span></a>
+</div>
+</div>
+</article>
+<div id="mobile-ads" style="display:none;">
+<div id="mobile-leaderboard-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-leaderboard-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-leaderboard-mobile" data-dfp-id="RPS_LB_MOB" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_LB_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile" data-dfp-id="RPS_MPU_MOB" data-dfp-sizes="300x250,320x400,300x600, 320x100, 320x50" id="div-ga-RPS_MPU_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-2-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-2" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-2" data-dfp-id="RPS_MPU_MOB_2" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_2"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-3-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-3" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-3" data-dfp-id="RPS_MPU_MOB_3" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_3"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-4-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-4" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-4" data-dfp-id="RPS_MPU_MOB_4" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_4"></div>
+ 
+</div>
+</div>
+</div>
+<script>
+                var inline_ads = new InlineAds({ container: jQuery("#content .post-inner > .entry").first(), mpu_ads: jQuery("#mobile-ads .mpu") });
+
+                ga('set', 'dimension1', "featured-articles,pc-game-reviews");
+                ga('set', 'dimension2', "feature,hollow-knight,impressions,metroidvania,review,team-cherry");
+                ga('set', 'dimension3', "John Walker");
+
+                </script>
+<div id="comments">
+<div class="block" style="padding-bottom: 0;">
+<h3 class="comments">50 Comments</h3>
+</div>
+<div class="block no-back no-border" id="all-comments">
+ 
+ 
+<div class="pagination">
+</div>
+<ol class="commentlist">
+<li class="comment byuser comment-author-atog even thread-even depth-1 comment-role-subscriber" id="li-comment-2395133">
+<div id="comment-2395133">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dc4169a7e15296f6361e2fb4c9777362?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dc4169a7e15296f6361e2fb4c9777362?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395133">02/03/2017 at 17:38</a>
+</span>
+<cite class="fn">Atog</cite> <span class="says">says:</span></span>
+</p>
+<p>Well, for what might be the fist time I strongly disagree with a RPS review. I feel like your choice to measure it as a reprentative of a genre harms it, but then, as I&#8217;m not too familiar with the genre, it might be justified. </p>
+<p>In any case, this is a wonderful game and as long as the mechanics are solid I don&#8217;t mind that it&#8217;s not really innovative on that front, because it has so much going for itself apart from that. It&#8217;s one of those games, with Dark Souls, that gets both ruins and world right : you&#8217;re to master and inhabitate a world where you don&#8217;t -at first- know your place, occupied by remnants of a former splendid civilization, marked by melancholy and mystery, and this is done by playing the game, i.e. both by getting better at it and unlocking abilities and access to different zones. I feel that it does a great job at laying out this vast semi-open map of forgotten places and people before you and saying &#8220;Go and explore it, tame its dangers and in the process accomplish you destiny, whatever it might be.&#8221;<br/>
+The numerous NPCs are solid and serve to establish the setting and the lore while remaining suitably vague and with their own preoccupations, there are several endings and a lot of hidden secrets, you can combine charms for quite unexpected results and very often, a lot of &#8220;builds&#8221; just might work, there isn&#8217;t really an obligatory path to take on bosses. And all in all, I think it&#8217;s a game that really profits from the ability, for the player, to gradually master it, learn its subtetlies and discover the many secrets it holds. And this might take place through several playthroughs. In some cases you can even bypass some abilities related checkpoints by exploiting the mechanics -like bouncing of enemies instead of using a double jump.</p>
+<p>To keep it short, if you like Dark Souls and metroidvanias, you can&#8217;t go wrong with this, just play it. Of course, to each its own, but I feel that this review is a bit on the shallow side, and you say it yourself : &#8220;I have played for a good few hours, but am only a fraction of the way into the game.&#8221; Why not take a deeper look at it ?</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395133">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-anzejk odd alt depth-2 comment-role-subscriber" id="li-comment-2395155">
+<div id="comment-2395155">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7c1c6443a0661243f53e47d59aeea83e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7c1c6443a0661243f53e47d59aeea83e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395155">02/03/2017 at 18:05</a>
+</span>
+<cite class="fn"><a href='http://Any' rel='external nofollow' class='url'>LazyAssMF</a></cite> <span class="says">says:</span></span>
+</p>
+<p>I agree. :)</p>
+<p>This game is basically Metroidvania Souls and i really love it for it. Dark Souls elements make it a really unique, interesting and fun game-same elements that make Dark Souls so fun and &#8220;magical&#8221;.<br/>
+In core it is similar to Ori but also pretty different so it&#8217;s not just an Ori with a twist. They&#8217;re both really fun-each on their own way.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395155">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-gingerseniorcitizenstepchild even depth-2 comment-role-subscriber" id="li-comment-2396205">
+<div id="comment-2396205">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/53685f90c9d942bb4515acf0b61835be?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/53685f90c9d942bb4515acf0b61835be?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2396205">04/03/2017 at 18:54</a>
+</span>
+<cite class="fn">GingerSeniorcitizenStepchild</cite> <span class="says">says:</span></span>
+</p>
+<p>I feel the same way as many others here, this was not on my radar and turned out to be one of the best games I&#8217;ve played in many years. I feel it is kinda unnecessary to attack the writer, he does point out that things that he does not like others may.However, I&#8217;d strongly recommend that you give it a bit more playing time. The real magic isn&#8217;t revealed until a bit later and then it keeps on giving.</p>
+<p>When it comes to comparing this to Souls games, the biggest factor here is the way the story and lore are handled, you slowly piece together the mysteries and one can easily miss parts if you don&#8217;t search far and wide. Also, the one of the NPC&#8217;s in the town does provide you with hints on where to go if you don&#8217;t want to explore yourself.</p>
+<p>I&#8217;d most likely rate this game as the best Metroidvania I&#8217;ve ever played, sure if you&#8217;d asked me how I felt a few hours in I&#8217;d probably have had a similar opinion to the writer of the article.</p>
+<p>It is very rare that a game captures me with such allure these days and even though the game is plenty long I want wonting.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2396205">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-welverin odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2395137">
+<div id="comment-2395137">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/9b5e06096e4f0070381d2cb8a0035f22?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9b5e06096e4f0070381d2cb8a0035f22?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395137">02/03/2017 at 17:41</a>
+</span>
+<cite class="fn">welverin</cite> <span class="says">says:</span></span>
+</p>
+<p>As I was reading this I was thinking it would get added to the 7/10 games article, but the end left me thinking it might fall short of that hallowed list.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395137">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-naum even thread-even depth-1 comment-role-subscriber" id="li-comment-2395141">
+<div id="comment-2395141">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6c142033e4075e8cdf8ef182aa079474?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6c142033e4075e8cdf8ef182aa079474?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395141">02/03/2017 at 17:45</a>
+</span>
+<cite class="fn">Naum</cite> <span class="says">says:</span></span>
+</p>
+<p>Allow me to add some observations to this article which I think may be helpful. I&#8217;m around 10 hours in, but I&#8217;m a scrub, so probably haven&#8217;t seen that much of the game.</p>
+<p>Beyond Ori (which I&#8217;ll address shortly), the other obvious comparison is Dark Souls. Not because Hollow Knight is fairly difficult at times, but because it copies some core mechanics outright: You can only save at predefined locations and respawn at the last not-a-bonfire upon death. You lose all your currency when dying, but have a chance to get it back by traveling to where you perished. There are some environmental hazards and traps, but they can be predicted with careful observation. Non-boss enemies respawn when resting, and so you have to dodge or fight them repeatedly when traveling to a boss room for the umpteenth time.</p>
+<p>All of this leads to a style of play that is quite different from Ori. In the latter, I enjoyed the elegant and fluid movement above all else, but the associated risk-taking was only made possible by allowing you to set a save point every five steps. Hollow Knight, on the other hand, rewards patience, persistence and consistency: It&#8217;s not enough to be able to best any section of the game once; you have to hone your ability as a player until you can do it repeatedly. Hence, the two games &#8216;feel&#8217; quite different.</p>
+<p>Atmospherically, Hollow Knight also borrows heavily from the Souls series. There are a number of characters with distinct personalities which you encounter repeatedly during your journey, and their more or less cryptic remarks probably tell some sort of story if you puzzle really hard. While I appreciate the general atmosphere this creates &#8212; in conjunction with beautiful imagery invoking a fallen civilization &#8211;, I&#8217;m not very much into piecing together all these random clues, so won&#8217;t comment further on this aspect.</p>
+<p>Since this comment is already on the long side, I&#8217;ll not go into some problems I have with the game (pacing, skill acquisition, occasional &#8216;unfair&#8217; mechanics), but I hope I&#8217;ve at least made it clear why one might consider Hollow Knight more than just an inferior version of Ori and the Blind Forest.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395141">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-sillythings odd alt depth-2 comment-role-subscriber" id="li-comment-2395255">
+<div id="comment-2395255">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/b28097a5a72cbc8dd0d050faf7486ea2?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b28097a5a72cbc8dd0d050faf7486ea2?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395255">02/03/2017 at 20:44</a>
+</span>
+<cite class="fn">sillythings</cite> <span class="says">says:</span></span>
+</p>
+<p>Wonderfully put!</p>
+<p>I do enjoy the risk of having to defeat your shadow self (and making your way there again) if you want whatever money back that you had at the point of your death. It actually makes death in the game feel significant without it being too punishing! And even though the little ghostie feels really inconsequential at this point in the game, I do like the concept of it growing stronger as it mirrors more advance abilities you pick up and becoming a bigger threat. I&#8217;ll see how that actually plays out.</p>
+<p>I feel similarly in regards to the NPCs and lore. I&#8217;m not gonna bother making a huge effort to piece it all together, but meeting all these unique little characters with their own personalities makes the game feel very alive and charming. The writing on the inscriptions you come across may not be something I haven&#8217;t seen before, but it&#8217;s well written and really adds to the atmosphere and mystery of the place. I love it.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395255">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-dinosteak even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2395145">
+<div id="comment-2395145">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5f7a519007840a4ddb9446ea8e4452b0?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5f7a519007840a4ddb9446ea8e4452b0?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395145">02/03/2017 at 17:54</a>
+</span>
+<cite class="fn">DinoSteak</cite> <span class="says">says:</span></span>
+</p>
+<p>You&#8217;re only a few hours in John! Quick, stop while the stoppin&#8217; is good! I hit about the 6 hour mark the other day and the backtracking just gets worse and worse you will come to loath it. You start to vehemently hate every death simply because you know it requires BORING backtracking, not anything like DS. They really screwed up the experience with TERRIBLE design decisions when it comes to respecting the player&#8217;s time. I had so much free time jamming R2 dash 10 mins for every 45 mins of actual gameplay I started singing old songs to myself and checking my phone. That&#8217;s baaaadd. Actually threw in the towel yesterday, and I&#8217;m not going to bother finishing it. I haven&#8217;t done that with a game I&#8217;ve played for more than a few hours in a LONG time.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395145">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-elblaise odd alt depth-2 comment-role-subscriber" id="li-comment-2395153">
+<div id="comment-2395153">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d6ddefc6a2d28fcf0024f4affaf0f1f1?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d6ddefc6a2d28fcf0024f4affaf0f1f1?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395153">02/03/2017 at 18:04</a>
+</span>
+<cite class="fn">eLBlaise</cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;d really have liked a more liberal availability of save rooms. The game seems to cluster save rooms together and leave huge areas without saves.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395153">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-viral-frog even depth-2 comment-role-subscriber" id="li-comment-2395357">
+<div id="comment-2395357">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/ba63b08c98f4561664668cb2a1faf645?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/ba63b08c98f4561664668cb2a1faf645?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395357">02/03/2017 at 23:21</a>
+</span>
+<cite class="fn">Viral Frog</cite> <span class="says">says:</span></span>
+</p>
+<p>&#8220;You start to vehemently hate every death simply because you know it requires BORING backtracking, not anything like DS.&#8221;</p>
+<p>The following response to the above quote is purely subjective, but I found the backtracking in DS to be horrendously boring, repetitive, and altogether one of the largest reasons I disliked DS as a whole. I found absolutely no joy in wasting so much time slogging through the same obstacles over and over again all because of a silly mistake that caused me an untimely death.</p>
+<p>Needless to say, it sounds like Hollow Knight is definitely not a game for me. Very few games with such repetition have ever managed to hold my interest. I can think of only a few.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395357">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-elblaise odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2395149">
+<div id="comment-2395149">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d6ddefc6a2d28fcf0024f4affaf0f1f1?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d6ddefc6a2d28fcf0024f4affaf0f1f1?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395149">02/03/2017 at 18:02</a>
+</span>
+<cite class="fn">eLBlaise</cite> <span class="says">says:</span></span>
+</p>
+<p>Before I go in let me say that thus far I&#8217;ve enjoyed Hollow Knight more than Ori and Owlboy by a fair bit, although I do agree with some of your points John. The map system features some definite asinine aspects to be sure. I don&#8217;t mind having to map the map, in fact I actually like that aspect. What I don&#8217;t like is the inability to do it without buying a map first. Strangely dying seems to fill in the map for you if you die in a section that was previously unmapped allowing you to circumvent this problem. Having to use a special item to know where you are on the map is a ridiculous design choice in my opinion. Many in-game items are handled poorly as well, many of them have really vague descriptions that aren&#8217;t all that helpful in enticing a purchase and the game does have a large degree of vagueness overall that can be both alluring and annoying. However, less than wandering the map, my complaint is with the lack of direction towards upgrades like the nail gain or gated off areas such as the train station. The game makes too many assumptions about its own ability to entertain. As entertaining as Hollow Knight is wandering around aimlessly in pursuit of vague hints is only fun for so long.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395149">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-tslog even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2395159">
+<div id="comment-2395159">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c7ff0c0a6a28255d1c6152aedd8d8965?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c7ff0c0a6a28255d1c6152aedd8d8965?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395159">02/03/2017 at 18:15</a>
+</span>
+<cite class="fn">tslog</cite> <span class="says">says:</span></span>
+</p>
+<p>I haven&#8217;t played hollow knight yet, but the combat looks far superior there then it does in Ori, from what I&#8217;ve seen from HK early on.<br/>
+ORI has very limited combat abilities and enemies that repeat a lot of 1 note patterns.<br/>
+And there seems to be a lot of combat in both, so that part is a very important aspect to both games that doesn&#8217;t deserve a casual mitigation that it got.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395159">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-jokerme odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2395207">
+<div id="comment-2395207">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/8e2b2990d6e55b883e571d35be704198?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/8e2b2990d6e55b883e571d35be704198?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395207">02/03/2017 at 19:50</a>
+</span>
+<cite class="fn">Jokerme</cite> <span class="says">says:</span></span>
+</p>
+<p>If it&#8217;s good, it&#8217;s good. Being &#8220;unoriginal&#8221; means nothing to me. If it did, I wouldn&#8217;t play any JRPGs.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395207">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-sillythings even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2395243">
+<div id="comment-2395243">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/b28097a5a72cbc8dd0d050faf7486ea2?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b28097a5a72cbc8dd0d050faf7486ea2?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395243">02/03/2017 at 20:33</a>
+</span>
+<cite class="fn">sillythings</cite> <span class="says">says:</span></span>
+</p>
+<p>5 hours into Hollow Knight and I love it. Favourite game I played this year so far (and I first played Dishonored 2 this year).</p>
+<p>I respect John&#8217;s critiques about the map system and the open-endedness (though I personally really appreciate the thought behind the former and so far haven&#8217;t felt frustrated or lost with the latter), but I think to decide not to recommend the game simply because there&#8217;s other, similar games out there, is nonsense.</p>
+<p>First of all, in its presentation (the gorgeous artwork that straight up looks like a comic book; the beautiful and haunting soundtrack) Hollow Knight already sets itself apart from the other games mentioned in the review. Ori is a painting, while Hollow Knight is a drawing. Maybe you prefer one over the other, but it&#8217;s a significant enough difference to create a unique, new world with its own ambience to wander through and discover.</p>
+<p>And the gameplay feels different too.</p>
+<p>Ori took a modern approach to a health system by basically letting you quicksave and reload in-game (bringing back memories of playing Metroid and Castlevania games on VisualBoy Advance for me). Hollow Knight instead lets you regenerate health at your own pace, once you defeat enough enemies. The twist is, special attacks use up the same pool of energy, and I really, really enjoy the strategy and risk/reward system that brings to the table.</p>
+<p>Ori focused on quick navigation in favor of combat &#8211; there weren&#8217;t even boss battles. They&#8217;re a thing John doesn&#8217;t like anyway, so yeah, if you feel similarily, Ori might be more up your alley. But maybe you do! Then Hollow Knight is really fantastic. The first boss encounter made me laugh because of the wonderful character design, the second one just was very enjoyable (bosses your own size and with similar abilites to you always are so much fun to me). It can also get pretty tough even with normal, non-boss enemies you encounter. I&#8217;ve seen a bunch so far that all required a very different approach. And yeah, Cave Story and Axiom Verge have a combat focus too, but it&#8217;s ranged. Guacamelee is also melee, but (I haven&#8217;t played it yet) from what I&#8217;ve seen seems more of a brawler along the lines of Dust: An Elysian Tail rather than the more strategic, slow approach of Hollow Knight. So I do feel that Hollow Knight carves out its own niche amongst its counterparts.</p>
+<p>And maybe Hollow Knight doesn&#8217;t offer a unique twist as immediately recognizable as The Swapper&#8217;s mechanic or Antichamber&#8217;s general mindfuckery, but I find the system of the charm notches to still be a fun way of switching things up. It keeps your character from feeling too overpowered too soon. I appreciate that.</p>
+<p>Anyway, TL;DR: Hollow Knight does plenty to set itself apart from other Metroidvanias and if you think you might enjoy its stronger focus on combat compared to Ori&#8217;s focus on navigation, you should not hesitate to get it. It&#8217;s brilliant.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395243">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-botherer bypostauthor odd alt depth-2 comment-role-administrator" id="li-comment-2395289">
+<div id="comment-2395289">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=64&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=128&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-64 photo' height='64' width='64'/></div>
+<div class="comment-content large-avatar"><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395289">02/03/2017 at 21:40</a>
+</span>
+<cite class="fn"><a href='http://www.rockpapershotgun.com' rel='external nofollow' class='url'>John Walker</a></cite> <span class="says">says:</span></span>
+</p>
+<p>&#8220;I think to decide not to recommend the game simply because there’s other, similar games out there, is nonsense.&#8221;</p>
+<p>It&#8217;s a good job I did no such thing then, eh?!</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395289">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-sillythings even depth-3 comment-role-subscriber" id="li-comment-2395455">
+<div id="comment-2395455">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/b28097a5a72cbc8dd0d050faf7486ea2?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b28097a5a72cbc8dd0d050faf7486ea2?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395455">03/03/2017 at 06:41</a>
+</span>
+<cite class="fn">sillythings</cite> <span class="says">says:</span></span>
+</p>
+<p>You finished your article by recommending to get Ori instead if people are looking for something <i>like</i> this. Doesn&#8217;t exactly make it feel like you endorse the game, no matter what positive things you do point out about it beforehand. But fair enough, it&#8217;s on me that I read that final statement as having a stronger emphasis than you may have intended.</p>
+<p>Thank you for your reviews. I always enjoy your writing and appreciate your opinions, even if this time I found myself having a vastly different experience of the game than you.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395455">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-mrbombsti odd alt depth-2 comment-role-subscriber" id="li-comment-2399971">
+<div id="comment-2399971">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/96b2f7bcbdb68654eb9387a6b9858af2?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/96b2f7bcbdb68654eb9387a6b9858af2?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2399971">13/03/2017 at 15:18</a>
+</span>
+<cite class="fn">MrBombsti</cite> <span class="says">says:</span></span>
+</p>
+<p>I can&#8217;t agree more, I love Ori and Hollow Knight equal, they both have similarities but are very different, while Ori has more of a Sad to Nice athmosphere, Hollow Knight has more of an Eh to Sad athmosphere, Hollow Knight is way more combat based and is waaay longer than Ori, i played Ori on 100% and got 6 hours out of it, i played Hollow Knight 100% and got 28 hours. Hollow Knight is very dark and sad and i honestly felt kinda depressed after seeing all the people that i&#8217;ve known just die one by one while also reanimating the village, I love both games to death and they are both some of my favorites and i can see myself comming back to them in a few years time</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2399971">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-nevard even thread-even depth-1 comment-role-subscriber" id="li-comment-2395245">
+<div id="comment-2395245">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/da5273572a1f4574fb52ca43d200576e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/da5273572a1f4574fb52ca43d200576e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395245">02/03/2017 at 20:34</a>
+</span>
+<cite class="fn">Nevard</cite> <span class="says">says:</span></span>
+</p>
+<p>I can&#8217;t disagree with your criticisms, I can see why they are things that some people would find frustrating or wouldn&#8217;t enjoy, I can only say that despite everything you listed I have played this game for (according to steam) upwards of 30 hours and would rank it amongst the best titles I have ever played.<br/>
+It&#8217;s a tightly crafted, incredibly interconnected, atmospheric world with beautiful artwork and soundtrack and I am sorely going to miss it now that I am closing in on 100% completion and the &#8220;true&#8221; ending. </p>
+<p>As much as these comparisons are truly cliche, I can only say that it is the best part of dark souls mixed with the best parts of metroid, and while it is not perfect (though the parts about it that &#8220;bug&#8221; me are largely not the same issues that you had) it absolutely hits the all of the right notes for me.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395245">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-professorelsaesser odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2395253">
+<div id="comment-2395253">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/70ce731228e6948ce90e3b361a01ce03?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/70ce731228e6948ce90e3b361a01ce03?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395253">02/03/2017 at 20:44</a>
+</span>
+<cite class="fn">ProfessorElsaesser</cite> <span class="says">says:</span></span>
+</p>
+<p>I made an account just to make this comment (P.S) Your login system is severely bugged. Anyway..<br/>
+I personally think it&#8217;s one of the &#8216;freshest&#8217; Metroidvania titles I&#8217;ve played since Axiom Verge. I hope the author realizes that Metroidvania titles have to adhere to certain formulaic elements, so of course it will feel familiar.. Honestly this game make Ori and the Blind Forest look like a joke if you really know how to play a platformer. Maybe you should get someone who actually likes to play Metroidvania and platformer games to review this title. I think it&#8217;s a masterpiece right next to Symphony of the Night and Axiom Verge.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395253">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-butteringsundays even depth-2 comment-role-subscriber" id="li-comment-2395259">
+<div id="comment-2395259">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/00d986ce9fdbe814c8d52b8f80a39b70?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/00d986ce9fdbe814c8d52b8f80a39b70?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395259">02/03/2017 at 21:06</a>
+</span>
+<cite class="fn">ButteringSundays</cite> <span class="says">says:</span></span>
+</p>
+<p>The login system has always been unusually buggy for a basic WordPress website &#8211; you will grow to accept it. At least now the human checker actually does something, rather than being a completely ignored input!</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395259">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-botherer bypostauthor odd alt depth-2 comment-role-administrator" id="li-comment-2395283">
+<div id="comment-2395283">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=64&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=128&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-64 photo' height='64' width='64'/></div>
+<div class="comment-content large-avatar"><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395283">02/03/2017 at 21:36</a>
+</span>
+<cite class="fn"><a href='http://www.rockpapershotgun.com' rel='external nofollow' class='url'>John Walker</a></cite> <span class="says">says:</span></span>
+</p>
+<p>No game &#8220;has&#8221; to adhere to anything! Goodness me, what an odd assertion.</p>
+<p>Also, do you think the bit where I wrote about how much I love playing MV games, and wrote a big long list of ones I&#8217;ve played and loved, might perhaps suggest that I *am* someone who enjoys this sort of game? Do think a bit more.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395283">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-professorelsaesser even depth-3 comment-role-subscriber" id="li-comment-2395311">
+<div id="comment-2395311">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/70ce731228e6948ce90e3b361a01ce03?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/70ce731228e6948ce90e3b361a01ce03?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395311">02/03/2017 at 21:58</a>
+</span>
+<cite class="fn">ProfessorElsaesser</cite> <span class="says">says:</span></span>
+</p>
+<p>I think you and I both know that these types of games do you have to adhere to certain formulaic elements. Map tracking, Power ups, boss battles, Hidden walls in secret areaa. Artistically know there is no limitations to what a game has to be and I just want to make sure you know that&#8217;s what I meant . If you&#8217;ve played a lot of MVs then I guess we just have different tastes because in my mind this is one of the best to ever come out. I would like to see this game sell well and I just thought that your headline and review didn&#8217;t give the game the credibility it truly deserves. Thanks for reaching out and chatting with me.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395311">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-professorelsaesser odd alt depth-4 comment-role-subscriber" id="li-comment-2395321">
+<div id="comment-2395321">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/70ce731228e6948ce90e3b361a01ce03?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/70ce731228e6948ce90e3b361a01ce03?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395321">02/03/2017 at 22:16</a>
+</span>
+<cite class="fn">ProfessorElsaesser</cite> <span class="says">says:</span></span>
+</p>
+<p>Sorry for the typos. I was doing speech to text on my phone.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395321">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-dare_wreck even depth-4 comment-role-subscriber" id="li-comment-2395409">
+<div id="comment-2395409">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/17f89bcd87a04a4401f26e91a03dc484?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/17f89bcd87a04a4401f26e91a03dc484?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395409">03/03/2017 at 01:07</a>
+</span>
+<cite class="fn">Dare_Wreck</cite> <span class="says">says:</span></span>
+</p>
+<blockquote cite=" ProfessorElsaesser"><p>I think you and I both know that these types of games do you have to adhere to certain formulaic elements. Map tracking, Power ups, boss battles, Hidden walls in secret areaa. </p></blockquote>
+<p>No way is that true. What gave you the idea that these <i>have</i> to be in a Metroidvania type of game? You didn&#8217;t address John&#8217;s rebuttal to your point at all.</p>
+<p>Now, yes, these types of games do <i>tend</i> to have those elements, which makes them formulaic, but there&#8217;s nothing about these games that absolutely <i>requires</i> them.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395409">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-professorelsaesser odd alt depth-5 comment-role-subscriber" id="li-comment-2395429">
+<div id="comment-2395429">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/70ce731228e6948ce90e3b361a01ce03?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/70ce731228e6948ce90e3b361a01ce03?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395429">03/03/2017 at 03:30</a>
+</span>
+<cite class="fn">ProfessorElsaesser</cite> <span class="says">says:</span></span>
+</p>
+<p>Metroidvanias &#8220;tend to&#8221; have those elements, sure. I&#8217;m aware they don&#8217;t have to, but it really works in every game that chooses to. All of the best games of the genre have those things in common. Does that make them all the same? Too familiar? I don&#8217;t think so. I think they can all speak for themselves and be unique within themselves. At the end of the day I don&#8217;t agree with the author. I personally thought Ori was a complete bore after 5 hours and stopped. This author absolutely loved it. But would I play Ori and the blind forest and say to myself, &#8220;This seems familiar&#8230; too familiar&#8221; No. it&#8217;s Kind of like all those other Metroidvania titles I chose to play because I knew what I was getting into. I hold them to their own accord. Ori isn&#8217;t a bad game because this is a good one and vice versa.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-dare_wreck even depth-5 comment-role-subscriber" id="li-comment-2395443">
+<div id="comment-2395443">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/17f89bcd87a04a4401f26e91a03dc484?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/17f89bcd87a04a4401f26e91a03dc484?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395443">03/03/2017 at 05:19</a>
+</span>
+<cite class="fn">Dare_Wreck</cite> <span class="says">says:</span></span>
+</p>
+<blockquote><p>Metroidvanias “tend to” have those elements, sure. I’m aware they don’t have to&#8230;</p></blockquote>
+<p>Are you, though? That&#8217;s not what you said above. I&#8217;m glad you&#8217;re really enjoying the game &#8211; we&#8217;re not trying to take that away from you. John and I are just both unsure why you claimed that this genre has to adhere to certain conventions. Granted, it was a small part of your original comment, but it stood out to both of us as odd.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-kyir odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2395263">
+<div id="comment-2395263">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/717106e6f319e8e1859bfa0ffa381283?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/717106e6f319e8e1859bfa0ffa381283?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395263">02/03/2017 at 21:21</a>
+</span>
+<cite class="fn">Kyir</cite> <span class="says">says:</span></span>
+</p>
+<p>I don&#8217;t usually find myself strongly disagreeing with reviews on RPS, but I&#8217;ll have to make an exception for this one. That&#8217;s fine, I&#8217;m not going to agree with everything written, but this entire review strikes me as Mr. Walker barely scratching the surface and then complaining that the game isn&#8217;t deep enough (or maybe more accurately, that the game is too deep in unnecessary ways.) I apologize if I&#8217;m misinterpreting and that comes off as a personal attack, but I can&#8217;t possibly think of a justification for recommending Ori over this game. That&#8217;s not to say that Ori is bad, but I found Hollow Knight to be a singularly positive experience that I plan on coming back to repeatedly despite having 100%ed it already. While many of the mechanics are not particularly original, it to exceed my expectations on every other axis of measurement, and my expectations were pretty high going in. The art and music are spectacular, the movement and controls themselves are tight and responsive, the characters don&#8217;t overstay their welcome, there&#8217;s a wide array of challenges available, etc. etc. You do recognize these to some degree near the end of your post, but only as part of a throwaway comparison to Ori. You must have a particular fondness for that game, because I would rather play Hollow Knight three or four more times than go back to Ori once.</p>
+<p>I recognize a lot of that seems like fanboyism, but I truly think this game is spectacular, and it hurts a little to see a review that seems to mostly be an advertisement for another game.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395263">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-botherer bypostauthor even thread-odd thread-alt depth-1 comment-role-administrator" id="li-comment-2395295">
+<div id="comment-2395295">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=64&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=128&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-64 photo' height='64' width='64'/></div>
+<div class="comment-content large-avatar"><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395295">02/03/2017 at 21:46</a>
+</span>
+<cite class="fn"><a href='http://www.rockpapershotgun.com' rel='external nofollow' class='url'>John Walker</a></cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;m really pleased people are loving this game. As I said about 347 times in this article, I was sure that what annoyed me about it would be reasons others would love it all the more.</p>
+<p>I&#8217;m not convinced by the Dark Souls comparisons &#8211; I think this is more a result of Dark Souls having used so many MV standards as part of its own design, rather than the other way around. Most of those features people have listed as DS elements are pretty standard parts of many MV games going back long before. (I mean, having to go back to the spot where you died to collect your goodies is as old as gaming itself &#8211; that you have to nonchalantly swipe at your ghostie twice doesn&#8217;t really distinguish it from picking up a brown sack.)</p>
+<p>I began and finished stressing that this is a solid, well made game, that&#8217;s a fine example of the standard of the genre. For those cross that I, um, didn&#8217;t write that, it&#8217;s &#8211; er &#8211; yeah.</p>
+<p>As for the bits in between, I was writing my particular thoughts of the experience, which was one that in its first few hours offered me nothing (beyond the beautiful creature design) to hook me in. (I feel like the fast travel creature deserves a whole article of his own for being so bloody lovely.) That&#8217;s why I wrote this more as a meandering opinion piece rather than a &#8220;Wot I Think&#8221;.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395295">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-kyir odd alt depth-2 comment-role-subscriber" id="li-comment-2395315">
+<div id="comment-2395315">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/717106e6f319e8e1859bfa0ffa381283?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/717106e6f319e8e1859bfa0ffa381283?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395315">02/03/2017 at 22:03</a>
+</span>
+<cite class="fn">Kyir</cite> <span class="says">says:</span></span>
+</p>
+<p>I recognize that you weren&#8217;t calling it a bad game by any means, and I realize (of course) that it&#8217;s your opinion first and foremost and not an attempt at objective rating or something like that. I&#8217;m sorry if my reply ended up being too aggressive. I would just be sad if someone had already played Ori, read this, and decided they didn&#8217;t need to play it based on the comparison, since I found both games to be fairly distinct despite some similarities in mechanics (and it&#8217;s somewhat obvious which I prefer, though that&#8217;s another thing entirely.)</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395315">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-macaronies even depth-2 comment-role-subscriber" id="li-comment-2395353">
+<div id="comment-2395353">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d8d4ce0e7340b3552489899d4fbf3c87?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d8d4ce0e7340b3552489899d4fbf3c87?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395353">02/03/2017 at 23:17</a>
+</span>
+<cite class="fn">macaronies</cite> <span class="says">says:</span></span>
+</p>
+<p>You do in fact say it&#8217;s competent and well made a lot, but it&#8217;s always on the way to &#8220;&#8230;but here&#8217;s something bad about it.&#8221; It&#8217;s a bit disingenuous to bring up how many times you said it was well made. Sure, it&#8217;s there, but the overall thrust of the piece is that Hollow Knight isn&#8217;t particularly interesting and the flaws were a deal breaker for you. That&#8217;s fine, it&#8217;s an incorrect opinion (kidding), but that&#8217;s fine.</p>
+<p>Personally, I love this game. Coincidentally, Ori fell pretty flat for me. It had a heavy 90&#8217;s Disney movie feeling, and you even play as Lilo&#8217;s friend Stitch&#8217;s skinny white cousin. The world wasn&#8217;t that interesting, the plot was basically: jerk bird ruined the forest and killed my mom/buddy, but it turns out the bird isn&#8217;t really so bad, and then the glowing thing went back to the something place and everyone is alive again. Other than that, I remember a lot of hopping and an underwhelming and slightly annoying attack mechanic.</p>
+<p>My favorite thing about Hollow Knight (besides the bugs, I happen to be an entomologist) are the Souls elements, which I&#8217;m a little amazed you dismissed as common metroidvania elements. The world, the implied lore, and the strange and sparse NPC dialogue are pretty on-the-nose inspired by DS1. The heal system is awfully Estus-flasky. The refill mechanic is different, but the way you use it, especially in boss fights, feels pretty familiar to hiding behind a pillar to gulp some estus and getting punished for it half the time. The bosses themselves are more frenetic than Dark Souls bosses, but pattern recognition and patience and a long walk from the save spot are all there.</p>
+<p>I also really like the charm system. At first it was frustrating because I couldn&#8217;t use everything at once, but once I got more slots (I think you can get 10 notches total), I fell into a set of charms for exploring and a set of charms for bosses, which is flexible for different bosses. It makes finding a boss by accident and beating it without backtracking and speccing for a boss fight really satisfying. The compass charm is more interesting the further in you get. You usually leave it off when you spec for a boss fight, but boss fights usually open access to new areas. After beating a boss you have to decide whether it&#8217;s worth backtracking to respec for exploration, or going ahead into a new area and risk getting lost. I haven&#8217;t played a metroidvania that I can remember where the risk of getting lost was as much of a design element.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395353">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-nevard odd alt depth-3 comment-role-subscriber" id="li-comment-2395377">
+<div id="comment-2395377">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/da5273572a1f4574fb52ca43d200576e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/da5273572a1f4574fb52ca43d200576e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395377">02/03/2017 at 23:47</a>
+</span>
+<cite class="fn">Nevard</cite> <span class="says">says:</span></span>
+</p>
+<p>The charm system seems to possibly have roots in Paper Mario&#8217;s badge system, although I can forgive a PC gaming website for not making the connection :P</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395377">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-nevard even depth-2 comment-role-subscriber" id="li-comment-2395373">
+<div id="comment-2395373">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/da5273572a1f4574fb52ca43d200576e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/da5273572a1f4574fb52ca43d200576e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395373">02/03/2017 at 23:45</a>
+</span>
+<cite class="fn">Nevard</cite> <span class="says">says:</span></span>
+</p>
+<p>I think the comparisons to Dark Souls are not simply due to the mechanics, but also the setting. They both have a very similar atmosphere, a similar sort of gloominess, and treat NPCs in basically the same way (many of which even have pretty familiar story arcs).<br/>
+A lot of the time people <i>do</i> just compare games to Dark Souls because it is popular but this is one of the games where while playing it, I frequently thought to myself &#8220;alright the person who made this game definitely played Dark Souls&#8221;.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395373">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-suddensight odd alt depth-2 comment-role-premium_user" id="li-comment-2395467">
+<div id="comment-2395467">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/cc5411875b204f216510d53b926ff820?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/cc5411875b204f216510d53b926ff820?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395467">03/03/2017 at 07:02</a>
+</span>
+<cite class="fn">SuddenSight</cite> <span class="says">says:</span></span>
+</p>
+<p>Big fan of yours, John! Please keep writing your opinion truthfully! I don&#8217;t always agree with you, but videogames aren&#8217;t objective anyway.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395467">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-blightor even depth-2 comment-role-subscriber" id="li-comment-2399571">
+<div id="comment-2399571">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/83b2175374a026581999a2634cc8e6cc?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/83b2175374a026581999a2634cc8e6cc?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2399571">12/03/2017 at 10:00</a>
+</span>
+<cite class="fn">blightor</cite> <span class="says">says:</span></span>
+</p>
+<p>What is really annoying, is that you cannot stop talking about another game &#8211; suggesting things like.</p>
+<p>&#8220;The two games have a great deal in common, but Ori is just better in every element. &#8221;</p>
+<p>&#8220;So when Hollow Knight steps onto the battlefield with no unique weapon of its own, Ori just squishes it.&#8221;</p>
+<p>&#8220;If you’re looking for something like this, then get yourself Ori &amp; The Blind Forest, which is truly tremendous.&#8221;</p>
+<p>This is really lazy reviewing. And going by the love for the title in the comments, not anywhere near the mark. </p>
+<p>This article comes under Hollow Knight review, regardless about how you frame this to us, this is RPS review, and its poor. IMH of course.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2399571">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-own4g3 odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2395411">
+<div id="comment-2395411">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/bf60dcc8f8e6e9342e391243981a7712?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/bf60dcc8f8e6e9342e391243981a7712?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395411">03/03/2017 at 01:15</a>
+</span>
+<cite class="fn">oWn4g3</cite> <span class="says">says:</span></span>
+</p>
+<p>Hollow Knight is really one of those games that I have been wanting to tell people about because I think it is in fact very special. I haven&#8217;t felt this for quite a while. I&#8217;m a big metroidvania fan and at the start I was making a lot of comparisons to Ori in my head. But over the many hours I have sunk into this game it has become much more (Ori is still a great accomplishment). </p>
+<p>I feel that for me it is because some of the more heavily critized elements are exactly the ones that make the game special for me. For example entering an unknown area without mapping capabilites that you might not yet feel &#8220;ready&#8221; for. You take the risk though and until the point you find your map making friend or a bench it is some of the most intense spelunking you will do (especially if you run around with way too much Geo for your own good). It really gave me that Dark Souls feeling of balancing the risk and reward between further exploration and going back to safety to spend your currency. Finding that map maker hiding in a little cave or finally reaching that quick travel station with a low amount of health is a very rewarding feeling and gave me a true sense of risky exploration.</p>
+<p>Other random things I love about the game that come to mind: The suspense when the music volume goes low when you get close to a (mini)boss room.<br/>
+The various NPCs that are remnants of a world long gone. They might not all provide helpful hints but instead just tell you a story of how it has been when in the past or what they think about you and your struggle.<br/>
+The wonderful soundtrack. Resting Grounds gives me goose bumps everytime, it is the perfect fit for a very moody and melancholic area (<a href="https://christopherlarkin.bandcamp.com/track/resting-grounds" rel="nofollow">link to christopherlarkin.bandcamp.com</a>).<br/>
+The incredibly cute grubs waiting for you to rescue them. Please do.</p>
+<p>My few gripes with the game are technical ones. I have had more than one death due to frame skipping lag during the very precise and demanding fights. Additionaly one time my remnants spawned way behind the spot I died in a challenging jumping passage that I inevitably died again and lost a lot of Geo in.</p>
+<p>I&#8217;m looking forward to spending more time with the game and hope that everyone interested in atmospheric games gives this one a chance.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395411">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-shiri even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2395447">
+<div id="comment-2395447">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/a96dddfab467c0a42f674aab47298997?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/a96dddfab467c0a42f674aab47298997?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395447">03/03/2017 at 05:35</a>
+</span>
+<cite class="fn">Shiri</cite> <span class="says">says:</span></span>
+</p>
+<p>I rarely post here but I felt I had to on this one. Hollow Knight is the best Metroidvania I&#8217;ve ever played, and I have played no shortage of them. Ori is pretty good too, but it&#8217;s not quite on the same level. Don&#8217;t be dissuaded by the article.</p>
+<p>One thing that strikes me about the article (and I don&#8217;t mean this as a criticism) is that John cites many complaints with anti-convenience features like the map or the respawning. This mirrors arguments I&#8217;ve had with people over Dark Souls in an interesting way. One person I know hates that series for its refusal to explain itself, basically, but while I can see where he&#8217;s coming from &#8211; and I see where John is coming from too &#8211; that issue just doesn&#8217;t matter that much to me compared to all the things it does right, better than any other game in the genre*. Fortunately it seems the commentariat is largely as surprised as I am by the overall impression given here.</p>
+<p>*I may be downgrading Axiom Verge a little unfairly for giving me a headache with its music though.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395447">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-amplituhedron odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2395449">
+<div id="comment-2395449">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/b9db8933e1daec0c336d8c234eeb7ca2?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b9db8933e1daec0c336d8c234eeb7ca2?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395449">03/03/2017 at 06:26</a>
+</span>
+<cite class="fn">Amplituhedron</cite> <span class="says">says:</span></span>
+</p>
+<p>Reads like John is upset Ori isn&#8217;t the best MV anymore.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395449">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-suddensight even thread-odd thread-alt depth-1 comment-role-premium_user" id="li-comment-2395465">
+<div id="comment-2395465">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/cc5411875b204f216510d53b926ff820?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/cc5411875b204f216510d53b926ff820?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395465">03/03/2017 at 06:57</a>
+</span>
+<cite class="fn">SuddenSight</cite> <span class="says">says:</span></span>
+</p>
+<p>I also disagree with this review, but I think it is just different taste.</p>
+<p>I haven&#8217;t bought any maps in the game at all! I really enjoy the exploration aspect, and the game has helpful signposts for finding the big areas. Finding those secret side areas is a little tricky, but as you mention in the article there is a good deal of backtracking so I find it is nice to have something to do while wandering back and forth.</p>
+<p>As for the art, I actually skipped Ori in part because of the art (and because the combat looked uninteresting). I much prefer this game&#8217;s muted palette (which is nevertheless well differentiated). It allows for some colors to really pop (like the green in Green Path or the pink of that plot relevant pink person). Plus the bold-lined art style is used well with a lot of area-specific props (like machinery and windows for the city, and chariots and shells elsewhere).</p>
+<p>I only watched videos, but it seemed like Ori leaned too much on glow-effects to make the important things pop, which made it look a little silly to me. I doin&#8217;t want to make too big a point of this, though, as Ori is quite lovely looking too.</p>
+<p>Plus the combat and platforming feel really good. The downslash especially is a nice touch &#8211; a little like Shovel Knight, but you have to time it.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395465">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-oluap odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2395469">
+<div id="comment-2395469">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/8e5512698edcc6d6bc9de121446ace50?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/8e5512698edcc6d6bc9de121446ace50?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395469">03/03/2017 at 07:18</a>
+</span>
+<cite class="fn">oluap</cite> <span class="says">says:</span></span>
+</p>
+<p>I played ori for 2-3 hours and didn&#8217;t like it much, especially because the combat was essentially button mashing with auto aim.</p>
+<p>I like hollow knight much better, even though the &#8220;story&#8221; is somewhat absent.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395469">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-fus-ro-tom even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2395481">
+<div id="comment-2395481">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/87e442b5ae529a80ece5996687251055?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/87e442b5ae529a80ece5996687251055?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395481">03/03/2017 at 08:25</a>
+</span>
+<cite class="fn">Fus Ro Tom</cite> <span class="says">says:</span></span>
+</p>
+<p>I understand this is ultimately just one man&#8217;s opinion. However,to write such a disparaging article about a small indie studio&#8217;s first game after having played it only A FEW HOURS just seems irresponsible and like a real **** move to me.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395481">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-wowbagger odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2395535">
+<div id="comment-2395535">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1f5c358c05b66c173b32335d358325ce?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1f5c358c05b66c173b32335d358325ce?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395535">03/03/2017 at 11:31</a>
+</span>
+<cite class="fn">Wowbagger</cite> <span class="says">says:</span></span>
+</p>
+<p>See&#8217;s that Hollow Knight has a review finally on RPS.<br/>
+See&#8217;s that it was John.<br/>
+Sighs.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395535">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-grobzoula even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2395541">
+<div id="comment-2395541">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/f56a8ff95499bb7a598e8b9f44a65c73?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/f56a8ff95499bb7a598e8b9f44a65c73?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395541">03/03/2017 at 11:40</a>
+</span>
+<cite class="fn">Grobzoula</cite> <span class="says">says:</span></span>
+</p>
+<p>Good lord, I don&#8217;t think I could disagree more here.</p>
+<p>Hollow Knight is vastly better to Ori in almost every aspect. It has great boss (compared to none in Ori), better gameplay (compared to the press X to win in Ori), and better world and level design (might be the best in the genre actually).</p>
+<p>And then there&#8217;s things like mentionning Owlboy or Cave Story when they&#8217;re not even metroidvanias but I&#8217;ll end up sounding like a grumpy old nerd.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395541">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-kodaemon odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2395861">
+<div id="comment-2395861">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/8bbd1734c21bc12a971bb19bd534ee5d?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/8bbd1734c21bc12a971bb19bd534ee5d?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395861">03/03/2017 at 22:35</a>
+</span>
+<cite class="fn">Kodaemon</cite> <span class="says">says:</span></span>
+</p>
+<p>This is why browser scripts actually exist to hide John Walker entries on RPS.</p>
+<p>Hollow Knight is probably the best Souls game since Dark Souls 1. And it succeeds precisely because taking Souls and metroidvania influence while also being its own thing.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395861">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-jimboton even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2395887">
+<div id="comment-2395887">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/8eac1c7b489b288d1116739b3dd6533d?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/8eac1c7b489b288d1116739b3dd6533d?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2395887">04/03/2017 at 00:23</a>
+</span>
+<cite class="fn">jimboton</cite> <span class="says">says:</span></span>
+</p>
+<p>Ridiculous treatment of the best metroidvania since, well, Super Metroid, in this here &#8216;review&#8217;. But hey, Subjectivity, right?</p>
+<p>Oh wait, same guy once said Spelunky could be improved by mouse aiming&#8230; that kind of gives some perspective ;)</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2395887">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-grinnings odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2396327">
+<div id="comment-2396327">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/86234bf4e6a8a4e13e3a65a3afb94aaf?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/86234bf4e6a8a4e13e3a65a3afb94aaf?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2396327">05/03/2017 at 07:49</a>
+</span>
+<cite class="fn">grinnings</cite> <span class="says">says:</span></span>
+</p>
+<p>This game barely gets any coverage anywhere and the one site that posts a &#8216;review&#8217; hasn&#8217;t even played it past six hours and yet feels fit to make a direct comparison to Ori, a game that&#8217;s barely related to this game in terms of the feelings and experiences it&#8217;s trying to elicit. Hey, this might not be the game for you, but perhaps finish it before whipping out the comparisons. It has so much more to offer than the first six hours. GOTY for me, playtime is split pretty equally between this and Zelda.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2396327">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-shawnmccool even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2396793">
+<div id="comment-2396793">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/a398e19d0b23bd9c5742cda619527724?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/a398e19d0b23bd9c5742cda619527724?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2396793">06/03/2017 at 18:23</a>
+</span>
+<cite class="fn">ShawnMcCool</cite> <span class="says">says:</span></span>
+</p>
+<p>Wow, this review missed the mark totally. I know that you have a job to do&#8230; But.. ouch.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2396793">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-tapetrve odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2397503">
+<div id="comment-2397503">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1594c41dd3a63df3dccce26ca6795f5b?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1594c41dd3a63df3dccce26ca6795f5b?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2397503">07/03/2017 at 16:55</a>
+</span>
+<cite class="fn">TΛPETRVE</cite> <span class="says">says:</span></span>
+</p>
+<p>The art style alone is enough to set this game apart. Even if was just another generic Metroidvania platformer, it would still be one that looks like <i>The Binding of Isaac</i> meets <i>Closure</i>, so even at its worst it would nonetheless qualify for your slightly pretentious list of 7/10 games :-3 .</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2397503">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-amplituhedron even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2397573">
+<div id="comment-2397573">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/b9db8933e1daec0c336d8c234eeb7ca2?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b9db8933e1daec0c336d8c234eeb7ca2?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2397573">07/03/2017 at 18:41</a>
+</span>
+<cite class="fn">Amplituhedron</cite> <span class="says">says:</span></span>
+</p>
+<p>Just the words of a sad Ori fanboy, cry it out John. </p>
+<p>If you’re looking Ori fanboy tears, then get yourself John Walker, who is truly tremendous.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2397573">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-amplituhedron odd alt depth-2 comment-role-subscriber" id="li-comment-2397585">
+<div id="comment-2397585">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/b9db8933e1daec0c336d8c234eeb7ca2?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b9db8933e1daec0c336d8c234eeb7ca2?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2397585">07/03/2017 at 18:58</a>
+</span>
+<cite class="fn">Amplituhedron</cite> <span class="says">says:</span></span>
+</p>
+<p>also i think it is so good that it broke his brain a little, reads that way at least to me. Even though I disagree with John I think this first impression is still tremendously informative. I&#8217;ll look for similar negative reviews in the future in order to find games so good they break his brain :).</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2397585">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-rgk even thread-even depth-1 comment-role-subscriber" id="li-comment-2399537">
+<div id="comment-2399537">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e9d31f6a1b511a8bb32a00e3a77e295f?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e9d31f6a1b511a8bb32a00e3a77e295f?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2399537">12/03/2017 at 01:50</a>
+</span>
+<cite class="fn"><a href='https://www.youtube.com/channel/UCldQF5OipRwrhM__bSjPUTQ' rel='external nofollow' class='url'>rgk</a></cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;m with John here, the level design seems set on wasting my time with relentless backtracking. I would very much enjoy a condensed version of this with more frequent fast-travel and smaller areas that are more interesting to navigate. As it is, the game is dull, flat and&#8230; hollow.<br/>
+The little good moments do not make up for all the wasted time getting there and back-tracking, exploring, back-tracking, exploring, back-tracking (and all of this without a proper real-time map, sigh).</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2399537">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-the-dignitary odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2402019">
+<div id="comment-2402019">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/83742385e3de85014f348570720f2e31?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/83742385e3de85014f348570720f2e31?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/02/hollow-knight-review/#comment-2402019">15/03/2017 at 16:40</a>
+</span>
+<cite class="fn">The Dignitary</cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;m sorry Mr. Walker, but I disagree with you on this one. First things first, please stop comparing this game to another game. Metroidvania&#8217;s as a genre are games that to me are best judged individually. Not by being compared to similar games. Especially egregious is the fact that you list all positives with the notion &#8220;but Ori does it better&#8221; or &#8220;when choosing between Ori &amp; Hollow Knight, Ori is better&#8221;. You don&#8217;t review games like that. </p>
+<p>I don&#8217;t read a review to see which of these two pies is the best, I read the review to see how well the pie tasted. </p>
+<p>Secondly, the fact that you just dismiss the matter of a &#8220;rich world to explore&#8221; particularly stings. A key bit to a metroidvania (which was likely imported to the genre by Dark Souls) is figuring out the lore and what makes the world what it is today. You dismiss this as a matter of &#8220;every metroidvania does that&#8221;. And while that is true, it&#8217;s the execution in which I personally see the difference between Metroidvania&#8217;s. See for example Axiom Verge (a game worth comparing this one to). It has a lore, but it&#8217;s told through notes and various hidden clues in the game. Unfortunately AV suffers from a lack of decisive lore for a good interpretation, but it executes it in it&#8217;s own way. In a similar vein does Hollow Knight reveal it&#8217;s lore to the player, by NPC interactions and tablets scattered throughout the world. It&#8217;s a good &#8220;not in your face way&#8221; of explaining the lore of the world to the player. </p>
+<p>Thirdly, the compass thing is kinda stupid I can agree. But despite your constant railing on the map &#8220;having to be bought first&#8221;, it&#8217;s not nearly that horrible. It&#8217;s just another matter in which the game handles things. I don&#8217;t criticize the original two Metroids for lacking a map, so why should I be criticizing Hollow Knight for making me work for the feature? (As in: finding and then buying the map.)</p>
+<p>Finally, your comment on choice of colors strikes me as odd. I&#8217;ve Googled some screenshots of Ori, and as far as I can see, it looks like the artist wanted to show off with how vibrant they could make the colors and wound up overdoing it. Ori&#8217;s coloring looks like it would give me a headache if I were to actually play it. In contrast, Hollow Knights slightly duller, more grayish, colors give it the impression that you are exploring a world left behind by those that dwelled in it.</p>
+<p>And just to note, RPS is one of the few media outlets I genuinley trust to deliver honest and good reviews, but with this review all I think is &#8220;the reviewer wanted to discuss his fanboy-boner for Ori instead of reviewing Hollow Knight&#8221;.</p>
+<p>Finally, you might have noticed I drew some comparisons myself with other Metroidvanias. I did so but in such a way thay I do not come across as needlessly comparing the game I&#8217;m comparing to favorably to satisfy my fanboyism for the game I&#8217;m comparing it to. I compare them in a way to show that &#8220;this game did it alright, but Hollow Knight does it so and so, which I personally didn&#8217;t enjoy/did enjoy&#8221;. And I didn&#8217;t stick the comparisons on one game. Think about that for a second.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F02%2Fhollow-knight-review%2F%23comment-2402019">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ol>
+<div class="pagination">
+</div>
+<div id="respond">
+ 
+<div class="cancel-comment-reply"> <small>
+<a rel="nofollow" id="cancel-comment-reply-link" href="/2017/03/02/hollow-knight-review/#respond" style="display:none;">Click here to cancel reply.</a> </small> </div>
+<div class="comment-form-block">
+<h3>Comment on this story</h3>
+<p class="log-in-to-comment">You must be <a href="https://www.rockpapershotgun.com/wp-login.php?action=register">registered</a> and <a href="https://www.rockpapershotgun.com/wp-login.php">logged in</a> to post a comment.</p>
+<div id="commentform">
+<label for="comment">Wot you want to say
+:</label>
+<textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea>
+<p><small><strong>XHTML:</strong> Allowed code: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>
+<p>
+<input name="submit" type="image" src="/wp-content/themes/rockpapershotgun/images/opinion.png" style="width:96px;height:26px;border:0 #FFFFFF!important;" id="submit" tabindex="5"/>
+</p>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>  
+<ul id="sidebar" class="hidden-mobile hidden-tablet">
+<li id="rpstagsearch-2" class="widget-container RPSTagSearch"> <div id="affiliate-disclaimer">
+<h4>Disclaimer</h4>
+<div class="disclaimer"><p><small>If you click our links to online stores and make a purchase we may receive a few pennies. Find more information <a href="/affiliate-linking-policy/">here</a>.</small></p></div>
+</div>
+<h4>Tags</h4>
+<p class="tags"><a href="https://www.rockpapershotgun.com/tag/feature/" rel="tag">feature</a>, <a href="https://www.rockpapershotgun.com/tag/hollow-knight/" rel="tag">Hollow Knight</a>, <a href="https://www.rockpapershotgun.com/tag/impressions/" rel="tag">impressions</a>, <a href="https://www.rockpapershotgun.com/tag/metroidvania/" rel="tag">metroidvania</a>, <a href="https://www.rockpapershotgun.com/tag/review/" rel="tag">review</a>, <a href="https://www.rockpapershotgun.com/tag/team-cherry/" rel="tag">Team Cherry</a>.</p>
+<h4 class="widget-title">Search <span>for clues</span></h4>
+<form method="get" action="/" id="tagsearch">
+<fieldset>
+<input type="hidden" name="valuesUrl" id="valuesUrl" value="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/values.php"/>
+<input type="text" name="tagsearchtext" id="tagsearchtext" placeholder="Search for a tag" style="width:230px"/>
+<input type="submit" class="submit primary" value="Go"/>
+</fieldset>
+</form>
+</li><li id="rpsadblock-2" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<style>*{margin:0;padding:0;border:0;}</style>
+ 
+<style>.home.infinite-scroll #sidebar #div-ga-RPS_MPU_MOB{display:none!important;}</style>
+ 
+<style>.rps-carousel article .text{right:0;}.entry a{font-weight:bold;text-decoration:none;}div.content div.block p.featured-block-title,div.content div.block p.premium-block-title,div.content div.block p.giveaway-block-title{min-height:32px;}p.giveaway-block-title span{background-image:url(/wp-content/themes/rockpapershotgun2013/images/giveaway-title-bg.png);background-size:77px 15px;padding-left:0;}div.content div.block p.giveaway-block-title{padding-right:15px;}</style>
+ 
+ 
+<style type="text/css">#rps-article-carousel .navigation:after{background-image:url(/wp-content/plugins/rps-article-carousel/carousel-arrows.png);}@media screen and (max-width: 665px) {#header .logo a{background-image:url(/wp-content/themes/rockpapershotgun2013/images/logo-single-line.png);}}</style>
+ 
+<style type="text/css">.infinite-wrap .rps-carousel-container{display:none;}</style>
+<script>
+jQuery(document).ready(function () {
+    jQuery('a[href="https://twitter.com/asponge"]').remove();
+});
+</script>
+ 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_1" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_1"></div>
+ 
+</div>
+</li><li id="rpsnews-2" class="widget-container RPSNews"><h4 class="widget-title">News <span>and things</span></h4>
+<ul class="no-bullets thumbs">
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/" rel="bookmark" title="Come see developer sessions this week at EGX Rezzed"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/kenlevine.jpg&w=50&h=50&cc=#000" alt="Come see developer sessions this week at EGX Rezzed"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/" rel="bookmark" title="Come see developer sessions this week at EGX Rezzed">
+Come see developer sessions this week at EGX Rezzed </a></h5>
+<p>They look quite good</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/" rel="bookmark" title="Rumour! Call of Duty: WW2 is real, and a real bad name"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/28cod.jpg&w=50&h=50&cc=#000" alt="Rumour! Call of Duty: WW2 is real, and a real bad name"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/" rel="bookmark" title="Rumour! Call of Duty: WW2 is real, and a real bad name">
+Rumour! Call of Duty: WW2 is real, and a real bad name </a></h5>
+<p>PING!</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/dark-souls-3-the-ringed-city-dlc-released/" rel="bookmark" title="Dark Souls 3 now concluded in The Ringed City"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/28darksouls3ringed.jpg&w=50&h=50&cc=#000" alt="Dark Souls 3 now concluded in The Ringed City"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/dark-souls-3-the-ringed-city-dlc-released/" rel="bookmark" title="Dark Souls 3 now concluded in The Ringed City">
+Dark Souls 3 now concluded in The Ringed City </a></h5>
+<p>This is the end</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/" rel="bookmark" title="Destiny 2 announced, but why do we care?"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/destiny2.jpg&w=50&h=50&cc=#000" alt="Destiny 2 announced, but why do we care?"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/" rel="bookmark" title="Destiny 2 announced, but why do we care?">
+Destiny 2 announced, but why do we care? </a></h5>
+<p>Dest2ny</p> </li>
+<li class="more"><a href="https://www.rockpapershotgun.com/category/pc-game-news/"><strong>And much more&hellip;</strong></a></li>
+</ul>
+<div class="clear"></div>
+</li><li id="autofeature-2" class="widget-container AutoFeature">
+<a data-id="422987" class="widget-link invert-widget" id="autofeature-422987" href="https://www.rockpapershotgun.com/2017/01/13/the-50-best-fps-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/may/wasd3header3.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best FPS On PC</h4>
+<p>The Worthiest Reticules Of All Time</p> </a>
+</li><li id="autofeature-3" class="widget-container AutoFeature">
+<a data-id="437667" class="widget-link " id="autofeature-437667" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/rainworld_wit_1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Rain World</h4>
+<p>The 5175th series of Planet Earth </p> </a>
+</li><li id="rpstagaz-2" class="widget-container RPSTagAZ"><h4 class="widget-title">Browse <span>our tags</span></h4>
+<ul class="tag-list tag-list--alphabet">
+<li><a href="/tags?letter=a">A</a></li>
+<li><a href="/tags?letter=b">B</a></li>
+<li><a href="/tags?letter=c">C</a></li>
+<li><a href="/tags?letter=d">D</a></li>
+<li><a href="/tags?letter=e">E</a></li>
+<li><a href="/tags?letter=f">F</a></li>
+<li><a href="/tags?letter=g">G</a></li>
+<li><a href="/tags?letter=h">H</a></li>
+<li><a href="/tags?letter=i">I</a></li>
+<li><a href="/tags?letter=j">J</a></li>
+<li><a href="/tags?letter=k">K</a></li>
+<li><a href="/tags?letter=l">L</a></li>
+<li><a href="/tags?letter=m">M</a></li>
+<li><a href="/tags?letter=n">N</a></li>
+<li><a href="/tags?letter=o">O</a></li>
+<li><a href="/tags?letter=p">P</a></li>
+<li><a href="/tags?letter=q">Q</a></li>
+<li><a href="/tags?letter=r">R</a></li>
+<li><a href="/tags?letter=s">S</a></li>
+<li><a href="/tags?letter=t">T</a></li>
+<li><a href="/tags?letter=u">U</a></li>
+<li><a href="/tags?letter=v">V</a></li>
+<li><a href="/tags?letter=w">W</a></li>
+<li><a href="/tags?letter=x">X</a></li>
+<li><a href="/tags?letter=y">Y</a></li>
+<li><a href="/tags?letter=z">Z</a></li>
+<li><a href="/tags?letter=0-9">#</a></li>
+</ul>
+</li><li id="bdp-comments" class="widget-container widget_bdp_comments"><h4 class="widget-title">Respond <span>to our gibber</span></h4><ul id="widget_bdp_comments_ul">
+<li>Hieronymusgoa</a> : &ldquo;Totally with you on that one. I play indie games 90% of the time, apart ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/17/have-you-played-dragon-age-inquisition/#comment-2409217'>Have You Played… Dragon Age: Inquisition?</a></li>
+<li>SuicideKing</a> : &ldquo;I wish you'd talk to Eugen too, about Steel Division, being published by Paradox, etc. ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/#comment-2409215'>Come see developer sessions this week at EGX Rezzed</a></li>
+<li>ZX k1cka55 48K</a> : &ldquo;Just read the Changelog in disgust without realizing that it's just a joke, because it ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/#comment-2409213'>The RPG Scrollbars: Predicting Planescape</a></li>
+<li>Chromatose</a> : &ldquo;I was a complete sad-sack and purchased an Xbox 360 especially to play Destiny. Sure, ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/#comment-2409211'>Destiny 2 announced, but why do we care?</a></li>
+<li>Drib</a> : &ldquo;Missed an opportunity for "Call of 2dy 2: WW2"&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/#comment-2409209'>Rumour! Call of Duty: WW2 is real, and a real bad name</a></li>
+</ul>
+</li><li id="rpsadblock-3" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_2" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_2" data-ghost-zone="59"></div>
+ 
+</div>
+</li><li id="autofeature-14" class="widget-container AutoFeature">
+<a data-id="413239" class="widget-link invert-widget" id="autofeature-413239" href="https://www.rockpapershotgun.com/2016/11/18/the-50-best-strategy-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/apr/stratheader.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 best strategy games on PC</h4>
+<p>Hit Parade</p> </a>
+</li><li id="autofeature-15" class="widget-container AutoFeature">
+<a data-id="432371" class="widget-link " id="autofeature-432371" href="https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/feb/plane1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The RPG Scrollbars: Predicting Planescape</h4>
+<p>The long awaited follow-up to Forgotten Realms: Baldur's Gate</p> </a>
+</li><li id="autofeature-4" class="widget-container AutoFeature">
+<a data-id="437233" class="widget-link " id="autofeature-437233" href="https://www.rockpapershotgun.com/2017/03/27/the-best-games-of-my-lifetime-year-by-year-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/chartists.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of *my* lifetime, year by year</h4>
+<p>A list, probably wrong</p> </a>
+</li><li id="autofeature-13" class="widget-container AutoFeature">
+<a data-id="408185" class="widget-link invert-widget" id="autofeature-408185" href="https://www.rockpapershotgun.com/2016/10/31/the-50-best-free-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/dec/awardsheader_small.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best Free Games On PC</h4>
+<p>No free-to-play, just free.</p> </a>
+</li><li id="autofeature-12" class="widget-container AutoFeature">
+<a data-id="437071" class="widget-link " id="autofeature-437071" href="https://www.rockpapershotgun.com/2017/03/26/the-sunday-papers-443/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/sep/papers2.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The Sunday Papers</h4>
+<p>Read more</p> </a>
+</li><li id="autofeature-10" class="widget-container AutoFeature">
+<a data-id="437303" class="widget-link " id="autofeature-437303" href="https://www.rockpapershotgun.com/2017/03/25/best-free-games-of-the-week-46/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/mar/gabey.png&w=280&h=112&zc=11" alt=""/>
+<h4>Gabe Newell to write, direct and star in Half-Life movie</h4>
+<p>NEWS ALERT. NEWS ALERT</p> </a>
+</li><li id="autofeature-9" class="widget-container AutoFeature">
+<a data-id="373643" class="widget-link invert-widget" id="autofeature-373643" href="https://www.rockpapershotgun.com/2016/06/15/if-only-text-adventures-for-people-who-hate-guessing-the-verb/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jun/superluminalvagrant.jpeg&w=280&h=112&zc=11" alt=""/>
+<h4>IF Only: Text Adventures For People Who Hate Guessing The Verb</h4>
+<p>Parsers Verbed</p> </a>
+</li><li id="autofeature-8" class="widget-container AutoFeature">
+<a data-id="436299" class="widget-link " id="autofeature-436299" href="https://www.rockpapershotgun.com/2017/03/25/whats-wrong-with-mass-effect-andromeda/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/mea.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Everything else that's wrong with Mass Effect Andromeda</h4>
+<p>A Galaxy Of Errors</p> </a>
+</li><li id="autofeature-7" class="widget-container AutoFeature">
+<a data-id="437299" class="widget-link " id="autofeature-437299" href="https://www.rockpapershotgun.com/2017/03/25/what-to-play-this-weekend-28/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/nov/wypalice.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>What are we all playing this weekend?</h4>
+<p>WELL?</p> </a>
+</li><li id="autofeature-5" class="widget-container AutoFeature">
+<a data-id="359811" class="widget-link invert-widget" id="autofeature-359811" href="https://www.rockpapershotgun.com/2016/04/13/build-engine-duke-nukem-blood-shadow-warrior/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/apr/build1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Blood, Sweat & Laughter: The Beauty Of The Build Engine</h4>
+<p>2.5D remembered.</p> </a>
+</li><li id="autofeature-6" class="widget-container AutoFeature">
+<a data-id="437049" class="widget-link " id="autofeature-437049" href="https://www.rockpapershotgun.com/2017/03/24/future-unfolding-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/futureunfolding1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Future Unfolding</h4>
+<p>A trip through nature</p> </a>
+</li><li id="autofeature-11" class="widget-container AutoFeature">
+<a data-id="436887" class="widget-link " id="autofeature-436887" href="https://www.rockpapershotgun.com/2017/03/24/kona-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/kon8.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Survival meets adventure in Kôna</h4>
+<p>Chilling</p> </a>
+</li><li id="autofeature-16" class="widget-container AutoFeature">
+<a data-id="347951" class="widget-link invert-widget" id="autofeature-347951" href="https://www.rockpapershotgun.com/2016/02/19/xcom-2-guide/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/feb/sectoid.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>XCOM 2 Guide To Strategy, Performance, Mods & More</h4>
+<p>Everything you need to know.</p> </a>
+</li><li id="autofeature-17" class="widget-container AutoFeature">
+<a data-id="435671" class="widget-link " id="autofeature-435671" href="https://www.rockpapershotgun.com/2017/03/24/warframe-bard-update/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/warframe1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Warframe: now a game of music-making as well as action</h4>
+<p>Digital Extremes explain Octavia's Anthem</p> </a>
+</li><li id="autofeature-18" class="widget-container AutoFeature">
+<a data-id="437087" class="widget-link " id="autofeature-437087" href="https://www.rockpapershotgun.com/2017/03/24/the-best-games-of-my-lifetime-year-by-year/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/lifegames.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of my lifetime, year by year</h4>
+<p>This is my life (in games)</p> </a>
+</li><li id="autofeature-19" class="widget-container AutoFeature">
+<a data-id="342317" class="widget-link invert-widget" id="autofeature-342317" href="https://www.rockpapershotgun.com/2016/01/21/best-fallout-4-mods-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jan/falloutsettlementanywhere.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best Fallout 4 Mods</h4>
+<p>For graphics, weapons, the UI and more.</p> </a>
+</li><li id="autofeature-20" class="widget-container AutoFeature">
+<a data-id="437013" class="widget-link " id="autofeature-437013" href="https://www.rockpapershotgun.com/2017/03/24/best-pc-gaming-deals-of-the-week-26/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/oct/12hitmanjapan.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best PC gaming deals of the week</h4>
+<p>Square and 2K go Humble</p> </a>
+</li><li id="autofeature-21" class="widget-container AutoFeature">
+<a data-id="436917" class="widget-link " id="autofeature-436917" href="https://www.rockpapershotgun.com/2017/03/23/making-dungeon-crawl-stone-soup-with-253-cooks-and-no-head-chef/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/crawl1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Making Dungeon Crawl Stone Soup with 253 cooks and no head chef</h4>
+<p>One of the best roguelikes, one of the strangest dev teams</p> </a>
+</li>
+</ul>
+</div>  
+<div id="skyscraper">
+ 
+<div class="ad-hd ad-halfpage" data-dfp-id="RPS_HP" data-dfp-sizes="160x600,300x600" id="div-ga-RPS_HP" data-ghost-zone="26"></div>
+ 
+</div>  
+</div>  
+</div>  
+<div id="footer">
+<div class="container">
+<div id="footer-content">
+<div class="footer-col">
+<h4>All our stuff <span>and things</span></h4>
+<ul>
+<li><a href="/">home</a></li>
+<li><a href="/about-pc-gaming-rps/">about</a></li>
+<li><a href="/advertise-pc-games/">advertise</a></li>
+<li><a href="/hey-prs-and-developers/">hey, developers!</a></li>
+<li><a href="/supportrps/">support RPS</a></li>
+<li><a href="/forums/">forums</a></li>
+</ul>
+<ul>
+<li><a href="http://steamcommunity.com/groups/rps">steam group</a></li>
+<li><a href="https://twitter.com/rockpapershot">twitter</a></li>
+<li><a href="https://www.facebook.com/rockpapershot">facebook</a></li>
+<li><a href="http://rps.libsyn.com/">podcast</a></li>
+<li><a href="http://feeds.feedburner.com/RockPaperShotgun">rss</a></li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Rock, Paper, Shotgun <span>was</span></h4>
+<ul style="width:180px;">
+<li>
+<a href="mailto:graham@rockpapershotgun.com">Graham Smith</a>
+<a href="https://twitter.com/gonnas" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alec@rockpapershotgun.com">Alec Meer</a>
+<a href="https://twitter.com/bonzrat" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://www.bonzrat.co.uk/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:john@rockpapershotgun.com">John Walker</a>
+<a href="https://twitter.com/botherer" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://botherer.org/blog/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:adam@rockpapershotgun.com">Adam Smith</a>
+<a href="https://twitter.com/noneconomical" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alice@rockpapershotgun.com">Alice O'Connor</a>
+</li>
+<li>
+<a href="mailto:pip@rockpapershotgun.com">Philippa Warr</a>
+<a href="https://twitter.com/philippawarr" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Info <span>and appendices</span></h4>
+<ul style="width:300px;">
+<li>&copy; 2007-2017 <a href="/">Rock Paper Shotgun</a> Ltd.</li>
+<li>Designed by Jonathan Sutcliffe.</a></li>
+<li>Hosted by <a href="http://www.positive-internet.com/">Positive Internet.</a></li>
+<li>Today's scotch egg consumption: 1183</li>
+<li>Hivemind Throbometer reading: 1.546%</li>
+<li class="write-to-rps">Write to RPS <a href="mailto:contact@rockpapershotgun.com">contact@rockpapershotgun.com</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<div id="eg-network" class="hidden-mobile">
+<div class="inner"></div>
+<div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+            jQuery(function(){
+                jQuery('#eg-network .inner').load('https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/eg-footer.php');
+            });
+        </script>
+</div>
+</div>
+ 
+<script type='text/javascript'>
+    
+        jQuery(document).ready(function() {
+
+            var custom_variables = {};
+            custom_variables['source'] = 'article';
+            custom_variables['url'] = document.location.pathname.substr(0, 40);
+            custom_variables['tags'] = "platform,featured-articles,pc-game-reviews,feature,hollow-knight,impressions,metroidvania,review,team-cherry,long-article";
+                            custom_variables['games'] = "hollow-knight";
+                        
+            try {
+                jQuery('.ad-tablet .ad-desktop, .ad-mobile, .ad-hd').getDFPads({'custom_variables' : custom_variables});
+            } catch(e) {
+                                    yafaIt();
+                                }
+
+            var lazyloading = true;
+           
+            function lazyloadAds() {
+                lazy_mpus = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus.length == 0) {
+                    lazyloading = false; 
+                    clearInterval(lazyloadInterval);
+                } else {
+                    for ( var i = 0; i < lazy_mpus.length; i++ ) {
+                        mpu_pos = jQuery(lazy_mpus[i])[0].getBoundingClientRect();
+                        if(mpu_pos['top'] < 1300 && lazyloading == true){
+                            jQuery(lazy_mpus[i]).getDFPads({'custom_variables' : custom_variables});   
+                            jQuery(lazy_mpus[i]).removeClass('lazyload').addClass('lazyloaded');                 
+                        }
+                    }    
+                }            
+            }
+
+            if(custom_variables['source'] == 'article'){
+                lazy_mpus_check = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus_check.length > 0) {
+                    var lazyloadInterval = setInterval(lazyloadAds, 300);
+                }
+            }
+
+        });
+
+    </script>
+ 
+<script type="text/javascript" src="//s.skimresources.com/js/87431X1560958.skimlinks.js"></script>
+ 
+ 
+<script>
+        function yafaIt() {
+            var ads = document.querySelectorAll('[data-dfp-id]');
+            for(var i = 0;i < ads.length;i++)
+            {
+				var ad = ads[i];
+				if( ad.hasAttribute("data-yafa-img") ) {
+					var yafa_click = ad.getAttribute("data-yafa-click");
+					var yafa_img = ad.getAttribute("data-yafa-img");
+					var yafa_target = ad.getAttribute("data-yafa-target");
+					var yafa_style = ad.getAttribute("data-yafa-style");
+					var yafa_linktarget = ad.getAttribute("data-yafa-linktarget");
+					var yafa_linkheight = 0;
+					if( ad.hasAttribute("data-yafa-linkheight") ) {
+						yafa_linkheight = ad.getAttribute("data-yafa-linkheight");
+					}
+					var tgt = jQuery(yafa_target);
+					tgt.attr(
+						'style', 'background-image: url(' + yafa_img + ');' + yafa_style
+					);
+					jQuery('html').bind('mousemove', function(e) {
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							jQuery('html').css({ 'cursor' :'pointer' });
+						} else {
+							jQuery('html').css({ 'cursor' :'auto' });
+						}
+					});
+					jQuery('html').bind('click', function (e) { 
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							window.open(yafa_click,'_top');
+						}
+					});
+				}
+                jQuery(ad).hide();
+            }
+        }
+		</script>
+ 
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",opacity:0.8,loop:false,scrolling:false,top:false,right:false,bottom:false,left:false});
+});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ecd_params = {"cookie_message":"Rock Paper Shotgun uses cookies. For some reason we are now obliged to notify you of this fact. Not that you care. <a href=\"\/privacy-stuff\">More info here<\/a>.","cookies":{"0":{"name":"wp-settings-3","group":"WordPress","description":""},"1":{"name":"wp-settings-time-3","group":"WordPress","description":""},"2":{"name":"wordpress_test_cookie","group":"WordPress","description":""},"3":{"name":"__utma","group":"Google Analytics","description":""},"4":{"name":"__utmb","group":"Google Analytics","description":""},"5":{"name":"__utmc","group":"Google Analytics","description":""},"6":{"name":"__utmv","group":"Google Analytics","description":""},"7":{"name":"__utmz","group":"Google Analytics","description":""},"9":{"name":"","group":"","description":""}}};
+var ecd_cookies = [{"name":"wp-settings-3","description":"","group":"WordPress"},{"name":"wp-settings-time-3","description":"","group":"WordPress"},{"name":"wordpress_test_cookie","description":"","group":"WordPress"},{"name":"__utma","description":"","group":"Google Analytics"},{"name":"__utmb","description":"","group":"Google Analytics"},{"name":"__utmc","description":"","group":"Google Analytics"},{"name":"__utmv","description":"","group":"Google Analytics"},{"name":"__utmz","description":"","group":"Google Analytics"}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/script.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var infinite = {"ajax_url":"https:\/\/www.rockpapershotgun.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/rps-feature-stepper/infinite-features.js?ver=1.0'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201713'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type="text/javascript">
+			var bwpRecaptchaCallback = function() {
+				// render all collected recaptcha instances
+			};
+		</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=bwpRecaptchaCallback&#038;render=explicit" async defer></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc1fd178d1","applicationID":"26676767","transactionName":"MwBUZUZXWkpZAkMNCQpKd1JAX1tXFxJeCgEIAA==","queueTime":0,"applicationTime":1554,"atts":"H0dXEw5NSUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

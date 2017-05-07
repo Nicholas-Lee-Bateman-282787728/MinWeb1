@@ -1,0 +1,111 @@
+
+RPS Feature
+Mavis Beacon Teaches Fox Riding 
+By John Walker on March 31st, 2016 at 9:00 pm.
+
+Typing games are not a new idea, obviously, but they remain a rare pleasure. Clearly the greatest of them all is Typing Of The Dead (okay, it’s not actually that great, but the concept is), and 2011’s Z-Type was a nice spin on a shoot-em-up. But Epistory [official site] is, I think, the best execution of typing-as-game I’ve seen – a really sweet, superbly atmospheric action RPG where all the controls are on your keyboard. Here’s wot I think:
+
+This is apparently the tale of a writer with block who asks her muse for help, but I confess I picked up none of this by actually playing the game. What I played is an adorable game about a girl riding on the back of a three-tailed fox (take that, Sonic), trotting around an origami world. Controls are either WASD, or a slightly more strange scattering of keys supposedly designed to have your fingers already resting in the right place for typing words. I ended up promptly forgetting what those controls are, and finding it far more comfortable to stick to the known, my right hand jumping in when needed. And it certainly is needed, as you’ll need to type words in order to remove obstacles and attack incoming enemies.
+
+At first you’re plodding around a few squares of quiet countryside, your only opponents being inanimate logs that require woody words to be removed. You press Space and anything interactive is highlighted with a word above it, and you type it to remove it. The more typed words you can string together, the more points you can score via combos, and with points you gain XP for expanding your skills. At first you’ll be wanting to speed up your slow fox, then adding the ability to sprint, perhaps extending the time period for combos, improving magic, displaying more information on the map, and so on. (Rather splendidly, the menus can be navigated by typing in, say, “OPTIONS” rather than clicking on them with your mouse.)
+Soon enemies will appear, crawling toward you with words floating above their heads. Easy foes are taken down by a couple of three-letter words, while far tougher beasts might require you to hammer out a few 12-letter jobbies. I am very excited to report that early on I was able to kill a slug-like creature with the word “WEE”. Guaranteed positive coverage.
+
+It’s all very pretty, but not as pretty as I think it ought to be. For some reason the characters appear very scratchy, which I think is a result of having been designed to look much better when seen closer up, and not well surviving the distant camera necessary for letting you see the wor(l)d around you. However, the presentation is undeniably lovely. As you roam around, the esoteric story is told by a narrator, with the words appearing as text on the land. Typed letters go black and then completed words fade away, with additional magical abilities adding further effects to the mix. Fire, for instance, means every other word for an enemy will burn away, allowing you to take on multiple encroaching bads by judiciously typing on one, then another, then another, balancing their deaths before they getcha.
+To prevent your travelling too far, too soon (and as such presumably to prevent your seeing the whole of the moon), different coloured words are in different unknown languages – only when you’ve learned the language will they appear in English, meaning you need to solve one area to progress to the others, each sprawling out from the central starting area. There are also sections that will only appear once you’ve scored enough points, which is a lot less elegant, but again ensures the game opens up as you’re ready for it.
+
+Rather brilliantly, this isn’t limited to QWERTY keyboards, either. It supports AZERTY, QWERTZ, DVORAK, COLEMAK, WORKMAN, NEO2 and BEPO, and comes with adaptive difficulty if it recognises you’re banging out the words too quickly. Words are often thematically linked to whatever they’re attached to, sometimes amusingly, giving the game a sense of curation rather than just being a series of random typing tasks. 
+Whether it actually improves your typing I’m not sure, but it gives you statistics on your speed and so on, which you can compare before and after I guess. I’d not see the game that way at all, though, and instead recognise it as a novel (fnarr) way to play a cute, gentle third-person action RPG.
+It really is a lovely thing, offering a good amount of game for a tenner, rising above its own gimmick to be a little bit special.
+Epistory is available now on Steam for £10.
+
+31/03/2016 at 21:06
+
+Medo says:
+
+But how does it compare to Icarus Proudbottom Teaches Typing?
+
+31/03/2016 at 23:16
+
+aircool says:
+
+How would this work if you’re a 60+ wpm touch typist?
+
+01/04/2016 at 00:02
+
+christmas duck says:
+
+It’d work well I should think, the game tracks your wpm and there are achievements for hitting an average of 30, 60, and 120…I’m currently averaging 23, but the game knows that’s crud so has slowed things down for me. 
+If you’re a touch typist you might actually be able to use the weird e f j i controls it suggests at the start.
+
+01/04/2016 at 13:32
+
+Kitsunin says:
+
+My WPM under typical punctuating, error-correcting-as-I-go circumstances, is 85. Just finished the second dungeon and the game is providing ample challenge. It’s really lovely.
+
+01/04/2016 at 13:37
+
+Kitsunin says:
+
+Oh, and the EFJI control scheme works a treat, it makes switching between movement and typing modes a snap, as much of a beat as placing a space between words.
+
+03/04/2016 at 05:37
+
+Snschl says:
+
+Its adaptive difficulty is based on your calculated WPM, so you should be fine. Also, the combat doesn’t just depend on fast typing – prioritizing enemies, hitting them with the right elements (which you switch mid-combat by typing “ice” or “fire”) and in the right order is more important. I’ve seen fast typists lose the very first boss battle because they tried to type everything, instead of letting the fire element burn up the following words by itself.
+I should also mention that the game has quite a nice narrative, where the typical Ocarina-like elemental dungeons actually represent milestones in a girl’s life (e.g., the lightning-dungeon is a nightmarish, crumbling, multi-layered mechanical city, in which you helplessly stumble deeper, paths closing off behind you, until you discover the lightning power-up, allowing you to manipulate puzzles, open gates and activate teleporters. It represents the protagonist moving to a big city, facing its confusing, impersonal lifestyle and eventually getting used to it.) At the end, you get a sense that you’re playing an allegorical biography.
+
+01/04/2016 at 01:51
+
+Riaktion says:
+
+Following this article, picked up the game and spent half and hour with it and it is very nice. As mentioned in another comment you can set the difficulty to “auto adjust” so it will detect if you’re not a quick typist which is pretty good. It is a lovely looking game and plays rather well, 30 minutes in and not regretting the purchase at all.
+
+02/04/2016 at 08:54
+
+lena47 says:
+
+8″Once I saw the draft of 6272 bucks I admit that my friend’s brother was like really generating cash in his free time with his PC. His uncle’s neighbor has done this for only 7 months and by now repaid the loan on their home and bought a new Car …JY!22
+======== http://www.CashPay60.com
+
+03/04/2016 at 11:21
+
+Subjective Effect says:
+
+Errr, Typing of the Dead is great. 
+It works (taught me!), is actually a game, has interesting gameplay and is hilarious. 
+What’s not to like about a zombie coming at you with “Wet and willing” floating above his head!
+
+05/05/2016 at 17:57
+
+skytynamo says:
+
+It’s all very pretty, but not as pretty as I think it ought to be.
+I actually made an account here just to comment on how accurate that description is. I enjoyed the game, but kept getting the hinting feeling that it could be even better.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+Epistory - Typing Chronicles, feature, Fishing Cactus, review, typing, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

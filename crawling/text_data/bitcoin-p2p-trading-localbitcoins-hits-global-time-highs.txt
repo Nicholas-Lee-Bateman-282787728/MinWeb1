@@ -1,0 +1,15 @@
+
+
+
+CryptoCoinsNews
+Bitcoin trading volumes on peer-to-peer marketplace LocalBitcoins continues to thrive despite turbulent volatile times for the cryptocurrency’s value.
+Last week, the marketplace witnessed a record $32 million in trading volumes in a continuing upward trend that shot up earlier this month when bitcoin reached an all-time high of $1,350 on the Bitstamp Price Index (BPI).
+
+As revealed in data from Coin.Dance, the spike seen at the beginning of the month is heavily influenced by market activities in China, where exchanges continue to stop users from withdrawing bitcoin due to regulatory pressure from authorities, led by the People’s Bank of China, the country’s central bank. Introduced in February, the initially month-long withdrawal freeze has led to Chinese investors flocking to alternative decentralized marketplaces like LocalBitcoins.
+P2P trading on the marketplace grew nearly 5x in China in February following the withdrawal ban. The trading activity helped push volumes soar beyond $24 million the week after, a then all-time high for the marketplace
+Trading volumes in China took a dip last week but remained above ¥50 million week-on-week throughout March.
+ The Dominican Republic also witnessed a soaring leap in trading volumes, with nearly DOP 800,000 traded last week.
+
+Trading volumes in Venezuela also registered an all-time high on the decentralized marketplace, with over VEF 22.5 million recorded last week. Cheap electricity costs and a spiraling bolivar due to hyperinflation has seen an uptick in small-scale bitcoin mining operations in the country. This has, in turn, led to a crackdown by authorities against bitcoin miners, with several arrests made earlier this year.
+
+Image from Shutterstock. Charts from Coin.Dance.

@@ -1,0 +1,61 @@
+
+
+
+CryptoCoinsNews
+Earlier today a user under the handle of “daoattacker” came to the DAO slack channel and seemingly gave away 6.37 bitcoin. 
+I was preparing to write an article on an alleged statement from the DAO attacker, so when I checked the slack channel the giveaway was just ending, but everyone was posting their bitcoin address. I was not sent any bitcoin or any other currency nor did I request through address posting, but I asked the alleged attacker some questions. The following has been modified only cosmetically – to add capitalization at beginning of sentences and punctuation at the end:
+Andrew Quentson (AQ): Hi, I was about to write an article on your alleged pastebin. How can you show you are actually the DAO hacker?
+Daoattacker (DA): (1) i’m not a hacker, nothing was hacked.
+(2) i’m not “the attacker”, I’m intermediary, this is a team project
+(3) the point of this pastebin is open dialog; soon we will have a smart contract to reward miners who oppose the soft fork and mines the transaction. 1 million ether + 100 btc will be shared with miners.
+AQ: How soon? We talking hours, days?
+DA: Sorry don’t have an exact date. Takes time to verify and make sure it is bug free :wink:
+AQ: How can you show you are the owner of the child dao that has some 3.5 million ether I believe?
+DA: Words don’t matter. Proof doesn’t matter. Smart contracts do.
+DA: I saw your message in #general (Andrew Quentson asked for a summary of what was going on)
+The 6.37 bitcoin giveaway is just a little demonstration that money speaks, and people in crypto are here for a profit. They don’t care if they’re being paid by “an attacker”.
+AQ: Some suggest that a potential solution may be for you to have some of the funds and the rest returned in return for no fork, are you in any negotiations towards that end?
+DA: Everything is on the table from our perspective, as long as there is no fork.
+AQ: I think I read you say Eth is a shitcoin. Are you trying to discredit eth, or just in for the money? As in is this attack politically motivated or purely financial?
+And what sort of offer would you give to Ethereum’s community? As in you’ll return the rest if you can keep… how many eth?
+DA: The people behind ethereum are deceptive, for example everyone with a clue (Adam Back, Gregory Maxwell) knows that there is 0% chance for “CASPER” proof of stake to work, but yet they advertise it.
+I don’t like ethereum, I don’t like slock.it, but that’s not the main reason. Money talks. Even if I loved ethereum I’d still have done it.
+And, offers will be made with smart contracts. Sorry but I can’t give any numbers, even if I did there is no reason to believe that I’m “the attacker” :slightly_smiling_face:
+AQ: There is one reason, well two reasons, you’re claiming it and you gave or claim to have given away more than six btc, but if you can provide some sort of evidence for our readers that would be helpful.
+DA: Those aren’t strong reasons, anyone with 6 btc could’ve done that, shorted DAO / eth and made a killing.
+AQ: Did you short the DAO prior to the attack?
+DA: I’m not commenting to incriminate myself haha. But markets are really just places to trade information.
+AQ: Do you think the attackers would accept 100k, return the rest, on a community promise to not hard-fork? Or do you think they’d be looking at a million, what sort of scale are we speaking in your view?
+DA: I think they’d be looking at a million. Right know they think there is a very reasonable chance that miners, motivated by profit, won’t fork with 1 million ether dispersed.
+AQ: Presumably that would have to go to pool operators. Since they are known, wouldn’t they incriminate themselves?
+DA: That’s the beauty of smart contracts and soft / hard forks… Forking requires action, not forking is just inaction; they can be plausibly deniable.
+Not to mention they don’t have to accept it. Someone will get paid to call the smart contract per block, and that call will pay the miner.
+AQ: Is this team behind any previous attacks, particularly MT Gox, but any other exchanges as well, or is this a first?
+And if you don’t wish to answer that, do you have any other general comments to make?
+DA: Ok, so, that is actually a really bad question, because NO hacker will admit to previous hacks (if they’re substantial). The only people who admit to previous hacks are those who are lying for attention. So that question is pretty meaningless :)
+But I do have a general comment to make. As everyone hopefully figured out by now, the pastebin had a signature that didn’t verify. I was absolutely surprised by how much it caught on, but I’m glad it’s the right message that caught on. And DAO dropped by 10% just with that pastebin lol. So many lessons for the crypto community.
+AQ: Since the signature does not verify, does that not make the pastebin fake?
+DA: The pastebin is fake in the sense that it’s not a signed message from the attacker, but that doesn’t mean the message it conveys is fake, or, not from the attacker.
+AQ: How exactly was the attack carried out and why has it stopped at 3.5 million?
+DA: It’s just the recursive call attack that was already known, but slock.it guys didn’t realize was present for splitting. In layman’s terms: because of a feature in the DAO, it sends you ether before deducting your balance.
+[The exact description of the recursive attack removed due to uncertainty on whether it raises any security concerns]
+DA: Does that make sense lol? There’s a few good articles about the recursive call attack and those probably explains it better than I can.
+AQ: Why has it stopped at 3.5 million?
+DA: Vitalik was actually calling for a hard fork / rollback and he / eth foundation seemed serious. I’m still not sure if he actually thought he supports a hard fork, or just said it to try and get the attacker to stop.
+AQ: So, the attacker just chose to stop? If you wished to you can drain the rest?
+DA: EVM wise, yes, but Ethereum’s market isn’t yet large or liquid enough to cash out more than a few million Ether. In any case, the real money (bitcoin) is made from shorting. When people started talking about a hard fork, the price of DAO started to recover, people started buying DAO because they think they’ll be bailed out. Price started falling again after the attack stopped :D
+AQ: Do you not think the whole digital currency space would badly suffer if the appropriated funds of $50 million and potentially more aren’t frozen?
+DA: Honestly? $50 million will be fine, remember mtgox? Bitcoinica? Pirateat40? But when more ETH is taken from the DAO, that could be a problem. The attacker isn’t going to take anymore, honestly eth foundation or someone else should step up, and should move the rest to their custody. DAO investors take a 30% haircut for their lack of due diligence. ETH is moved out of the faulty DAO without a hard fork, which is the only way to update a contract.
+In 2011, mtgox was hacked and lost 400,000 bitcoin. That was 6% of all bitcoin supply at that time. Bitcoin is doing fine, isn’t it?
+AQ: At the time everyone discarded bitcoin as not safe and easily hackable. I believe it took some two years for it to recover. Don’t you think the same can happen again for both Eth and Bitcoin as the mainstream media covers the attack?
+DA: Well the attacker won’t take the full 3.6 million eth. At least one million will be spread out to miners, and anyone can be a miner.
+Just speculating (because only 1 million to miners is committed), but it makes sense to have a carrot and a stick. Carrot: return some of the eth to the DAO to make righteous people happy. Stick: return some of the eth to miners if they don’t fork to give monetary incentive to not fork. So… the impact and amounts will be a lot smaller than current estimations and ethereum will absolutely survive, and can even prosper after a clean resolution without a fork. While a fork would irrevocably tranish ethereum.
+AQ: By “some”, what numbers are we talking?
+DA: Only number I can give is 1 million eth + 100 btc.
+AQ: Are you involved in bitcoin or ethereum. Do you contribute code, that sort of thing? And what sort of age bracket are you as well as what rough geographical location.
+AQ: And, I do have to go so is there anything else you wish to say to everyone?
+DA: I like bitcoin, and I like breaking smart contracts :)
+DA: That’s all I have to say. Thanks for your time :)
+DA: Actually there is one piece of misinformation I’d like to correct. Bitcoin has never hard forked. The value overflow incident was resolved with a soft fork. The 2013 levelDB issue was resolved without forking see https://www.reddit.com/r/Bitcoin/comments/2s2utx/the_hard_fork_missile_crisis/cnlqcd1
+Have a good one.
+Featured image from Shutterstock.

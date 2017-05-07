@@ -1,0 +1,1385 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta property="fb:pages" content="176784995741043"/>
+<meta name="Googlebot-News" content="noindex, nofollow"><title>Civilization VI hands on preview | Rock, Paper, Shotgun</title>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/style.css?cb=acf3c73" type="text/css" media="screen"/>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/icon-fonts/css/fontello.css?cb=c8c7fe11" type="text/css" media="screen"/>
+<link rel="pingback" href="https://www.rockpapershotgun.com/xmlrpc.php"/>
+<link rel="shortcut icon" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/favicon-new.ico"/>
+<link rel="next" href=""/>
+ 
+ 
+ 
+<meta name="description" itemprop="description" content="Civilization VI AI, balance, citybuilding, research and barbarians."/>
+<meta name="keywords" itemprop="keywords" content="2k,feature,firaxis games,preview,sid meier\'s civilization vi"/>
+<link rel="canonical" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Feed" href="https://www.rockpapershotgun.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Comments Feed" href="https://www.rockpapershotgun.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Hands On: Civilization VI Is Exciting, Complex &#038; Aggressive Comments Feed" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/feed/"/>
+<meta property="og:title" content="Hands On: Civilization VI Is Exciting, Complex &#038; Aggressive"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/"/>
+<meta property="og:site_name" content="Rock Paper Shotgun"/>
+<meta property="og:image" content="https://www.rockpapershotgun.com/images/16/may/civho1.jpg"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.rockpapershotgun.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='eu-cookie-directive-css' href='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/style.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='bbspoiler-css' href='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='https://www.rockpapershotgun.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='rps_features-css' href='https://www.rockpapershotgun.com/wp-content/plugins/rps-features/rps-features.css?ver=1.10' type='text/css' media='all'/>
+<link rel='stylesheet' id='lightboxStyle-css' href='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/css/textframe/colorbox.css?ver=2.7' type='text/css' media='screen'/>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/wp-gfycat/js/gfycat_test_.js?ver=4.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var title = {"unfolded":"Expand","folded":"Collapse"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.5.3'></script>
+<link rel='https://api.w.org/' href='https://www.rockpapershotgun.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.rockpapershotgun.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.rockpapershotgun.com/wp-includes/wlwmanifest.xml"/>
+<link rel='prev' title='Goat Sim Goes Galactic In New Expansion, Out Tomorrow' href='https://www.rockpapershotgun.com/2016/05/25/goat-simulator-space-expansion/'/>
+<link rel='next' title='Black Closet Dev Releases A Little Lily Princess' href='https://www.rockpapershotgun.com/2016/05/25/a-little-lily-princess-released/'/>
+<meta name="generator" content="WordPress 4.5.3"/>
+<link rel='shortlink' href='https://wp.me/pkbbD-1y4f'/>
+<link rel="alternate" type="application/json+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2016%2F05%2F25%2Fcvilization-vi-hands-on-preview%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2016%2F05%2F25%2Fcvilization-vi-hands-on-preview%2F&#038;format=xml"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity - Full Post Feed" href="https://www.rockpapershotgun.com/feed/?dualfeed=2"/>
+ 
+<meta property="fb:pages" content="176784995741043"/>
+<link type="text/css" rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/plugins/simple-pull-quote/css/simple-pull-quote.css"/>
+<style>.theiaPostSlider_nav.fontTheme ._title,.theiaPostSlider_nav.fontTheme ._text{line-height:16px;}.theiaPostSlider_nav.fontTheme ._button{color:#c1272c;}.theiaPostSlider_nav.fontTheme ._button ._2 span{font-size:16px;line-height:16px;}.theiaPostSlider_nav.fontTheme ._button:hover,.theiaPostSlider_nav.fontTheme ._button:focus{color:#db5357;}.theiaPostSlider_nav.fontTheme ._disabled{color:#727272!important;}</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel="amphtml" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/amp/"/> <script>
+                        function mormontLoaded () {
+                                mormont('set', 'section', 'article');
+                                mormont('set', 'language', 'en');
+                                mormont('set', 'platforms', ["pc"]);
+                                mormont('set', 'published', "2016-05-25T15:00:13+00:00");
+                                mormont('set', 'article_type', "news");
+                                                                mormont('set', 'tags', ['tag:2k','tag:feature','tag:firaxis-games','tag:preview','tag:sid-meiers-civilization-vi']); 
+                                mormont('send', 'pageview');
+                            };
+                </script>
+<script src="//cdn.gamer-network.net/2015/scripts/mormont/v2/mormont.js" async onload="mormontLoaded()"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/plugins.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/application.js" type="text/javascript" charset="utf-8"></script>
+<script src="//cdn.gamer-network.net/plugins/dfp/async.dfp.1.1.16.js"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/ad-related.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/InlineAds.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('.entry img').each(function(){jQuery(this).attr('title',(jQuery(this).attr('alt')))});
+});
+</script>
+ 
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-2667859-1', 'auto');
+
+    ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
+
+    ga('send', 'pageview');
+
+            ga('set', 'dimension4', '0');
+    </script>
+ 
+<meta name="readability-verification" content="EDFS6HqfEsVJByL2MzxYRrype6cdTyPbjFaJAWj5"/>
+ 
+<script type='text/javascript'>
+    var OA_source = 'article';
+</script>
+ 
+<meta name="twitter:card" value="summary"/>
+<meta name="twitter:url" value="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/"/>
+<meta name="twitter:title" value="Hands On: Civilization VI Is Exciting, Complex &#038; Aggressive"/>
+<meta name="twitter:description" value="The barbarians are at the gates. They&#8217;re not here to kick the gates down and storm the city though; instead, they retreat, in the direction of the camp that spawned them. “You might want to send a warrior after those barbarian scouts,” Firaxis&#8217; Pete Murray advises, watching the screen over my shoulder. “They&#8217;ll fetch a [&hellip;]"/>
+<meta name="twitter:image" value="https://www.rockpapershotgun.com/images/16/may/civho1.jpg"/>
+<meta name="twitter:site" value="@rockpapershot"/>
+<meta name="twitter:creator" value="@rockpapershot"/>
+ 
+ 
+</head>
+<body class="single single-post postid-369287 single-format-standard category-featured-articles">
+<div id="header">
+<div id="header-content">
+<div class="logo">
+<a href="https://www.rockpapershotgun.com">Rock, Paper, Shotgun</a>
+</div>
+<div class="header-items">
+<a class="hidden-desktop mobile-link search-link" href="#header-search">Search</a>
+<div id="header-search" class="mobile-menu visible-desktop">
+<form method="get" action="/" id="search">
+<fieldset>
+<input type="text" name="s" id="search-site" placeholder="Search the site"/>
+<input type="submit" class="submit" value="Go"/>
+</fieldset>
+</form>
+</div>
+<div id="menu-header-links-container" class="hidden-mobile"><ul id="menu-header-links" class="menu"><li id="menu-item-260401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-260401"><a href="https://www.rockpapershotgun.com/2015/10/16/best-free-games-on-pc/">50 Best Free Games On PC</a></li>
+<li id="menu-item-419715" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-419715"><a href="https://www.rockpapershotgun.com/2016/12/01/best-games-of-the-year-2016/">Best PC Games of 2016</a></li>
+</ul></div>
+<a class="hidden-desktop mobile-link menu-link" href="#menus-wrapper">Menu</a>
+<div id="menus-wrapper" class="mobile-menu visible-desktop">
+<div id="menu-main-container"><ul id="menu-main-nav" class="menu"><li id="menu-item-168856" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168856"><a href="/category/featured-articles/">RPS Features</a></li>
+<li id="menu-item-168857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168857"><a href="/pc-game-reviews/">Reviews</a></li>
+<li id="menu-item-168858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168858"><a href="/category/pc-game-news/">News</a></li>
+<li id="menu-item-168859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168859"><a href="/category/free-pc-games">Free Games</a></li>
+<li id="menu-item-287901" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287901"><a href="https://www.rockpapershotgun.com/category/esports/">Esports</a></li>
+<li id="menu-item-168860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168860"><a href="/category/hardware/">Hardware</a></li>
+<li id="menu-item-281803" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-281803"><a href="https://www.rockpapershotgun.com/category/guides/">Guides</a></li>
+<li id="menu-item-168861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168861"><a href="/supportrps">Support RPS</a></li>
+<li id="menu-item-168862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168862"><a href="/forums/forum.php">Forum</a></li>
+</ul></div>
+<div id="menu-utility-container">
+<ul id="menu-utility" class="menu"><li id="menu-item-142626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142626"><a href="https://www.rockpapershotgun.com/about-pc-gaming-rps/">About Us</a></li>
+<li id="menu-item-168863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168863"><a href="https://www.rockpapershotgun.com/advertise-pc-games/">Advertise</a></li>
+<li id="menu-item-142627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142627"><a href="https://www.rockpapershotgun.com/hey-prs-and-developers/">Hey, developers!</a></li>
+<li id="menu-item-142628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142628"><a href="https://www.rockpapershotgun.com/privacy-stuff/">Privacy</a></li>
+<li id="menu-item-168865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168865"><a href="http://feeds.feedburner.com/RockPaperShotgun">RSS</a></li>
+<li id="menu-item-168864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168864"><a href="http://steamcommunity.com/groups/rps">Steam</a></li>
+<li id="menu-item-249683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249683"><a href="https://twitter.com/rockpapershot">Twitter</a></li>
+<li id="menu-item-266251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-266251"><a href="https://www.facebook.com/rockpapershot">Facebook</a></li>
+</ul> <ul>
+<li><a href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.rockpapershotgun.com%2F2016%2F05%2F25%2Fcvilization-vi-hands-on-preview%2F">Login</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page-wrapper">
+<div class="leaderboards hidden-mobile">
+ 
+<div class="ad-desktop ad-hd ad-leaderboard-top-desktop" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90,970x250,1260x110,1260x250" id="div-ga-RPS_LB_1" data-ghost-zone="25" data-yafa-name="qdxglqjw" data-yafa-img="https://images.eurogamer.net/2017/t7yh9t4b3y8v7o/98yn7tv34n978y3v4tvt43978ny43tvbn9y78.jpg/2017/78yb9479nyb4v3t78b9yo458b7/7hfhf7fhjf8.jpg" data-yafa-click="http://bit.ly/2o8OYcq" data-yafa-target="#page-wrapper" data-yafa-style="padding-top:200px; background-color: white; background-repeat: no-repeat; background-position: 50% 0;" data-yafa-linktarget="#page-wrapper, #inner-wrapper, .page" data-yafa-linkheight="1200"></div>
+ 
+ 
+<div class="ad-tablet ad-leaderboard-top-tablet" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90" id="div-ga-RPS_LB_1_TABLET" data-ghost-zone="25"></div>
+ 
+</div>
+<div id="page">
+<div id="content">
+<div class="content">
+<article id="post-369287" class="block featured-block">
+<p class="featured-block-title">
+<a class="featured-block__text  featured-block__text--feature" href="https://www.rockpapershotgun.com/category/featured-articles">RPS Feature</a>
+Sid vicious </p>
+<div class="post-inner">
+<nav>
+<ul class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com" rel="v:url" property="v:title">
+Home </a>
+</li>
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com/category/featured-articles" rel="v:url" property="v:title">
+Featured Articles </a>
+</li>
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com/tag/sid-meiers-civilization-vi" rel="v:url" property="v:title">
+Sid Meier's Civilization VI </a>
+</li>
+</ul>
+</nav>
+<header>
+<h1>Hands On: Civilization VI Is Exciting, Complex &#038; Aggressive</h1>
+<aside class="byline">
+<p>By <a href="mailto:ad&#97;&#109;&#64;rockp&#97;&#112;&#101;&#114;&#115;&#104;&#111;tg&#117;n.&#99;&#111;&#109;">Adam Smith</a> on May 25th, 2016 at 3:00 pm.</p>
+</aside>
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Hands On: Civilization VI Is Exciting, Complex &#038; Aggressive https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</header>
+<div class="entry">
+<p><img src="https://www.rockpapershotgun.com/images/16/may/civho1.jpg" alt=""/></p>
+<p><em>The barbarians are at the gates. They&#8217;re not here to kick the gates down and storm the city though; instead, they retreat, in the direction of the camp that spawned them.</p>
+<p>“You might want to send a warrior after those barbarian scouts,” Firaxis&#8217; Pete Murray advises, watching the screen over my shoulder. “They&#8217;ll fetch a raiding party if they manage to get home.”</p>
+<p>That&#8217;s new. It&#8217;s the tip of the iceberg as far as changes go, but it&#8217;s an illustrative example of what the early stages of this game are all about. <a href="https://www.rockpapershotgun.com/tag/Sid-Meiers-Civilization-VI/">Civilization VI</a> [<a href="http://www.civilization.com/">official site</a>], at this stage of its development, is host to the most reactive AI that I can remember in the series&#8217; long history. Lead designer Ed Beach and his team are <a href="https://www.rockpapershotgun.com/2016/05/11/civilization-vi-details/">building a Civ game that they hope will pry long-time players out of their established comfort zones</a>, and a too-brief 60 turns with the game last week showed plenty of evidence that they&#8217;ll achieve that goal.</em></p>
+<p><span id="more-369287"></span></p>
+<p>It&#8217;s a busy game, even in those early turns. Traditionally, the early eras see me scouting for prime settlement spots and working my way through city improvements, research and windows in a very specific pattern. Usually, I&#8217;m aiming to pile up as much Culture as possible, neglecting my military as soon as the first few surrounding barbarian encampments have been plundered and razed.</p>
+<p><img src="https://www.rockpapershotgun.com/images/16/may/civho7.jpg" alt=""/></p>
+<p>In this game, which took place on a small pre-tested map with three AI opponents, I found myself blown off course almost immediately. The first centuries of Civilization are no longer very civilized. A City State to the northeast of my capital (Beijing) marked my first contact and there were no problems there, but as soon as I met my American neighbours, rumblings of discontent were heard.</p>
+<p>Teddy Roosevelt, as depicted in Civ VI&#8217;s full-body animated diplomatic encounters, is a smiling bear of a man. He makes reference to the toys that go by his name in one line of dialogue, which is one of those weird reminders (as if the immortal presence of a single leader weren&#8217;t enough) that Civilization&#8217;s awareness of any particular historical moment is flexible in the extreme. The leaders, as ever, represent the entire span of their civilization&#8217;s existence, lending one aspect of their personality or historical rule as a fixed agenda – a second agenda is selected randomly from a pool of possibilities at the beginning of each new game.</p>
+<p>What that means, in practice, is that you&#8217;ll learn to expect certain kinds of behaviour from each leader, but that base personality type will be modified by the second, hidden agenda. In Roosevelt&#8217;s case, his fixed agenda causes him to behave aggressively toward any civ involved in a war on his own continent – that&#8217;s to say, he&#8217;ll look unkindly on violence close to home, while tending to turn a blind eye to military action overseas. I believe, though can&#8217;t be sure, that he is much more inclined to take issue with the aggressor in a home-continent war, and that was certainly the case in my playthrough, when Cleopatra entered the fray.</p>
+<p><img src="https://www.rockpapershotgun.com/images/16/may/civho3.jpg" alt=""/></p>
+<p>The Egyptians, under the queen of the Nile, have a simple base agenda: they respect civs with a large military and see those without as potential victims. On our first meeting, Cleopatra seemed impressed and willing to play nice. In hindsight, that was probably down to the fact that I&#8217;d built a few extra military units to clear our the barbarians near my home city and chosen site for expansion (a lovely coastal area with access to the Great Barrier Reef). Considering we hadn&#8217;t figured out how to harness horses yet and couldn&#8217;t compete with the Egyptian chariots that were already roaming the plains, the Chinese military was fearsome enough to command respect.</p>
+<p>And then I fucked up. Or, rather, I made a choice that had immediate consequences. In an effort to improve cashflow so that I could buy a couple of improvements in Beijing, I disbanded the majority of my armies as soon as the barbarians had been eliminated. Cleopatra considered the situation for a couple of turns and then sent an insult, identifying precisely the kind of weakness that irritates her. Within a few decades, we were at war.</p>
+<p>It only took a few more turns for Teddy to lock and load, declaring way on Egypt, presumably annoyed by Cleopatra&#8217;s disregard for the continental truce that the Americans had hoped would hold forever (or at least until they decided to break it themselves).</p>
+<p><img src="https://www.rockpapershotgun.com/images/16/may/civho4.jpg" alt=""/></p>
+<p>We hit the sixty turn limit for the preview build soon afterwards, with Cleopatra amassing an enormous army while I concentrated on development of a theatre district in Beijing. While Beijing went all artsy, my second city, Shanghai, harnessed the natural wonder of the Reef to instill a sense of spiritual superiority in my people. What was most striking – and most exciting – about the session lay in the actions of the AI: here was a game of Civ in which two AI entities had involved themselves in wars for specific reasons that I could identify. That also meant I could have, given more time, defuse the situation without resorting to the centuries-long process of attrition and churn that so often typifies conflict in the series.</p>
+<p>All of that goes back to the reactive nature of the AI. Even the city state had involve itself, choosing to side with the Americans and producing armies of its own. If I&#8217;d shifted my production efforts toward the creation of a powerful military, it seems likely that Cleopatra would have sued for peace, seeing a competitor rather than a victim, and the choice as to whether the war should continue would then have been mine. Then again, without knowing her secondary agenda, I have no idea if my newfound religious focus or habit of hastily constructing wonders might have been cause for further antagonism.</p>
+<p>As well as being a busy Civ &#8211; with trade, religion, and all of the geographical boosts and exploitation <a href="https://www.rockpapershotgun.com/2016/05/11/civilization-vi-details/">detailed in our earlier preview</a> – this is a volatile Civ. The AI acts with intent and the somewhat predictable nature of its behaviour, thanks to those agendas, appears to make its actions more believable, lending a rationale and credence to what might otherwise seem like rash decisions.</p>
+<p><img src="https://www.rockpapershotgun.com/images/16/may/civho5.jpg" alt=""/></p>
+<p>Given my limited time with the game, it&#8217;s impossible to say how diplomacy and AI behaviour will change through the eras, but it&#8217;s an area of the game in which Firaxis have made some major changes. Some of that is already evident, with the gathering of rumours. You may learn, for example, that the Americans are planning to declare war on the Egyptians, but only if you have the correct infrastructure in place. Envoys might learn a thing or two, but trade routes are the most direct form of early &#8216;espionage&#8217;. In a fine example of the kind of interesting choices that Beach and his team want to ensure during every turn, establishing trade routes is now a case of studying the geography (particularly distance), the direct supply benefits and the potential for a spot of reconnaissance.</p>
+<p>In later eras, espionage will become a more formal affair, as will diplomatic relations. While the reasons behind aggression can be understood in the classical and pre-classical years, there is no need to justify war to friends and neighbours. While I don&#8217;t expect casus belli on the level of a grand strategy game, as governments and diplomatic organisations become more complex, it will become more difficult to declare an &#8216;unjust&#8217; war without suffering damage to your reputation. You&#8217;ll need a good reason to commit your troops. That&#8217;s in stark contrast to Roosevelt&#8217;s opportunistic kidnapping of any settlers who stray too close to his armies in those first sixty turns.</p>
+<p><img src="https://www.rockpapershotgun.com/images/16/may/civho6.jpg" alt=""/></p>
+<p>Given the focus on the &#8216;unstacked cities&#8217; in the reveal of the game, I expected to be writing a lot more about construction and management than about the AI. Given that the details of those systems were already known, and detailed in our earlier preview, I&#8217;ve concentrated on the experience of playing the game, and the assertive and reactive nature of the AI was the most outstanding feature.</p>
+<p>The cities are promising, however, particularly in that the new &#8216;district&#8217; improvements appear to offer new choices for construction rather than simply replacing old ideas. They&#8217;re a relatively costly upgrade, placed on a tile around the city rather than in the centre, and as well as taking advantage of features of the terrain, they can enjoy adjacency bonuses. Once finished, they offer new possibilities for improvements, allowing you to design cities that are truly specialised.</p>
+<p>&#8216;Design&#8217; is the key word. I haven&#8217;t played anywhere near enough to know how well the cities will work out over an entire playthrough (or a hundred), but there&#8217;s a definite sense of creating something distinct rather than simply filling an empty vessel. Each city is an element necessary for your particular civ at this particular point in this particular situation. Whether you&#8217;ll be able to satisfactorily or successfully respec them as the times require isn&#8217;t yet clear, but it&#8217;s an enticing possibility.</p>
+<p><img src="https://www.rockpapershotgun.com/images/16/may/civho2.jpg" alt=""/></p>
+<p>And as it is with the cities, so it is with the civilization that contains them. Social policies are selected from a deck that grows as you discover new civic ideas (research now divides broadly into civics and &#8216;physical&#8217; tech), and the number and type that can be in play at any one time is based on your government type. With research boosts now tied to in-game achievements and geographical discoveries, there&#8217;s more incentive to tailor your civ to its surroundings and situation, but the ability to tinker and specialise through policies and faith-based bonuses adds flexibility.</p>
+<p>All of those possibilities combine to make Civ VI a more involved game than I expected. It must be stressed that I&#8217;ve had very limited experience with the game so far, but if all of the systems in play unfold across the eras in a satisfying fashion, the game will be far more than Civ 5.5. Despite an obvious heritage – it shares features and a lead designer with its predecessor&#8217;s expansions – Civ VI already has its own character. It&#8217;s in the AI, in the cities and in the application of policies to boost or tweak certain elements of your nation.</p>
+<p>It&#8217;s attractive too, in motion, particularly the way in which unobserved but revealed areas of the map are displayed as an actual ink and paper approximation of the terrain. Truth be told, I was sold on those first screenshots but can understand concerns about the oversized cartoonish look. It&#8217;s designed to be legible though and that&#8217;s because there&#8217;s so much more information than you might expect rather than because the game has been streamlined in any way.</p>
+<p><img src="https://www.rockpapershotgun.com/images/16/may/civ6header.jpg" alt=""/></p>
+<p>I used the word &#8216;busy&#8217; earlier – twice, in fact – and it keeps bouncing back to my fingertips as I&#8217;m typing. Civ VI has a liveliness that I don&#8217;t associate with the series, a sense that cogs are turning and that machines are under construction. There are possible pitfalls in that energetic form, and ensuring the interface is equal to the task of disseminating information without either obscuring or holding hands too tightly will take a formidable effort, but it&#8217;s good to see so many ideas working in tandem. It&#8217;s also important to remember that there&#8217;s plenty of development time left for the finer details to change, and that the immediate conflicts may have been due to the small map size as well as the AI itself.</p>
+<p>Civilization has become a foundation on which designers and artists create unique experiences, whether that involve the added complexities of Civ IV or the combat overhaul of Civ V (retained and improved here). Civ VI certainly has enough about it that feels fresh and by playing upon the unique personality, strengths and weaknesses of each civilization in the game, and how those things change over time and from one playthrough to the next, it doesn&#8217;t feel quite like anything the series has done before.</p>
+<p>Sixty turns isn&#8217;t enough to judge the game, of course, and it&#8217;s certainly not enough to scratch the itch. It&#8217;s almost always a good sign when I walk away from a preview event wishing I had a copy of the game in question, not just to play but to <em>explore</em>. Civ VI already has me hooked. It&#8217;s looking to be the rare sequel that introduces new mechanics without stripping away the accumulated features of its predecessors.</p>
+<p><em><a href="http://www.civilization.com/">Sid Meier&#8217;s Civilization VI</a> is out October 21st. For more details, take a look at <a href="https://www.rockpapershotgun.com/2016/05/11/civilization-vi-details/">our first in-depth preview</a>.</em></p>
+</div>
+<footer class="article-footer">
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Hands On: Civilization VI Is Exciting, Complex &#038; Aggressive https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</footer>
+ 
+<link rel="stylesheet" type="text/css" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/css/recommendations.css" media="screen"/>
+ 
+<div id="recommendations-wrapper">
+<div id="recommendations">
+<div id="rcjsload_gam148"></div>
+<script type="text/javascript">
+                            (function() {
+                            function ad_block_test(e,o){if("undefined"!=typeof document.body){var t="0.1.2-dev",o=o?o:"sponsorText",n=document.createElement("DIV");n.id=o,n.style.position="absolute",n.style.left="-999px",n.appendChild(document.createTextNode("&nbsp;")),document.body.appendChild(n),setTimeout(function(){if(n){var o=0==n.clientHeight;try{}catch(d){console&&console.log&&console.log("ad-block-test error",d)}e(o,t),document.body.removeChild(n)}},175)}}
+                            ad_block_test(function(is_blocked){
+                            var widget_id =48030;
+                            if (is_blocked === true) {
+                            widget_id =48136;
+                            }
+                            var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+                            var rcel = document.createElement("script");
+                            rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+                            rcel.type = 'text/javascript';
+                            rcel.src = "//trends.revcontent.com/serve.js.php?w="+widget_id+"&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth) +"&referer="+referer + '&is_blocked=' + is_blocked;
+                            rcel.async = true;
+                            var rcds = document.getElementById("rcjsload_gam148"); rcds.appendChild(rcel);
+                            });
+                            })();
+                            </script>
+</div>
+</div>
+</div>
+<div id="rps-article-carousel" class="rps-carousel-container">
+<header>
+<h4>From this site</h4>
+</header>
+<div class="rps-carousel">
+<a class="prev navigation"><span class="icon-angle-left"></span></a>
+<section>
+<article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/overwatchcharacterguide.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/23/overwatch-character-guide-abilities-and-strategy-tips/"><div class="text"><h5 class="title">Overwatch Character Guide</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/snapmapbest.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/24/best-doom-snapmaps/"><div class="text"><h5 class="title">DOOM’s Best SnapMaps</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/civho1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/"><div class="text"><h5 class="title">Civilization VI Is Exciting & Aggressive</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/oct/warcraft1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/26/warcraft-the-beginning-review/"><div class="text"><h5 class="title">Warcraft: The Beginning review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/bw_6.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/the-witcher-3-blood-and-wine-review/"><div class="text"><h5 class="title">The Witcher 3: Blood And Wine review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/OW1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/27/overwatch-review/"><div class="text"><h5 class="title">Overwatch review</h5></div></a></article>
+</section>
+<a class="next navigation"><span class="icon-angle-right"></span></a>
+</div>
+</div>
+</article>
+<div id="mobile-ads" style="display:none;">
+<div id="mobile-leaderboard-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-leaderboard-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-leaderboard-mobile" data-dfp-id="RPS_LB_MOB" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_LB_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile" data-dfp-id="RPS_MPU_MOB" data-dfp-sizes="300x250,320x400,300x600, 320x100, 320x50" id="div-ga-RPS_MPU_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-2-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-2" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-2" data-dfp-id="RPS_MPU_MOB_2" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_2"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-3-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-3" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-3" data-dfp-id="RPS_MPU_MOB_3" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_3"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-4-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-4" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-4" data-dfp-id="RPS_MPU_MOB_4" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_4"></div>
+ 
+</div>
+</div>
+</div>
+<script>
+                var inline_ads = new InlineAds({ container: jQuery("#content .post-inner > .entry").first(), mpu_ads: jQuery("#mobile-ads .mpu") });
+
+                ga('set', 'dimension1', "featured-articles");
+                ga('set', 'dimension2', "2k,feature,firaxis-games,preview,sid-meiers-civilization-vi");
+                ga('set', 'dimension3', "Adam Smith");
+
+                </script>
+<div id="comments">
+<div class="block" style="padding-bottom: 0;">
+<h3 class="comments">40 Comments</h3>
+</div>
+<div class="block no-back no-border" id="all-comments">
+ 
+ 
+<div class="pagination">
+</div>
+<ol class="commentlist">
+<li class="comment byuser comment-author-cinek even thread-even depth-1 comment-role-subscriber" id="li-comment-2214763">
+<div id="comment-2214763">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5c6eac59d2b5c4e12de0e7f51170c516?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5c6eac59d2b5c4e12de0e7f51170c516?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214763">25/05/2016 at 15:13</a>
+</span>
+<cite class="fn">Cinek</cite> <span class="says">says:</span></span>
+</p>
+<p>Oh come on, you weren&#8217;t even a little bit curious if Ghandi is still a trigger-happy asshole?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-amake odd alt depth-2 comment-role-subscriber" id="li-comment-2214789">
+<div id="comment-2214789">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dabd69ec6ea65dc2056a8afbabb3f792?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dabd69ec6ea65dc2056a8afbabb3f792?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214789">25/05/2016 at 15:37</a>
+</span>
+<cite class="fn"><a href='http://letavingar.blogspot.se' rel='external nofollow' class='url'>Amake</a></cite> <span class="says">says:</span></span>
+</p>
+<p>That&#8217;s far too much of a running joke by now for them to change it. Presumably not even worth including him in the demo with the limited space they have to show off the new stuff.</p>
+<p>Also damn, I thought Beyond Earth was it and I was free now, but they&#8217;re pulling me in again.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-calculon even depth-2 comment-role-subscriber" id="li-comment-2215551">
+<div id="comment-2215551">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/9d3e70b8f1c932026a0d78d4dc757c2a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9d3e70b8f1c932026a0d78d4dc757c2a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215551">26/05/2016 at 14:00</a>
+</span>
+<cite class="fn">Calculon</cite> <span class="says">says:</span></span>
+</p>
+<p>It could be that Im a little biased now based on the number of hours I&#8217;ve dumped into EUIV, but Im just not a fan of the &#8216;single leader for all eternity&#8217; model anymore. Its too limiting, and unrealistic to a level that ruins the enjoyment for me at this point. It always annoyed me a bit, but I hadnt seen a model that had worked better so I was willing to deal with it &#8211; but now&#8230;..I dont think so.</p>
+<p>I seem to be doing a lot of comparisons now between Civ and EUIV &#8211; and while EUIV certainly isnt perfect (I want M0AR features!)- to me its more of an &#8216;adult strategy game&#8217; as opposed to Civ which fits in the &#8216;for the lulz&#8217; category now.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-troubletcat odd alt depth-3 comment-role-subscriber" id="li-comment-2250027">
+<div id="comment-2250027">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/a12b5802fec177a2b90ac0185614107d?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/a12b5802fec177a2b90ac0185614107d?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2250027">13/07/2016 at 13:31</a>
+</span>
+<cite class="fn">Troubletcat</cite> <span class="says">says:</span></span>
+</p>
+<p>I think Civ is just more interested in being a game and less in being a historical simulation. Civilisation is turn-based, but in terms of the mindset it has more in common with StarCraft than with Paradox&#8217;s grand strategies. It&#8217;s a game about its mechanics and about playing to win far more than it is a game about exploring real-life politics and economics. It takes inspiration from real-world history but really the buck stops at &#8216;takes inspiration from.&#8217; It&#8217;s not at all interested in &#8216;trying to believably recreate.&#8217;</p>
+<p>Personally I don&#8217;t think there&#8217;s anything more or less &#8216;adult&#8217; about either set of titles, and the Civ series is no more &#8216;for the lulz&#8217; than any other franchise where the primary focus is on game mechanics.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-chromedbustop even depth-3 comment-role-subscriber" id="li-comment-2254241">
+<div id="comment-2254241">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/8097b13200776500c2434ba2c4d97e23?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/8097b13200776500c2434ba2c4d97e23?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2254241">19/07/2016 at 15:56</a>
+</span>
+<cite class="fn">chromedbustop</cite> <span class="says">says:</span></span>
+</p>
+<p>I think that comes more from the look of the game than the mechanics. There&#8217;s plenty of unrealisitc things about EUIV, and it&#8217;s no more mature of a game than the Civ series.</p>
+<p>But Civilization has a much brighter color palette, and they certainly make items on the map seem larger. It all gives a look that people feel is cartoony, and for whatever reason people get really irritated by that.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-hollowroom odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2214773">
+<div id="comment-2214773">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/86a7f0a149374d350a29ad90bda389ea?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/86a7f0a149374d350a29ad90bda389ea?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214773">25/05/2016 at 15:23</a>
+</span>
+<cite class="fn">hollowroom</cite> <span class="says">says:</span></span>
+</p>
+<p>This is starting to sound good.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-klops even thread-even depth-1 comment-role-subscriber" id="li-comment-2214777">
+<div id="comment-2214777">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6a0d757f995c10f8fede192f6c261282?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6a0d757f995c10f8fede192f6c261282?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214777">25/05/2016 at 15:27</a>
+</span>
+<cite class="fn">klops</cite> <span class="says">says:</span></span>
+</p>
+<p>I think it would be more suitable if Teddy just considered the continent he lives in as his own.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-themightyethan odd alt depth-2 comment-role-subscriber" id="li-comment-2214807">
+<div id="comment-2214807">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/3bc1dbefbed1c7600c4c0412a4e17bb3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/3bc1dbefbed1c7600c4c0412a4e17bb3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214807">25/05/2016 at 15:56</a>
+</span>
+<cite class="fn">TheMightyEthan</cite> <span class="says">says:</span></span>
+</p>
+<p>That was my thought. Teddy should be inherently hostile to everyone on his own continent, and pretty chill with everybody else.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-joshua-ix even depth-3 comment-role-subscriber" id="li-comment-2215375">
+<div id="comment-2215375">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c4af1c0132f3ef0627a922add95f0f38?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c4af1c0132f3ef0627a922add95f0f38?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215375">26/05/2016 at 10:13</a>
+</span>
+<cite class="fn">Joshua IX</cite> <span class="says">says:</span></span>
+</p>
+<p>I assume that his personality is reflecting his dedication to the Munroe Doctrine to some extent.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-bweahns odd alt depth-4 comment-role-subscriber" id="li-comment-2216353">
+<div id="comment-2216353">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c5209598d6c8ba2250bde7eeb248ac2c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c5209598d6c8ba2250bde7eeb248ac2c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2216353">27/05/2016 at 01:48</a>
+</span>
+<cite class="fn">Bweahns</cite> <span class="says">says:</span></span>
+</p>
+<p>There definitely needs to be constant exploitation of the third world with endless support for sadistic fascist regimes offering good trade agreements.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-shaomnloiop even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2214785">
+<div id="comment-2214785">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d900579d193b2fcdad8bf95a0a3482bc?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d900579d193b2fcdad8bf95a0a3482bc?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214785">25/05/2016 at 15:36</a>
+</span>
+<cite class="fn">shaomnloiop</cite> <span class="says">says:</span></span>
+</p>
+<p>Nice Article For Me</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-shaomnloiop odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2214797">
+<div id="comment-2214797">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d900579d193b2fcdad8bf95a0a3482bc?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d900579d193b2fcdad8bf95a0a3482bc?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214797">25/05/2016 at 15:45</a>
+</span>
+<cite class="fn">shaomnloiop</cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;m making $86 an hour working from home. I was shocked when my neighbour told me she was averaging $95 but I see how it works now.☻☻☻☻☻☻☻ <a href="http://www.elite36.com/" rel="nofollow">link to elite36.com</a></p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-thewillennium even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2214811">
+<div id="comment-2214811">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5369512cc09d5f51816a4c04f2c5f7cd?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5369512cc09d5f51816a4c04f2c5f7cd?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214811">25/05/2016 at 15:58</a>
+</span>
+<cite class="fn">theWillennium</cite> <span class="says">says:</span></span>
+</p>
+<p>Bully! This all sounds brilliant.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-elusiv3pastry odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2214847">
+<div id="comment-2214847">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/b9d0f84f0925ba51f63a91fd33f4b11c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b9d0f84f0925ba51f63a91fd33f4b11c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214847">25/05/2016 at 16:45</a>
+</span>
+<cite class="fn">Elusiv3Pastry</cite> <span class="says">says:</span></span>
+</p>
+<p>Top notch article, thank you! I especially appreciated this bit:</p>
+<p>&#8220;It’s designed to be legible though and that’s because there’s so much more information than you might expect rather than because the game has been streamlined in any way.&#8221;</p>
+<p>That really is reassuring to hear!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-lakshmi even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2214849">
+<div id="comment-2214849">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4008917f121d5ec75e774510b46acdff?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4008917f121d5ec75e774510b46acdff?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214849">25/05/2016 at 16:48</a>
+</span>
+<cite class="fn">Lakshmi</cite> <span class="says">says:</span></span>
+</p>
+<p>So envious of Adam for getting some time on this. Everything about it sounds like a refreshing change or clever improvement.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-nimbulan odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2214895">
+<div id="comment-2214895">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5fe1b6d8c93b945fed09c7f7d4359224?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5fe1b6d8c93b945fed09c7f7d4359224?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214895">25/05/2016 at 17:46</a>
+</span>
+<cite class="fn">nimbulan</cite> <span class="says">says:</span></span>
+</p>
+<p>So it&#8217;s the opposite of Beyond Earth then? Maybe it&#8217;ll turn out ok. At least they found a new designer for this game.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-titler even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2214899">
+<div id="comment-2214899">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/0daa1557ec85fc0294f8a6effd6e048f?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/0daa1557ec85fc0294f8a6effd6e048f?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214899">25/05/2016 at 17:48</a>
+</span>
+<cite class="fn">Titler</cite> <span class="says">says:</span></span>
+</p>
+<p>Just please, please, PLEASE let not every civilization have &#8220;Gang up on the player if they look like winning&#8221; as a secondary drive; it&#8217;s ruined the game for a decade or so, and left difficulty above Prince/King in being &#8220;How well can I exploit the game before it gets there&#8221; rather than &#8220;I have an advantage, now to enjoy it!&#8221; fun of the first (and second? I think it was the third that changed it, but old man memory fails now)&#8230; The reason Gandhi was an asshole was because of the combination of random character (so you <i>couldn&#8217;t</i> predict the AI, but just moved the min/maxing over to the core game instead) and the afore-mentioned &#8220;I&#8217;ve been left alive, time to join the crusade against the strongest world power&#8221; modifier&#8230;</p>
+<p>At the very least, let us understand and see when the AI is building up <i>defensive</i> alliances against the strongest, so we can see if there&#8217;s anywhere in the world we can safely nibble for now.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-reddragon odd alt depth-2 comment-role-subscriber" id="li-comment-2251907">
+<div id="comment-2251907">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/013819f7ab7646c3918ac558c2717129?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/013819f7ab7646c3918ac558c2717129?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2251907">15/07/2016 at 16:33</a>
+</span>
+<cite class="fn">RedDragon</cite> <span class="says">says:</span></span>
+</p>
+<p>The aggressive Gandhi thing comes from an overflow error in the first game. Each leader had a position on a warlike-peaceful scale, Gandhi had the most peaceful position at the top of the scale. So when he adopted a government that made the AI more peace-like it pushed him over the top of the scale, so that he ended up being super warlike.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-sardonic even thread-even depth-1 comment-role-subscriber" id="li-comment-2214907">
+<div id="comment-2214907">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/3f9278bcc59eb193a1ba1b2e54bf4b69?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/3f9278bcc59eb193a1ba1b2e54bf4b69?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214907">25/05/2016 at 17:56</a>
+</span>
+<cite class="fn">Sardonic</cite> <span class="says">says:</span></span>
+</p>
+<p>OK good so it&#8217;s not just ripping off of Endless Legend then, I was concerned when I saw the expanded quests and districts that it would just be a Ctl+c, Ctl+v, but this looks like it&#8217;s going somewhere.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-nauallis odd alt thread-odd thread-alt depth-1 comment-role-premium_user" id="li-comment-2214933">
+<div id="comment-2214933">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c4376d7c29d9d33d280f1eb68c1fc99c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c4376d7c29d9d33d280f1eb68c1fc99c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214933">25/05/2016 at 19:11</a>
+</span>
+<cite class="fn">Nauallis</cite> <span class="says">says:</span></span>
+</p>
+<p>Question for Adam (if you&#8217;ll deign to respond) or anybody else who might know:</p>
+<p>Are worker improvements on city tiles mutually inclusive or exclusive of city buildings? E.g. if you build a farm on a grassland/river tile, does the presence of the farm prevent the construction of a watermill or a granary?</p>
+<p>Are there adjacency bonus for city buildings and worker improvements? Regardless of tile build exclusivity, does a granary only produce more food on the farm (or grassland/plains) tiles that surround the building?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-nauallis even depth-2 comment-role-premium_user" id="li-comment-2214935">
+<div id="comment-2214935">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c4376d7c29d9d33d280f1eb68c1fc99c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c4376d7c29d9d33d280f1eb68c1fc99c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214935">25/05/2016 at 19:12</a>
+</span>
+<cite class="fn">Nauallis</cite> <span class="says">says:</span></span>
+</p>
+<p>Assuming that worker improvements still exist. I haven&#8217;t been able to tell from any of the screenshots that I&#8217;ve seen (no obvious worker units).</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-slice odd alt depth-2 comment-role-subscriber" id="li-comment-2215259">
+<div id="comment-2215259">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/03de43440ff2c71af7020e3cea4dd5ec?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/03de43440ff2c71af7020e3cea4dd5ec?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215259">26/05/2016 at 02:46</a>
+</span>
+<cite class="fn">Slice</cite> <span class="says">says:</span></span>
+</p>
+<p>From the PC Gamer article: &#8220;I also wanted to build as much as I could, so I created builders, which have replaced workers from the earlier games. Unlike workers, builders have a limited number of uses before they vanish, at which point you&#8217;ll have to generate new ones, but they can improve tiles instantly rather than having to wait a few turns.&#8221;</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-nauallis even depth-3 comment-role-premium_user" id="li-comment-2215757">
+<div id="comment-2215757">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c4376d7c29d9d33d280f1eb68c1fc99c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c4376d7c29d9d33d280f1eb68c1fc99c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215757">26/05/2016 at 16:47</a>
+</span>
+<cite class="fn">Nauallis</cite> <span class="says">says:</span></span>
+</p>
+<p>Thanks, that&#8217;s more info than I had. Still wondering about the improvements vs buildings question though. Hopefully gameplay videos talk about it!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-fearandloathing odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2214937">
+<div id="comment-2214937">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d8b59a4788582f7533a95d81839053d0?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d8b59a4788582f7533a95d81839053d0?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2214937">25/05/2016 at 19:17</a>
+</span>
+<cite class="fn">fearandloathing</cite> <span class="says">says:</span></span>
+</p>
+<p>Beach has it guys, the guy saved civ5 from annihilation, pushed out great expansions and now has returned to kick all the challengers out of the arena of tbs. I have only and only one doubt left as of now, and that is the exploitative dlc practices of Firaxis and I fear that is something beyond control of the lead designer. This also ties in with the issue of modding, as steam workshop becomes the central hub it is easier for companies to control mods, so issues are bountiful, e.g. will Firaxis allow mods that add similar content to their dlcs, especially new Civs? Hope they&#8217;ll go more like PDS with this, but cannot be sure of it.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-nephilimnexus even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2215051">
+<div id="comment-2215051">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4a5b3a31017d4c4bb57b14a89cb05ab4?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4a5b3a31017d4c4bb57b14a89cb05ab4?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215051">25/05/2016 at 20:56</a>
+</span>
+<cite class="fn">NephilimNexus</cite> <span class="says">says:</span></span>
+</p>
+<p>Dear Sid Meier,</p>
+<p>We love your games but c&#8217;mon, SIX? Sorry, but it&#8217;s going to take more than a fluffer to get me into the mood for round six. This is like forcing someone to eat their favorite food until they vomit.</p>
+<p>Besides, all we ever really wanted from you was reboots of Master of Magic &amp; Master of Orion 2. Instead you&#8217;ve ignored MoM entirely and handed MoO2&#8217;s rights over to a bunch of cash-grab clowns.</p>
+<p>I guess what I&#8217;m saying, Sid, is that I&#8217;m kind of disappointed here. I&#8217;m sure Civ6 will be great and all, but somehow I just can&#8217;t bring myself to give a crap anymore.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-staticskyy odd alt depth-2 comment-role-subscriber" id="li-comment-2215221">
+<div id="comment-2215221">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/01b8afaeec0e6e53ff8dccf68bff20eb?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/01b8afaeec0e6e53ff8dccf68bff20eb?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215221">26/05/2016 at 00:05</a>
+</span>
+<cite class="fn">staticskYY</cite> <span class="says">says:</span></span>
+</p>
+<p>Sid never had the rights to either of those, though. (He never even made them, but that&#8217;s another story). They were owned by Microprose, which, yes, was started by Sid, but he left in 1996, leaving the rights in the messy web of trademarks that Microprose became.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-frank even depth-2 comment-role-subscriber" id="li-comment-2215241">
+<div id="comment-2215241">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/a180375d91a46095c3318efe29eb1ec6?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/a180375d91a46095c3318efe29eb1ec6?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215241">26/05/2016 at 01:59</a>
+</span>
+<cite class="fn">Frank</cite> <span class="says">says:</span></span>
+</p>
+<p>I don&#8217;t know who this &#8220;we&#8221; is, but I&#8217;m sorry to hear about your bowel difficulties (which is what I assume a &#8220;fluffer&#8221; must involve).</p>
+<p>Having never heard of Sid having the rights to those, I&#8217;ll throw out some other random wishes: I wish Firaxis would hire van Caneghem of HoMM fame and give him endless money to make a TBS of his choosing; and, what else&#8230; how about they reboot chess?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-aj odd alt depth-2 comment-role-subscriber" id="li-comment-2215281">
+<div id="comment-2215281">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/993eedac3a734a284cecc302eee9e31f?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/993eedac3a734a284cecc302eee9e31f?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215281">26/05/2016 at 02:57</a>
+</span>
+<cite class="fn">AJ</cite> <span class="says">says:</span></span>
+</p>
+<p>All i&#8217;ve wanted from Sid was a proper remake/sequel to Railroad Tychoon&#8230; Something that actually lives up to the original game.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-zeewolf even depth-2 comment-role-subscriber" id="li-comment-2215497">
+<div id="comment-2215497">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1165ef6302fe5e2bca5341d9ec67fa5c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1165ef6302fe5e2bca5341d9ec67fa5c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215497">26/05/2016 at 12:46</a>
+</span>
+<cite class="fn">Zeewolf</cite> <span class="says">says:</span></span>
+</p>
+<p>Dear Sid,</p>
+<p>All we ever wanted from you was a new Doom.</p>
+<p>Thanks, Everyone.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-kasper odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2215253">
+<div id="comment-2215253">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1c9d0f786258c3c0605b59333548d6ce?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1c9d0f786258c3c0605b59333548d6ce?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215253">26/05/2016 at 02:43</a>
+</span>
+<cite class="fn"><a href='http://www.kasperaae.com' rel='external nofollow' class='url'>Kasper</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Reactive and visible AI motivations could make for some memorable personalities and games. I just hope that the AI isn&#8217;t TOO predictably reactive and prone to being exploited. </p>
+<p>For example, if AI Cleopatra doesn&#8217;t learn that AI Teddy will come after her, if she attacks the player on the same continent &#8211; then the player might be able to bait her continually by surfing on the &#8220;inferior army&#8221; threshold. </p>
+<p>I hope the hidden, random agendas and the combination of all the different agendas of the different leaders will create enough unpredictability and emergence.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-cpt_freakout even depth-2 comment-role-premium_user" id="li-comment-2215307">
+<div id="comment-2215307">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5525ac346086089966bf030c460c9d82?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5525ac346086089966bf030c460c9d82?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215307">26/05/2016 at 05:54</a>
+</span>
+<cite class="fn">cpt_freakout</cite> <span class="says">says:</span></span>
+</p>
+<p>It definitely sounds like something you could ride on, but then again, that kind of predictability could be set up as a new strategic element to be considered at all times. After all, there&#8217;s always more than one Civ nearby; your scenario might be one among hundreds, where the various &#8216;personalities&#8217; in play won&#8217;t be similar enough to give you an edge over all of them. You might play off Cleopatra there, but that might open you up to another Civ&#8217;s predations (for example, Roosevelt&#8217;s own, if the secondary agenda dictates it). Even though you might be able to figure out the secondary agenda by the late(r) game, the fact that every Civ session is completely relative (or relational, if you prefer) and depends on a combination of civs and terrain will probably make it difficult to exploit more than one (maybe two) AIs at once.</p>
+<p>I guess that if they add a third (maybe even a fourth) hidden agenda then you might not be able to figure all of them out throughout the course of a single game, and will always have a sense of uncertainty to make diplomacy a bit more interesting, without turning it over into the usually wacky business it mostly is in Civ games.</p>
+<p>In any case, this focus on personalities, while reflective on its own of contemporary understandings of how politics work (and possibly meaning that a civ is as interesting as the personality driving it, not because of its evaluation as a &#8216;whole&#8217;), does seem to provide an able and quite interesting fix to the problem of the AI being more A than I.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-zenicetus odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2215257">
+<div id="comment-2215257">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/8af7d2e2dec5f608af7f6735c6530794?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/8af7d2e2dec5f608af7f6735c6530794?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215257">26/05/2016 at 02:45</a>
+</span>
+<cite class="fn">Zenicetus</cite> <span class="says">says:</span></span>
+</p>
+<p>One of the things that distinguishes a strategy game from other genres like FPS, RPG and the rest, is that you&#8217;re going to stare at that map screen for a very long time.</p>
+<p>I hate that graphics style. Maybe I can get used to it&#8230; I dunno. It still looks like something for mobile gaming. </p>
+<p>Why couldn&#8217;t they have just used the nice quasi-realistic look of Civ5? Is there a reason they had to do this, aside from working on smaller mobile screens? I&#8217;m not seeing it.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-jrodman even depth-2 comment-role-subscriber" id="li-comment-2215287">
+<div id="comment-2215287">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/77433bebfa85ae3c2a6475c8969614d2?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/77433bebfa85ae3c2a6475c8969614d2?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215287">26/05/2016 at 03:27</a>
+</span>
+<cite class="fn">jrodman</cite> <span class="says">says:</span></span>
+</p>
+<p>The art direction doesn&#8217;t particularly work for me either, but it&#8217;s at least inoffensive. Perhaps my standards are low.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-celticdr odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2215293">
+<div id="comment-2215293">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/ca01f5fccc9658dd22cf4bffc5015796?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/ca01f5fccc9658dd22cf4bffc5015796?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215293">26/05/2016 at 03:55</a>
+</span>
+<cite class="fn">celticdr</cite> <span class="says">says:</span></span>
+</p>
+<p>I like the sound of everything about this version of Civ except the style: It&#8217;s way too colourful, cartoony and busy, they need to tone it down a bit.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-jungle-rhino even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2215355">
+<div id="comment-2215355">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dfd41134c9f5f52ab03cfd19125a477d?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dfd41134c9f5f52ab03cfd19125a477d?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215355">26/05/2016 at 09:08</a>
+</span>
+<cite class="fn">Jungle Rhino</cite> <span class="says">says:</span></span>
+</p>
+<p>Hang on so they made the AI mildy predictable in a completely scripted 3 player environment? Sorry if I don&#8217;t sound over the moon but there is a big difference between this and a full blown game with the far more complex interactions the AI must navigate without becoming trapped in &#8216;analysis paralysis&#8217;.</p>
+<p>In short the proof will be in the pudding!</p>
+<p>Don&#8217;t like the art style much either.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-someoldguy odd alt depth-2 comment-role-subscriber" id="li-comment-2215571">
+<div id="comment-2215571">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/07c58ebbd963d3462b3a9b94ce021559?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/07c58ebbd963d3462b3a9b94ce021559?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215571">26/05/2016 at 14:15</a>
+</span>
+<cite class="fn">Someoldguy</cite> <span class="says">says:</span></span>
+</p>
+<p>I have to agree that there&#8217;s a lot of assumptions made here about the quality of AI reactivity in a single primed 60 turn playthrough. The AI in Civ (and lots of other games) has always cheated by knowing if they are weaker or stronger than you and which cities you have left weak &#8211; not information you are given about them &#8211; and dogpiling you if they see you as easy meat. That leaves Roosevelt. Again, a nation being primed to be hostile to warmongers is nothing new, although perhaps it&#8217;s done better this time. </p>
+<p>Knowing you have to keep your military reasonably strong and sieze territory in short, sharp bites rather than protracted grinding warfare feels like strategy game advice 101, not some deep strategic planning never seen before.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-vladimirsputnik even thread-even depth-1 comment-role-subscriber" id="li-comment-2215427">
+<div id="comment-2215427">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6a05bc86804f00f9e02e30e6d38f9c7f?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6a05bc86804f00f9e02e30e6d38f9c7f?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215427">26/05/2016 at 11:43</a>
+</span>
+<cite class="fn">VladimirSputnik</cite> <span class="says">says:</span></span>
+</p>
+<p>Played lots of Civilization 4 on my brother Andrei machine (its very potent mind you, has like 8+G RAM). Very good Game im playing Solaris now and trying to learn all litle details amazing complex Game.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-pancakewizard odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2215741">
+<div id="comment-2215741">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4b71800dcb5a035dd597156f2d3cfc97?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4b71800dcb5a035dd597156f2d3cfc97?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215741">26/05/2016 at 16:37</a>
+</span>
+<cite class="fn">PancakeWizard</cite> <span class="says">says:</span></span>
+</p>
+<p>If you still have to spam unit stacks for combat and I&#8217;m forced out of the awesome-looking classic age in order to win &#8211; in short, if it still plays like all civ games &#8211; I&#8217;ll never finish a single game.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-nauallis even depth-2 comment-role-premium_user" id="li-comment-2215763">
+<div id="comment-2215763">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c4376d7c29d9d33d280f1eb68c1fc99c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c4376d7c29d9d33d280f1eb68c1fc99c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2215763">26/05/2016 at 16:50</a>
+</span>
+<cite class="fn">Nauallis</cite> <span class="says">says:</span></span>
+</p>
+<p>Yeah, why does the industrial era have to look so dirty and gross? Aren&#8217;t people super hopeful about this new time of progress and industry?</p>
+<p>In Civs 2, 4, and 5, this was true. Appreciate the nod to reality, but blech.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-ronrocken odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2221947">
+<div id="comment-2221947">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/b2be4d24e894044420e6131efca762e4?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b2be4d24e894044420e6131efca762e4?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/#comment-2221947">03/06/2016 at 17:30</a>
+</span>
+<cite class="fn">Ronrocken</cite> <span class="says">says:</span></span>
+</p>
+<p>Does this game have multiplayer unlike V ?</p>
+<p>;&#8212;-)</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ol>
+<div class="pagination">
+</div>
+</div>
+</div>
+</div>  
+<ul id="sidebar" class="hidden-mobile hidden-tablet">
+<li id="rpstagsearch-2" class="widget-container RPSTagSearch"> <div id="affiliate-disclaimer">
+<h4>Disclaimer</h4>
+<div class="disclaimer"><p><small>If you click our links to online stores and make a purchase we may receive a few pennies. Find more information <a href="/affiliate-linking-policy/">here</a>.</small></p></div>
+</div>
+<h4>Tags</h4>
+<p class="tags"><a href="https://www.rockpapershotgun.com/tag/2k/" rel="tag">2K</a>, <a href="https://www.rockpapershotgun.com/tag/feature/" rel="tag">feature</a>, <a href="https://www.rockpapershotgun.com/tag/firaxis-games/" rel="tag">Firaxis Games</a>, <a href="https://www.rockpapershotgun.com/tag/preview/" rel="tag">preview</a>, <a href="https://www.rockpapershotgun.com/tag/sid-meiers-civilization-vi/" rel="tag">Sid Meier's Civilization VI</a>.</p>
+<h4 class="widget-title">Search <span>for clues</span></h4>
+<form method="get" action="/" id="tagsearch">
+<fieldset>
+<input type="hidden" name="valuesUrl" id="valuesUrl" value="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/values.php"/>
+<input type="text" name="tagsearchtext" id="tagsearchtext" placeholder="Search for a tag" style="width:230px"/>
+<input type="submit" class="submit primary" value="Go"/>
+</fieldset>
+</form>
+</li><li id="rpsadblock-2" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<style>*{margin:0;padding:0;border:0;}</style>
+ 
+<style>.home.infinite-scroll #sidebar #div-ga-RPS_MPU_MOB{display:none!important;}</style>
+ 
+<style>.rps-carousel article .text{right:0;}.entry a{font-weight:bold;text-decoration:none;}div.content div.block p.featured-block-title,div.content div.block p.premium-block-title,div.content div.block p.giveaway-block-title{min-height:32px;}p.giveaway-block-title span{background-image:url(/wp-content/themes/rockpapershotgun2013/images/giveaway-title-bg.png);background-size:77px 15px;padding-left:0;}div.content div.block p.giveaway-block-title{padding-right:15px;}</style>
+ 
+ 
+<style type="text/css">#rps-article-carousel .navigation:after{background-image:url(/wp-content/plugins/rps-article-carousel/carousel-arrows.png);}@media screen and (max-width: 665px) {#header .logo a{background-image:url(/wp-content/themes/rockpapershotgun2013/images/logo-single-line.png);}}</style>
+ 
+<style type="text/css">.infinite-wrap .rps-carousel-container{display:none;}</style>
+<script>
+jQuery(document).ready(function () {
+    jQuery('a[href="https://twitter.com/asponge"]').remove();
+});
+</script>
+ 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_1" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_1"></div>
+ 
+</div>
+</li><li id="rpsnews-2" class="widget-container RPSNews"><h4 class="widget-title">News <span>and things</span></h4>
+<ul class="no-bullets thumbs">
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/" rel="bookmark" title="Come see developer sessions this week at EGX Rezzed"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/kenlevine.jpg&w=50&h=50&cc=#000" alt="Come see developer sessions this week at EGX Rezzed"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/" rel="bookmark" title="Come see developer sessions this week at EGX Rezzed">
+Come see developer sessions this week at EGX Rezzed </a></h5>
+<p>They look quite good</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/" rel="bookmark" title="Rumour! Call of Duty: WW2 is real, and a real bad name"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/28cod.jpg&w=50&h=50&cc=#000" alt="Rumour! Call of Duty: WW2 is real, and a real bad name"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/" rel="bookmark" title="Rumour! Call of Duty: WW2 is real, and a real bad name">
+Rumour! Call of Duty: WW2 is real, and a real bad name </a></h5>
+<p>PING!</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/dark-souls-3-the-ringed-city-dlc-released/" rel="bookmark" title="Dark Souls 3 now concluded in The Ringed City"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/28darksouls3ringed.jpg&w=50&h=50&cc=#000" alt="Dark Souls 3 now concluded in The Ringed City"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/dark-souls-3-the-ringed-city-dlc-released/" rel="bookmark" title="Dark Souls 3 now concluded in The Ringed City">
+Dark Souls 3 now concluded in The Ringed City </a></h5>
+<p>This is the end</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/" rel="bookmark" title="Destiny 2 announced, but why do we care?"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/destiny2.jpg&w=50&h=50&cc=#000" alt="Destiny 2 announced, but why do we care?"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/" rel="bookmark" title="Destiny 2 announced, but why do we care?">
+Destiny 2 announced, but why do we care? </a></h5>
+<p>Dest2ny</p> </li>
+<li class="more"><a href="https://www.rockpapershotgun.com/category/pc-game-news/"><strong>And much more&hellip;</strong></a></li>
+</ul>
+<div class="clear"></div>
+</li><li id="autofeature-2" class="widget-container AutoFeature">
+<a data-id="422987" class="widget-link invert-widget" id="autofeature-422987" href="https://www.rockpapershotgun.com/2017/01/13/the-50-best-fps-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/may/wasd3header3.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best FPS On PC</h4>
+<p>The Worthiest Reticules Of All Time</p> </a>
+</li><li id="autofeature-3" class="widget-container AutoFeature">
+<a data-id="437667" class="widget-link " id="autofeature-437667" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/rainworld_wit_1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Rain World</h4>
+<p>The 5175th series of Planet Earth </p> </a>
+</li><li id="rpstagaz-2" class="widget-container RPSTagAZ"><h4 class="widget-title">Browse <span>our tags</span></h4>
+<ul class="tag-list tag-list--alphabet">
+<li><a href="/tags?letter=a">A</a></li>
+<li><a href="/tags?letter=b">B</a></li>
+<li><a href="/tags?letter=c">C</a></li>
+<li><a href="/tags?letter=d">D</a></li>
+<li><a href="/tags?letter=e">E</a></li>
+<li><a href="/tags?letter=f">F</a></li>
+<li><a href="/tags?letter=g">G</a></li>
+<li><a href="/tags?letter=h">H</a></li>
+<li><a href="/tags?letter=i">I</a></li>
+<li><a href="/tags?letter=j">J</a></li>
+<li><a href="/tags?letter=k">K</a></li>
+<li><a href="/tags?letter=l">L</a></li>
+<li><a href="/tags?letter=m">M</a></li>
+<li><a href="/tags?letter=n">N</a></li>
+<li><a href="/tags?letter=o">O</a></li>
+<li><a href="/tags?letter=p">P</a></li>
+<li><a href="/tags?letter=q">Q</a></li>
+<li><a href="/tags?letter=r">R</a></li>
+<li><a href="/tags?letter=s">S</a></li>
+<li><a href="/tags?letter=t">T</a></li>
+<li><a href="/tags?letter=u">U</a></li>
+<li><a href="/tags?letter=v">V</a></li>
+<li><a href="/tags?letter=w">W</a></li>
+<li><a href="/tags?letter=x">X</a></li>
+<li><a href="/tags?letter=y">Y</a></li>
+<li><a href="/tags?letter=z">Z</a></li>
+<li><a href="/tags?letter=0-9">#</a></li>
+</ul>
+</li><li id="bdp-comments" class="widget-container widget_bdp_comments"><h4 class="widget-title">Respond <span>to our gibber</span></h4><ul id="widget_bdp_comments_ul">
+<li>SuicideKing</a> : &ldquo;I wish you'd talk to Eugen too, about Steel Division, being published by Paradox, etc. ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/#comment-2409215'>Come see developer sessions this week at EGX Rezzed</a></li>
+<li>ZX k1cka55 48K</a> : &ldquo;Just read the Changelog in disgust without realizing that it's just a joke, because it ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/#comment-2409213'>The RPG Scrollbars: Predicting Planescape</a></li>
+<li>Chromatose</a> : &ldquo;I was a complete sad-sack and purchased an Xbox 360 especially to play Destiny. Sure, ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/#comment-2409211'>Destiny 2 announced, but why do we care?</a></li>
+<li>Drib</a> : &ldquo;Missed an opportunity for "Call of 2dy 2: WW2"&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/#comment-2409209'>Rumour! Call of Duty: WW2 is real, and a real bad name</a></li>
+<li>Bull0</a> : &ldquo;In vidyagames characters scream I'M OUT when they reload, like they're duncan bannatyne with hearing ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/#comment-2409207'>Rumour! Call of Duty: WW2 is real, and a real bad name</a></li>
+</ul>
+</li><li id="rpsadblock-3" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_2" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_2" data-ghost-zone="59"></div>
+ 
+</div>
+</li><li id="autofeature-14" class="widget-container AutoFeature">
+<a data-id="413239" class="widget-link invert-widget" id="autofeature-413239" href="https://www.rockpapershotgun.com/2016/11/18/the-50-best-strategy-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/apr/stratheader.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 best strategy games on PC</h4>
+<p>Hit Parade</p> </a>
+</li><li id="autofeature-15" class="widget-container AutoFeature">
+<a data-id="432371" class="widget-link " id="autofeature-432371" href="https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/feb/plane1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The RPG Scrollbars: Predicting Planescape</h4>
+<p>The long awaited follow-up to Forgotten Realms: Baldur's Gate</p> </a>
+</li><li id="autofeature-4" class="widget-container AutoFeature">
+<a data-id="437233" class="widget-link " id="autofeature-437233" href="https://www.rockpapershotgun.com/2017/03/27/the-best-games-of-my-lifetime-year-by-year-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/chartists.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of *my* lifetime, year by year</h4>
+<p>A list, probably wrong</p> </a>
+</li><li id="autofeature-13" class="widget-container AutoFeature">
+<a data-id="408185" class="widget-link invert-widget" id="autofeature-408185" href="https://www.rockpapershotgun.com/2016/10/31/the-50-best-free-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/dec/awardsheader_small.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best Free Games On PC</h4>
+<p>No free-to-play, just free.</p> </a>
+</li><li id="autofeature-12" class="widget-container AutoFeature">
+<a data-id="437071" class="widget-link " id="autofeature-437071" href="https://www.rockpapershotgun.com/2017/03/26/the-sunday-papers-443/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/sep/papers2.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The Sunday Papers</h4>
+<p>Read more</p> </a>
+</li><li id="autofeature-10" class="widget-container AutoFeature">
+<a data-id="437303" class="widget-link " id="autofeature-437303" href="https://www.rockpapershotgun.com/2017/03/25/best-free-games-of-the-week-46/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/mar/gabey.png&w=280&h=112&zc=11" alt=""/>
+<h4>Gabe Newell to write, direct and star in Half-Life movie</h4>
+<p>NEWS ALERT. NEWS ALERT</p> </a>
+</li><li id="autofeature-9" class="widget-container AutoFeature">
+<a data-id="373643" class="widget-link invert-widget" id="autofeature-373643" href="https://www.rockpapershotgun.com/2016/06/15/if-only-text-adventures-for-people-who-hate-guessing-the-verb/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jun/superluminalvagrant.jpeg&w=280&h=112&zc=11" alt=""/>
+<h4>IF Only: Text Adventures For People Who Hate Guessing The Verb</h4>
+<p>Parsers Verbed</p> </a>
+</li><li id="autofeature-8" class="widget-container AutoFeature">
+<a data-id="436299" class="widget-link " id="autofeature-436299" href="https://www.rockpapershotgun.com/2017/03/25/whats-wrong-with-mass-effect-andromeda/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/mea.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Everything else that's wrong with Mass Effect Andromeda</h4>
+<p>A Galaxy Of Errors</p> </a>
+</li><li id="autofeature-7" class="widget-container AutoFeature">
+<a data-id="437299" class="widget-link " id="autofeature-437299" href="https://www.rockpapershotgun.com/2017/03/25/what-to-play-this-weekend-28/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/nov/wypalice.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>What are we all playing this weekend?</h4>
+<p>WELL?</p> </a>
+</li><li id="autofeature-5" class="widget-container AutoFeature">
+<a data-id="359811" class="widget-link invert-widget" id="autofeature-359811" href="https://www.rockpapershotgun.com/2016/04/13/build-engine-duke-nukem-blood-shadow-warrior/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/apr/build1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Blood, Sweat & Laughter: The Beauty Of The Build Engine</h4>
+<p>2.5D remembered.</p> </a>
+</li><li id="autofeature-6" class="widget-container AutoFeature">
+<a data-id="437049" class="widget-link " id="autofeature-437049" href="https://www.rockpapershotgun.com/2017/03/24/future-unfolding-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/futureunfolding1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Future Unfolding</h4>
+<p>A trip through nature</p> </a>
+</li><li id="autofeature-11" class="widget-container AutoFeature">
+<a data-id="436887" class="widget-link " id="autofeature-436887" href="https://www.rockpapershotgun.com/2017/03/24/kona-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/kon8.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Survival meets adventure in Kôna</h4>
+<p>Chilling</p> </a>
+</li><li id="autofeature-16" class="widget-container AutoFeature">
+<a data-id="347951" class="widget-link invert-widget" id="autofeature-347951" href="https://www.rockpapershotgun.com/2016/02/19/xcom-2-guide/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/feb/sectoid.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>XCOM 2 Guide To Strategy, Performance, Mods & More</h4>
+<p>Everything you need to know.</p> </a>
+</li><li id="autofeature-17" class="widget-container AutoFeature">
+<a data-id="435671" class="widget-link " id="autofeature-435671" href="https://www.rockpapershotgun.com/2017/03/24/warframe-bard-update/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/warframe1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Warframe: now a game of music-making as well as action</h4>
+<p>Digital Extremes explain Octavia's Anthem</p> </a>
+</li><li id="autofeature-18" class="widget-container AutoFeature">
+<a data-id="437087" class="widget-link " id="autofeature-437087" href="https://www.rockpapershotgun.com/2017/03/24/the-best-games-of-my-lifetime-year-by-year/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/lifegames.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of my lifetime, year by year</h4>
+<p>This is my life (in games)</p> </a>
+</li><li id="autofeature-19" class="widget-container AutoFeature">
+<a data-id="342317" class="widget-link invert-widget" id="autofeature-342317" href="https://www.rockpapershotgun.com/2016/01/21/best-fallout-4-mods-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jan/falloutsettlementanywhere.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best Fallout 4 Mods</h4>
+<p>For graphics, weapons, the UI and more.</p> </a>
+</li><li id="autofeature-20" class="widget-container AutoFeature">
+<a data-id="437013" class="widget-link " id="autofeature-437013" href="https://www.rockpapershotgun.com/2017/03/24/best-pc-gaming-deals-of-the-week-26/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/oct/12hitmanjapan.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best PC gaming deals of the week</h4>
+<p>Square and 2K go Humble</p> </a>
+</li><li id="autofeature-21" class="widget-container AutoFeature">
+<a data-id="436917" class="widget-link " id="autofeature-436917" href="https://www.rockpapershotgun.com/2017/03/23/making-dungeon-crawl-stone-soup-with-253-cooks-and-no-head-chef/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/crawl1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Making Dungeon Crawl Stone Soup with 253 cooks and no head chef</h4>
+<p>One of the best roguelikes, one of the strangest dev teams</p> </a>
+</li>
+</ul>
+</div>  
+<div id="skyscraper">
+ 
+<div class="ad-hd ad-halfpage" data-dfp-id="RPS_HP" data-dfp-sizes="160x600,300x600" id="div-ga-RPS_HP" data-ghost-zone="26"></div>
+ 
+</div>  
+</div>  
+</div>  
+<div id="footer">
+<div class="container">
+<div id="footer-content">
+<div class="footer-col">
+<h4>All our stuff <span>and things</span></h4>
+<ul>
+<li><a href="/">home</a></li>
+<li><a href="/about-pc-gaming-rps/">about</a></li>
+<li><a href="/advertise-pc-games/">advertise</a></li>
+<li><a href="/hey-prs-and-developers/">hey, developers!</a></li>
+<li><a href="/supportrps/">support RPS</a></li>
+<li><a href="/forums/">forums</a></li>
+</ul>
+<ul>
+<li><a href="http://steamcommunity.com/groups/rps">steam group</a></li>
+<li><a href="https://twitter.com/rockpapershot">twitter</a></li>
+<li><a href="https://www.facebook.com/rockpapershot">facebook</a></li>
+<li><a href="http://rps.libsyn.com/">podcast</a></li>
+<li><a href="http://feeds.feedburner.com/RockPaperShotgun">rss</a></li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Rock, Paper, Shotgun <span>was</span></h4>
+<ul style="width:180px;">
+<li>
+<a href="mailto:graham@rockpapershotgun.com">Graham Smith</a>
+<a href="https://twitter.com/gonnas" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alec@rockpapershotgun.com">Alec Meer</a>
+<a href="https://twitter.com/bonzrat" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://www.bonzrat.co.uk/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:john@rockpapershotgun.com">John Walker</a>
+<a href="https://twitter.com/botherer" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://botherer.org/blog/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:adam@rockpapershotgun.com">Adam Smith</a>
+<a href="https://twitter.com/noneconomical" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alice@rockpapershotgun.com">Alice O'Connor</a>
+</li>
+<li>
+<a href="mailto:pip@rockpapershotgun.com">Philippa Warr</a>
+<a href="https://twitter.com/philippawarr" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Info <span>and appendices</span></h4>
+<ul style="width:300px;">
+<li>&copy; 2007-2017 <a href="/">Rock Paper Shotgun</a> Ltd.</li>
+<li>Designed by Jonathan Sutcliffe.</a></li>
+<li>Hosted by <a href="http://www.positive-internet.com/">Positive Internet.</a></li>
+<li>Today's scotch egg consumption: 4327</li>
+<li>Hivemind Throbometer reading: 1.296%</li>
+<li class="write-to-rps">Write to RPS <a href="mailto:contact@rockpapershotgun.com">contact@rockpapershotgun.com</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<div id="eg-network" class="hidden-mobile">
+<div class="inner"></div>
+<div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+            jQuery(function(){
+                jQuery('#eg-network .inner').load('https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/eg-footer.php');
+            });
+        </script>
+</div>
+</div>
+ 
+<script type='text/javascript'>
+    
+        jQuery(document).ready(function() {
+
+            var custom_variables = {};
+            custom_variables['source'] = 'article';
+            custom_variables['url'] = document.location.pathname.substr(0, 40);
+            custom_variables['tags'] = "strategy,featured-articles,2k,feature,firaxis-games,preview,sid-meiers-civilization-vi,long-article";
+                            custom_variables['games'] = "sid-meier's-civilization-vi";
+                        
+            try {
+                jQuery('.ad-tablet .ad-desktop, .ad-mobile, .ad-hd').getDFPads({'custom_variables' : custom_variables});
+            } catch(e) {
+                                    yafaIt();
+                                }
+
+            var lazyloading = true;
+           
+            function lazyloadAds() {
+                lazy_mpus = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus.length == 0) {
+                    lazyloading = false; 
+                    clearInterval(lazyloadInterval);
+                } else {
+                    for ( var i = 0; i < lazy_mpus.length; i++ ) {
+                        mpu_pos = jQuery(lazy_mpus[i])[0].getBoundingClientRect();
+                        if(mpu_pos['top'] < 1300 && lazyloading == true){
+                            jQuery(lazy_mpus[i]).getDFPads({'custom_variables' : custom_variables});   
+                            jQuery(lazy_mpus[i]).removeClass('lazyload').addClass('lazyloaded');                 
+                        }
+                    }    
+                }            
+            }
+
+            if(custom_variables['source'] == 'article'){
+                lazy_mpus_check = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus_check.length > 0) {
+                    var lazyloadInterval = setInterval(lazyloadAds, 300);
+                }
+            }
+
+        });
+
+    </script>
+ 
+<script type="text/javascript" src="//s.skimresources.com/js/87431X1560958.skimlinks.js"></script>
+ 
+ 
+<script>
+        function yafaIt() {
+            var ads = document.querySelectorAll('[data-dfp-id]');
+            for(var i = 0;i < ads.length;i++)
+            {
+				var ad = ads[i];
+				if( ad.hasAttribute("data-yafa-img") ) {
+					var yafa_click = ad.getAttribute("data-yafa-click");
+					var yafa_img = ad.getAttribute("data-yafa-img");
+					var yafa_target = ad.getAttribute("data-yafa-target");
+					var yafa_style = ad.getAttribute("data-yafa-style");
+					var yafa_linktarget = ad.getAttribute("data-yafa-linktarget");
+					var yafa_linkheight = 0;
+					if( ad.hasAttribute("data-yafa-linkheight") ) {
+						yafa_linkheight = ad.getAttribute("data-yafa-linkheight");
+					}
+					var tgt = jQuery(yafa_target);
+					tgt.attr(
+						'style', 'background-image: url(' + yafa_img + ');' + yafa_style
+					);
+					jQuery('html').bind('mousemove', function(e) {
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							jQuery('html').css({ 'cursor' :'pointer' });
+						} else {
+							jQuery('html').css({ 'cursor' :'auto' });
+						}
+					});
+					jQuery('html').bind('click', function (e) { 
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							window.open(yafa_click,'_top');
+						}
+					});
+				}
+                jQuery(ad).hide();
+            }
+        }
+		</script>
+ 
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",opacity:0.8,loop:false,scrolling:false,top:false,right:false,bottom:false,left:false});
+});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ecd_params = {"cookie_message":"Rock Paper Shotgun uses cookies. For some reason we are now obliged to notify you of this fact. Not that you care. <a href=\"\/privacy-stuff\">More info here<\/a>.","cookies":{"0":{"name":"wp-settings-3","group":"WordPress","description":""},"1":{"name":"wp-settings-time-3","group":"WordPress","description":""},"2":{"name":"wordpress_test_cookie","group":"WordPress","description":""},"3":{"name":"__utma","group":"Google Analytics","description":""},"4":{"name":"__utmb","group":"Google Analytics","description":""},"5":{"name":"__utmc","group":"Google Analytics","description":""},"6":{"name":"__utmv","group":"Google Analytics","description":""},"7":{"name":"__utmz","group":"Google Analytics","description":""},"9":{"name":"","group":"","description":""}}};
+var ecd_cookies = [{"name":"wp-settings-3","description":"","group":"WordPress"},{"name":"wp-settings-time-3","description":"","group":"WordPress"},{"name":"wordpress_test_cookie","description":"","group":"WordPress"},{"name":"__utma","description":"","group":"Google Analytics"},{"name":"__utmb","description":"","group":"Google Analytics"},{"name":"__utmc","description":"","group":"Google Analytics"},{"name":"__utmv","description":"","group":"Google Analytics"},{"name":"__utmz","description":"","group":"Google Analytics"}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/script.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var infinite = {"ajax_url":"https:\/\/www.rockpapershotgun.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/rps-feature-stepper/infinite-features.js?ver=1.0'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201713'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type="text/javascript">
+			var bwpRecaptchaCallback = function() {
+				// render all collected recaptcha instances
+			};
+		</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=bwpRecaptchaCallback&#038;render=explicit" async defer></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc1fd178d1","applicationID":"26676767","transactionName":"MwBUZUZXWkpZAkMNCQpKd1JAX1tXFxJeCgEIAA==","queueTime":0,"applicationTime":1315,"atts":"H0dXEw5NSUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

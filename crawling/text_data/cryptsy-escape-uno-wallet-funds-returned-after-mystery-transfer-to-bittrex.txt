@@ -1,0 +1,23 @@
+
+
+
+CryptoCoinsNews
+Holders of Unobtanium (UNO) caught a break when the Bittrex exchange noticed the assets of the largest UNO wallet strangely appeared on Bittrex and impounded it. The wallet had been somehow transferred from Cryptsy, an exchange that has been discontinued and its assets placed under court receivership.
+
+A Twitter post shows the UNO assets that appeared on the BIttrex exchange.While Cryptsy’s assets were placed under the control of a court receiver last year, the transfer of 15,000 UNO to Bittrex reveals that someone has access to Cryptsy assets and attempted to cash them.
+Bittrex administrators, alerted to the UNO wallet by social media posts, impounded the wallet and the court was able to recover it.
+Thank you for your reports regarding the possible coin movement from Cryptsy. Unfortunately, we can't comment about ongoing investigations.
+— Bittrex (@BittrexExchange) April 11, 2016
+
+A UNO community activist has since purchased the assets from the court.
+The 15,000 UNO represents nearly 8% of its total supply. The buyer plans to invest the wallet in the 300+ Unobtanium base coin markets at the Cryptopia.co.nz exchange.
+Falling Knife, UNO’s community manager, said the community is glad to have the funds in receivership after Cryptsy founder Paul Vernon apparently absconded with Cryptsy’s assets. Falling Knife said he will use the asset to develop strong UNO basecoin markets at Cryptoropia.
+“This will help add liquidity and a wide range of ‘arb’ opportunities for investors and traders,” Falling Knife said in a statement sent to CCN.
+Cryptsy’s assets were placed in receivership in early 2016. Cryptsy plaintiffs reached a settlement last year in excess of $1 million from defendant Lorie Ann Nettles, Vernon’s ex-wife. Vernon, the principal defendant, is believed to have fled to China with approximately $5 million in cryptocurrencies and investor funds.
+UNO community members noticed that the largest UNO holding on the “richlist” had changed addresses.
+They also noticed the 15,000 UNO wallet appeared on the Bittrex exchange, which houses the largest UNO/BTC market. It struck some as odd that the wallet, which had been placed under the protection of a U.S. court, would be moved to Bittrex with no advance word from the court receiver.
+“Not knowing what was going to happen with this large UNO wallet made investors nervous,” Falling Knife said. “It’s great that this issue has been resolved and the UNO returned to a strong hand who wants to ‘lift all ships’ by investing it to make Unobtanium more useful.”
+The other Cryptsy cryptocurrency assets are being distributed back to the buyers.
+Unfortunately for the UNO holders, the price fell more than 15% as panic ensued when the news broke. At the time, UNO/BTC volume on Bittrex did not show that the Cryptsy coins have been dumped. UNO has escaped corrupt cryptocurrency exchanges before. In addition to Cryptsy, it survived AllCrypt and MintPal.
+UNO trades at Cryptopia.co.nz, where it is a basecoin. Besides Bittrex, it is also traded on C-Cex, Coinexchange.io, Bitsquare.io and Bleutrade.com
+Featured image from Shutterstock.

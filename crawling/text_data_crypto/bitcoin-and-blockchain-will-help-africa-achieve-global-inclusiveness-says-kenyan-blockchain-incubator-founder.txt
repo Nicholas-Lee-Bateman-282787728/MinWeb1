@@ -1,0 +1,30 @@
+./html_data_bitcoins/bitcoin-and-blockchain-will-help-africa-achieve-global-inclusiveness-says-kenyan-blockchain-incubator-founder.txt
+
+
+
+CryptoCoinsNews
+Space Kenya Networks Limited,  a Kenyan web development company, recently announced the launch of its blockchain incubator BitHub. CCN spoke with the director of Space Networks Kenya and founder of BitHub to discuss the crypto- and bitcoin-space in Kenya. 
+In a statement found on the  website, BitHub describes its mission as: “Solving problems using innovative Blockchain solutions that are currently under development across the World.” Furthermore, the company says:” We believe that blockchain solutions will make substantial contributions to rethinking existing structures in the following political, social and economic sectors.”  The company aims to “Bring together a consortium of individuals, organizations, and expertise to drive the development and adoption of blockchain technologies especially within the African continent,”
+Space Networks Kenya Limited is based in Nairobi, Kenya. The company describes itself as an I.T. solutions company specializing in Internet Services and software solutions. Space Networks Kenya has been in business since 2010 and has managed several startups including:
+This is the company’s first Blockchain-based startup and, expectations are high for its startup BitHub. The organization will attempt to work with bitcoin startups in varying fields including Legal, Government, I.O.T., Finance, Security, Biotech, Software Security, and many other industries.
+John Karanja is the founder of BitHub Africa a Blockchain Accelerator providing Consultancy and Incubation services for individuals and firms interested in Bitcoin and Blockchain Technology. He is also a Director at Space Kenya Networks Ltd which is a company he co-founded in 2008 that provides a workspace for businesses and startups operating in Nairobi. Space Kenya has been awarded the Vision2030 ICT Award 2011 for Innovation in Youth and Gender Sector by the Kenyan Government.
+John, Kenya seems ripe for crypto development you have Bitpesa which is trying to become a major payment network and now BitHub which is going to provide block chain solutions for a host of industries. Why have you decided to enter into the blockchain industry?
+Well, we are simply providing education about the blockchain technology and opportunities for streamlining existing services or providing services where they don’t exist. As you know blockchain technologies are trustless and, therefore, will enhance accountability and efficiency.
+So, in addition to providing services, your company will set out to educate business on how they could use the blockchain.
+We will in the first instance provide consultation and incubation services. We will not build blockchain tech but advocate for solutions we find relevant for the African context. We also hope to spur others to create homegrown solutions but I believe this we be more of organic growth.
+Can you give us more info on BitHub, like goals or current projects?
+We just launched applications last week. We will make a decision on the startup by the end of February. We are most excited about solutions in the security space as that is a big issue.
+Like, cyber security? For the internet?
+Yes, but bitcoin related.
+Can you give me more details?
+Well. A lot of devices in Kenya run unlicensed or cloned software. Malware is a big problem. As you can imagine we cannot run or build bitcoin software in an environment where we cannot trust the operating systems being used. Thus starting with securing blockchain infrastructure will be critical for growth. This, by the way, is a huge problem globally as well.
+That kinda sounds like a big deal can you talk more about it?
+This is in an interesting area. How do we prevent an organization’s tokens, for example, bitcoins [from] being stolen by malware.
+Wow! This could be a big commercial application, not only for Africa but all users. I myself have fallen victim and have been robbed. I think you’re on to something.
+Yes, we want to focus on this area. We believe Kenya has the talent to make this happen, we will support the team that tackles this huge problem.
+Your government has been less than friendly to other crypto start-ups in the past.  Do you think the government of Kenya will be a hurdle to overcome?
+I am not worried.  I think Kenyan Regulators, in particular, the Central Bank should take time to assess the potential of Blockchain technology to reduce costs and enhance transparency within multiple sectors of the economy. For example blockchain technology could provide mechanisms to seal corruption loopholes and track illegal activity such as money laundering at very low costs.
+Finally, I want to give you an opportunity to say whatever you want. An open microphone.  What do you want the world to know?
+I think Bitcoin and Blockchain will finally give the people of Africa a chance to extract and exchange value from their many talents. Africa has a lot to offer the World and Satoshi’s innovation brings us closer to achieving the dream of global inclusiveness.
+Featured image from Shutterstock.
+ 

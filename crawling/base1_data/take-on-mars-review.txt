@@ -1,0 +1,39 @@
+./html_data/take-on-mars-review.html
+
+
+ 
+ 
+ 
+
+
+By
+Andy Kelly
+ 
+
+A varied, atmospheric space simulator with beautiful Martian sunsets, challenging survival, and frustrating controls.
+What is it? A semi-realistic space simulation sandbox.Expect to pay £21/$27Developer Bohemia InteractivePublisher In-houseReviewed on Radeon RX 480, Intel i7-5820K, 16GB RAMMultiplayer 1-10Link Official site
+I’ve been playing Take On Mars on and off since it was released through Steam Early Access in 2013. It first attracted my attention because of how unusual it was. A game about trundling around the surface of Mars with a rover, probing soil, looking at rocks, and listening to the lonely howl of the wind. It appealed to me in the same way games like Euro Truck Simulator do. Slow, ultra-niche, and strangely relaxing. But over the years the game mutated into something else entirely. The understated realism and scientific simulation of those early alpha builds has been quietly pushed aside to make way for manned missions that incorporate survival, base-building, and advanced near-future technology.
+So now it’s a game largely about colonising Mars and trying not to die on it. Which is less unusual, but admittedly more immediately entertaining than scooping up soil. The popularity of Andy Weir’s novel The Martian, and Ridley Scott’s 2015 film adaptation, has undoubtedly influenced the game’s direction. So much so that the 1.0 release contains a singleplayer campaign in which you play as Mark Willis, an astronaut with a background in botany who ends up stranded on Mars. It’s a series of entertaining, varied scenarios that teach you the basics of survival, building, and other elements of the simulation. And it’s all connected with a fairly lightweight storyline focusing on Mark’s lonesome survival and his desperate attempts to return safely to Earth.
+Waking up on Mars surrounded by flaming debris as the oxygen warning on your HUD shrieks at you is a powerful opening. You see the scattered bodies of your crewmates and your ship torn to pieces, and your first priority is searching the rubble for supplies to replenish your O2 and fix the scary-looking crack on your helmet. It’s a nicely produced series of missions, but let down by the game’s clumsy controls. Everything you do in Take On Mars feels incredibly laborious. Walking around in a spacesuit in low gravity is probably pretty unwieldy in real life, but it makes the game needlessly frustrating. Not to mention the twitchy physics that send objects flying into the air or getting stuck in things. I was more willing to forgive this jankiness in Early Access.
+
+If manned missions sound too exciting, you can play through the robotics space program instead. This sees you managing a budget and building vehicles to explore the planet. You’ll start out with basic probes with low-res cameras, but as the money rolls in you can create advanced car-sized rovers like the real-world Curiosity. It’s a very different experience, and there’s something strangely tranquil about it. Especially with how atmospheric the game’s realistic recreation of the Red Planet is. They’ve captured the haunting, desolate feeling of what it might be like to be alone on another world brilliantly. The red sand dunes, ancient craters, and ghostly sunsets make for an evocative setting, whether you’re rolling around as a rover, your flimsy solar panels rattling in the wind, or settling in for the night in your newly-constructed base.
+But if you’d rather create your own missions, or download user-made ones from the Steam Workshop, Take On Mars comes with an Arma-style editor. With this you can place objects, pre-built bases, vehicles, and whatever else is in the game’s deep toy box. And because these are the same tools the developers use, dedicated players have created some pretty impressive stuff. Some missions even take you away from Mars, including to Earth’s moon and a replica of the International Space Station. So even if you’ve exhausted the bundled scenarios and campaign, there should still be plenty of additional missions to dive into, courtesy of the community. The quality will vary, but it’s cool to have the option.
+Take On Mars is still an unusual game, even if it has drifted into the increasingly populist realm of the base-building survive-’em-up, of which there are far too many on PC. Its atmospheric Martian deserts are beautiful to look at, and struggling to survive on such a hostile, lifeless world is an entertaining, often terrifying challenge. But an overall feeling of clunkiness—which can make something as simple as loading a few oxygen canisters into the back of a buggy feel like a cumbersome chore—really tested my patience at times. But when you’re out there among the dust and craters, alone, growing potatoes or conducting experiments, there’s a feeling of serenity that keeps me coming back to Take On Mars, despite its many faults and frustrations.
+
+
+
+
+
+
+
+
+A varied, atmospheric space simulator with beautiful Martian sunsets, challenging survival, and frustrating controls.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

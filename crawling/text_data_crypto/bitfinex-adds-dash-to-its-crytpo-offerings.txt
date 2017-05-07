@@ -1,0 +1,16 @@
+./html_data_bitcoins/bitfinex-adds-dash-to-its-crytpo-offerings.txt
+
+
+
+CryptoCoinsNews
+Bitfinex, the Hong Kong-based exchange, has added Dash to its cryptocurrency offerings, another mark of recognition for the currency which has appreciated from $11 to $44 since the beginning of the year.
+The cryptocurrency’s trading volume has jumped 22-fold since the start of the year, and its market capitalization has risen to more $320 million.
+“Dash is currently experiencing its breakout moment right now, and we want to be able to provide our growing customer base with seamless access to one of the rising stars in our space,” said Phil Potter, Bitfinex chief strategy officer.
+Most of cryptocurrency’s 24-hour trading volumes, averaging around $50 million, previously occurred on Poloniex and BTC-E.
+“The partnership is recognition of the way the market has been responding to Dash’s vision and roadmap,” said Daniel Diaz, Dash vice president of business development. “Dash is in a transition towards the regulated fiat exchanges that will make it a lot easier for users and investors to move in and out of the Dash economy.”
+Dash has outpaced its two larger rivals, bitcoin and Ethereum, this year. Where bitcoin’s price has gained 22% and Ethereum’s is up 57%, Dash’s has increased 295%, peaking at $60 on March 2.
+Dash recently released version 12.1, codenamed Sentinel. The anticipated update sets a wider redesign of the cryptocurrency in its advent toward unveiling “Evolution,” a decentralized payments system and marketplace that Dash says will compete with PayPal and Venmo.
+The latest network upgrade features improvements to backend protocols, voting functions and privacy features and governance.
+It will also feature a decentralized programmable database solution, enabling updates through a programmable interface.
+Sentinel is a necessary upgrade toward establishing Evolution, a payments system that offers no consumer fees for its instant transactions, “near-free” merchant fees in an integrated marketplace and interest bearing accounts accessible on a bank-like user interface. Fundamentally, it’s akin to the user-features offered by PayPal and Venmo but with “far more perks” according to the open-source project.
+Image from Shutterstock.

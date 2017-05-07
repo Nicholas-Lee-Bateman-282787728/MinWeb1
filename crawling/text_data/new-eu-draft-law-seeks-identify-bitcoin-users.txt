@@ -1,0 +1,26 @@
+
+
+
+CryptoCoinsNews
+A newly drafted proposal to amend the existing directive of preventing money laundering and terrorism financing is seeking to introduce significant regulatory authority over the usage of digital currencies like bitcoin.
+Members of the European Parliament (MEPs) are deliberating to extend the scope of the Anti-Money Laundering Directive (AMLD) to include virtual currencies, a move that could end the anonymity of cryptocurrency adopters and users.  The existing AMLD, published in May 2015, does not include any mention or coverage of virtual currencies.
+CCN reported on a separate proposal put forth by the European Parliament and the Council of the European Union in January this year, one that called for the establishment of a preventative framework at a time where technology is driving alternative financing solutions. It too eventually sought to identify bitcoin users.
+Published last week, the newest proposal [PDF] plainly states that “competent authorities should be able to monitor the use of virtual currencies,” whilst adding that anonymity would be a “hindrance than an asset for virtual currencies” when used for criminal purposes.
+To this end, the draft law seeks to allow watchdogs from individual EU countries to identify bitcoin users by their bitcoin addresses.
+An excerpt from the proposal reads:
+To combat the risks related to the anonymity, national Financial Intelligence Units (FIUs) should be able to associate virtual currency addresses to the identity of the owner of virtual currencies.
+The EU Parliament could soon regulate cryptocurrencies like bitcoin.
+Also among the list of AMLD amendments proposed by the new draft law, specifically “with respect to virtual currencies” suggests:
+[E]mpowerments to set-up and maintain a central database registering users’ identities and wallet addresses accessible to FIUs, as well as self-declaration forms for the use of virtual currency users.
+The European Commission, the executive arm of the European Union, previously proposed to bring into effect this ‘central database’ recording the identities and activity of bitcoin users in July 2016.
+Last week’s draft publishing, prepared by the EU Parliament Committee on Economic and Monetary Affairs along with the Committee of Civil Liberties, Justice, and Home Affairs, also presented the opinions of the Committee of Legal Affairs.
+Addressing virtual currencies as a “marginal phenomenon” that could “become increasingly important”, the legal committee proposed regulating the bitcoin industry. Such a framework will also empower national FIUs to recognize bitcoin users.
+Curiously, the committee then made it clear that regulation would not mean endorsement of virtual currencies.
+With regard to regulating virtual currencies, the state content reads:
+The rapporteur approves of this step, but agrees with the European Central Bank when it states that the introduction of this reporting obligation should not be worded in such a way that it can be seen as an endorsement of virtual currencies.
+Discussion toward regulating virtual currencies and exchange platforms have become an ever-present in Brussels after the Paris attacks in 2015. A crisis meeting was convened by EU states in the immediate aftermath of the attacks to discuss measures to control anonymous payment methods and virtual currencies in an effort to curb terrorism funding.
+In January last year, a report by Europol, the European Union’s law enforcement agency, found no evidence linking anonymous currencies like bitcoin to terrorists to finance their activities.
+Nonetheless, the European Parliament passed a motion for the creation of a task force on digital currencies and blockchain, its underlying technology. In February last year.
+Further, one of the amendments proposed in the recent draft explicitly states “virtual currencies should not be anonymous” in order to combat risks related to anonymity.
+The formal transposition date for the fourth AMLD is 26 June, which could see EU-based bitcoin exchanges adhering to plausible regulations this year.
+Images from Shutterstock.

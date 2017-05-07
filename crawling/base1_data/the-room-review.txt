@@ -1,0 +1,532 @@
+./html_data/the-room-review.html
+
+RPS Feature
+[squiggly symbol] 
+By John Walker on July 31st, 2014 at 7:00 pm.
+
+The Room, BAFTA winning mobile puzzling mega-hit, has at last reached the PC in HD glory. I’ve slid my bottom into the slot on my chair, pressed the button that popped up on my mouse, and rotated my head until it faces the screen, which caused a mechanical whirring sound and the revealing of wot I think:
+
+Obviously, since the Great Decree was established, it’s now been accepted by all who wish to live that Myst was a bloody awful game. As was Riven. And Myst III: Exile. And Uru. And probably IV and V – no one’s ever given me money to force myself to play them. Hateful rubbish, meandering nonsense strung together by obscure puzzles, existing only because of the curse of the CD-ROM on PC gaming. That’s just a fact.
+The Room is the game Myst should have been. The Room is, I state with absolute conviction and abundant evidence, the game people who thought they enjoyed Myst pretended they were playing, but it turns out was entirely in their imaginations rather than in the miserable Power Point presentation in front of which they were actually sat.
+The Room is a beautiful presentation of rendered graphics, sewn together with intricate, engaging puzzles. Myst was a slideshow of Vaseline-smeared tedium over which Z-list non-actors burbled inane claptrap about magic books.
+
+That’s not to say there’s no inane claptrap in The Room. It’s just kept to a minimum, tucked away in entirely ignorable notes. The core game is exploring one enormous, impossibly elaborate puzzle box, hunting for switches, slides, keys and codes, to pick your way through puzzle after puzzle, each opening another section, unlocking new challenges, and constantly making you feel like a proper clever-clogs despite never actually doing anything all that clever.
+The game has been around for a couple of years, first on iOS, then eventually Android. This PC version is an almost entire remake (according to the developers, Fireproof Games), apparently requiring nearly every asset to be rebuilt in order to create an HD, PC-worthy version. And by crikey, it’s beautiful. It’s genuinely astonishing at times, as the mechanical parts of the box slide so elegantly, surfaces rearranging themselves, objects raising and lowering, all utterly wonderfully. Just staring at the animations is reward enough for solving any puzzle it offers.
+
+That really is all the reward there is, but it’s genuinely enough. The story, something about some chap trying to discover some mystical ether element thing, is utter guff, and ultimately goes nowhere at all. In fact, this PC build includes the mobile version’s DLC tacked onto the end, creating a stuttering finish that makes even less sense when played as a whole. The only reason it exists is to add a justification to the game’s peculiar twist, a magic lens through which alternate versions of reality can be seen. Which tends to boil down to: if you can’t figure out what to do next, you probably forgot to look at stuff through the lens.
+Invariably this involves revealing hidden scrawl, codes, or creating a repeating geometric shape that has mystical connotations to something, somewhere. And while it takes nothing away from the game, I still can’t help but wish for a version of The Room that relied only on its near-believable mechanical wizardry, rather than, well, actual wizardry. The lens gives the game design carte blanche to impossibly change the materials by magicky magic, and this always feels cheap when compared to its wondrous flips, twists and clunks as it rearranges itself before you.
+
+That thing about feeling like a clever-clogs. Something I especially like about The Room is it’s never needlessly obscure. In fact, it’s almost never difficult. It’s just constantly involving. If you get stuck, it’s likely because you’ve not noticed a teeny switch, or forgot to check the lens, and the in-game hint system will gently nudge you if you ask. But it’s not likely because a puzzle is over-complicated or just plain impenetrable. As someone who’s suffered a lot of badly implemented or plain obtuse puzzles in lazy adventure games, some of the challenges prepare me to groan, before realising that – oh – I just do this, this, then this, and yes! Click! I’m a clever-clogs! Even the ominous threat of a sliding tile puzzle quickly reveals itself to be a simple, quickly dismissed affair.
+At £4, the two to three hours it should take (boasting of completing it more quickly only reveals a person to be a goof-face who doesn’t take the time to appreciate the beautiful art) is great value. (Although it must be noted the SD version currently costs just 69p on Android/iOS.) It doesn’t amount to anything, it doesn’t go anywhere, and it’s worth noting it lacks The Room 2’s genuinely haunting horror moments. (Presumably we can hope for The Room 2 on PC some time in 2016.) But what it is is entirely worth having: a sumptuous, decorative creation. And it sure isn’t Myst.
+
+31/07/2014 at 19:17
+
+Urthman says:
+
+Poor John, he’s got some sort of brain problem that makes him unable to enjoy Myst. I’m glad whatever it is left him able to enjoy so many other kinds of games.
+
+31/07/2014 at 19:28
+
+Urthman says:
+
+ the game people who thought they enjoyed Myst pretended they were playing
+I think this is the key skill that’s lacking. Myst requires you to assemble the island in your head from the individual still photos. Some people aren’t able/willing to do that, and complain that it’s a “slideshow,” which, to me, is like complaining that a book is a “wordfest.”
+
+31/07/2014 at 20:13
+
+Chaz says:
+
+I got the Real Myst Masterpiece edition, so I don’t have to do that. Now fully rendered in proper move around as you like first person. Makes it a lot easier to figure things out when you can see the islands in a proper first person view. Also alleviates some of the back and forthing when you flick buttons or switches to see what they might be doing, when you can just look around as opposed to having to click you way back around a bunch of static screens.
+
+31/07/2014 at 22:22
+
+ensor says:
+
+Bang on. They’re almost like epistolary games, the cultural and market forces of the rest of gaming only helping to obscure whatever merit they have.
+
+31/07/2014 at 23:23
+
+Faxmachinen says:
+
+I always figured Mr. Walker was just not intelligent and/or patient enough for Myst’s puzzles, but your idea that he lacks the spatial awareness required for immersion also has merit. On the other hand he did play Exile, and the panoramic navigation in that one made it much easier.
+I actually preferred the “slideshow” versions though. The invisible barriers in RealMyst, Myst V and URU did far more to ruin immersion, and aside from Myst, the pre-rendered graphics always looked nicer.
+For reference, this is what pre-rendered graphics looked like in 1997. A year later, Half Life was released.
+
+01/08/2014 at 11:17
+
+Cinek says:
+
+Half-Life running 1280×1024 in 1998? You’re dreaming!
+
+01/08/2014 at 00:40
+
+malkav11 says:
+
+I’m not a fan of Myst or Riven (although I find things to appreciate about both), but let’s not lump Myst III: Exile, made by the splendid folks behind the Journeyman Project games, in with the rest of the series. III has much more logical, intuitive puzzle design and a rather strong, largely self-contained narrative scenario with a pretty great (somewhat scenery chewing) performance by the always enjoyable Brad Dourif as the sympathetic villain of the piece. It’s very much worth playing even if you’re not a fan of the design sensibilities Cyan demonstrates in the other Myst games.
+
+01/08/2014 at 11:16
+
+GepardenK says:
+
+While I love Myst 3: Exile, especially Brad Dourif`s character, I must say that the puzzles in Riven (there is about 2 of them) makes much much more sense. Everything in Riven (from puzzles to the world itself) is less… random. And even Ghen as the villian is at Brad`s level, his story is even sadder. So for me Myst3 comes second, Riven is king
+
+01/08/2014 at 11:21
+
+Awesomeclaw says:
+
+I’ve said this before somewhere else on RPS, but the Myst series having puzzles which make sense in context is what makes it great. Of course there are still a few puzzles which make no sense, but a lot of the time (if not most of the time) the space you explore and the puzzles you encounter have a consistent internal logic which I think is missing from the Room and the Room 2.
+
+01/08/2014 at 11:24
+
+Cinek says:
+
+Yea, I would go for the same, only perhaps not because of puzzles themselves, but rather world and immersion. Riven felt… deeper. Like a proper, huge, living world. Exile somehow wasn’t able to capture that. I always felt like visiting huge, stunning… rooms there.
+Myst IV was somewhat an oddity though – I don’t even remember if I actually completed it – played it right after the release and never returned back – unlike with all the other games in a series (yes, I even re-played Myst V – IMHO people are way too critical about this game).
+
+01/08/2014 at 13:40
+
+GepardenK says:
+
+Agreed. The world in Riven is the real star. It is insanely well though out and presented. The other myst games looks like random 3d art in comparison. Even great crpgs like Planescape is not even close (although the overall story in Planescape is arguably better)
+Riven`s problem is that of a good big book, you cant understand how clever it is unless you take a deep dive. I tagged riven as the worst of the Myst games until I really played it
+
+01/08/2014 at 13:50
+
+malkav11 says:
+
+I never would have been able to make any headway in Riven at all without a walkthrough. Some of Myst’s puzzles were vaguely intelligible, although mostly I wouldn’t have gotten them either, but Riven? Nope. A big part of that, admittedly, has to do with the fact that Myst (and Myst III)’s puzzles were largely contained inside a single, relatively limited geographical area, whereas Riven’s puzzles frequently expected you to run all over the entire game world trying to figure out what was connected to what and why. This is just not something I am interested in doing in a world of any meaningful scope, especially when you make it as time-consuming and labor-intensive as Riven did to move around.
+I largely solved Myst III on my own, and when I did get stuck it usually turned out I’d just overlooked part of the puzzle.
+
+01/08/2014 at 14:29
+
+Awesomeclaw says:
+
+I think that the worlds in Myst 4 are fairly well realized. I do have two main problems with that game, one of which is the low resolution it’s rendered at (and since it doesn’t support windowed play, you have to have pixels as big as your fist), the other being that the final couple of puzzles are complete tedious bullshit. The rest of the game is just fine though, and each age’s kind of final ‘payoff’ (the red and blue books being presented in Tomahna and the ends of each puzzle line in the two prison ages) are fantastic.
+
+01/08/2014 at 15:33
+
+GepardenK says:
+
+Awesomeclaw:
+Myst IV had some really strong moments, but the acting was way to cheesy in places which ruined the story (most voiced journals were awesome though). I hated the last act as well and not just because of the puzzles. I have always enjoyed Myst because of its focus on science, but that last part flew well into the realms of spirits and fantasy which kinda broke it for me. 
+malkav11:
+Yes, Riven is a bit different that way. Most of the gameplay is about exploring around and fiddeling with interactive stuff that is not part of a solvable puzzle. Only when you really understand the world and what the different buildings do can you go and solve the two main puzzles in the game. Its funny because the puzzles themselves are actually incredibly logical and self explanatory, but they are almost impossible to solve without that understanding of the world (like a caveman trying to start a car). Clicking around until its solved Monkey Island style is simply not an option
+
+03/08/2014 at 00:58
+
+malkav11 says:
+
+Working out how to solve a puzzle is great. Working out what the puzzle even is, let alone its parameters is definitively not my cup of tea, and Riven in particular and most of the Myst franchise in general seem to be very much on that side of things. I’m sure it went over gangbusters with, e.g., the cryptic crossword crowd, though.
+
+04/08/2014 at 13:52
+
+GepardenK says:
+
+Yes Riven is definitely a case of “working out what the puzzle even is”. It does this very well and its perfect for the “explore a world in peace and find its secrets” its going for. But I agree that if you are looking for a proper puzzle game with lots of direct problems then you will be disappointed. The direct problems (there is about 2 of them) is only clear when the player is ready, usually after LOTS of exploring, reading and contemplating
+But I cant see why you think the other Myst games is like that. The other Mysts are very much a case of “here is 4 puzzles, solve them”. Very straight forward and logical. Much more so than most point`n clicks at any rate.
+
+07/08/2014 at 14:50
+
+gwz says:
+
+I remember Riven quite fondly, and completing it was wildly satisfying. That said, games and times have changed a lot and I would never have the patience required to appreciate it and finish it today. I got through the great “Device 6” on a long flight and was for once thankful that I was unable to reach for a walkthrough.
+
+01/08/2014 at 12:44
+
+Caradog says:
+
+Have to agree with you here. I remember having a fantastic experience with Myst III, which was challenging but not obscure enough in its approach that I couldn’t overcome each of the puzzles. I recently tried Myst IV and could not believe how difficult it was, with every step along the way an immense frustration.
+
+31/07/2014 at 19:32
+
+Jeroen D Stout says:
+
+I wanted to do a fundraiser to help him but, really, extending this horrid misery of a mental state would be the cruel thing to do.
+
+01/08/2014 at 00:02
+
+yoggesothothe says:
+
+Not trying to start a flame war here, but I don’t understand why people take a harsh assessment of *insert whatever game one enjoys* as a personal attack. Possibly I am biased as I happen to agree with Mr. Walker’s assessment of Myst (that is, it only seems exaggerated for effect than for the purpose of causing offense), but really, there’s no need to resort to his dislike of the game as a “brain problem” is there? That seems very specifically personal and intentionally hurtful.
+
+01/08/2014 at 00:03
+
+yoggesothothe says:
+
+err meant to say refer there, not resort
+
+01/08/2014 at 01:17
+
+Deano2099 says:
+
+The article does suggest that all people who like Myst be put to death in the first paragraph. Yes, it’s hyperbole, but so is ‘brain problem’.
+
+01/08/2014 at 09:44
+
+John Walker says:
+
+It might have something to do with my deliberately trolling them.
+
+01/08/2014 at 12:47
+
+domogrue says:
+
+No, I’m pretty sure Rock Paper Shotgun wears a solemn 100% serious demeanor 100% of the time, approaching every game and topic with solemn severity and a complete lack of humor.
+
+01/08/2014 at 14:46
+
+Geebs says:
+
+a complete lack of humor.
+MISSION ACCOMPLISHED
+
+01/08/2014 at 09:17
+
+PoulWrist says:
+
+Are you that guy I once talked to on the Funcom IRC who was convinced that Myst was the greatest example of blending gameplay design and story in the history of games? A game that influenced all games since its release, including all Call of Duty games. A game so utterly perfect that you had spent the last 20 years randomly interviewing people about Myst, what they liked, how they saw it and trying to make it seem as if they were somehow misled sheep that needed to be returned to the flock?
+
+31/07/2014 at 19:21
+
+ArtyFishal says:
+
+Man, I love Myst. Everything from its silly story to its great ambient audio and mechanical puzzles. I love the room too. It reminds me of Myst, but it is its own thing too. And that’s alright. It’s alright to like things.
+
+31/07/2014 at 19:53
+
+JauntyAngle says:
+
+I clicked on this article thinking it would be about a game adaptation of Tommy Wiseau’s masterpiece movie, but I was wrong.
+
+31/07/2014 at 20:51
+
+Scumbag says:
+
+Oh hi JauntyAngle! …and so forth.
+
+31/07/2014 at 20:53
+
+Niko says:
+
+Do you know this one? It’s really good:
+link to newgrounds.com
+
+31/07/2014 at 21:18
+
+Deadly Habit says:
+
+You’re not my fucking mother!
+
+01/08/2014 at 00:24
+
+Phasma Felis says:
+
+You want THE ROOM: The Game.
+
+31/07/2014 at 20:27
+
+anon459 says:
+
+I noticed there are bible verses scattered throughout this game. I couldn’t read the one on the last puzzle of the game, though. I don’t suppose anyone happens to know what it is?
+
+31/07/2014 at 21:03
+
+pestysam says:
+
+The Room is a distraction, not a game. Aside from the graphics & smoother interface, I can’t see how anyone can consider it better than Myst. They’re both shit.
+
+31/07/2014 at 22:41
+
+John Walker says:
+
+Quick everyone, it’s the That’s Not A Game Police! Run and hide!
+
+01/08/2014 at 15:11
+
+horsemedic says:
+
+The Room is, I state with absolute conviction and abundant evidence, the game people who thought they enjoyed Myst pretended they were playing, but it turns out was entirely in their imaginations rather than in the miserable Power Point presentation in front of which they were actually sat.
+Who will game police the game police?
+
+03/08/2014 at 00:25
+
+toxic avenger says:
+
+As you are very well aware already, he wasn’t making the argument that Myst isn’t a game. He used its Power Point qualities to illustrate what an abortion of a game it actually is.
+
+03/08/2014 at 07:49
+
+horsemedic says:
+
+It’s at least as stupid to tell people what they enjoy as it is to tell them what’s a game. But thanks for your pedantic literalism.
+
+01/08/2014 at 00:25
+
+Phasma Felis says:
+
+Games are distractions. That’s what they’re for.
+
+01/08/2014 at 15:27
+
+Emeraude says:
+
+Games are distractions. That’s what they’re for.
+Novels are distractions. That’s what they’re for.
+Movies are distractions. That’s what they’re for.
+Theater is distraction. That’s what it’s for.
+I must confess I am doubtful. I can’t see the link between first and second proposition being as absolute as you make it out to be. I’m not even sure there is an aim to those things really (at least before they become full fledged targeted products), other than their being created.
+
+01/08/2014 at 12:54
+
+Alfius says:
+
+Basically, anything that isn’t ARMA 3 or Wargame bores me to tears these days (with some few exceptions), as would, I’m sure, Myst and a whole panoply of others I loved so dearly way-back when. Please leave me the memories, must we rake up, what would seem today, the glaring inadequacies of the objects of our erstwhile infatuations?
+
+03/08/2014 at 00:27
+
+toxic avenger says:
+
+This comment demonstrates everything that is wrong with Myst, through only its grammar and diction. Go wikipedia “purple prose.”
+
+04/08/2014 at 10:17
+
+Alfius says:
+
+Verily, say I, yonder chap must be a hoot at parties.
+
+31/07/2014 at 21:08
+
+rustybroomhandle says:
+
+Myst is a great series*! This is my opinion, and unlike Mr Crankypants up there, I don’t berate anyone who has an opposing opinion. ** 
+* except maybe V
+** except Mr Crankypants
+
+01/08/2014 at 09:21
+
+PoulWrist says:
+
+Great in the same way that One Direction’s discography will also haunt posterity.
+
+01/08/2014 at 11:24
+
+Awesomeclaw says:
+
+I think Myst 5 is too easy and too small, but I don’t think it’s a bad game.
+
+01/08/2014 at 12:27
+
+GepardenK says:
+
+Myst 5 have some really clever worlds/puzzles. The story and exploration elements are awful though. Also: Invisible walls, grrrrrrr
+
+31/07/2014 at 21:08
+
+The First Door says:
+
+Every time you write about Myst, John, all I think is just how utterly wrong you are. While I grant you that some of the puzzles in Myst and Riven were perhaps needlessly complex, that was sort of the point. Also, I always thought most of them were well laid out and self-explanatory if you just bothered to explore and experiment a little. This is especially true when you are talking about Uru. Most involved learning how machines worked or learning basic number systems, neither of which I’d call obscure. Hell, many of them relied on basic physics, mathematics, or an understanding of how time passes!
+If you want to talk about obscure puzzles, then we really should talk about The Longest Journey (which I love) and the Gabriel Knights series (which I hate), both of which have much more obscure and stupid puzzles. Like that one with the rubber ducky…
+
+31/07/2014 at 22:11
+
+Hmm-Hmm. says:
+
+I think you needn’t bother. I doubt it’s possible to shake him from this game-inflicted trauma that was somehow inflicted on him. I feel for him, the poor man.
+
+31/07/2014 at 23:16
+
+The First Door says:
+
+I know… it just saddens me a little, that’s all. Personally I think The Path of the Shell has one of the finest multi-leveled puzzles I’ve ever seen, you see!
+
+31/07/2014 at 23:34
+
+Faxmachinen says:
+
+Do remind me which one. It’s been a long time since I played URU.
+
+01/08/2014 at 08:52
+
+The First Door says:
+
+It was the time-travel level, Ahnonay. The one which was written to prove that one of the D’ni was a god, from what I remember. It had a few really clever reveals and the end of the level was such a brilliant payoff!
+
+01/08/2014 at 11:26
+
+Awesomeclaw says:
+
+The area of the puzzle you’re thinking of was designed to ‘show’ that the previous grower (a kind of mystical prophet person to the D’Ni) was able to manipulate time.
+And yes, the Path of the Shell is excellent. I really want to go back and play through the entire of Uru but it doesn’t play nicely with my rig.
+
+31/07/2014 at 23:42
+
+Geebs says:
+
+Speaking of Uru – I recently picked it up from GoG; I love Myst but the controls for Uru are doing my nut. Is there any way to get mouse look FPS controls working? The official forums didn’t help much.
+
+01/08/2014 at 08:56
+
+The First Door says:
+
+It’s been a while, but from what I remember, no. I get a little confused though, as Myst V had similar but slightly better controls. I think for Uru, I mostly played it from third person because of that being a bit odd.
+
+01/08/2014 at 00:24
+
+frenchy2k1 says:
+
+I played The Room games (both) on my Android phone after getting them from an Humble Bundle and they were both quite lovely.
+Short, to the point, never obtuse. Just a nice and stimulating little puzzle to solve.
+Presentation is top notch, graphics are great, puzzles are nice.
+Fully recommended.
+
+01/08/2014 at 01:10
+
+caff says:
+
+I totally agree. This had my parents hooked from the minute I recommended it to them. Personally, I don’t have the patience and staying power (I wish I did). But I can appreciate the quality and style of this game.
+
+01/08/2014 at 00:29
+
+montorsi says:
+
+So is this game any good? The opening salvo leaves me questioning the writers sanity and I can’t really take his word for anything.
+
+01/08/2014 at 03:04
+
+Dances to Podcasts says:
+
+Y’all got trolled.
+
+01/08/2014 at 04:59
+
+jaheira says:
+
+Yeah, but it’s funny every time.
+
+01/08/2014 at 10:47
+
+guygodbois00 says:
+
+Is /sarcasm option turned on?
+
+01/08/2014 at 09:47
+
+John Walker says:
+
+It’s important to note that while, yes, I was obviously deliberately winding people up, nothing I said was inaccurate. Myst is AWFUL, and people who like it really aren’t to be trusted.
+
+01/08/2014 at 11:12
+
+Cinek says:
+
+Get out of this world!
+
+01/08/2014 at 20:37
+
+Deano2099 says:
+
+True, but Riven is bloody brilliant puzzle design. Just wrapped up in an interface that obfuscates it and makes it nigh on impossible to appreciate. It’d be far better in another form, as a freely navigable 3D rendered world, or even better, a real life theme park open to just one person at a time.
+
+02/08/2014 at 02:53
+
+Faxmachinen says:
+
+It’s also worth noting that while many retorts were utter slander, the statements about the modus operandi of Mr. Walker’s brain can be proven factually correct.
+
+03/08/2014 at 00:31
+
+toxic avenger says:
+
+Man, you must be such a character in real life: like the protagonist of Scorsese’s King of Comedy
+
+01/08/2014 at 05:02
+
+gwathdring says:
+
+I found is disappointing. It was very pretty, but I’ve played room escapes and secret-box-like games I find to strike a much better balance between not-evil and puzzle-like. I feel like there wasn’t enough challenge here. Everyone’s brain is different so part of the challenge of any puzzle is … well, just being a little bit illogical. And this never really took us there.
+The thing I missed most compared to room escapes and deconstructions I’ve played online wasn’t the fiendishness, though … but the multi-layered stages. This game had multiple single-layer stages. You could never really proceed down multiple paths at once. In my favorite games from this genre, you can pursue multiple avenues and alleyways of the puzzle/secret-box at once. Those alleys meet up eventually and require input from one-another and eventually it all comes back together … but that more extensive scope means that the challenge of noticing (which makes up the entirety of the interactive part) gets more robust because you’re supposed to be noticing more things across time and space. The same simple, straightforwardness can suddenly become more involved and make you feel more clever while still responding well to sitting there going “hmm” rather than expecting you to explicitly follow the puzzles illogic which is how adventure games tend to go about making things hard … which is funny because adventure games have the perfect fictional setups to do what I’m talking about well and yet so many instead rely on obscurity and illogic to create intrigue.
+Anyway, back to The Room. A better way to put all of this is in terms of what I wanted to see. When I opened that first safe? There was a bunch of cool stuff in there. I thought I would get to poke around and use bits of the big safe on the new smaller box and move back and forth and explore the interesting looking machinery of the large safe … instead all of that vanished leaving me with just the smaller box. And all that writing on the walls never mattered a whit. It felt resolutely small and that sucked away a lot of the initial mystery and interest.
+
+01/08/2014 at 07:50
+
+Black Materia says:
+
+The sequel has a more open approach like you describe in your second paragraph. Each room consist of different little puzzles which all come together in a satisfying solution to the room.
+It makes the game more about the room, and less about the box like this one. Overall I think it’s the superior game, so you really should give it a second chance when it comes around the pc eventually.
+
+01/08/2014 at 07:58
+
+Black Materia says:
+
+One of the best mobile games out there, but as with Year Walk I’m wondering how does the not-being-able-to-touch-stuff impact the experience? 
+While playing this in a dark room on my iPad, it almost felt as if the box was right in front of me, ready to be carefully manhandled by my eager fingers. The tactility of the thing was so gratifying that I almost can’t believe you get the same experience by not touching it directly. I’d love to be proven wrong, though.
+
+01/08/2014 at 11:13
+
+Cinek says:
+
+“get the same experience by not touching it directly.” – but… but you are NOT touching it directly on an iPad either. It’s just glass that you’re touching. Just glass. Chillax.
+
+01/08/2014 at 10:55
+
+bill says:
+
+I find it odd that John is so anti-myst, as it seems like exactly the kind of game RPS writers should love. 
+I do wonder if it comes down to the time in his life when he first played it. IF i’d played it for the first time as a teenager I’d have hated it, found it too hard, too slow and obscure. But now, as someone who has been more interested in recent indie games, walking simulators, etc.. it seems much closer to those.
+
+01/08/2014 at 15:14
+
+strangeloup says:
+
+I first played Myst at art college, which seems near as damnit the perfect context for it. As you say, it definitely has a lot more in common with today’s art games/walking simulators than other games of the same era, though The Journeyman Project (from around the same time) was at least a little similar.
+
+01/08/2014 at 14:11
+
+Lacool says:
+
+Pretty hard to take a recommendation on a Myst-like from a guy who spends the first 2 paragraphs saying how horrible the originals all were? So confusing…..
+
+01/08/2014 at 20:39
+
+Deano2099 says:
+
+It’s not really anything like Myst, to be fair.
+
+01/08/2014 at 18:41
+
+Baf says:
+
+I’ve played the iPad version. There are a couple of places in it which involve tilting the device you’re playing it on, which was a terrible design decision. Worse, it springs this on you unexpectedly and without telling you. They just expect you to notice that tilting the tablet has in-game effects in these two places, and that assumes a lot about the context in which you’re playing it.
+Obviously the PC version can’t do this, so that’s got to be an improvement. But I’m left wondering what they do instead.
+
+04/08/2014 at 19:13
+
+Enkinan says:
+
+Thanks for the WOT, this was an enjoyable game.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Fireproof Games, review, The Room, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

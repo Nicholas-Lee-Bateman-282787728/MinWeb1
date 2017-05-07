@@ -1,0 +1,16 @@
+
+
+
+CryptoCoinsNews
+Press Release: The addition of eight different languages to the platform makes Livecoin a truly global altcoin exchange.
+
+February 25, 2017 – Livecoin, the fourth largest altcoin exchange on the internet has announced a range of new feature additions and platform improvements. These new changes provide unprecedented ease of access to the global cryptocurrency community. The platform has extended support to 8 different languages including English, Chinese, Spanish, Portuguese, Russian, Italian, French and Indonesian (Bahasa). It allows a significant number of international traders to use Livecoin in their own native language.
+The Livecoin platform now sports a new, simple, and easy to use interface that is optimized for convenient trading. The platform has further standardized its minimum order amount by setting it at 0.0001 BTC for all cryptocurrency pairs. With these latest changes, Livecoin stands true to its commitment to making it easy for the traders, irrespective of their experience levels to indulge in cryptocurrency trading activity. While beginners get the hang of cryptocurrency trading by interacting with a user-friendly platform, seasoned traders can make use of the platform’s various tools to execute profitable trades.
+Livecoin is constantly in the process of adding new cryptocurrencies. It has recently included Iconomi, SpectreCoin, and BitConnect. Users can expect more altcoin pairs to be introduced soon.
+Started as an exchange for just Bitcoin and Litecoin, today Livecoin has turned into a gateway to the crypto-market. Livecoin prides itself on the highly functional and customizable interface, with different levels of sophistication suitable for both new traders and seasoned market sharks. All coins are examined thoroughly before being added to the roster. With a stringent review process in place, Livecoin today lists 85 different altcoins. 
+Livecoin offers free debit cards to its traders for swift cash withdrawals. Meanwhile, any funds stored on the platform is secured in cold storage to ensure its safekeeping.
+Learn more about Livecoin at – https://www.livecoin.net/
+Contact Name: 
+Contact Email: [email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */
+Location:
+Livecoin is the source of this content. Virtual currency is not legal tender, is not backed by the government, and accounts and value balances are not subject to consumer protections. This press release is for informational purposes only. The information does not constitute investment advice or an offer to invest.

@@ -1,0 +1,16 @@
+
+
+
+CryptoCoinsNews
+Quantum Resistant Ledger (QRL), a blockchain technology designed to mitigate quantum computing attacks, has recruited testers to create 50 nodes and released an updated white paper by founder Peter Waterland. QRL is seeking comment on Slack prior to a presale.
+Waterland has commented about the bitcoin scaling issue and the danger posed by quantum computing attacks on various bitcoin forums in recent years.
+There are no known bitcoin quantum attacks at present. But if a quantum computer is created that can break ECDSA, one of the most common signature schemes, then all existing ledgers are susceptible to attack, according to Waterland.
+“Classical computers cannot break ECDSA through brute force attacks – there isn’t enough energy in the sun to guess a single private key correctly,” Waterland told Hacked.
+“But a quantum computer may use Shor’s algorithm to reconstitute a private key from a public key. And the last time I checked, nearly half of all bitcoin addresses had revealed public keys. The problem is that when a bitcoin or Ethereum transaction occurs, the public key of the sending address is revealed and stored for all time in the blockchain. So at some point in the future, those addresses (currently nearly half) are at risk of quantum theft.”
+“Once the public testnet has been hardened and is sufficiently stable, we will announce a launch date for the mainnet release,” Waterland said.
+“It is exciting to be the first blockchain in the space to offer ledger-wide post-quantum security to users. Anyone interested may read the whitepaper or inspect our github repository via http://theqrl.org. We currently have a team of four devs, but are always looking for more volunteers.”
+Jomari Peterson, a strategy, operations and development expert working with QRL, noted a vibrant community, along with the implementation of an extended merkle signature scheme (XMSS), is key to securing the technology’s future. For the system to be secure, it should not be feasible to break within the next 50 to 100 years.
+The tester and public participation are expected to create a scalable and efficient quantum resistant security standard.
+A small core of private investors (early bitcoiners and interested parties) are funding the research and development of the open source project, Waterland said.
+..
+Read the full story on Hacked.com.

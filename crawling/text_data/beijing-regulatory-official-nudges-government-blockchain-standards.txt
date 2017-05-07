@@ -1,0 +1,17 @@
+
+
+
+CryptoCoinsNews
+The secretary of Beijing’s Municipal Bureau of Finance has said in a speech that the Chinese government should implement a standardized approach to the development of blockchain.
+In a speech published Sina Finance, Huo Xuewen stated that governments around the world were undertaking research and experiments looking into the applications of the blockchain. He noted that the blockchain is becoming an important financial tool and application scenarios have grown.
+While he called on the Beijing government to adopt a uniform approach to the technology, he said that there are also still shortcomings with it. The introduction of bitcoin’s distributed ledger has brought convenience and efficiency that enables the reduction of costs; however, Xuewen says that there are no clear rules and norms, which in turn bring a set of problems such as illegal financial activities and technical bottlenecks.
+Loosely translated, he said:
+There is a problem that the calculation speed is relatively slow and the storage space is insufficient. The application of the blockchain has no uniform standards, the lack of mature cases, regulatory requirements are lagging behind, which require a process of evolution and development.
+At present, the Chinese government is determining what regulations need to be in place for bitcoin exchanges as it revises its anti-money laundering (AML) requirements.
+Despite recent actions on the digital currency exchanges, the People’s Bank of China (PBoC) has yet to set out clear regulations for the bitcoin industry in China. As a result, several prominent bitcoin exchanges have halted their withdrawals services as they await an update.
+While the PBoC is yet to issue regulations for digital currency exchanges, the central bank is clear when it says that they can’t function without guidelines in place.
+And yet, with talk about a potential hard fork circulating as bitcoin’s transaction backlogs now become a common issue, how the future of bitcoin’s scaling will be like remains to be seen.
+As the blockchain reshapes the financial sector, it is slowly doing the same within other industries too.
+From healthcare, to humanitarian causes, to cybersecurity, to solar energy and food, the distributed ledger is making a path that is changing how these sectors work.
+Of course, with more research and experiments being continually conducted with the blockchain, it is demonstrating the impact it can have in several areas for the greater good to all concerned.
+Featured image from Shutterstock.

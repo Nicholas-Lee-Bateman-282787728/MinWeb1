@@ -1,0 +1,651 @@
+
+RPS Feature
+Good at being bad? 
+By John Walker on November 10th, 2016 at 2:00 pm.
+
+Tyranny [official site], a new RPG from genre masters Obsidian, is about being bad. Or at least, being in a bad place, surrounded by bad people, with the choice to be bad. The evil Overlord Kyros has conquered swathes of the lands of Terratus, and now has his sights set on the Tiers, a desolate and desperate region, populated by surviving armies and the resilient, whom you are commanded to dominate. Perhaps to enslave, perhaps to slaughter, but as Kyros’s trusted Fatebinder, it’s your job to manage the misfits and warring factions under his rule.
+Which is interesting, isn’t it?
+Well, I’m struggling to make up my mind. Tyranny manages to be fascinating and ordinary, novel and plain, engrossing and detached. And big. Far bigger than we were led to expect in the game’s promotion, where it was suggested that it was a shorter, time-limited experience, driving replays to explore different paths. In reality it clocks in at apparently 25 hours. I say “apparently” because despite working flat-out all week on this, I’m nowhere near the end, and I’d say the hour count could be an awful lot higher if you play anything like me.
+
+
+The game begins with a sequence called the Conquest. This plays out as a choose your own adventure in which you’re given choices to make within various scenarios that span a series of years – you plot out how Kyros’s forces plough through the lands toward the Tiers, and the role you play within it. And these choices influence the starting state of the RPG that follows. It seemingly determines your reputation, as well as establishing a few key elements to the world in which you’re battling, and offers a very clear way to restart the game with a different outset. Along the way you learn crucial elements of the game’s lore, including how Kyros has various Archons, magic pioneers who act as rulers within the realms, the one you report to being Tunon, Archon of Justice. And Edicts, Kyros’s most powerful magic that can destroy entire lands, although each with canny clauses and conditions. And of the conflict between the wildly disparate Scarlet Chorus and Disfavored, Kyros’s two most powerful forces. And…
+Tyranny certainly does suffer from an overwhelming glut of lore-language, so much so that battling through any of its tens of thousands of sentences can be a bit like reading a politics textbook. “The oathbreakers hold the citadel at the heart of the valley – the one built around the base of the Spire. The Matani river has been our largest headache during the siege.” Places you haven’t been, obscure titles easily confused for the dozen other obscure titles, just thrown at you, all make following the gist of the message quite the slog.
+To address this, vast amounts of the game’s text offer colour-coded tool-tips, which offer further explanations in lengthy pop-ups, themselves entangled in lore. Orange for general details about the world, green for specialist lore. This can make actually following the point achievable, but goodness me, it’s quite the way to read a quick, possibly unimportant statement from an NPC! And those tool-tips aren’t always there – nothing in the above quote was highlighted, for instance. Then you turn to the comprehensive Encyclopaedia that gives lengthy, equally convoluted accounts of each term.
+
+Right, but back to the game. If you played Pillars Of Eternity, then you have a good idea of what the game will look like – it’s the same Unity creation, and of course you’re controlling a band of interchangeable characters as they wander, chat, and fight across the pile of quests. Everything’s very familiar there – characters level, get new abilities, improve stats, and of course want to have incredibly lengthy chats with you about absolutely everything ever. NPCs can be equally verbose, meaning you can lose fifteen minutes to reading through the full dialogues to reasonably incidental characters. And the writing is, while as mentioned leaden with lore, of a good standard. It’s peculiarly sweary in a way it doesn’t seem quite comfortable with itself, but there are enormous amounts to learn from everyone, and a good dose of lovely lines. “Allies are just enemies with great patience,” especially pleased me.
+It’s tempting to say that the emphasis when compared with Pillars is on the combat, but I think that’s not quite accurate. Pillars was rammed with combat – it was, in fact, the game’s biggest weakness, where tiresome skirmishes popped up incessantly and required far too much micro-management for their lack of import to what you were playing. Tyranny is just the same, just without as much other cool stuff going on in between the fights.
+
+In fact, I think that’s a big part of what makes it such an odd game to latch onto. It feels incredibly rushed, despite being so lengthy and detailed. The mistake it makes, I think, is to try to do everything that’s done in a 100 hour RPG, but in a big hurry. For instance, your party members are introduced to you at a completely daft rate, piling up so quickly that you’ll have barely got to know the last, rather than more sensibly simply featuring fewer of them, arriving more calmly. 
+Then there’s the deliberate attempt to introduce a sense of rush. When you start out there’s an Edict that’s going to kill absolutely bloody everybody, you included, if a particular area isn’t captured within eight days. There’s a counter at the top of the screen, and it gently pulses to remind you of the urgency. In Hayden’s preview last month, he was told how it was tough to get everything done in that time, and that the game would simply end if you ran out. I finished every bit of it, every side quest too, with six days left on the clock. It didn’t work at all.
+
+Which brings me back to how I play these things. I can’t leave anything unturned. If I had a lick of sense I’d have burned through the main quest to reach the end, and written this review after that. But I can’t. I can’t leave conversations unspoken, side-quests unfulfilled, details not understood. And so the hours clock up and up, which is great for the game, rubbish for getting a review finished on time. (I’m going to keep playing, and write a follow-up piece.) Given that the time limits don’t threaten even when playing like that, it’s clear that something hasn’t quite worked.
+I then found myself in a predicament with the combat, where on Normal difficulty you’re required to do a minimal amount of micro-managing and pausing of the real-time-turn-based combat. It works very well, and gets even better when you start doing combos, special abilities performed by you and another party member in tandem, with spectacular results. There are so many weapon types, approaches, balancing of weapon sets, co-ordination and magic. Push the difficulty up and you’ll be worrying about every moment. Or, as I found myself forced to in order to get anywhere before time ran out, put it down to Easy and it’ll pretty much run itself for you. Normal is the best mode for me, playing on Easy is supposed to give you a “just the story, thanks” approach, but when fighting is such a core element it takes far too much away.
+Oh, and it’s worth making clear, while the game looks like Pillars, and in lots of ways plays like it, the games’ stories and lore don’t overlap. It took me forever to realise this, I admit, as I kept trying to draw associations that aren’t there. I am silly.
+
+And gosh, I’ve not mentioned so many details. It has a unique spell system, where you craft your own spells from constituent elements, more of those discovered as you explore, and then taught to your party members. There are special artefacts, sometimes weapons, sometimes objects, that themselves gain levels through use. There are Spires to gain control of, and then upgrade, to improve your stats. There are Missives, that… no, see, you can find this stuff out for yourself.
+You can also gain favour with other characters as you’d expect, but being a baddie isn’t always about saying what people want to hear. You can also gain wrath and fear, points attributed for angering or scaring, which also unlock special abilities and bonuses. Such elements can be lost too, of course – it adds an extra dimension to deciding what you might want to say to someone. 
+Oh, and the most important thing! You can be really bad! There are decisions to make at various points that offer some quite surprising levels of horridness, and since this is a game that lets me, I’ve embraced that. Most importantly, it doesn’t dismiss this – making outrageous choices has unique consequences, and opens up unique storylines (one where I thought my choice might break the flow, but instead made things a lot more interesting to me).
+
+Muddled? I am. There’s so much going on here, but I never really feel like I’ve got a proper grip on it. It feels like a puddle the size of the Atlantic – this vast concept, but too gossamer to sink in deep. Huge stories, but minor roles in them. Exquisite detail, but all going by too fast. And yet, pretty good with it. Just not as good as what’s come before.
+When I’ve got this thing all polished off I shall be back with any further opinions. In the meantime, Tyranny is out today on Windows, Mac, and Linux through Steam and GOG for £35/$45/€42.
+
+10/11/2016 at 14:24
+
+Drib says:
+
+Sounds neat to me anyway. Mile wide and an inch deep is pretty much the go-to for games lately, so I might as well embrace it.
+Though I still have Pillars of Eternity laying around unplayed.
+And about 500 other games.
+
+10/11/2016 at 14:25
+
+NetharSpinos says:
+
+It frustrates me to read this article because I know that, in many ways, it will be a mirror of my own experiences.
+I was ecstatic when Pillars was first announced. A spiritual successor to Baldur’s Gate/Icewind Dale? Here’s my soul, my card details and the rights to my firstborn. And yet, though I did complete it, something felt distinctly off about it. As you say, it felt detached and difficult to really take anything in; I’ve eventually settled on the stance that it wasn’t Baldur’s Gate 3, but I know that isn’t really the issue. I think it was a myriad of reasons, like magic & spells being more dnd sorcerer-like than dnd wizards, rogues being almost pointless with the skills system, the bizarre celtic naming system, the battery of new lore to take in & retain, the inclusion of Ciphers and their peculiar brand of psionics (or soulonics, I suppose)…and now, with Tyranny mere hours away I fear the exact same problems are going to occur.
+Truly, I want to give Tyranny a chance. I mean, I’ve preordered it (Winners Don’t Do Preorders) and I relish the chance to be consistently Evil for the entire game without having to resort to making a character specifically for that purpose.
+At least it won’t be as heartbreakingly bad as DA:I.
+
+10/11/2016 at 16:29
+
+Bodylotion says:
+
+When Baldurs Gate 2 came out things were different. If you anything like me you have pretty much seen it all so it’s hard for Pillars to be beat that nostalgia.
+Aside from that, there are some things Baldurs Gate 2 simply did better (in my opinion); (I must say I did not beat the game yet) For one there’s no real humour to be found. 2: Everything looks dark, there are no fun towns to explore etc.
+
+10/11/2016 at 17:39
+
+BigBlackAmericanMan says:
+
+People who say PoE didn’t have humor obviously didn’t play the game enough. You won’t get anybody as outrageous as Minsc (who was one of my least favorite characters in BG2), but characters like Eder and Hiravias are just as funny as many of the BG2 characters. Heck, the 3 characters you get in the expansions are borderlinging ridiculous at times.
+There were a lack of cheelfulness in the towns, but considering the hollowborn crisis happening, can you blame the citizens for being depressed?
+
+10/11/2016 at 19:48
+
+John Walker says:
+
+“borderlingling” is the best word ever.
+
+10/11/2016 at 20:47
+
+Lacero says:
+
+I thought the expansion monk was very funny.
+
+11/11/2016 at 22:52
+
+K_Sezegedin says:
+
+Yeah there’s humor but who can say if they’ll find it funny. 
+Bioware humor has always annoyed me, reminds me of overeager theater kids in highschool, alternating between loud and goofy (minsc) to straight out annoying (noober/neeber).
+Edwin was almost funny at times. 
+Pillars I found unfunny in a different way like more… tryhard witty? 
+I’ve yet to go through White March 2 though so haven’t spent much time with the new PCs. 
+but I do think the humor is better than the Baldur’s Gates’ if not as naively playful which is kinda cute in retrospect.
+
+11/11/2016 at 14:46
+
+SaunteringLion says:
+
+Games like Pillars of Eternity, Divine: Original Sin, Shadowrun Returns, they can be good, great even (D:OS Enhanced and Dragonfall are both top notch). But none of them feel like the heirs to Baldur’s Gate 2. They’re too… Conscious in their desire to capitalize on the nostalgia for isometric RPG’s.
+If anything is the rightful heir to Baldur’s Gate 2 it’s the Witcher 3.
+
+10/11/2016 at 14:34
+
+RaunakS says:
+
+I am yet to go through the whole article, but a preliminary question: why does John refer to Kyros as male? Isn’t she a woman? Is it randomized in some way? Cause I’m pretty sure Obsidian refers to Kyros as “her”:
+link to reddit.com
+
+10/11/2016 at 14:51
+
+Wulfram says:
+
+I believe Kyros’ gender is an in-universe mystery.
+(But Kyros is a male name)
+
+10/11/2016 at 15:37
+
+Emeraude says:
+
+Well, thank for sending me to the wikipedia page for Kairos.
+Interesting in context.
+
+10/11/2016 at 15:04
+
+pepperfez says:
+
+It looks like Kyros is neither male nor female but Overlord. In the official lore they don’t use any pronouns to refer to Kyros, so I guess it’s just a personal choice of default pronoun (and because Obsidian making sure we don’t unquestioningly assume an Overlord is male).
+
+12/11/2016 at 21:37
+
+Sangrael says:
+
+Tunon repeatedly refers to Kyros as “she” or “her”, and you can gain considerable wrath by pressing him on it.
+
+10/11/2016 at 14:47
+
+Mungrul says:
+
+Sounds a lot like “Chronicles of the Black Company – The Game.”
+It does intrigue me, but with so many other games to chew through at the moment and the fact that I couldn’t stand Pillars’ stats system or real-time-with-pause combat, I’ll steer clear for the time being.
+
+11/11/2016 at 15:07
+
+nearly says:
+
+I was perfectly content to wait until the game was cheaper (given how I know I’ll feel about many of the things described above) until I read your comment. Now I’m going to impulse buy or pine over it for a while. Thanks.
+
+10/11/2016 at 14:47
+
+CurseYouAll says:
+
+What made BGII awesome was not only the story, characters and D&D implementation but also the combat. Battles were engaging, diverse and important, against enemies that were smartly placed, of varying races/classes and with different tricks up their sleeve.
+Those uber battles against high-level enemy groups that included fighters, mages, clerics, rangers, etc. were truly epic. You know, like that moment when 5 minutes into the fight you are like “I finally killed their paladin, and their cleric is almost dead – if I can only hit him with another +5 arrow before he heals up – and then I only need to get the magic defences of their wizard down so I can cast Finger of Death on him”. And all those enemies were unique characters with their own names, equipment, skills and AI. Fighting them felt thrilling. Killing them felt satisfying.
+None of this was in Pillars and I also fear not in this one.
+
+10/11/2016 at 15:07
+
+Zekiel says:
+
+Really? I agree with you about that being one thing that made BG2 great, but I’d argue that was equally the case with Pillars as well. There were *loads* of fights against NPC (kith) parties, and plenty of monsters had their own special abilities too.
+
+10/11/2016 at 15:34
+
+HopeHubris says:
+
+See, I completely disagree, the combat is the worst part of any RPG. I can’t get through it fast enough, I just want to chat to all the people
+
+10/11/2016 at 21:39
+
+Andy_Panthro says:
+
+Very much the same for me, which is why I found Pillars a slog, even on easy mode. If Tyranny also has tons of combat… well I’m disappointed.
+
+11/11/2016 at 09:28
+
+Superpat says:
+
+Here’s hoping the new torments crisis system will bring a much needed overhaul to rpg obstacles.
+
+10/11/2016 at 17:44
+
+BigBlackAmericanMan says:
+
+You need to take your rose tinted glasses off.
+
+10/11/2016 at 22:31
+
+TheAngriestHobo says:
+
+That doesn’t sound like my experience at all. BG2 was a great game, but pretty much every battle could be won by sending one character in to grab aggro and run around in circles while everyone else shot the bejeezus out of the baddies.
+
+10/11/2016 at 14:57
+
+godunow says:
+
+It is also on gog, you know the other place to get games…
+
+10/11/2016 at 15:02
+
+Zekiel says:
+
+Mmmmm….. I’m completely stoked about this game so thanks for helping temper my enthusiasm John :-( The idea of “not that long but lots of replayability” sounds like a great one for an RPG. But on the other hand “Pillars of Eternity but even more combat” isn’t a great selling point. (And I *love* Pillars of Eternity.)
+
+10/11/2016 at 15:04
+
+reverseclipse says:
+
+Just like Pillars, I wish there was a turn based combat option. Real time with pause lets me set up, but then my characters go all stupid when I unpause. I will set up a huge spell and then a melee will run in like it wants to die too.
+
+10/11/2016 at 19:50
+
+John Walker says:
+
+It is turn based!
+
+10/11/2016 at 22:36
+
+Zekiel says:
+
+Umm… it is? Not real-time-with-pause like Pillars of Eternity?
+
+11/11/2016 at 01:52
+
+magogjack says:
+
+I believe that John is point out that, if you want, you can play it as turned-based just by hitting the space key every few seconds.
+
+11/11/2016 at 02:03
+
+dethtoll says:
+
+That’s like saying something is red and then presenting me with something that’s purple. It’s a nice shade of purple, but I asked for red, thanks.
+
+11/11/2016 at 07:49
+
+John Walker says:
+
+No, it really is turn-based. While you only stop the chain of turns by pausing, each character in the battle takes it in turn to make their move. It’s not the same as Pillars.
+
+11/11/2016 at 09:42
+
+Zekiel says:
+
+Wow, they’ve kept that surprisingly quiet. Thanks for clarifying John.
+
+11/11/2016 at 18:47
+
+Horg says:
+
+It’s not turn based, it’s real time with pause in the same style as Pillars. The only noticeable difference is that the recovery time between actions seems to be longer in Tyranny, but each character is still on it’s own timer and acts based on individual recovery interval.
+
+11/11/2016 at 21:50
+
+xsikal says:
+
+It is most decidedly NOT turn based. Each character in combat has their own cooldown timer for attacks, but attacks can occur simultaneously and combat progresses in real time.
+It is very much like every other real time with pause iso-rpg in that respect, except they make the cooldowns more explicit. (More DA:O than BG2, in other words)
+
+16/11/2016 at 06:17
+
+malkav11 says:
+
+Yeah, saying that a game is turn-based because the characters act at distinct intervals while ignoring the fact that all of this happens in real time without requiring or soliciting your intervention is to delight in a technicality that is entirely unhelpful and has nothing to do with the commonplace usage of the term. And that’s the case here. Tyranny is very much real time combat that will merrily proceed without you touching it (but you’ll get slaughtered if you let the AI run everything), which can be paused. It is not in any meaningful sense turn-based.
+
+10/11/2016 at 15:14
+
+GeoX says:
+
+Tyranny certainly does suffer from an overwhelming glut of lore-language, so much so that battling through any of its tens of thousands of sentences can be a bit like reading a politics textbook….Places you haven’t been, obscure titles easily confused for the dozen other obscure titles, just thrown at you, all make following the gist of the message quite the slog.
+Boy, that was EXACTLY what turned me off Pillars of Eternity right from the start. The damn character creation screen just barfs out endless exposition about this world and these cultures that *might* be interesting in context, but which without any just left me wondering, uh, is there going to be a test on this? I never had to deal with this kind of nonsense in Baldur’s Gate.
+
+10/11/2016 at 15:43
+
+Horg says:
+
+I don’t think that’s true at all, the Baldur’s Gate games were full of DnD based exposition and plot specific unfamiliarity for a first time player. The only difference is that DnD is more established than the new settings Obsidian / In Exile have been creating, so with more experience of the jargon it’s less intimidating at first pass. I mean, how else are a writing team ever supposed to introduce a new setting without forcing the reader to assimilate unfamiliar content? They would either have to pull off a miracle of exposition that flowed so logically there was no room for confusion, or make a setting so generic that it would get panned for a lack of inspiration. This criticism of games being lore / jargon heavy is making me think that as gamers get older, they are losing their appetite for the new and would rather have something safe, local, somewhere they know where the exits are, somewhere they are allowed to smoke. Personally, i’m looking forward to immersing myself in the fresh setting. Bring on the lore.
+
+10/11/2016 at 16:01
+
+Cropduster says:
+
+I agree, Pillars was pretty inpenentrable to me at first, but after a while it turned into one of the best CRPGs I’ve played. It was easily my favourite game of last year (and that was a really good year). I didn’t instantly like Badlur’s Gate or The Fall at first either, sometimes the best things are weird and confusing the fist time around.
+It would be very ignorant of me to say “you’re just not reading it properly so you can’t appreciate it on the same level I do”, so I’m just to infer it passively via this sentence.
+Not every game is going to match Planescape Torment’s writing, but that doesn’t mean that writer’s should stop trying.
+
+10/11/2016 at 16:16
+
+GeoX says:
+
+Baldur’s Gate introduced information as needed throughout the game, and it reserved the extra stuff for books. PoI just says straight-up, HERE’S ALL THIS EYE-GLAZING LORE WITH NO CONTEXT THAT MAY OR MAY NOT BE IMPORTANT PLEASE ASSIMILATE IT RIGHT NOW. Big difference.
+Also, I reject the notion that there’s anything new or outside-the-box about yet another iteration of Generic Fantasy Lore.
+
+10/11/2016 at 16:34
+
+Cropduster says:
+
+Well the good stories in BG2 were focused around the characters, so you didn’t really need any lore. And the central plot for both games was ‘find/kill the bad guy from the intro’. Not saying they wern’t great games or anything, but the core plot just didn’t require any understanding of the bigger in-game world.
+Pillars is way too verbose, but they went for a story where the central plot is completely dependant on the lore, religeon and machanics of the world they made. Which, I think, was pretty cool, and worth a bit of clunky dialogue.
+Even PS:T which people are always holding up as a high water for writing in games, was super verbose, and required you to learn about the Planes & Sigil, and wanted you to have a good old ponder between text dumps.
+
+10/11/2016 at 17:22
+
+Oozo says:
+
+I agree in parts, but I nevertheless have to say that Torment, albeit having a vastly stranger and more complex lore, never felt as suffocating as Pillars did pretty much throughout the better part of the game. 
+I’m saying this as somebody who had no previous knowledge of the Planscape setting before playing the game. I guess the fact that it shared some concepts with D&D might have helped, but I’d figure it’s more that they simply were more humble and more conscious of the challenges and the limits they were operating in: Torment used the amnesia trope, but it tied it to the central character’s story and, in extension, to the whole game’s story. That worked in that case. Also, you were introduced to pieces of the world first, and only slowly to the more complex aspects of it, if I remember correctly. Pillars throws a complex conflict between warring factions and gods into your face pretty right away and will never let up. It’s clumsy (and I’m saying that as somebody who finished the game and is fine with reading about any amount of text you throw my way, if it’s done well). 
+I’m not saying that you can’t install complex lore people are not familiar with while telling a complex story. There are tried and true strategies for that. (The amnesiac protagonist, the stranger in a strange land, the coming of age-story, the archeologic, ‘discover, don’t tell’ strategy of something like the Souls games, ‘outsourcing’ the lore to books, starting with familiar tropes and subvert them step by step, and so on and on…) But it is hard. Pillars had aspects of some of that, but it ended up getting super verbose and turning the game into a wiki… that’s not the best solution to the problem, I think.
+
+11/11/2016 at 10:08
+
+Zekiel says:
+
+I loved Pillars’ lore and worldbuilding, but it definitely could have been delivered better. It has an odd failing that it both sometimes overwhelms you with lore, and other times doesn’t introduce important concepts early enough. I think I was half-way through the game before I really understood what had happened with the Saints’ War, which is pretty crucial to understand for the plot and general understanding of the world. I skipped an early optional dungeon which would have explained it.
+But generally I’ve realised I adore interesting worldbuilding, and I’m prepared to put up with some clunky lore-dumps if necessary.
+
+16/11/2016 at 06:21
+
+malkav11 says:
+
+I really think the biggest obstacle to absorbing Pillars’ lore isn’t the frequency or length of infodumps, it’s the nomenclature which derives from the styles of languages that are not commonly used or understood anymore and which is terribly difficult to keep straight for people who aren’t used to it. Even Planescape didn’t have such a dense argot and most of it made sense in context and wasn’t that far from common English usage.
+But it’s worth it. The Pillars setting is fascinating. So’s Tyranny’s, frankly.
+
+10/11/2016 at 16:30
+
+inspiredhandle says:
+
+I think part of the problem might be that lore in games these days is mostly shit. Replaying skyrim with the se reminds me of this, every time I accidentally pick up a book that doesn’t grant a skill bonus… “Ugh”
+It sounds perfectly executed in this case. You are a foreign empire’s top general having to learn an entire culture from scratch to conquer it. Shouldn’t it feel a bit overwhelming?
+
+10/11/2016 at 17:43
+
+BathroomCitizen says:
+
+Phew, and here I thought I was the only one who found Pillar’s lore intimidating. Yeah, it felt that its history would’ve been interesting, but boy, it was hard to digest it all right from the character creation screen.
+Those are some of the things that overwhelm me and make me stop playing many crpgs. Some games do it right, others do it wrong.
+
+16/11/2016 at 06:23
+
+malkav11 says:
+
+You aren’t a top general, you’re an agent of the courts with a lot of leeway and personal might, and while you eventually spend time around the local cultures, I would imagine, the first major lore dumps are about the invading armies you’re working with, their leaders, the way the Overlord does business, etc.
+
+11/11/2016 at 14:57
+
+SaunteringLion says:
+
+Booting up Baldur’s Gate now, it’s pretty broad strokes. Here’s the keep where you grew up, here’s your adoptive father figure, here’s the big city. And classes are what you expect when you hear “fighter” or “wizard.”
+Between Baldur’s Gate and Pillars of Eternity, the latter contains far more infodump, right from the start and then across the game.
+
+11/11/2016 at 18:57
+
+Horg says:
+
+That glosses over things like the chanters singing the prophecy of Alaundo / the time of troubles, the Oghma priests that populate the keep, the purpose of the keep itself, the letter from Elminster (who you haven’t met at this point) warning of impending trouble, the introduction to the iron crisis, all that before you even leave the keep. That’s the sort of thing that gets complained about in more recent games, but is easy to overlook in Baldur’s Gate becasue we are so familiar with it.
+
+11/11/2016 at 14:41
+
+shde2e says:
+
+Agreed, the sheer bloated volume of lore, exposition and dialogue Pillars threw at you made it really hard to follow what was going on. And when i lost my tentative grasp of the plot at a certain point, I just could not be bothered anymore and quit.
+Tyranny seems to have done it a lot better though (although there is still much room for improvement). Also note i’m still in the first act, so this might all change.
+For one, they’ve reduced the actual dialogue sizes. Most responses will give you a few lines at best, and even in the plot critical missions you will rarely get a page-long monologue. 
+What I also found really helped was how much Tyranny ties everything into it’s factions. You first get to know the two main “allied” factions in the conquest intro, which helps you get familiar with them before you do any actual character or story stuff. Then they tie many of the companions, characters , narrative and events back into these two factions, which makes the plot significantly more compact and easier to remember who is who (having memorable character designs also helps). It also helps you place things in context easier, which makes digesting the lore a lot more simple. On top of that, they keep much of the actual worldbuilding fairly straightforward. Most of the lore is about the factions you’re currently interacting with, how they think of eachother, the Evil Empire as a whole, or the current area you’re in (and which you might have already seen things in during the “conquest” intro)
+
+10/11/2016 at 15:21
+
+lasikbear says:
+
+I do really like the idea of text being written as if you knew what it was referring to, and then using the footnotes to explain. It sounds like it doesn’t always work that well, but I’m glad someone gave it a shot. It’s a nice idea, and a departure from the awkward situation most games run into where they have to shoehorn in a bunch of exposition for the player that the character would already know. Mass Effect did the encyclopedia thing, but that was a bunch of “click into a menu, then another menu, then listen to a dramatic reading” which felt too tedious.
+
+10/11/2016 at 15:49
+
+Emeraude says:
+
+That’s definitely something I’m hoping will work.
+
+10/11/2016 at 16:34
+
+Rizlar says:
+
+It worked in PoE, I rather like it. It’s nice to be able to choose how much you engage with it and pretend that your character actually knows about the world they are in as you go along.
+
+10/11/2016 at 19:55
+
+John Walker says:
+
+Oh, it still does the barmy thing of your character asking everyone about every aspect of the world she’s lived in all her life.
+
+10/11/2016 at 15:29
+
+Emeraude says:
+
+I must say the round of reviews is cold-showering me, between Mr Walker thinking he has way too much time on that timer, the news on combat, the cliffhanger ending… really wondering whether to grab it right now or wait later.
+At the same time, still loving the idea of what the game seems to do right.
+
+10/11/2016 at 15:37
+
+FhnuZoag says:
+
+Ooof, this review is damning. I already found Pillars a lot less enjoyable than most people did, this game seems to double down on everything I disliked.
+
+10/11/2016 at 15:42
+
+Foosnark says:
+
+Back when I was working on games, Brian Heins (the director of Tyranny) was more or less my assistant.
+The review here describes exactly the sort of game I would expect him to make. Overwhelming heaps of lore, well written, unique magic, the feeling of being rushed and the opportunity for the player to be an utter bastard, and kind of… a photograph of depth, if that makes sense.
+(My own stuff tended toward technical tricks, oddly specific obsessions, mostly lazy writing with a few probably good bits, and being an utter bastard TO the players.)
+
+10/11/2016 at 19:06
+
+instantcoffe says:
+
+And the name of the games you two worked on, my good sir?
+I’m intrigued.
+
+10/11/2016 at 20:57
+
+Foosnark says:
+
+DragonRealms, a text-based online MMORPG.
+This would have been about 1996 or 1997. It’s still running AFAIK though.
+
+10/11/2016 at 16:03
+
+Rizlar says:
+
+This sounds like everything PoE did but better and the chance to really get into roleplaying something beyond a nice/sarcastic person. Basically everything I wanted Tyranny to be.
+Couple of things: apparently higher combat difficulties don’t change stats but instead make the AI more vicious and clever. Which seems really interesting and doesn’t come through in reviews that were played on lower difficulties.
+Don’t agree with the ‘inch deep, mile wide’ cliched criticism being applied to PoE, although I can see where it comes from. Like a wealth of roleplaying options lacking mechanical complexity. But the story, themes and characters had loads of interplay and depth.
+Bought it off the back of this review and others. Cheers!
+
+10/11/2016 at 16:18
+
+Cropduster says:
+
+Re the whole “size an ocean, depth of a puddle” thing, I can see how people would think that, in terms actual role playing POE was a fairly linear story with some token nods to role playing. The real depth was in the combat and stat mongering (which is what I really liked about PoE). 
+Pretty similar to Bladur’s Gate, which had a fairly po-faced fantasy story where you choose between a nice answer, a bad answer, and a disinterested answer, but built on top of a number crunching combat system that kept a special breed of nerd entertained for decades.
+These days RPG seems to mean “your choices in dialogue have long lasting reprocussions + embarassing romance with party members” a la mass effect. Which is fine, and maybe even more true to the roots of RPGs. 
+But tbh I loved PoE, and if a laser rifle doesn’t have a THAC0 I’m not sticking around just to woo some alien.
+
+10/11/2016 at 16:27
+
+Rizlar says:
+
+See, the stat crunching really doesn’t appeal to me, it was the depth and consistency in the story, themes, world that really won me over despite feeling indifferent at the beginning.
+
+10/11/2016 at 18:39
+
+Smoof says:
+
+I’m with you on this and it’s the primary reason I loved Divinity: Original Sin, but couldn’t get into PoE, even after 30 hours.
+
+10/11/2016 at 19:58
+
+John Walker says:
+
+I’m wondering if I have phrased something poorly, because that is a reference to this game. PoE was a mile deep too.
+
+11/11/2016 at 00:03
+
+Rizlar says:
+
+Ah no, I realised you were just referring to Tyranny. Thought I was responding more to other commenters, looking back I seem to be mistaken, noone is making that criticism of PoE. :S
+
+10/11/2016 at 16:40
+
+kud13 says:
+
+I enjoyed PoE. But then again, I still haven’t played the Baldur’s Gates, so there’s no nostalgia to compare it to (I did play Planescape, but that had atrocious combat, and PoE did it so much better)
+The lore info-dump where you are initially lost sounds like just like starting to read Malazan Book of the Fallen (which is a great thing imho). I’ll have to pick this up soon (once I make a few more dents in the backlog. And replay PoE with the White March expansions).
+
+10/11/2016 at 16:47
+
+Jdopus says:
+
+I’m a little confused by these two sections John, can you clarify?
+“Push the difficulty up and you’ll be worrying about every moment. Or, as I found myself forced to in order to get anywhere before time ran out, put it down to Easy and it’ll pretty much run itself for you.”
+And
+“In Hayden’s preview last month, he was told how it was tough to get everything done in that time, and that the game would simply end if you ran out. I finished every bit of it, every side quest too, with six days left on the clock. It didn’t work at all.”
+In one you seem to be saying the timer is not at all restrictive, in the other you seem to be saying the timer is so restrictive that you had to turn it down to easy to make it to places on time? Are there different timers?
+
+10/11/2016 at 17:30
+
+kud13 says:
+
+My understanding was: on “Normal he was able to do anything in 6 in-game days”. The perceived threat of “you ONLY have 8 days, you won’t do everything” didn’t work.
+On the other hand, on “Hard, the combat and micro-managing required all his time. I’m not sure if this means the timed limit is actually meaningful on Hard, or if it’s just a comment on how tedious/requiring all your attention the combat becomes.
+
+10/11/2016 at 19:06
+
+Viral Frog says:
+
+From the other article that was linked in one of those paragraphs.
+“Yes, it’s an actual time limit a la Fallout. Once you’ve read this edict, a counter pops up at the top of the screen informing you how many days are left until all life is extinguished. Time passes whenever you leave to go to a new area (a.k.a. when traveling), and if you don’t accomplish your goal before the eight days is up?
+“The game ends,” said Heins. “If you are really good and know where to go you absolutely can do everything in that eight days, though it starts getting tight.”
+The developers told Hayden that it would be difficult to manage clearing up sidequests and such. John’s experience is that he didn’t find the difficulty they mentioned, and finished before he ever felt pressured by the timer.
+
+10/11/2016 at 20:03
+
+John Walker says:
+
+Sorry, yes, let me clarify:
+The in-game timer is not based on for how long you play, but the amount of in-game time that passes, which is only changed by travel/rest. So you can stay in one location forever and not see the timer go down.
+Whereas I was under the pressure of real-life time, not having enough days to play as much as I wanted to before release.
+Where difficulty could make a difference is in needing to rest to heal wounds, so taking more of the time. However I didn’t switch the difficulty down until after the timed section was over, so finished it with 6 days left on Normal.
+Hope that clears it up.
+
+10/11/2016 at 23:14
+
+Jdopus says:
+
+Oh ok, I get it. Thank you!
+
+10/11/2016 at 16:59
+
+Skandranon says:
+
+From the phrasing, it kinda seems he meant “before time ran out to write this review”.
+
+10/11/2016 at 18:12
+
+Isendur says:
+
+If anyone played this for longer than 10 hours: do give me a shout out if the game suffers from the same engine bug that causes every transision between maps to take from 30 seconds to a minute. It killed the Pillars for me. Don’t want to take a risk.
+
+11/11/2016 at 09:39
+
+Zekiel says:
+
+If it helps, I think Pillars of less bad now. A couple of the patches supposedly improved loading times; I also read some advice to limit the number of saves you have. Doing that seemed to keep the load times to under half a minute (on a HDD). (Still not nippy though!)
+
+10/11/2016 at 18:31
+
+Gibs says:
+
+will play…when patch 3.0 arrives.
+edit: oh my, edit button enabled!!11
+
+10/11/2016 at 20:42
+
+yusefsmith says:
+
+I second the question about performance. Game became damn near unplayable towards about 15 hours in for me
+
+10/11/2016 at 20:46
+
+satan says:
+
+Find myself wanting to play a demo of this game before I buy it, just to decide if I like the feel/lore/world.
+
+11/11/2016 at 10:09
+
+Zekiel says:
+
+Might be worth reading the official blog then, which has a bunch of short stories and some info on the lore (and companions).
+
+11/11/2016 at 00:22
+
+Someoldguy says:
+
+I’m glad you’ve enjoyed it so far. The PC Gamer review isn’t so upbeat having completed the game twice. Looks like one careful playthrough may be the way to go, which suits me.
+
+12/11/2016 at 21:47
+
+Sangrael says:
+
+I think that really depends on what you want out of a game like this. If you like lore and story, then multiple play throughs are a must to see everything. There are multiple branching events where you have to make a choice that will completely block off other events later. Even save scumming to see other options isn’t much of a choice, as a major decision happens within the first two hours that alters the rest of the game.
+
+11/11/2016 at 09:39
+
+Superpat says:
+
+Hhmm this sounds interesting, but while I dont mind buying a strategy game when it comes out and replaying it with expansions, I think I might be done with getting rpg’s before all the expansions come out, I just cant find the time/will to replay most of them.
+Though that does mean I’m not voting with my wallet until rather late in the process… Which is another debate.
+
+11/11/2016 at 09:47
+
+Zekiel says:
+
+I agree. I’m a bit dispirited to hear Tyranny ends abruptly (and will presumably be continued with DLC). Pillars of Eternity’s approached worked fine for me – it was such a huge game, and the DLC was an “added-in-the-middle” thing, that playing without the DLC was fine.
+
+11/11/2016 at 12:44
+
+Someoldguy says:
+
+Yeah. Without having experienced it yet, it’s hard to say how much it will colour my opinion, but I do think that they may have shot themselves in the foot if the ending is genuinely bad. Haven’t they learned anything from “classics” like Mass Effect 3 and Fallout 3? Of course this one wasn’t crowd funded and has a publisher. Did the need to ship before Thanksgiving result in chopping out some intended content or a lack of polish? 
+I find myself taking this attitude with authors these days. As a teenager I’d happily buy trilogies one book at a time because volumes seemed to ship reliably less than a year apart and my memory was good enough to retain the salient points. With some well known more recent authors turning trilogies into decologies and going many, many years between books (while doing tv deals or writing other stuff) I’ve now stopped taking that risk. If I really cannot wait I’ll grab their stuff from the library. I know authors aren’t robots but readers aren’t unthinking cash cows either – and nor are gamers.
+
+12/11/2016 at 21:45
+
+Sangrael says:
+
+The game definitely ends, but it’s not a huge cliffhanger. It’s more akin to the season endings of most TV shows. Things from the game are wrapped up, but it sets up the next “season” as well. I didn’t feel cheated when I finished the game.
+
+11/11/2016 at 13:44
+
+Coming Second says:
+
+I get the impression from both PoE and this review that modern day Obsidian are at their best when they step a little away from their comfort zone and do non-Unity based stuff. The Stick of Truth and New Vegas are both fantastic, but Obsidian seem to believe producing a top-down traditional RPG is an excuse to abandon brevity, lightness of touch, character interaction and environmental storytelling in favour of vast, dry tracts of exposition.
+Perhaps they believe it’s what their core fanbase want, and maybe it’s true for some. But I mostly know them for one of my favourite games of all time, New Vegas, and I struggled with Pillars. It was like Dostoyevsky – I could appreciate it, but not love it.
+
+11/11/2016 at 20:08
+
+haileris says:
+
+I’ll buy it when they patch the other Paradox games that are still full on game stopping bugs and yet still being sold on steam, on their website etc.
+
+11/11/2016 at 22:43
+
+Rulin says:
+
+One thing I am enjoying so far, is that the game seems to have (intentionally) less backtracking than PoE.
+Can anyone tell me if it is a good idea to unlock both sides via reputation?
+I am a bit unsure, maybe there is a disadvantage when try to get all the passives/skills a faction or character has to offer.
+
+12/11/2016 at 21:43
+
+Sangrael says:
+
+By both sides do you mean the Unforgiven and the Chorus? Or do you mean Loyalty/Favor and Wrath/Fear? The answer to the first would have too many spoilers, but the second is easy: yes, you want to be feared and loved by everyone, especially your followers. High levels of Favor and Wrath will also unlock additional dialog options with NPCs throughout the game, and can alter what ending you end up with.
+
+12/11/2016 at 21:41
+
+Sangrael says:
+
+I quite enjoyed my first play through on hard. Steam is telling me it took 14 hours to finish, and that was with reading everything, including going through all the dialog options with the 3 followers I stuck with all game. Would have taken a bit longer if I also read through all the other followers dialog, but I’m leaving them for another play through. I set out to be a giant evil jerk, but I ended up going with the neutral harbinger of justice route, because I’ve had a hard time RPing as evil ever since Cecil became a Paladin.
+If you enjoy games in the genre I can definitely recommend it. I’m gonna jump back in it this week once I have another block of free time and see how supporting the rebellion plays out. At the end of the game I was already ready for the expansion so I could keep following the story. If you read everything there’s a very strong lore backbone to the game that’s missing in a lot of similar titles.
+
+20/11/2016 at 18:08
+
+Curled Woofy says:
+
+Has John been banned from Terratus? Will this review ever be finished?
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Obsidian Entertainment, Paradox, review, Tyranny.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

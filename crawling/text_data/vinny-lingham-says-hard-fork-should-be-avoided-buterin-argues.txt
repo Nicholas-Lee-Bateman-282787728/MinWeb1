@@ -1,0 +1,25 @@
+
+
+
+CryptoCoinsNews
+Bitcoin Unlimited has been a controversial topic within the bitcoin community mostly because of the recent exploitation of the software’s internal bugs. On March 15, several developers outside of the Bitcoin Unlimited development team found several bugs in its software which led to a 6-hour downtime for miners and shut down 500 nodes within minutes.
+When bugs emerge, developers can provide appropriate fixes and solutions to address them, similar to how the Ethereum development team released various patches in late 2016 to build resilience toward similar types of bugs and attacks. Therefore, the presence of bugs isn’t necessarily an issue. However, the big issue with Bitcoin Unlimited is that the bugs weren’t prevented beforehand and had to be discovered by independent developers. This is because Bitcoin Unlimited as a closed group of developers, unlike Bitcoin Core which has a lead development group and an open source community of developers.
+While the actual Bitcoin Unlimited bug didn’t pose a significant impact toward the Bitcoin Network, if Bitcoin Unlimited was being forked when the bug was discovered, Bitcoin and security expert Andreas Antonopoulos explained that the damage “would have been in the millions.”
+This time there was little economic impact. During a fork, the damage would have been in the millions. QA matters. It matters $millions
+— Andreas (@aantonop) March 15, 2017
+
+If Bitcoin Unlimited is hard-forked and the execution of it leads to a split chain, two networks will co-exist. Bitcoin Unlimited network will operate with its own digital currency like Ethereum Classic and the original bitcoin network will continue to develop independently. 
+Vinny Lingham argues that the possibility of a split chain should be considered as a major economic threat, on top of a potential security issue. 
+When Bitcoin Unlimited is executed as a hard fork, it will result in the creation of two digital currencies or two bitcoins. However, bitcoin exchanges aren’t willing to list Bitcoin Unlimited as bitcoin. Instead, with the symbol BTU, exchanges plan on listing Bitcoin Unlimited as an altcoin.
+“Exchanges today have just confirmed they will be listing BTU as an altcoin if there is a Hard Fork — this scares me because although the industry person knows what an altcoin is — the average person outside the industry doesn’t,” explained Lingham.
+The real issue with a split chain and the introduction of two bitcoins is that it will make it significantly more difficult for the general public to understand what bitcoin is and to develop awareness of it. Mainstream adoption of bitcoin will slow down and as a result, it wil take a much longer period of time for bitcoin to transform itself as a true global digital currency.
+Lingham further noted that the brand power of bitcoin is heavily involved in bitcoin’s security or hash power. He wrote:
+“The security of the Bitcoin network comes from the computational hash power that the miners bring. This is driven by the price of Bitcoin — higher the price, more hashing power. High prices are in turn driven by market demand. Market demand is driven by PR & media and the long term narrative that Bitcoin is the first and only true cryptocurrency which is a long term store of value. If we mess with this, I believe we can expect negative consequence.”
+He also explained that major bitcoin companies such as Coinbase and Blockchain’s efforts will be undermined if a hard fork execution leads to two bitcoins. For years, bitcoin companies collaborated with investors in developing bitcoin’s brand around its efficiency of facilitating peer to peer payments. Lingham argued that the presence of two bitcoins will make bitcoin’s identity ambiguous.
+There exists some experts such as Ethereum creator Vitalik Buterin and ZCash CEO Zooko Wilcox who favor hard forks due to their clean fixes to complex issues. Buterin stated that hard forks are more efficient in addressing large-scale technical issues than soft forks. He wrote: 
+“I feel like I should also write a post soon about why hard forks are (i) cleaner, (ii) more freedom-preserving than soft forks.”
+I feel like I should also write a post soon about why hard forks are (i) cleaner, (ii) more freedom-preserving than soft forks.
+— Vitalik Buterin (@VitalikButerin) March 16, 2017
+
+Wilcox also emphasized in his blog post entitled “A Future Friendly Fork” that if executed properly, without community schism and split chain, hard forks can be perceived as efficient solutions to difficult problems. However, Wilcox noted that a hard fork shouldn’t be executed if it leads to a split chain.
+Featured image from Shutterstock.

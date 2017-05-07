@@ -1,0 +1,683 @@
+./html_data/tyranny-review.html
+
+RPS Feature
+Ankle-deep 
+By John Walker on December 1st, 2016 at 9:00 pm.
+
+It’s been a long time coming, but finally here’s my final review of Tyranny [official site], having completed the very lengthy game. You can read my thoughts at about the mid-point here, and I’d say I’ve changed my mind about very little, other than to have a greater respect for where the story was heading. Here’s wot I think:
+The balance of combat to story in any RPG is, I would contend, what decides on its sub-categorisation. Mostly combat and it’s a tactical RPG, mostly story and it’s a “traditional RPG”. Intricate battles and it’s a strategic RPG, direct control and it’s an action RPG. And so on. Based on this combat logic, Tyranny is a Really Annoying RPG. Which is a shame, as what’s buried beneath its mad pile of tedious fighting is a neat if shallow game.
+
+There’s no doubt left in my mind that Tyranny is a game that had no idea what it was going to be during its development. Preview events told us of a short few hours, intended to be replayed again and again, to explore all the possible pathways, most especially driven by the binary choices made in the game’s opening Conquest. The pace at which it tries to do everything traditional RPGs do – like give you a broad party from which to chose present companions, a gaggle of sidequests, options to be good, evil or something in between, a unique spell system, skill trees and levelling – implies that it’s in a tremendous hurry, before then stretching out to easily 50 hours if you play meticulously. 
+Much was made before release of a countdown timer that required you to complete major plot tasks within a certain span, but this proves wildly unchallenging (I had six of eight days left on the clock, despite doing every side-quest, and making no efforts to conserve my travelling), and astonishingly is then abandoned for the rest of the game. And of course it’s a game about being a baddie, and while it allows you to do that, it seems incomprehensibly desperate to ensure you can be lovely too. Tyranny, what were you meant to be?
+
+What it has turned out to be is a very strangely paced, although actually rather decent game, incessantly interrupted by dreary combat. The sense of rush at the start makes the languid middle feel deeply peculiar, as you realise this story is ever-further stretching out before you like a dolly zoom. And while I began to really dig its ridiculously lore-ridden story, I grew so fed up of the fight after fight after fight after fight after fight that I switched it down to Easy and just let them play themselves out.
+Which is a shame, clearly, as they put together a decent combat system here. A strange mix of real-time (you pause it at will to issue orders), but turn based (your characters and theirs then take turns to carry out those orders, presumably ordered by invisible dice rolls), it embellishes the usual icon clicking with the lovely idea of combo moves between paired characters, and spells that you can craft yourself from an ever-growing collection of glyphs. And I found myself thinking of Dragon Age, of those wonderful fights where I sank myself into the combat system, performed the battles like a conductor of an orchestra, issuing attacks and heals and spells and tactics to glorious effect… Right up until I realised that I really wasn’t. Because for the most part, the game could happily play itself. I could switch all that automation off in the intricate options, of course, and were fights occasional and spectacular, I would have. But they’re not – they’re every three footsteps, and they’re the same every single time.
+My ability to care about the combat dissipated incredibly early on, and no amount of new abilities that arrived with the frantically fast levelling (again making the pacing feel utterly bizarre) could draw me back in. I first switched the game down to Easy to try to speed up my progress when attempting to review a couple of weeks back. I then kept it on Easy simply because my team were now powerful enough to win every fight using the AI alone that way, and it meant I would keep going rather than throw myself headfirst out of the window. At one point my wife walked in and looked at my hands off the mouse/keyboard, looked at the frantic action on the monitor, and said, “Shouldn’t you be doing something?” I sighed, then grumbled.
+
+Crucially, however, Obsidian really have delivered on offering a game that lets you be really bad. I murdered a baby. I chose to align with no one, in a game that was heavily emphasising the story advantages of picking a side, and it adapted to this choice wonderfully, providing me a whole other path of evil instead (clearly by neatly adapting the same paths you’d get anyway, but that’s not what matters). And it persistently let me do this – it never said, “Okay, enough’s enough, you do really have to align eventually.” Choosing a side never felt right for the character I was playing, and it never forced me to. I assume just as I was able to betray minor alliances I formed at the first opportunity, the game would also have let me wander away from major allegiances too. No backs went unstabbed, and that deserves huge applause.
+This does feel a little too frequently contradicted by the appearance of increasingly daft options that allow you to be lovely to someone no matter what your character might be, but it’s no sillier than in almost every other RPG where your super-friendly character always has the chance to suddenly descend into crazed screaming hatred. And I like where this story let me go. I’m a touch thrown by those claiming it ends on a cliffhanger – everything the story had been about was resolved for me, with a larger threat from a larger force still present for a potential sequel. But the arc of my character was completed, if rather thinly. Companion arcs are much poorer, with only a couple even offering you specific side-quests, and then these going nowhere. And again this is emblematic of the game’s deeply weird muddle of size and shallowness. As I said last time, this game is a puddle the size of an ocean.
+
+What to do with you, Tyranny, you strange thing. All the way through, even when I’d just blanked out the dull, dull combat, I couldn’t shake that peculiar sense of unease, of a game that doesn’t quite fit together, a game that somehow feels too long and far too rushed at the same time. It attempts large-scale puzzles, but makes them as simple as choosing between one of three colours a few times. It has created a mythos and wealth of lore to rival the largest RPG series out there, but bombards you with it so unrelentingly that it feels sprayed on, not experienced but read about – you drown in an inch of it. 
+And yet I enjoyed its tale, enjoyed the process of occupying the Spires (even if the advantages they offered proved to be utterly superfluous, the game raining down top-level equipment on you faster than you can sell it.) If it didn’t look so similar to the completely splendid (if also marred by dull combat) Pillars Of Eternity, if those expectations weren’t weighing on it, perhaps there’d be even more leniency. But as it is, this is a decent enough RPG that feels like its wearing clothes that don’t quite fit.
+Tyranny has been out for ages, and is on Steam and Paradox’s store for £35/$45/€42.
+
+01/12/2016 at 21:11
+
+Pharos says:
+
+Glad to see I’m not the only one who felt playing on any mode other than Easy just wasn’t worth the bother.
+I really wonder if it would have been better as a simple turn-based game. Probably would have been a nightmare to have to switch been realtime exploration and turn-based combat, though.
+
+01/12/2016 at 22:40
+
+Zenicetus says:
+
+Realtime exploration switching to turn-based combat isn’t that hard to pull off. Divinity: Original Sin does that very well.
+
+02/12/2016 at 08:41
+
+Chalky says:
+
+Yeah, original sin has really enjoyable combat but this game had such immensely dull combat I just couldn’t keep playing it. The loot and itemisation was also extremely boring and certainly in the beginning the world was dull grey and brown. I just couldn’t bring myself to keep playing it.
+
+02/12/2016 at 09:03
+
+ilitarist says:
+
+D:OS does this well initially but just as Tyranny it becomes repetetive after Act 1. And by Act 2 you “get” how it works and you don’t find any challenge unless you go somewhere you’re not supposed to go.
+Really, when someone says D:OS is good he means Act 1 is good. Act 2 and 3 are bland, boring, long. I suspect most people didn’t play them.
+
+02/12/2016 at 10:26
+
+cardigait says:
+
+I disagree, i played all the acts up to the end, and i kept finding it amusing, mixing different magics and skills.
+Sure, not fresh as in Act 1, and some fight where too long and redundant, but i really enjoyed it.
+
+01/12/2016 at 23:09
+
+Blastaz says:
+
+Am I the only person who doesn’t give a fig for combat in an rpg? Who automatically plays the games on easy to get through the combat to unlock more delicious story? Who sits looking somewhat surprised while people talk about the particular way you roll being the real problem with the witcher?
+How can everyone else be so wrong?
+
+01/12/2016 at 23:12
+
+Jane Doe says:
+
+Nope, you’re not alone.
+Combat can be fun in RPGs. I still enjoy it in Baldur’s Gate 2, and not just the dragon battles. However, most RPGs go quantity over quality, the Dragon Age/Mass Effect way.
+Flashy explosions sell better than screens filled with text to read, and in the end those people who make the games would like to get paid. So just keep going on Easy mode or hope for a mod like the kill-button for Dragon Age.
+
+01/12/2016 at 23:21
+
+Blastaz says:
+
+Personally I would have loved it if Witcher was just the boss fight monster contracts where you needed to exploit a weakness, a few fights against bandits with bullet time that you won in balletic seconds and maybe some slugging matches with human champions. 
+And then hours of talking and acting and doing stuff.
+All of the pointless levelling and gear and killing drowners, wolves and bandits: not so much.
+Although to be fair I do crank a game up to legendary or whatever if I really like the combat, I just don’t think rpgs should foreground it as much. Why I thought it was ridiculous that RPS said Dark Souls is the bestest best rpg….
+
+02/12/2016 at 02:31
+
+Archonsod says:
+
+If the game has a decent combat system, and more importantly can set up decent combats, it’s fine. The problem Tyranny has (and for that matter Witcher, Pillars, Dragon Age et al) is that for every exciting, set piece encounter you’ve got five or six ‘filler’ battles with random mooks that go nowhere storywise and likewise do nothing for the gameplay (at best being speed bumps, but more usually ending up as a gateway since you either take them apart with ease or die quite quickly).
+I’d call them padding, except I suspect it’s just something most developers don’t even think about these days. RPG’s of this format have always had random battles, so they always include random battles despite the fact that nobody actually finds them interesting or fun.
+
+02/12/2016 at 09:07
+
+ilitarist says:
+
+Witcher really can be this way if you don’t try to approach it as usual RPG. There are not so many necessary fights in the game and you don’t have to do all those treasure hunt side quests and monster lairs. One day you’ll inevitably replay Witcher, try that approach.
+
+02/12/2016 at 00:30
+
+Scraphound says:
+
+I was like that once. Then I got much pickier (or snobbier) about writing, and my views changed. If I want a great story I can pick up the Count of Monte Cristo or something. I’d rather have a really tight, tactically demanding game with meaningful combat, a story that ties it all together without trying to be some epic, ridiculously grand mumbo jumbo sprinkled liberally with half-baked romance subplots.
+
+02/12/2016 at 02:42
+
+Juan Carlo says:
+
+Yes. I love literature and movies, so I should be the target audience for story heavy RPGs. But even the games with the best stories tend to only have good stories for a game. I haven’t played many RPGs with good stories where the qualifier “…for a game” doesn’t apply. Which is why as I’ve gotten older I tend to care less and less about story (which is maybe why the Dark Souls series has become my favorite RPGs….they are all meticulously honed game play mechanics with an abundance of tone and atmosphere, but almost no plot. Revolutionary because, coming off an era when RPGs wanted really badly to be movies or novels, Dark Souls embraces what games can uniquely do that no other medium can). If I want plot I go to a movie or read a book. If I want a game, I play a game.
+
+02/12/2016 at 06:59
+
+FreshHands says:
+
+You are preaching to the choir here brother!
+I…would really like to add something. But there is nothing left to say…
+This is now the only objective and true opinion on this matter.
+
+02/12/2016 at 08:37
+
+golem09 says:
+
+You are totally right when it comes to game stories that should have been movies or books instead. But as with every other medium, games can tell stories that others can’t or simply won’t. That makes it all the more boring to me if a game tries really hard for a blockbuster story, like The Last of Us.
+
+17/01/2017 at 21:41
+
+Fishslap says:
+
+There are quite a few I think. The first Mass Effect was one, Torment another. I’d even add Baldur’s Gate to the list. And if you expand it to all genres you have Homeworld, Broken Sword, the original Starcraft etc etc. But setting matters, which to me is why story telling tends to suffer a bit in RPGs. If you’re gonna get yourself stuck in a Medieval fantasy setting then telling a truly compelling story is going to be hard.
+
+01/12/2016 at 23:27
+
+welverin says:
+
+I’d rather realtime, because then I can allow the computer to handle most of the work. With turn-based you have to micro manage every character, far more of a bother.
+
+02/12/2016 at 12:27
+
+suibhne says:
+
+If you’re motivated to automate much of the actual minute-to-minute gameplay, doesn’t that suggest there’s something wrong with the game design?
+
+02/12/2016 at 09:00
+
+ilitarist says:
+
+I very much hope they make combat encounters more diverse and difficulty curve more pronounced. Even on easy combat shouldn’t be completely hands off in some instances, don’t you think?
+I played on Path of the Damned and it doesn’t allow switching to lower difficulties. First act was very challenging, even too challenging, even though all the encounters where all the same. Still it made me use all the tools game offered. Starting with act 2 the game became easy. I didn’t care about any new toys, I just killed everybody. Boring combat is what stops me from second playthrough.
+
+01/12/2016 at 21:17
+
+Horg says:
+
+”A strange mix of real-time (you pause it at will to issue orders), but turn based (your characters and theirs then take turns to carry out those orders, presumably ordered by invisible dice rolls)”
+Gah. To settle this once and for all time, John, characters take their turns based on individual ‘recovery’ intervals determined by their weapons, talents and armour. It is not a turn based game. There are no hidden dice rolls or initiative scores determining who acts when. Bear witness to this correction for further errors shall be met with an Edict. Perhaps a Plague of Shitposting to last until you are very sorry ¬ ¬
+
+01/12/2016 at 21:23
+
+Michael Fogg says:
+
+Pretty much the same implementation since the Infinity Engine games.
+
+01/12/2016 at 22:16
+
+polecat says:
+
+Most of what John is describing is exactly why I didn’t get much joy out of Pillars of Eternity – I found the combat and uber-excessive clicking through lore so wearing that I just didn’t get why it was so highly rated. Possible just not my (sub-)genre.
+
+01/12/2016 at 22:23
+
+gunny1993 says:
+
+I have the same feeling towards most games like this, I know I’d love the story, but having to read it through the medium on millions of clicks just ruins me.
+ With stuff like the Witcher and mass effect I can just sit back and listen to the voice actors. Also they tend to be more concise, which I think is a unintended but beneficial side effect of having to pay vas by the hour
+
+02/12/2016 at 00:09
+
+Shadow says:
+
+One of these games’ critical flaws is the complete disregard for the fundamental rule “show, don’t tell”. It’s 2016 and you’re telling what happens and describing events through verbose text boxes like it’s 1992. It’s incredibly archaic.
+
+02/12/2016 at 00:48
+
+malkav11 says:
+
+This is like saying it’s 2016 and we have television now, so books are “incredibly archaic”. There are advantages to showing, sure, but it’s not like we have technology that comes anywhere close to conveying the same images and ideas with the same speed, efficiency and affordability. And unlike film/television, everything you show in videogames has to be created – sometimes this is easier than real life (for things that don’t exist and are difficult to mimic), but a lot of the time it’s more difficult and time-consuming.
+And personally, I can read about ten times as fast as people can talk.
+
+02/12/2016 at 02:24
+
+Hedgeclipper says:
+
+@malkav11 You may not have come across it but ‘show don’t tell’ is advice to authors so your tv vs books comparison misses the point. Show don’t tell is usually directed at character – so rather than ‘Bob got angry’ describe Bob getting red and shouting and let the reader infer the anger. It also applies to world building and back story through, rather than a 1000 word infodump on the lost city of Blah let the characters walk through it and marvel at the crumbling buildings, or, if that doesn’t work artifacts or old maps or a drunk in the inn who won’t shut up about it. Presenting information as long essays of informative fact is bad storytelling.
+
+02/12/2016 at 14:04
+
+Slaadfax says:
+
+For the amount of world-building they want to put in their game, the expense of creating and programming locations that evoke the lore AND filling them with gameplay content (lest it feel like a “too empty” world) is far higher than filling up a box with flavor text.
+Now, perhaps they’d be better served to consider those aspects during earlier development, or like Dark Souls make every visual in the game evocative of the world and lore. On the other hand, I’m sure they do actually do that, and hopefully most of the blocks of flavor are more “here’s some piles of deep context if you’re in to that sort of thing.”
+
+01/12/2016 at 23:50
+
+Gothnak says:
+
+So, if we assume the player DOES like Infinity Engine games, is this a good one?
+I just felt John hated the style of combat which is very similar to 5 or so of the best games i have played…
+Icewind Dale, Baldur’s Gate 1 & 2, Pillars of Eternity, Planescape Torment etc. 
+Maybe someone who hates first person shooters can review the next Call of Duty :).
+
+02/12/2016 at 01:07
+
+Captain Yesterday says:
+
+The production values are a little lower than in Pillars, but they didn’t have any of that sweet, sweet crowdsourcing money, so I’m inclined to let it slide.
+And not to spoil anything, but the pacing is kind of weird. The third act especially. It’s basically an entire game’s worth of boss battles thrown at you one after another.
+
+02/12/2016 at 02:56
+
+Archonsod says:
+
+John is pretty much bang on in this case; it’s not a bad game by any stretch but it’s not likely to turn up on anyone’s ‘best of’ lists either. It kinda feels (and this is just pure guesswork on my part) like they originally were going for something either smaller or more episodic, then about half way through decided to pad it out into a more fully fledged affair, thus the issues with the weird pacing and general lack of depth.
+It’s probably not going to disappoint if you’re an Infinity Engine fan, but that’s largely because it hits all the same beats (both gameplay and story-wise) and doesn’t really try to stray from the same old formula, so as a result can feel somewhat predictable at times. The only reason I wouldn’t recommend it is the price – there’s much better out there for £35 or less, though that said if it drops to sub-£30 in the Christmas sales it’ll certainly tide you over for the holiday season, there’s just not a lot there to bring you back afterwards.
+
+02/12/2016 at 10:30
+
+Gothnak says:
+
+Thanks for the replies… Sounds like a sale £15 purchase for me :).
+
+02/12/2016 at 14:50
+
+Werthead says:
+
+I’d say it definitely hits the same sweet spot as those games. It actually, oddly, comes across as a mixture between Planescape: Torment, with its musings on morality, and Icewind Dale, with it’s colossal amount of combat (but not the same focus on huge dungeons).
+With regards to Pillars of Eternity, I enjoyed it but the gameplay and the story did not feel substantial enough to warrant the gigantic playing time. Tyranny, with its much greater focus and shorter playing time, hit the right spot.
+
+02/12/2016 at 09:15
+
+ilitarist says:
+
+Not like that at all. Infinity Engine simulates D&D which is turn-based. Each turn takes several seconds and characters add in a specific order unless you interfere with moving them or giving new commands.
+In PoE/Tyranny combat is completely realtime. Characters have some time they need to perform to act and some time to “recover” after act depending on their parameters. Faster characters act often. Not that complicated.
+Too bad you don’t even have to understand that to roll trough the game.
+
+01/12/2016 at 22:26
+
+guy15s says:
+
+“characters take their TURNS based on individual ‘recovery’ intervals determined by their weapons, talents and armour.”
+“It is not a turn based game.”
+Sounds a lot like a turn-based game to me…
+
+01/12/2016 at 22:30
+
+Horg says:
+
+What the hell, I didn’t even read the Edict yet : /
+
+01/12/2016 at 22:53
+
+Hedgeclipper says:
+
+Obviously you can’t before your turn.
+
+02/12/2016 at 09:25
+
+Tayh says:
+
+Except they take their turns at the same time, and, depending on gear and talents, one character can easily have two additional turns before the other has finished its recovery.
+
+01/12/2016 at 21:25
+
+Michael Fogg says:
+
+I’ve gotta play this at some point, though I’m not sure about the premise (‘a world where evil has won’… shouldn’t it rather be ‘what the hell is evil when you decide the fate of thousands’/how much can you sacrifice in the name of some real or supposed greater good).
+
+01/12/2016 at 21:35
+
+njury says:
+
+Havent played the game, but I keep thinking of the book series by Brandon Sanderson called Mistborn. It sort of has the same premise.
+
+02/12/2016 at 14:52
+
+Werthead says:
+
+There are some strong nods to Sanderson. The premise and some of the Edicts create effects similar to Mistborn, and one game area is completely ripped off/a homage to the Shattered Plains from the Stormlight Archive.
+
+01/12/2016 at 21:56
+
+rabidwombat says:
+
+The lore in this game is phenomenal. It’s really a good story, and the Twine-like lore tooltips in conversation are a great innovation (if erratically implemented). Lore, lore, lore.
+As far as the Conquest choices go, they only appear to affect flavor text, but it’s implemented really well. It FEELS like your decisions had an impact, even if the numbers behind the scenes don’t really change.
+The combat is just as John describes. The spell system is really neat, and gets better later in the game. As far as the concept of choice, there’s a merchant near the beginning of the game that you can kick out or kill. As an arbiter of justice, I imagine many people will get rid of him (if anything, the game nudges you to). And then you’ll miss out on a spell piece that makes for strong spells later on.
+This game has a lot of really great parts that combine for a weird, muddled game. Two thumbs up.
+
+02/12/2016 at 00:05
+
+malkav11 says:
+
+They affect a lot more than that. For example, in my game Lethian’s Crossing has a brothel. And that brothel has a beastman prostitute in it. The brothel is only there if you made a specific Conquest choice, and the beastman prostitute is only there if you a) integrate a beastman tribe into the Scarlet Chorus and b) give the Crossing to the Chorus.
+
+01/12/2016 at 22:00
+
+Phantom_Renegade says:
+
+I just don’t get it. During the kickstarter for pillars, they went on again and again about how you could talk your way out of encounters and it turned out to be a grindfest, but also a grindfest that didn’t actually do anything in terms of character growth as combat didn’t give xp.
+And now they did it again. Obsidian, what people like about you isn’t the combat, combat has always been the bad part of Obsidian games. What kept people loving you and playing your buggy games is the story and the impact choices had. That’s it. Honestly, they should be the one to do adventure games, not TellTale.
+
+01/12/2016 at 22:09
+
+Horg says:
+
+I like the combat.
+
+02/12/2016 at 00:05
+
+Cropduster says:
+
+I also like the combat.
+There’s a million companies making visual novels & choose your own adventure games, but only one making actual CRPGs in this way.
+
+02/12/2016 at 00:58
+
+Captain Yesterday says:
+
+I didn’t hate combat in Pillars because of the mechanics. I hated it because it was, well, pointless. You got only token amounts of XP from fighting monsters and squat from fighting people.
+There’s nothing wrong with that. Some of my favorite games don’t have kill XP. Removing combat XP is supposed to allow players to find non-violent solutions without feeling like their being penalized. When there are no non-violent solutions, it’s kind of pointless.
+SO yeah, the mechanics are more or less the same as pillars, but at least it your characters can benefit from it.
+
+02/12/2016 at 03:07
+
+Archonsod says:
+
+Pretty much this. Mechanically the combat is fine, the problem is how it occurs – Tyranny sometimes feels like it’s pretty literally a case of “we had nothing interesting to put in this part of the map, so he’s three random bandits and a mage”. It’s kinda exacerbated in Tyranny because the set-piece encounters and battles are for the most part really well done, it’s just to get to them you have to grind through half a dozen identikit ‘random’ encounters which are largely pointless and do nothing but pad out the playing time (I suspect these are the battles John is referring to when he says the AI can autopilot them – it’s true even on higher difficulty levels, largely because the groups of enemies only vary on a map basis, so you’re literally refighting the same battle until you get to a point of interest).
+
+02/12/2016 at 06:47
+
+Malarious says:
+
+I think the combat was pretty good, but yeah — there was way too much. Depending on how you spec your character, combat is either trivial or a massive chore, which I guess is how most RPGs go anyway.
+The early spires have these immense, multi-map dungeons with puzzles, hidden rooms, and *lots* of combat encounters… and then the late game spires are just a windy path and a room (with no combat) and I was just totally overjoyed at not having to slog through another hour long dungeon at double speed.
+The conquest stuff is just incredibly well done though, and it really does feel like the system the game was designed around, as it affects a lot of the sidequests in some pretty major ways.
+
+01/12/2016 at 22:09
+
+gschmidl says:
+
+I absolutely loathed the combat in Pillars in exactly the way described in this review, but the “hardcore audience” ate it up, and let’s face it, that’s the people buying Obsidian games. So here’s more of that.
+
+01/12/2016 at 22:35
+
+aepervius says:
+
+It depends on what you expect out of it. I was a mage and had a lot of fun doing my own spell and dishing out destruction and healing. 
+At the end I even had spell which were “firing” meteor or lightning strike on the whole battlefield at random place, doing load of damages.
+
+01/12/2016 at 23:27
+
+Khayness says:
+
+I have to agree, spellcrafting is the most fun I had since the TES series used to be good.
+I rolled a 2h weapons + buff spells build and once I got my first weapon enchant component, endless hillarity ensued.
+
+01/12/2016 at 23:40
+
+Zenicetus says:
+
+I wouldn’t say the hardcore audience loved Pillars combat that much. I remember lots of complaints about the engagement mechanic, and the way they turned the classic D&D Rogue type into something very different. Also plenty of complaints about the meaningless filler combat as you traveled (which sounds like a repeat here).
+If the hardcore audience gave Pillars a pass, it was because there hadn’t been this type of game around for a while, so they took what they could get. 
+I manged to finish Pillars, but it did feel like a bit of a grind towards the end, with too much combat that wasn’t meaningful and a convoluted world story that wasn’t easy to relate to. I did finish it though, and that’s something.
+
+02/12/2016 at 00:13
+
+Cropduster says:
+
+The main problem most of the hardcore had with Pillars was that it was too balanced, in that it didn’t have any of the crazy overpowered duel class combos or weapons that something like baldur’s gate or IWD had. 
+You play it once and you’ve seen it, whilst you can play an Infinity engine game many many times trying to breaks it’s D&D systems for fun and profit.
+
+02/12/2016 at 00:24
+
+InternetBatman says:
+
+Pillars is breakable, it’s just not easy to do like BG. You have to focus around a particular weapon, and the ones you enchant are so powerful people fail to notice the more powerful items lying around.
+
+02/12/2016 at 00:14
+
+Rizlar says:
+
+It feels like they use these existing game forms to hang their stories on. The old school RPG thing is so strong in Pillars and Tyranny as to be completely inappropriate. I mean, I enjoy it, but it feels super limited when there are games like Divinity: Original Sin and XCOM:EU around. Same with Fallout: New Vegas, some great stories in there but it’s jammed into the vehicle of Fallout 3. As much as I love F3 it’s just not well suited to what NV tries to achieve. KOTOR2 plays like ass, good story though.
+Don’t know if I would like them to get rid of combat completely, but it would be amazing to see them try something different, make a game where the mechanics are as relevant and integral to the story as something like Sunless Sea.
+
+02/12/2016 at 00:45
+
+Cropduster says:
+
+Divinity and Xcom were both great games, but I’d hate it if every RPG from now on becomes turn based, which personally I don’t think is any less archaic than the IE style. For me that ends up being more tedious and time consuming, and gives you less flexibility in your options. I mean you can pull off some crazy Rube-Goldberg maneuvers in a real time system that wouldn’t be possible in turn based.
+But I do think we’re reaching a crossroads in terms of RPGs, where people are more interested in the wider story, and changing the game world rather than anything around combat systems or character progression (as in stats, not talking about stuff). The Obsidian games were supposed to be a triumphant return for old school RPGs (and they succeeded at that imo), but what ‘an RPG’ means to people has changed so much in the mean time that the target audience doesn’t even want that anymore. 
+I think maybe real time RPGs need their own Xcom, to do for the genre what Xcom did for turn-based combat (that is, make it palatable and accessible, and remove the perceived stigma). But Ho-Hum, RPGs are changing and sadly I am being left behind. I now know what my Dad felt like when Hawkwind stopped being cool.
+
+02/12/2016 at 07:01
+
+Malarious says:
+
+I’m a huge sucker for pausable real time games (I have something like 1600 hours spread across the various Paradox GSGs) and I gotta say, I can’t imagine a scenario where turn-based is better than pausable real-time. XCOM Apocalypse was great precisely because of its real time mode. 7.62 High Calibre is better than JA because of its real time mode. UFO: Afterlight had better _combat_ than XCOM.
+Maybe — maybe — for games like Dominions that are still largely PBEM, turn-based makes sense. But otherwise, pausable real time is superior. In a game like XCOM, if my units are engaged in combat, I don’t want to cycle through every single soldier every single arbitrary turn and tell them to keep shooting. If I’m moving my squad across the map, I don’t want to inch them ahead square by square and keep mashing the end turn button: I want to give them a destination, unpause, and — if something happens on the way there — pause and re evaluate the situation.
+Civilization is the same way. I think the core game loop of turn-based games is just kind of flawed, because it tries to force “choices” where there aren’t any. In Civ 6 there are a lot of turns where I’m just mashing end turn, or moving 2 or 3 units a couple of tiles. I don’t need to make a decision every “turn”, I want to make decisions when research or production finishes, when a unit finishes moving, when enemies move into my LOS. Everything else is filler. Civ could learn a lot from Stellaris.
+IMO real-time is as good as it gets for tactical games like PoE/Tyranny. The combat is certainly much faster than it would be if we were locked into a turn-based system. People already complain about the length of the combat encounters: now imagine if each turn took 20+ seconds and an encounter took 15 turns (with most of it being busywork) vs. the minute or so you can finish an encounter in with real-time.
+
+02/12/2016 at 07:48
+
+Laurentius says:
+
+“I gotta say, I can’t imagine a scenario where turn-based is better than pausable real-time.”
+I feel just the opposite and with games at hand to compare is more apt then ever. Like Tyranny or PoE just don’t cut with D:OS. In infinity engine, there are long stretches of character flailing miserably or chipping hp away in slow fashion or general shooting pew-pew-pew. In D:OS or X:COM, there is huge payback/gratification of each action . In these real time games, I have to either pause all the time to issue bazzilions commands anyway or let it go in realt time for long streches but with dull things around me.
+
+02/12/2016 at 09:22
+
+ilitarist says:
+
+XCOM is a strategy game with very limited character progression, hardly comparable to RPG games. Closest thing you get is Shadowrun and it’s not that fun.
+D:OS combat only works as a novelty, it barely holds together if you complete the game and sidequests. It’s not a system that would give you interesting tactical problems, just several fun puzzles you solve once.
+
+02/12/2016 at 09:18
+
+ilitarist says:
+
+Pillars of Eternity with expansions had one of the best combat encounters in history of RPG genre.
+
+02/12/2016 at 14:57
+
+Werthead says:
+
+You do get XP for combat in Tyranny and your characters also gain skill points for using combat skills (and that then generates extra XP).
+I despised the fact you didn’t get XP for combat in PoE, it put me off the game (along with its unnecessary length), and was glad to see it reinstated for Tyranny.
+
+01/12/2016 at 22:51
+
+ssh83 says:
+
+This is why games are dumbed down because even pro reviewers struggle to understand slightly unorthodox things.
+
+01/12/2016 at 23:41
+
+laotze says:
+
+I’m not sure what’s so unorthodox about shallowness or tedium.
+
+01/12/2016 at 23:41
+
+subdog says:
+
+Obsidian hasn’t done anything “unorthodox” since Alpha Protocol. On the contrary, they seem content to stay comfortably in their niche.
+
+02/12/2016 at 00:14
+
+Shadow says:
+
+Unorthodox?
+Ah, yes, because using a 15+ year old D&D-clone cumbersome combat system is revolutionary. In most regards, Tyranny and Pillars of Eternity are the antithesis of unorthodox.
+
+02/12/2016 at 09:28
+
+ilitarist says:
+
+The system has nothing to do with D&D. Reviewer assumed it does or it has to do something to do with Infinity Engine. The only common thing between this system and IE is usage of d100 (but mostly in different context) and every action has sort of “saving throw” – but it’s much more systemic than D&D clusterfuck of types of attacks and saving throws.
+There are no turns here. No classes. No d20, no THAC0. Yet reviewer thinks he still plays D&D even though this system is much, much simpler. He doesn’t want to learn new system even if it’s simpler than old one, he just rolls with is switching game to non-combat mode.
+
+02/12/2016 at 14:11
+
+laotze says:
+
+Except he didn’t actually mention any of those things, let alone D&D.
+
+01/12/2016 at 23:43
+
+magogjack says:
+
+I feel like this game is waiting for a couple shots of DLC.
+
+02/12/2016 at 00:20
+
+InternetBatman says:
+
+Pillars of Eternity (don’t know about Tyranny) is through and through not a turn-based game. Games like BG and Kotor have invisible timers between each action. Pillars does not. It is possible to build a fast ranger who can shoot three arrows in the time it takes the slow fighter to make one attack. Each character has a separate cooldown, and they do not sync up in rounds like BG or Kotor.
+This is important from a theory-crafting perspective, because you can make a character who’s buffs overlap making the party much more powerful or you can make characters who do weak damage but are attacking so much they continually proc powerful weapon abilities.
+
+02/12/2016 at 00:49
+
+malkav11 says:
+
+And of course, those games aren’t turn-based in the usual sense of the term either. But they’re at least closer.
+
+02/12/2016 at 11:02
+
+FhnuZoag says:
+
+Isn’t that basically how traditional Final Fantasy games worked too, though? You could easily have characters taking several moves to another’s one, and most people think those are turn based games.
+
+02/12/2016 at 00:34
+
+DelrueOfDetroit says:
+
+Who likes Mad Libs?
+At one point my wife walked in and looked at my hands off the mouse/keyboard, looked at the frantic action on the monitor, and said, “Shouldn’t you be doing something?” I sighed, then ________.
+
+02/12/2016 at 02:48
+
+NetharSpinos says:
+
+“composed a small aria on the back of a napkin.”
+
+02/12/2016 at 00:37
+
+Sihoiba says:
+
+So the combat and the exposition/lore dumping being the same as PoE is enough to make me not buy this. Which is a shame because I like Obsidian games, but want a version where they edit it down and gain the courage to not include 90-100% of the lore they write (better to include 10% and give a feeling of a larger world). Quality over quantity basically.
+Combat wise other than the not quite turn based mechanics, is it any better for being visually readable? All the screenshots above look like my issue with PoE too many spell effects with too much animation so that you can’t actually see whats happening. Are those screenshots particularly representative?
+
+02/12/2016 at 00:52
+
+malkav11 says:
+
+Combat is better because you have fewer combatants and a much more constrained set of options with much more distinct effects. (Though you can still accumulate a bunch of stuff between spellcrafting, companion combos, reputation abilities and artifacts.) It’s still not incredibly interesting, but it’s far more parsable and manageable.
+
+02/12/2016 at 14:59
+
+Werthead says:
+
+I enjoyed combat far more than PoE. Magic also plays much less of a role. You can get through the game hardly using it.
+
+02/12/2016 at 00:50
+
+Captain Yesterday says:
+
+Man, party AI is something developers can’t win at. People either bitch that party members are idiots and get themselves killed or they bitch that they AI is too good and it plays itself.
+
+02/12/2016 at 00:54
+
+Sihoiba says:
+
+This feels more like the complaint is not that the Party AI is too good, but that the combat is so boring it’s better to play at a difficulty where the AI can resolve the combat for you.
+
+02/12/2016 at 03:38
+
+Archonsod says:
+
+Yep. The problem isn’t a mechanical one, it’s simply how the combat is used in the game. For the most part any given battle is the same as the previous battle, so you have these pretty tedious plateaus where you can simply use the exact same abilities in exactly the same order to get exactly the same outcome. Shifts in the way the combat plays out are pretty infrequent, and when they do happen it’s usually just a case of tweaking skill order or similar and then just repeating that for the next hour or two. There’s a couple of curveballs (mainly from the scripted encounters) but these tend to be few and far between.
+It’s not helped by character development primarily being one of those ‘invest X points in this tree to unlock the next tier’, so for the most part levelling up a character (or for that matter equipment) tends to be a case of adding an extra few points of damage or increasing the percentage chance of something happening rather than getting the ability to do something new.
+Magic users do get a slightly more interesting time of it thanks to the ability to create your own spells, but you’re somewhat constrained due to the need to find components to do so, and due to the repetitive nature of the combat there’s usually little incentive to switch out or otherwise play around with your loadout for the most part.
+
+02/12/2016 at 03:41
+
+satan says:
+
+Didn’t care for the story/setting. 
+Also when the map with 1 remaining unconquered territory in the West showed up in the intro, anybody else find themselves squealing ‘Asterix!’ in their head?
+
+02/12/2016 at 04:33
+
+Fry says:
+
+I actually enjoy combat in these games. I never use AI and I like the micromanagement. I guess I’m that guy. 
+The problem with Tyranny is it’s just too damn easy. Pillars on hard difficulty can be challenging. The same difficulty in Tyranny is a snore. 
+Reduce the number of encounters, make those encounters more tactically interesting, and make them harder.
+
+02/12/2016 at 09:31
+
+ilitarist says:
+
+Same happened to me. Loved the game on PotD difficulty during Act 1. Then it became so easy I didn’t need new toys like spires and artifacts and crafting.
+Second playthrough is something I’d want but it wouldn’t work till they rework difficulty and change encounters.
+
+02/12/2016 at 06:37
+
+Stargazer86 says:
+
+I enjoyed the combat, though it started getting a little tedious by the end. I also enjoyed the story, though the amount of text you had to read through was daunting even for an Obsidian RPG. I liked the characters even though they don’t get nearly as much development as previous games. They’re likable and interesting enough but they’re no Minsc, Yennefer, or Garrus. 
+The best part of the whole thing for me is the setting and idea behind it and they do a good enough job of putting you in the shoes of ‘guy working for an evil overlord’ that it feels neat. Even if you pick the ‘good’ options, you’re not so much saving the say as you are trying to make the best of a bad situation. But it just doesn’t quite take it all the way to its full potential.
+Really, to sum up, it’s like a C+ student that could be much better if they buckled down, got organized, and studied harder. I’d wait for it to go on sale before picking it up but it’s still a worthwhile play.
+
+02/12/2016 at 09:42
+
+gwop_the_derailer says:
+
+I murdered a baby.
+And in the game.
+
+02/12/2016 at 13:35
+
+BatmanBaggins says:
+
+I think the responsiveness of this game to your choices, and its ability to adapt to them, is being greatly underrated. I completed the game the first time while remaining loyal to the end with one of the two armies of the overlord. While the pacing issues are a valid concern (the final act goes by in the blink of an eye), the story felt like it naturally unfolded based on what I was doing, to the point where I was trying hard to imagine how they could adapt had I done certain things differently.
+Then, I started a new game and went the complete opposite way, essentially abandoning my duty to the overlord and siding with the rebel factions of the land I was invading. I was surprised at how well it worked, without feeling forced or like they were just cosmetic differences. Characters (and some whole factions a bit later) that had been relatively important NPCs and allies til the end of my first playthrough were cut down in the first act, and vice versa. The major beats are essentially the same, but the way that I’ve arrived at them on my second play has been totally different, and the differences are more than just cosmetic.
+
+02/12/2016 at 14:37
+
+Curled Woofy says:
+
+I agree with you. This game definitely has some real weaknesses (second act too long, third too short, too much exposition (although not as bad as John is saying imo, too many annoying fihts agains standard enemies, some railroading in weird places when it would need some more freedom of choice) but the WIT seems lacklustre.
+
+02/12/2016 at 17:45
+
+Captain Yesterday says:
+
+Obsidian pulled off the same thing with Alpha Protocol. The game itself was far from perfect, but the one thing you could say about it was that your choices definitely mattered.
+
+02/12/2016 at 15:03
+
+Werthead says:
+
+In the second act decision – on whether to go to the Shattered Plains or the Burning Library – I went to the plains. I also sided with the Disfavoured. I scoured every single corner of every single map, visited every room, explored every nook and cranny of the two big dungeons and drained the game dry of every possible bit of content.
+It took me 18 hours to finish the game. Unless the Burning Library takes 20 hours by itself or the Scarlet Chorus have twice as many quests as the Disfavoured, I can’t see how it’s possible to get to almost 40 hours on it.
+
+03/12/2016 at 00:56
+
+passinglunatic says:
+
+I think one of the issues with combat in these games is not so much that the mechanics are bad – I think it’s reasonably entertaining – but that it’s used as a way to pad the length of the game and make it feel like something more than an interactive novel with fancy graphics. 
+I think it’s probably a good thing in general to space out progress points in RPG games, but if the point of the game is not fighting then ideally you probably want to use a bit more variety in how you actually achieve the spacing out.
+
+03/12/2016 at 11:36
+
+bill says:
+
+Exactly. There is also an expectation that RPGs have to be 80 hours long… which leads to padding it out with heroically slaughtering 1000s of kobolds. 
+Even games where the combat gets praised, like BG, are guilty of this. 
+Frankly, if I’ve killed 2000 xvarts in the past 2 days then they should run away as soon as they see my party and save me all the hard work and time wasting.
+
+05/12/2016 at 16:11
+
+Taurus says:
+
+If you think combat is dull here (and on PoE) is because you are a scrub that never even tried the Hard or the PoTD difficulties.
+Just the fact that you mentioned switching to “easy” early on and not bothering to change it proves it.
+Worse review of the game I’ve seen. And what do you know about Spire itens if you play on easy? Did you ever had to drink a rightly timed potion? NO! Because on easy you would not need. Therefore don’t blame the game about the combat being dull, you are dull person.
+
+08/12/2016 at 21:41
+
+Kanaric says:
+
+“Combat is boring” “I playon Easy mode”
+Explains it. If you are playing on the difficulty where the AI is beating combat for you it will be boring. You also don’t need to use a variety of spells and abilities. Especailly in POE where you have a ton of magic.
+Don’t claim a game’s combat is boring if you are on easy mode.
+Reminds me of games like Civ 6 with reviews where people would claim it’s boring but don’t play on King.
+
+22/12/2016 at 00:50
+
+Katarack21 says:
+
+“A strange mix of real-time (you pause it at will to issue orders), but turn based (your characters and theirs then take turns to carry out those orders, presumably ordered by invisible dice rolls)”
+It’s not a “strange mix”. It’s not some unknown hybrid system that Obsidian is experimenting with.
+It’s real-time-with-pause. It was popularized back in ’98 with “Baldurs Gate”, but it goes back at least to ’92 with “Darklands”. It’s an old combat timing system.
+link to en.wikipedia.org
+
+17/01/2017 at 21:44
+
+Fishslap says:
+
+The biggest problem I had with this and Pillars wasn’t really the combat but the lame loot. I played Tyranny for hours and hours and found like one interesting item. And that was a bow, and as it happened I wasn’t using a bow. RPGs need good loot.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Obsidian Entertainment, review, RPG, Tyranny, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

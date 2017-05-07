@@ -1,0 +1,14 @@
+
+
+
+CryptoCoinsNews
+Bitfury is reported is to have mined a block supporting the BIP 148 proposal, effectively signalling a user-activated softfork (UASF) for SegWit.
+As the debate surrounding bitcoin’s block size continues, many are moving in various directions supporting the one they believe holds the answer to bitcoin’s future scaling. Recently, Bitcoin Unlimited (BU), had around 40 percent support despite reports saying that BU is controversial, splitting the community in two with those for and against it.
+A few weeks ago, though, an alias named Shaolin Fry introduced the idea of SegWit UASF, which would try to activate SegWit before a 95 percent threshold of consensus was reached between miners. The BIP 148 proposal states that a compulsory activation of SegWit would initiate between October 1 and November 15, 2017.
+According to Fry’s proposal, it states:
+Historically, the P2SH soft fork (BIP16) was activated using a predetermined flag day where nodes began enforcing the new rules. P2SH was successfully activated with relatively few issues. By orphaning non-signalling blocks during the last month of the BIP9 bit 1 “Segwit” deployment, this BIP can cause the existing “Segwit” deployment to activate without needing to release a new deployment.
+In the latest developments, Bitfury, a bitcoin and blockchain infrastructure provider, has come out in support of BIP 148 after mining block 458793 containing a USAF SegWit tag on March 24. Several other blocks recorded by Bitfury also included BIP 148.
+Yet, while the bitcoin provider has shown support for SegWit, it’s unlikely that it will be the chosen method for activation anytime soon. While the UASF already has an activation date, it still requires a majority community consensus for it to proceed any further.
+As yet, it doesn’t seem as though that is likely to be reached anytime soon despite the fact that BU suffered a system crash after attackers unleashed a new bug into the system. While it suffered a slight drop in support, it still remains a viable choice for many supporters who are keen to follow the BU route, believing that it will provide the solution to bitcoin’s block size.
+Earlier this month, BitClub, a small bitcoin mining pool, attacked the bitcoin network by malleating transactions. It’s reported that BitClub is also a supporter of SegWit. BitGo, a multi-signature bitcoin wallet also announced that it was advising its customers what to do in the case of a new chain, claiming that in such a case it won’t be supporting BU.
+Featured image from Shutterstock.

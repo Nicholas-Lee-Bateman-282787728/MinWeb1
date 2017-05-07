@@ -1,0 +1,23 @@
+./html_data_bitcoins/fake-news-bitcoin-illegal-reports-indian-press-erroneously.txt
+
+
+
+CryptoCoinsNews
+A number of major Indian news media sources have reported that bitcoin has been deemed illegal by the Indian government. They’re wrong.
+In today’s session of the Rajya Sabha, the upper house of the Parliament of India, an Indian politician weighed in on bitcoin, a cryptocurrency that is increasingly awareness and adoption among Indians.
+Arjun Ram Meghwal, the Union Minister of State in Finance said in a written reply during a Rajya Sabha session today:
+The absence of counter parties in usage of virtual currencies including Bitcoins, for illicit and illegal activities in anonymous/pseudonymous systems could subject the users to unintentional breaches of anti-money laundering and combating the financing of terrorism laws.
+Meghwal also pointed to the nuanced stance taken by the Reserve Bank of India (RBI), the country’s central bank. “No regulatory approval, registration or authorization is stated to have been obtained by the entities concerned for carrying on such activities,” Meghwal added. The RBI issued a public notice in February, warning bitcoin adopters that companies dealing with bitcoin or digital currencies were unauthorized.
+While details are scarce, the reply could plausibly be a response to concerns raised by Kirit Somaiya last week. A member of parliament, Somaiya called for the regulation of bitcoin and questioned if it was a “pyramid ponzi scheme.”
+Both politicians are members of the Bharatiya Janata Party or BJP, India’s conservative ruling party at the center.
+As the Minister of State for Finance, Meghwal’s take on bitcoin in India is certain to attract attention. From his statement, it’s evident that bitcoin users engaging in “illicit and illegal activities” could attract the overview of anti-money laundering and terrorism financing laws. At no point has it been explicitly stated that bitcoin is illegal.
+Meghwal’s statement was reported on by the Press Trust of India, a non-profit cooperative that makes for the largest news agency in the country. The news cooperative counts over 500 Indian newspapers as its members. Its syndicated report has now been splashed and duplicated on major newspapers’ and TV media stations’ whose editors have opted to take the sensationalist angle.
+Here’s how the Indian press have reported Meghwal’s statements.
+NDTV, a major Indian media house went with the headline, “Use of Bitcoin Illegal Warns Minister Of State For Finance.”
+The Economic Times, India’s largest business news daily wrote in its e-portal, “Use of Bitcoin illegal, can attract anti-money laundering law.”
+The New Indian Express, a major Indian news daily also went with the same headline in its online publication. So too did the Hindustan Times, investor resource MoneyControl and India’s biggest news magazine, India Today.
+Leave it to The Hindu, India’s oldest English news daily (launched in 1878), to get it right.
+“Use of Bitcoin, other virtual currencies not authorised by RBI, says govt.”
+Yesterday, a major Indian bitcoin exchange, Zebpay, wrote “bitcoin is legal under all existing laws”, adding that it was business as usual for cryptocurrency exchanges after last week’s statements by Kirit Somaiya. Indian exchanges have notably established a self-regulatory body while adhering to KYC procedures after the RBI’s cold shoulder toward the industry.
+Meghwal’s statements are certain to feature as a news story in India’s newspapers on Wednesday morning. There’s still time to correct those inaccurate headlines.
+Featured image from Shutterstock.

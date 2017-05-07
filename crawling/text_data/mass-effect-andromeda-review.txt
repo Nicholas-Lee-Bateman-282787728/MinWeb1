@@ -1,0 +1,1812 @@
+
+RPS Feature
+Massive Defect 
+By John Walker on March 20th, 2017 at 7:22 am.
+
+Strap in. Mass Effect Andromeda [official site] is out on Tuesday in the US, and then because EA still lives in 1987, in Europe on Thursday. I’ve played it for over 70 hours, seen the main ending, and am entirely ready to tell you wot I think. It’s well worth reading my previous piece on the first few hours, as there’s much there that’s relevant that I’ve not repeated below.
+Mass Effect Andromeda feels like a game that exists because there needed to be a new Mass Effect game. It’s hard, as deeply as you explore it, to find something that shows any other reason for it to be. Despite the extraordinary opportunity of a fresh start, fresh characters, and even a fresh galaxy to set it in, this feels like a lengthy rehash of what came before. It is bad in many ways, from its madcap AI, poor character faces, dated design and most of all, horrible writing, but its biggest crime is just how unavoidably, all-encompassingly dull it is for so, so many hours.
+
+There is an odd phenomenon, however. I’ve played for something like 75 hours. I was being thorough, focusing on what to me seemed the most important tasks, but endlessly drawn into side quests and mini-adventures. And yet there is a wealth of game remaining, even after the official ending. It let me do that, play the way I picked (or, as the case really was, the most bearable way), and that’s a huge achievement, something very rarely seen outside of Bethesda games. And in that time, I found what I enjoy in Mass Effect Andromeda, the aspects of an utterly enormous game that let me have some fun. Qualified fun, fun incessantly interrupted by bugs and irritations, mistakes and the unceasing misery that is its turgid, sophomoric writing. But some fun.
+
+This is the story of the inhabitants of the Milky Way venturing to a new galaxy. A group of one hundred thousand or so members across five races (Human, Turian, Asarian, Salarians and Krogan) making the extraordinary trip across dark space to go somewhere completely new. A six hundred year cryo-frozen journey, to explore what might be. It is, in its concept, so massive, so wonderfully bursting with possibility, so hugely exciting. It is, in delivery, just about as unambitious an approach to the idea as you could think of.
+This tale of discovering Andromeda – or at least the Hellius cluster within it – is populated by some cardboard cut-outs from a science fiction display stand. Rubber-masked baddies (with the least scary-looking big bad of all time), an astoundingly familiar alien race, and – just to ensure no originality could slip in through a crack beneath the door – an ancient, mysterious and technologically accomplished missing race (with a peculiar love for airport puzzle books).
+Think about a new galaxy, a whole new potential of life forms, of evolutionary exoticism, of astounding new ideas. Now discard them all and think of intensely familiar bipedal people living in ordinary cities with ordinary thoughts, relationships, educations, jobs, and would you believe it, technology exactly on a par with what you just happened to bring with you. Floating octopuses that think in cascading colours? Societies based on amorphous interaction? Ideas better than the ones I’m throwing out? Nope, not a single thing.
+
+You are a Pathfinder, either male or female, named Ryder. You gain the title of Pathfinder within the opening moments of the game despite not being qualified or experienced for the role, without it ever being meaningfully explained, and then are immediately treated like the second coming. It is, as best as I can cobble together, a job title for someone who surveys whether planets are suitable for living on, aided by an AI that directly interacts inside your brain. Each of the five species shipped twenty thousand souls, and one Pathfinder and one AI, called SAM. Except when your human ark shows up, you crash into a strange space anomaly that’s twisted throughout the cluster known as the Scourge. It wasn’t there on your magic quantum telescopes when you left, but (and I’m not being facetious here, this genuinely is the plot) no one thought that things might change on planets over the course of six bloody centuries. Things changed, and the galaxy isn’t as you were expecting, the planets aren’t suitable for habitation, and before you turned up the people who set off early to establish the nu-Citadel, the Nexus, had a big falling out and an awful lot of them were exiled.
+As if that weren’t drearily inevitable enough, there’s also a race of cartoon baddies called the Kett, whose grumpy gnarled faces ensure you realise they’re bad, who shoot at you on sight for no reason (in fact, against all reason when you learn more of their nefarious plans) wherever you go. Oh, and just in case this didn’t feel like all the other Mass Effects, there’s ancient alien tech on all the planets that just might help. Off you go.
+The AI, SAM, is an invention of your father’s, and is a key aspect of the game. You and he communicate all the time, and you are required to use a scanner all the time, with SAM adding colour commentary on what you see. So of course the matter of AI becomes a crucial one in the story, what with AI having been banned in the Milky Way, and people very nervous of it now after their experiences of the Geth.
+
+Let’s talk about the combat as this is going to be a very negative review of a very mediocre game, and the combat is almost great.
+You can choose to focus on three aspects, combat, tech and biotics, which correspond to fighting, mechanics and magic. Each has its own (samey) skill tree and you can put abilities together in groups of three, and then switch between the groups on the fly. I began by putting everything into biotics, but then running out of uses for skill points there (when you’ve maxed out an ability, it’s a waste of time really to start on another that does almost the same) and so have improved the passive skills in the other sections. I focused on pistols, sniper rifles and biotic Pull and Throw, which can be used together for fun combos.
+In play, this works out like any other third-person action game really, except with the ability to blast baddies into the sky for entertainment. Headshots, ducking in and out of cover, sitting back and letting rival enemy groups beat each other up for a bit… You know the score, and it’s all delivered well enough. It’s nothing exciting, but it entertains in the same way Far Cry does. Clear out a camp, run in and scoop up the loot, and most likely find a new collectable that’ll build into yet another side quest. It’s only thwarted by the completely appalling team AI.
+
+Companion AI is a disaster, most distinctly because it’s so incessantly noticeable. You want your buddies to just be there, trotting behind you until fighting starts. Instead they are bonkers, darting back and forth as if chased by wasps, and have the most wonderful/ridiculous need to climb on top of things. Just stand in a room looking at a computer terminal and your buddies will jump up onto cupboards, beds, desks, whatever they can find. More than anything, they take this most difficult path on offer. Why run down some stairs when they can jump over a railing behind some crates, then have to run in an enormous circle around a building to find you again?! It’s definitely amusing, but bloody stupid. And when they react to their self-imposed obstacle courses by letting out terrified grunts, it’s also damned annoying.
+But get into battle and it’s much more serious. I cannot tell you how often they just run in front of you and stand still, screwing up shots, bumping you out the way, not shifting out of cover you need, or ignoring enemies immediately in front of them. They can be a help, and when it works it’s fun to see them using their abilities to kill off enemies, but they’re just as likely not to.
+Enemy AI is clumsy, but isn’t it always, and this only becomes more problematic when – say – the giant robot you’re trying to kill is entirely encased by a small hill, somehow able to still shoot at you. But so goes this clearly unpolished mess of bugs.
+
+It cannot be understated just how much there is of this game. And not just in the way it’s a big stack of explorable maps smothered in icons (thanks Ubisoft for your contagion sweeping through all of gaming), but in the way that there’s recorded dialogue in what must be unprecedented quantities, more side quests than every other game in history put together, and a genuinely impressive variety in ways to play. There’s charging about in your six-wheeler over planets, uncovering enemy encampments, having cover-based shoot-outs. There’s exploring ancient temples of the Remnant. There’s chatting with absolutely everyone you come across. There are lengthy missions (that play out like raids) in special locations. There are (optional) multiplayer games tied into the main plot. And there’s trying to do sex on everyone you encounter.
+What unites all these different features is the most unrelentingly dull writing, cliches and aphorisms pouring out like the waterfalls they’d use as an analogy in this sentence. Every chat lasts three times longer than it needs to, and they’re achingly boring from casual encounters to the deepest moments in relationships. I cannot explain this better than by giving a lengthy example from one moment in the first few hours, a chat about the potentially complex and messy subject of faith.
+
+One member of your crew, a scientist, reveals to you that she believes in God. Now, this is old territory for Mass Effect, where in the first game you had a right-wing Christian on your crew, and it was handled especially well. Not so this time! This is genuinely the conversation:
+“Just all of it. So alien. A constant reminder of the divine intelligence behind all creation.”
+“Divine intelligence? A god?”
+“Yes, I believe in a higher power. I know it’s a little odd. But I’m a scientist because science brings me closer to something greater than myself.”
+To this you are given two possible responses. Beyond all credibility, they are:
+“I feel the same way.”
+Or
+“There’s no higher power.”
+What the hell? You’re given the choice of either emphatically agreeing that you too believe in God, or you rudely tell a woman you barely know that her faith is bullshit. Honestly, I was tempted just to walk away from the game than be forced into picking one of those two answers. But I went for the former, since at least it wasn’t rude, and I was trying to flirt with her anyway. She expresses her pleasure that someone else agrees that it’s possible to believe in science and God at the same time, and then in what must be one of the worst lines of dialogue in gaming history, your character’s option of a flirting reply is:
+“You definitely have an interesting perspective on the interplay between faith and science.”
+This isn’t how people speak.
+
+This is endemic, permeating from conversations through to grand ideas. Entire races are still described as having a single personality type. “Quick-minded, sharp” someone says of the Angara, as if that’s going to be a common trait across an entire sentient species. A single philosophy is attributed to the entire species, across multiple planets, as if no one would disagree, ever, across space and time.
+Giant decisions sproing out of nowhere, with no warning. You’re just idly clearing out yet another identikit ‘dungeon’, and then suddenly you’re asked to decide if you should kill a bunch of innocent people for some potential wider benefit. There’s no flow, no sense of history, just bonkers false choices when a nuanced response would be far more valid (and in BioWare games, previously optional).
+There is, as ever, the one crewmate who doesn’t want to talk to you. Who you have to win over by, er, waiting. But this time they’ve ingeniously picked the character from a race who incessantly go on about how they don’t hide their feelings. He won’t talk to you, won’t say why. Everything feels this inconsistent, people explaining their reasons for not liking other people like primary school children, all spats and no sophisticated moral reasoning. 
+
+Perhaps most significantly, they made the bold decision to remove good/evil responses that have been a mainstay of the developers’ RPGs, but they’ve failed to replace them with anything close to as meaningful. As a result, they’ve essentially removed the majority of choice at all. At one point you’re offered an extremely significant deal that contains an element that’s tantamount to extortion. In any other BioWare game before you’d argue this, perhaps choose it as the lesser of two evils, or reject it based on principle. Here you get two choices: to accept it, or accept it while making a joke. It’s quite bizarre how far they’ve gone in removing the illusion of autonomy, while still seeming to think they’re offering dialogue choice.
+
+Of all the Mass Effect games to take away the opportunity to be a dick to your crewmates, boy did they pick the wrong time. Having spent dozens and dozens of hours in their company, I can tell you that I neither like nor dislike any of them. I pretend to dislike Liam and Gil, because both are presented as cock-er-nee blokey-blokes, and it’s ghastly, so I try to pick responses that will upset them, but there’s barely anything that could and nothing interesting comes of it.
+I’ve never before played a BioWare game where I wasn’t torn about who to take with me in a landing party. Those moments of, “Oh no, but I have to take X on this trip because it’s his home planet, but that means I will miss Y! There’s not even a glimmer of it. I resentfully take two along, not caring what either will add. It’s so, so odd.
+
+Let me give another example that’s emblematic of almost every aspect of the writing: there’s one sidequest on Eos where you find a message from a dude who died in the middle of doing a job, planting radio beacons in various hard-to-reach places. So your task is to finish the job for him, out of respect. With each beacon you place, a message automatically plays, an adult woman’s voice saying empty aphorisms about what a good job her dad is doing. Right, you think, so his daughter recorded him these messages, so she’s probably dead – where is this going to go?
+Where it goes is the shocking revelation that – oh no! – she’s dead! And from this we’re asked to feel an emotional response, with your companions leadenly explaining that it’s emotional, you see. Meaningless platitudes from a dead daughter playing out as you complete the task of a dead father. It’s an embarrassment, as if saying, “SOMEONE IS DEAD, SO THERE IS SADNESS!” is how it works. It could have been handled delicately, the messages could have been subtle, messages of genuine complicated love between a father and daughter, a short story playing out as you learn of their trials and their grief. That he never got to hear these messages from his dying daughter should have been the hook, should have tugged at the player, played on our own emotional attachments to parents and children. Instead, as with every part of the game’s writing, it was flat, perfunctory and robotic.
+
+Much has been made of issues regarding facial animation, but much of the time faces can look great. Non-human faces. Humans they did not get right. The whole game is this weird flip-flop between gorgeous and ugly, sometimes showing you incredible vistas in detailed scenes, other times awkward greys and blues with boring boxes. Some characters look amazing, others look drawn in crayon. Sometimes special effects are dazzling, other times embarrassing. It’s certainly not Frostbite at its best. But sometimes it can look really lovely.
+The bugs, oh there are many. I’ve had Ryder get stuck in a star jump pose, and skid around like a paper doll. I’ve had to quit and restart because conversations couldn’t be left. Characters talk over each other ALL the time, making it impossible to hear key information – and more egregiously, companions will sometimes suddenly start reminding you about an active quest, cutting off the new information to which you’d been listening. I’ve fallen through floors, been killed by rocks (see above), am constantly told there’s something to scan when there’s nothing to scan, have characters loop vital conversations, and Ryder nearly always clips and gets stopped when trying to run up a flight of stairs… 
+Then add to that a litany of irritants. For example, on an ice planet, every single time you step away from a heater SAM says, “Pathfinder, the temperature is dropping,” or variants thereof, and then when you pass the next one, “Pathfinder, the temperature is stabilising, life support systems at 100%”. Non-stop! Every ten seconds he says one or the other! On so many different planets! And then every time you drive past something you can mine… He DOES NOT SHUT UP.
+
+And you can’t just get back on your ship any more. It has to take off from the planet you’re on, even if you just want to check your bloody email (apparently multitools still can’t manage this feat), which involves watching two tedious unskippable cutscenes then two more to land to carry on where you were. Add that to the glacial planet scanning (because everyone LOVED that in Mass Effect II, right?!) and it makes for an annoying game.
+I mentioned in my last article about how atrocious is the UI, and it bears repeating. It’s awful in every imaginable way, bewilderingly so. Menus are miserable to navigate, and often barely functioning. When looking through the codex or quest journal or inventory to find newly added content, it’s (usually) marked with a blue tick. Which would be helpful if it weren’t designed as to not let you see them. Anything past the first six entries is off the bottom of the scrolling list, but the act of scrolling highlights each entry, and highlighting them removes the !. As you scroll down to find what’s been slotted in new, it unmarks itself before it appears on screen. That’s bewildering, and makes the reams of content even more unnavigable. And when you’re trying to find new quests in the massive shopping lists, infuriating.
+Then there are the exclams that won’t disappear, the ones that are marked in the tab but don’t appear anywhere in the lists within, the ones that aren’t marked on a sub-heading… it’s a mess.
+When shopping or crafting you can compare weapons to what you’re currently holding, but not armour to what you’re currently wearing. When crafting you can either have everything you can currently craft from every category lumped together in one enormous list, or lists of everything craftable in a category which doesn’t highlight what you can currently craft. New items like augmentations or blueprints aren’t added to the tops of lists, but rather slotted in all over the place, and thus the scrolling-deleting-the-exclams issue renders these useless as well… It just goes on and on.
+
+So there are two big problems. A game that’s somewhere between unpolished and unfinished, and a game that’s just flat and unoriginal and uninspired. There’s the ability to wile away many hours cleaning icons from maps, and it’s worth noting that I lost myself in this multiple times, but in these surroundings, not worth celebration. It’ll keep you busy, but not in a way that feels like you used the time well.
+Is it as bad as my previous comments on the first few hours suggested? Kind of, yes, but diluted down by sheer volume of busywork. There’s nothing I’ve found that redeems its crappy writing, threadbare companions, moribund story, and ghastly UI. But, well, the best I can say is it occupies time. The driving’s kind of fun, with its own list of annoyances. Um. Some it’s fine.
+Which is frustrating, because dammit, I wanted a wonderful new Mass Effect game, and such a huge amount of effort and work has gone into this. For all its cacophony of flaws, it’s a vast and intricate creation, into which many people have clearly poured huge quantities of energy. To see so much achieve so little is dispiriting in the extreme.
+
+Bugs will, I’m sure, be fixed over the coming weeks, and maybe if enough people ask they could ditch the UI and start from scratch on something that works. But it won’t be able to remove that ennui that weighs down so heavily over its formulaic tale, especially after its daft ending.
+I’ve a very strong feeling that people are going to buy this anyway, and many will milk from it what they can in order to feel rewarded. That’s great. But as a follow-up to the previous trilogy, it’s a timid and tepid tale too heavily reliant on what came before, too unambitious for what could have been, trapped in a gargantuan playground of bits and pieces to do.
+
+Also, who the hell travels to another galaxy and doesn’t bring the Elcor with them?
+Mass Effect Andromeda is out on the 21st in the US, 22nd at 11pm in Europe, for PC, via Origin only. £50 too. Cripes.
+
+20/03/2017 at 07:34
+
+heretic says:
+
+A shame, it would be interesting to have a follow up on what went wrong.
+Clearly they had a huge budget for this so why did the writing end up so meh?
+It sounds like it was rushed somewhat.
+
+20/03/2017 at 07:41
+
+The Velour Fog says:
+
+The cynic in me says it was gonna sell a billion copies anyway so why put any effort in
+
+20/03/2017 at 08:19
+
+scatterbrainless says:
+
+I think more likely it’s the quantity. There seems to be this trend of making new games just agonizingly, grindingly full of content, the more of which there is, the harder it is to quality control. Although, I mean, Witcher 3 managed it, so…
+
+20/03/2017 at 08:41
+
+IEatCereal says:
+
+Ultimately though gamers are also to blame for this. Graphically good looking games and huge (empty) open worlds sell well.If you want to stop seeing Ubisoft style open worlds and endless MMO style quests with loads of writing that seem gets lost in the sheer size and blandness of the world, then you’ll have to get loads of other people to stop buying those games.
+
+20/03/2017 at 09:04
+
+BooleanBob says:
+
+Hello Chicken, have you met my friend Egg? He’s just given this bloat-heavy open world grindathon a safe 4/5. He did so to avoid having to deal with everything that comes with the 3/5 he wanted to give the game: furious fanboys, disgruntled PRs, and the worried look on the face of his editor, who’d be supportive however he scored it, but whose financial position is queasily dependent on the marketing spend of the companies whose products her site has to review.
+Hello Egg, have you met my friend Chicken? He doesn’t spend a lot of time researching the games he buys, he’s too exhausted from work for that. In the evening he just wants to lie on the couch and wile away his two or three hours of free time with something uncomplicated and fun. On the weekends he might pick up a new game, probably something he saw in an advert between Top Gear re-runs. Something with a lot of 4/5s on the back of the box.
+
+20/03/2017 at 12:02
+
+kfix says:
+
+@BooleanBob I rate this comment 4.5 eggs out of chicken. Would egg again.
+
+20/03/2017 at 13:31
+
+Beefenstein says:
+
+“Ultimately though gamers are also to blame for this”
+As others have pointed out you mistake proximal and distal causes. No-one is to blame, everyone must work together to improve the situation. This is the way everything is.
+
+20/03/2017 at 07:52
+
+Asokn says:
+
+I think that the truth is the writing is hard, writing well is even harder and writing well as part of a committee is next to impossible. I wouldn’t be surprised if there’s a general understanding that most writing in a game should be fairly bland and unchallenging for two main reasons; it prevents artificial controversies overshadowing the game and it ensures that the game’s tone remains fairly consistent throughout rather than different parts of the writing produced by different writers jarring against each other whilst in play.
+
+20/03/2017 at 08:07
+
+Slinkusss says:
+
+Then why are there so many good examples of writing in games going back to the beginning? I understand your point that there are facets of game writing that we lay people may not understand, but if they are universal rules then why don’t all developers follow them? And if they’re not universal rules then why can’t a lore heavy franchise that has demonstrated decent writing before, just do it again?
+My answer: Maximise profit. I think the ‘AAA’ gaming business from 2000-2020 will be characterized by future gaming historians as the ‘let’s see what these muppets will let us get away with’ era…
+
+20/03/2017 at 08:54
+
+tomimt says:
+
+It’s not as simple as that, while profit maximizing is probably one reason. 
+You can have a team of the best writers in the world and still end up having writing that is lackluster. Hell, you can even believe at the time that the writing is superb only to end up crushed after the bigger public gets their hand on it. That happens all the time, as it is easy to become blind on your own work, especially if you are working as a part of a bigger committee. 
+In the end, most people are the worst judges of their own work.
+
+20/03/2017 at 10:46
+
+Scraphound says:
+
+I’m sorry, but I disagree with your evaluation of professional writing. 
+Professional, experienced writers know good writing from bad. Knowing great writing from good is where things get muddled. Professional writers should be able to churn good writing out night and day. It’s their bread and butter. There’s nothing muddled about it. If you know how to write, you know when your work is good or bad. 
+The mistakes in the examples are glaringly obvious. Imagine if writers were house painters. This would be the equivalent of having drips and unpainted patches all along your walls. They know they did a shit job (or they should know, if they’re at all professional).
+
+20/03/2017 at 12:48
+
+tomimt says:
+
+If that were true every Stephen King book would be astonishing piece of work, but in the end he has only a handful of actually good books.
+
+20/03/2017 at 13:22
+
+Frosty_2.0 says:
+
+I’m with tomimt on this.
+I think Aaron Sorkin would have something to say about being “able to churn out good writing night & day”, the guy is prolific but also famously defaults at Writer’s Block.
+
+21/03/2017 at 12:34
+
+ravenshrike says:
+
+Thinking on it further, they really needed some good editors significantly more than they needed better writers. Editors would have at least set a much higher minimum for the quality of the writing.
+
+20/03/2017 at 09:35
+
+Asokn says:
+
+I think that if you go “back to the beginning” of games you will see that the vast majority have no real writing at all and those that did had very basic storyline, with the exception of a few gems, for every Planescape: Torment there are dozens of Space Invaders.
+Also, the size of development teams and the money involved has ballooned for top tier games in the last 20 years so that we now speak of teams of writers and cutting edge technology being used at a cost of millions of dollars. Historically, most games were made by small teams with limited budgets so it was much easier for a single narrative voice to be heard as a storyline was developed. Of course this didn’t stop a lot of games from having rubbish storylines but it was easier for a particular story to be told, for better of worse. In my view that’s what we’re now seeing in indie games, they most closely resemble how game development has been historically and we all know of examples of great storytelling from these games in recent years along with a lot of absolute rubbish. The more people, money and processes are involved in developing something which is fundamentally creative the more you tend to find the edges smoothed out and a much greater degree of competent but unremarkable stories.
+
+20/03/2017 at 08:16
+
+ButteringSundays says:
+
+Writing on major projects is often achieved by using teams of writers – so I don’t see that being an issue unless they hired bad writers. In which case the issue is bad writers.
+
+20/03/2017 at 09:38
+
+Asokn says:
+
+A lot of major projects have poor stories though. Look at the multimillion dollar films, TV shows and games.
+
+20/03/2017 at 12:02
+
+ButteringSundays says:
+
+Stories are written by writers.
+
+20/03/2017 at 11:00
+
+MadMinstrel says:
+
+Not necessarily. Often it’s the case that the writers are not afforded enough control over the game and end up having to write around what’s already designed, modeled, recorded or animated. Nobody is that good.
+
+20/03/2017 at 12:01
+
+ButteringSundays says:
+
+Right, but I was responding to the suggestion that the cause was multiple writers working together.
+
+20/03/2017 at 13:10
+
+Neutrino says:
+
+Maybe that’s the problem. Large software is also often written by teams, but for the design to be good it’s commonly the case that one or two architects will own and develop the overall design in order to ensure it remains consistent and coherent. This may explain how games from the olden days often had great stories (smaller teams back then you see), and why even today some of the best software is still made by smaller teams.
+It’s hard to see how a good story could be written by a team. That’s why books generally aren’t written that way.
+
+20/03/2017 at 11:48
+
+DThor says:
+
+I agree 100%. Writing is a constant process of editing, few writers dump out the finished story then tighten it up – they’ll often “find” the story as they edit. I would argue the task of game writing typically doesn’t allow for this process. You are one of several writers given a setting (in this case scifi with a given level of tech), a basic goal (get more resources or tech), off you go. You can’t suddenly come up with a shocking twist half way through where the player realizes the entire premise is a lie and in fact you’re imagining the entire thing and you’ve been absorbed into some sort of psychic drainy plant thingie that’s feeding off your dreams… well, you *could*, but it’s a lot harder. You’ve got 10 more mini quest stories to spec out by next week.
+To me the gold standard is Witcher 3. I can’t spit out the precise reason why (I should be running a game company then), but my guess is the writer’s start with a story proposal from the writer, say a young girl hires the hero to save her father but in fact she put her father in peril in the first place and just wants the magic whatsit around his neck for some terrible ritual and then you realize the little girl is simply a husk containing some awful demon yadda yadda. But instead of starting with a “get more resources” goal, you’re starting with a *story*. You want to evoke terror, happiness, joy, longing, sadness… this is the currency W3 dealt in. I argue you could absolutely do this in a sci-fi setting, you don’t need the gothic setting to evoke emotion. Sadly, sounds like this isn’t the game to do it.
+
+20/03/2017 at 20:38
+
+iainl says:
+
+I get the impression that a lot of the problem is that it’s not even teams of writers working together. Writers not having the time to discuss what they’re doing leads to them unable to write characterful dialogue, because they can’t match that character with what five other writers are doing with that person elsewhere. Everything goes to this bland mush.
+
+20/03/2017 at 08:30
+
+Lobotomist says:
+
+Its EA.
+I worked in similar environment doing game development ( its reason why i left that field forever )
+Imagine working with people that sole goal is to prove everyone they know better ( and get promotion )And whatever is done, no matter how long it took or who stands behind it with his expertise – can be undone ( and changed )on smallest whim of “suits” that have no experience, knowledge or love for games. And everyone hates everything they do since nothing is what they wanted, liked. They were simply forced to do it ( and often under very stressful conditions )
+Its a cesspool. And it always ends with lot of actual workforce being fired – while the “suits” and power mongers get promoted ( despite the fact the project obviously failed because of them – but the small workers are always blamed and replaced )
+
+20/03/2017 at 11:25
+
+Christo4 says:
+
+Sounds just as i expected. There’s a reason i barely play any AAA game anymore.
+
+22/03/2017 at 05:54
+
+Furiant says:
+
+This same phenomenon is why I quit professional programming forever. I have even come to the conclusion that I cannot do things I am passionate about for a living, at least not in the traditional office environment. I’d rather work all day at a job that is not fulfilling and come home to my passions, than work all day destroying my passion and come home to nothing.
+
+22/03/2017 at 12:31
+
+Crocobutt says:
+
+Been contemplating quitting my field too (3D animation/rigging); it’s nice to read others’ thoughts and experiences.
+Thinking of getting into farming, raise sheep or something.
+
+28/03/2017 at 14:46
+
+erik.reppen says:
+
+As a primarily web/UI dev I’ve worked in a wide variety of environments. Massive corporate being the worst. Don’t quit something you love doing because of that experience. Just look for a better environment to do it in, even if that means writing code for something other than game dev with a major publisher which is a recipe for abuse. There are still smaller/independent developers out there and of course there’s the Indies. In my experience smaller is almost always better although sucking it up for a year to get a big name on your resume can certainly makes job searching a lot easier. Also, maybe just bad luck on my part 5 times over, but avoid Java situations like they were cancer.
+
+20/03/2017 at 09:23
+
+MrLoque says:
+
+Because people preorded/buy hyped games without questions, lured by marketing, cool videos, promised features and more. Gamers never learn from bad experiences: they forgive and forget and just wait for the next AAA title.
+
+20/03/2017 at 10:12
+
+Hoot says:
+
+I learned a hard lesson with No Mans Sky. After a 200 game Steam Library, 20 years as an invested gamer and many a pre-order I’ve only been burned twice.
+Dragon Age 2 and No Mans Sky.
+Some would argue that 2 digital turds among a game library that is mostly made up of great games (and at least a hundred or so indie titles picked up in bundles or for 50 pence on Steam sales) is acceptable, inevitable even.
+I say fuck that. I shall be burned no more. Pre-orders are done for me, no matter how many small cosmetic rewards you dangle in front of my face as an incentive.
+
+20/03/2017 at 10:58
+
+MrLoque says:
+
+NMS hit hard our feelings but I personally never-ever trusted Murray in his videos. He was smelling lies at every smile, it was crystal-clear that he was hiding an astronomic failure so I didn’t fall for it.
+Instead, my biggest and most memorable “regrettable purchase” has been Diablo III in 2012. It then became a great game but the first year was just… nope.
+
+20/03/2017 at 13:27
+
+DarkFenix says:
+
+NMS was bad, but the warning signs were there. I went and preordered Aliens: Colonial Marines… Yeah. Still haven’t even started recovering from being burned by that one.
+
+21/03/2017 at 13:06
+
+KenTWOu says:
+
+@DarkFenix
+Nah, the warning signs were there as well.
+
+20/03/2017 at 11:20
+
+Guvornator says:
+
+Well, it’s a good argument for joining Origin Access, as, somewhat perturbed by the press around it, I got to try it out before I made a purchase decision. And so far it’s been pretty good. Not good enough to drop more than you’d pay for the console Amazon release (which is what it costs on Origin which I mean..what the hell?) but I’ve had fun. A quick trip back to the very first one confirms Andromeda is a much better game as well (which you’d expect, but it’s nice for it to be confirmed). I’ve not experienced any bugs, although again I’ve just played the trial.
+I think the biggest knock is this – if we say the original trilogy was Mass Effect V1, Andromeda is at best V1.4. Everything has been tweaked and in my view largely for the better, but there’s precious little that’s been revolutionised. It’s as if the design brief was “Mass Effect is 2017” and the team decided to interpret that literally. Personally I’m ok with that, but I can see it being a disappointment if you dropped £50 on it.
+
+20/03/2017 at 16:29
+
+Caml says:
+
+DA2 got me too, that was my last pre-order. I was skeptical after Quantum of Solace, and DA2 sealed it for me.
+Not that I would pre-order much these days, there’s just so many things competing for my time outside of big school breaks for me to buy anything outside of those breaks. I did buy BeamNG.drive recently, which is technically early access, but it does what I want it to- fun, wacky, and challenging but short scenarios I can squeeze in after grading or planning and not have to remember tons of hotkeys or where the plot left off last session.
+
+20/03/2017 at 22:07
+
+Juan Carlo says:
+
+I don’t understand why anyone pre-orders at all, regardless of a game’s quality. Pre-orders made sense back in the days of physical media as popular titles might have been in short supply, but now that everything is digital there’s zero reason to. Why not just buy day one if you really want a game? With most AAA games, reviews will be out by day one, allowing you to avoid potential catastrophe. And you still get the game the same time you would if you had pre-ordered.
+
+20/03/2017 at 11:59
+
+Talnoy says:
+
+When I was playing the trial, it really felt like some studio had an alpha sci-fi shooter that was just coming around to being playable and EA came by, stapled Mass Effect on it and told the developers: “Alright, go ahead, this is Mass Effect now, carry on.”
+It’s really sad :(
+
+20/03/2017 at 12:55
+
+dylan says:
+
+Serious question: Is there any medium in which a bigger budget is a strong predictor of good writing?
+
+20/03/2017 at 19:28
+
+Zenicetus says:
+
+One example might be live theater projects. Theater audiences tend to be well-educated, and Broadway shows are a huge financial gamble. Especially for tent-pole projects associated with other media, like a Disney show. So they don’t usually skimp on the quality of the writing. 
+Apparently studios like EA/Bioware hold the gamer audience to a lower standard.
+
+21/03/2017 at 12:51
+
+morningoil says:
+
+Ha ha ha hee hee hee ho ho ho.
+Source: 10 years working in professional theatre.
+(Sorry. And speaking seriously, this is not to say there aren’t a lot of amazing writers and other craftspeople working in high-end commercial theatre, there absolutely are – but they are subject to the same iniquities as in the other arts: more money means, often, less time, more pressure to be safe and predictable, more design by committee, more exposure to their work being mangled by the suits who just see it all as a solely financial affair, etc. etc. Except that you can do really interesting things in theatre at the very low end that’s perhaps difficult in games where a certain minimum of time and money and exposure is needed, the analogies between the two sectors are pretty exact, I would say).
+In other news: woah, they done screwed up Mass Effect. I feel pretty sad about this.
+
+20/03/2017 at 07:46
+
+tay says:
+
+I’m not 100% sure since it’s been a while since I used up my trial, but couldn’t you check your email on the little life support pod/checkpoint things that dropped from the sky?
+
+20/03/2017 at 07:50
+
+Atarun says:
+
+“It wasn’t there on your magic quantum telescopes when you left, but (and I’m not being facetious here, this genuinely is the plot) no one thought that things might change on planets over the course of six bloody centuries.”
+Or rather it wasn’t there 2.5 million years prior and everyone seems to think that the 6 measly centuries it took them to get there are relevant for no discernible reason… Because the quantum entanglement communication technology cannot be used to spy on a galaxy 2.5 millions years away, it’s meant to handwave the instantaneous communications between points that have been colonized already. And presumably, it would take 600 years for a probe to get to Andromeda from the Milky Way and be able to relay its info via quantum entanglement communication…
+So… I suppose writers of Mass Effect Andromeda do not know that the sun they see is the sun from 8 minutes ago… which means they might want to stick to any genre BESIDES science-fiction, imho.
+
+20/03/2017 at 09:19
+
+phuzz says:
+
+Perhaps our first warning should have been that early trailer, the one on the moon, where they show one of the Apollo landers that still had the ascent stage on top.
+So it was either a replica (sat out on the moon rather than in a museum), or the astronauts that landed in it had never been able to return home.
+I’m going to take this as my metaphor for the whole game: Looks pretty, not enough actual work behind it though.
+Wait until it’s on sale for less than £15 I guess.
+
+20/03/2017 at 11:29
+
+Guvornator says:
+
+I suspect, like Star Wars Battlefront and Mirror’s Edge Catalyst, it will be making it’s way to the Origin Vault in quick time. To be fair, the vault has a pretty good lineup right now as well, so it might be a good time to invest.
+
+20/03/2017 at 13:12
+
+J.C. says:
+
+I have Origin and wasn’t sure what you meant, but I found the Vault just now. Basically the games get discounted eventually and thrown into Vault? I know that the Battlefront population is pretty bad: link to swbstats.com ; never did like how that game turned out besides ‘pweety’ graphix.
+
+20/03/2017 at 14:24
+
+Guvornator says:
+
+For either £3.99 a month or £19.99 a year you get to play all the games in The Vault. For that you get the original Mass Effect trilogy, Fifa 16 and 15, The Dead Space trilogy and a fair few more, as well as some Indie games like Furi and classics like Ultimas 1 to 9 and Wing Commander. They also let you have a crack on their trials. Putting aside any anti Origin/EA feeling one might have, it’s a pretty good deal, to the extent I haven’t felt the need to pay full price for an EA game since FIFA 13.
+
+20/03/2017 at 10:46
+
+Wulfram says:
+
+No, they’re explicitly FTL telescopes
+
+20/03/2017 at 11:10
+
+John Walker says:
+
+He’s right.
+
+21/03/2017 at 20:48
+
+Marr says:
+
+That’s enough of a SF macguffin just on its own to drive a Foundation style trilogy. Combined with FTL travel, that technology should be able to image any arbitrary point in the past, removing all privacy from the universe at a stroke and enabling an unstoppable galactic zero tolerance police state.
+
+20/03/2017 at 15:35
+
+piesmagicos says:
+
+Or…maybe we are giving too much credit to the people of the future. Its something i notice with scifi no matter the medium…they are always held to an esteem of “They are smarter and wiser than I am”. So its entirely possible they are just as impulsive and prone to failure and mistakes as we are…just with fancier toys. So, my take on this which is entirely baseless in anything other than my opinion…maybe this was a future space race. Perhaps the exiles planned this exodus a good 30 years before anyone else was aware, so they left first, followed by all the other people who didnt want to be left behind. So common sense normally would have prevailed but because someone beat them too it…rash decisions were made, nationalism as it were was fanned into a work around the clock to catch up kind of way. The dissenting voices who spoke reason about the conditions that may be there were shushed for “patriotism” etc. I dunno…makes sense to me especially when it comes to the human portion of the thinking.
+
+20/03/2017 at 18:45
+
+Lone Gunman says:
+
+Since when is SciFi always hard scifi?
+Everything doesn’t needed to be grounded in Physics to make a good space science fiction game/book/film. How many space things have sound waves in space?
+
+20/03/2017 at 20:41
+
+Shadow says:
+
+I think the whole point of science fiction is that it has to be grounded in actual science, even if it’s only a starting point and eventually the technology goes beyond. Otherwise it’s just space fantasy. Which is a shame because at least the earlier Mass Effect games tried to go down a somewhat hard-ish route. Read the entry on space combat on the first game’s archives, for instance: there was real thought put behind it.
+For me, this kind of lapses in knowledge/interest for accurate representation are as jarring as an 80’s action hero firing his machinegun constantly, without ever reloading. It’s less an issue of sci-fi purism and more one of the dev team simply not giving a damn about the product they’re making, something evidenced throughout the game’s elements.
+
+22/03/2017 at 05:58
+
+Furiant says:
+
+Since it had the word ‘science’ in its name. Otherwise it would just be fiction.
+
+20/03/2017 at 07:56
+
+lglethal says:
+
+Sigh… I really wanted this to be good, being a huge fan of the Mass effect series. But everything I saw in the lead up, led me to the Impression it would be mediocre at best. It seems I was right. Sigh…
+Still no sale on Bioware Points though… Was also really hoping they might get a sale with the release of ME:A…
+
+21/03/2017 at 13:08
+
+Ghostwise says:
+
+There’ll be mods, and DLCs, and patches and wot not. It *may* become better.
+A lot of open-ish world AAA games are markedly better after a few years, especially if they’re properly moddable.
+
+20/03/2017 at 08:01
+
+GAmbrose says:
+
+I take it now that people have actually played the trial, and ‘celebrity YouTubers’ have basically said the same things as Johns original article, that the comments section here won’t be nearly as toxic as the comments under his initial thoughts about the game?
+
+20/03/2017 at 08:12
+
+drewski says:
+
+Nah, John will still be accused of being a Mass Effect hating corrupt “journalist” by fans even as they combust in rage at exactly the same things he’s pointed out are shit. 
+At this point rage on the internet is basically a performance art piece where half the players don’t realise they’re on stage.
+
+20/03/2017 at 09:28
+
+John Walker says:
+
+The day someone calls me a “journalist” without putting it in scare quotes will be a sad day indeed : )
+
+20/03/2017 at 12:28
+
+Rich says:
+
+‘”journalist”‘
+
+20/03/2017 at 13:35
+
+Beefenstein says:
+
+…John Walker, self-proclaimed “human being”, had this to say in his defense…
+
+20/03/2017 at 15:21
+
+A Gentleman and a Taffer says:
+
+“Journalism is printing what someone else does not want printed: everything else is public relations.” – George Orwell
+George would call you a journalist, John. Most games “journalists”, not so much.
+
+20/03/2017 at 16:29
+
+Colthor says:
+
+“News is something somebody doesn’t want printed; all else is advertising.” – William Randolph Hearst
+“Quotes wind up misattributed to somebody more famous” – Winston Churchill
+
+20/03/2017 at 16:47
+
+A Gentleman and a Taffer says:
+
+@Colthor – Dammit! I googled and everything! Could remember the gist of the quote but not the detail, had a google and that’s what I found. Can’t believe the internet lied to me…
+
+20/03/2017 at 20:56
+
+Colthor says:
+
+I’m half expecting somebody to point out that Hearst stole it from a lady in the canteen ;)
+
+21/03/2017 at 15:45
+
+Cederic says:
+
+Well, your strength is being a critic.
+This article reads like a Kermodian rant, which you should take as a great compliment.
+
+20/03/2017 at 08:52
+
+Themadcow says:
+
+Even the usual happy clapper sites have given it a bit of a pasting. 75% on Metacritic for early reviews is loooow.
+Well done John for helping to cancel some pre-orders!
+
+20/03/2017 at 17:34
+
+SaunteringLion says:
+
+Yeah, a 75 in gaming is like a 50 in another medium for whatever reason.
+
+20/03/2017 at 17:41
+
+Darth Gangrel says:
+
+Yeah, such a low score on Metacritic practically demands that Bioware acknowledges their failure as a gaming developer and go “ME:A culpa”.
+
+21/03/2017 at 12:55
+
+morningoil says:
+
+ME:A culpa – brilliant.
+
+20/03/2017 at 08:05
+
+celticdr says:
+
+And let the negging of John’s review by rabid ME fanbois start… now!
+Seriously though it sounds like BioWare have lost their touch with this and DA:I, sad to see a decent dev go off-piste like this.
+
+20/03/2017 at 08:41
+
+Pich says:
+
+IMO one of the reasons for the dip in quality is that this isn’t Bioware anymore, but EA wearing its rotting skin, and see Lobotomist’s post above.
+
+28/03/2017 at 01:57
+
+welverin says:
+
+I know this was really a shot at EA, but you are actually correct that ME:A wasn’t made by Bioware (the studio in Edmonton), it was by Bioware Montreal, a.k.a. the B-Team.
+
+20/03/2017 at 09:10
+
+Aetylus says:
+
+You don’t need to be a ME fanboy to disagree with John’s reviews. I almost always disagree with John’s reviews… it seems that what John enjoys in a game is almost the exact opposite of what I enjoy… so much so that its a reasonably safe bet for me to buy games that John gives a poor review to.
+I rather enjoy reading John’s reviews though, and find myself chest-thumping in agreement with his stance on social issues… but when it comes to games, he is my anti-barometer. I’d think it unlikely I’d find MEA “unavoidably, all-encompassingly dull for so, so many hours”.
+
+20/03/2017 at 10:24
+
+SanguineAngel says:
+
+Yeah that’s pretty much me, too.
+Happy to have John provide this review because I know John’s work well enough to approximate whether I’ll like this game based on it. Which is somewhat the purpose – I don’t need to agree with him and I sure as heck am not gunna be annoyed if he slates something I like (though maybe a little human emotional sting). As long as his critique is useful then I am glad to have it
+
+20/03/2017 at 12:32
+
+Risingson says:
+
+Personally it took me a LOT to find out that. Usually what drives John or other people here at RPS (journalists, yeah), what they find fun or compulsory are different things. It’s weird, though, that this happens to me in a site where they write so well, and that is why sometimes I feel double cheated (John’s opinions on Discworld 2, Alec’s on Stasis).
+
+20/03/2017 at 12:01
+
+MajorLag says:
+
+Disagreement is one thing, rabid defense of a game you’ve not played, along with wild accusations against the reviewer, are something else. Though, sadly, kinda par for the course on the internet.
+
+20/03/2017 at 08:15
+
+icarussc says:
+
+Sad day. Perhaps they’ll find their feet again for the next Dragon Age game. Here’s hopin’!
+
+20/03/2017 at 08:17
+
+GardenOfSun says:
+
+To be fair I think it’s been pretty clear for several years that Bioware have never actually been the true heirs of the rpg glories of the Infinity days. I actually say this without even having played DA:I or ME3, but – and here I know my opinion might be unpopular – I think that Mass Effect and Dragon Age: Origins, while undoubtly great games, already showed a dip in terms of depth and writing if compared with Black Isle or Obsidian titles (and to think I actually liked DA2, as it was the least formulaic of recent Bioware titles, though I’ll agree that there was a dip in gameplay and design there).
+In fact in my opinion the issues stem from at least as far back as Kotor 1 vs Kotor 2. Kotor 1: great game, but a bit formulaic and not super-deep. Kotor 2: bit buggy and unfinished (because Obsidian), astoundingly deep and interesting (because Obsidian). Same deal with Neverwinter Nights vs Neverwinter Nights 2: the former technically advanced and well realised but with a sp campaign utterly devoid of interest, the second a true heir to the older titles. As such, as a fan of the Black Isle masterpieces, I’ve never really understood the cult following Bioware has held for a long time now (while, on a related note, I also find it hard to understand the contempt TES games tend to draw when one talks about plot and writing. It’s true that sometimes they tend to be a bit too much sandboxy for their own good, but when you get into them sufficiently you understand that there’s astounding amounts of depth hidden beneath their surface, and that the less engaging aspects of their quest and world design can in that light make sense).
+
+20/03/2017 at 08:25
+
+BlackeyeVuk says:
+
+Oh man, that. Obsidian is unrivaled in character/story department.
+
+20/03/2017 at 12:05
+
+Wulfram says:
+
+Meh, to me their characters are dull and lifeless, their plots are unengaging.
+Aside perhaps for Alpha Protocol – the modern setting forced them to rein in their more annoying traits.
+
+20/03/2017 at 08:36
+
+Lobotomist says:
+
+I dont realize how people still think Bioware exists. 
+Dont you know Bioware was purchased by EA in 2000, and Bioware doctors left 2010 (along with most of people that mattered) What left of the studio was also merged with Mythic that is MMO developer studio ( that was also butchered )
+It is not Bioware. Its EA keeping the brand name for 6 years, in order to sell games.
+Dont people know that ?!
+
+20/03/2017 at 08:49
+
+GardenOfSun says:
+
+I had heard about that, aye, though in my opinion you don’t need to know the backstage to realise that something has been off for a long time (at least if you were around for the BGs). I guess that in the light of what you say the debate might be whether the decline was clear since NWN or it started only in 2010. As I said, I stand in the former camp.
+
+20/03/2017 at 09:30
+
+John Walker says:
+
+NWN2 was amazing!
+
+20/03/2017 at 10:02
+
+Optimaximal says:
+
+NWN2 was great, because it was made by Obsidian.
+
+20/03/2017 at 13:01
+
+John Walker says:
+
+Hehe, oh yeah. I idiot.
+
+22/03/2017 at 04:13
+
+Frosty_2.0 says:
+
+Hordes of the Underdark (2nd expansion) was good, I really enjoyed that campaign; 
+The original NWN campaign was clearly not good – But it was kinda at odds with releasing the engine/tools/DMing to the public. David Gaider’s Deekin was well liked by the fan base though​ IIRC. Shadows of Undrentide was quite forgettable too (I really can’t remember much about), I think I was more interested in the mod potential and classes etc..
+
+21/03/2017 at 10:03
+
+Tritagonist says:
+
+But where do you draw the line on that? At what point does one say, ‘now it’s no longer as it was’. It’s a bit like that old tale of someone supposedly never stepping in to the same river twice. Whichever group calls itself BioWare will be compared to earlier works by people using the same name; it seems rather inevitable.
+
+21/03/2017 at 20:54
+
+Marr says:
+
+I would say generally around the point that the visionary founders leave the organisation, naturally taking those they know are the core talent and soul with them.
+
+23/03/2017 at 04:04
+
+AtomicPenguin says:
+
+The parts for an RPG that mattered were still old Bioware until recently. Drew Karpyshyn left with ME3’s development, and David Gaider (Dragon Age’s writer) just left last year after being there for 17 years. Andromeda is really the first full game without the writing influence of old Bioware, and it shows. 
+I think people could overlook some of the technical and design issues if the writing was still great; I’m actually certain of it, since that’s been pretty standard for Bioware’s games over the years. Andromeda really is their first game without that influence on the most important aspect of their titles.
+
+20/03/2017 at 09:33
+
+ElementalAlchemist says:
+
+Same deal with Neverwinter Nights vs Neverwinter Nights 2: the former technically advanced and well realised but with a sp campaign utterly devoid of interest, the second a true heir to the older titles.
+Gods, no, NWN2’s OC was a garbage fire of awfulness. It’s telling however, that its lead designer, Ferret Baudoin, completely abandoned the project halfway through development to join Bioware (he ended up lead writer on DAO’s expansion Awakening). Josh Sawyer was brought in to cobble together something able to be released. When people talk fondly of NWN2, it’s typically exclusively about its expansion Mask of the Betrayer, which gets a lot of comparisons to Planescape: Torment.
+
+20/03/2017 at 09:55
+
+N'Al says:
+
+Yeah, the OC was crap. Mask of the Betrayer – and even Storm of Zehir, to an extent – was great, though.
+
+20/03/2017 at 10:11
+
+ElementalAlchemist says:
+
+SoZ really didn’t do much for me. I could see what they were going for, but I just never warmed to it.
+
+20/03/2017 at 11:32
+
+Sakai says:
+
+Well, as far as i’m concerned, original NWN2 was better than DAO. So no, it’s not just about the Mask of the Betrayer.
+
+20/03/2017 at 12:08
+
+GardenOfSun says:
+
+Indeed, I might have slightly exagerated out of rose tinted glasses (and the fact that the comparison was to NWN1, which was actual hot garbage), but for me NWN2 and DA:O are pretty comparable in terms of depth and writing.
+
+20/03/2017 at 12:32
+
+ElementalAlchemist says:
+
+I’d be the first to admit to the eye roll-inducing tendencies of Gaider, but simply virtue of “rocks fall, everybody dies” alone NWN2 is no match for DAO.
+
+21/03/2017 at 00:16
+
+InternetBatman says:
+
+I liked both the NWN2 OC and MotB. Storm is an acquired taste. NWN2 had a couple genuinely fun moments like lying that you don’t have a torch while it’s clearly in your hand; destroying Shandra’s shit; the fight for the Keep.
+It wasn’t perfect by any means, but people slag on it way too much (and also forget just how grim the RPG scene was that year).
+
+20/03/2017 at 10:37
+
+Turkey says:
+
+Everyone is always comparing Bioware to Obsidian, but what if it’s more like Bioware wants to be Steven Spielberg and Obsidian wants to be Stanley Kubrick?
+
+20/03/2017 at 11:24
+
+RuySan says:
+
+Seeing Obsidian compared to Kubrick it’s a nutshell statement of the low standards of writing in this industry.
+
+20/03/2017 at 13:20
+
+Herring says:
+
+Well, Obsidian occasional wrote characters that weren’t robots.
+
+20/03/2017 at 12:26
+
+KillahMate says:
+
+They’re both failing at those goals – Kubrick was famously meticulous and exacting, and if he had made software it wouldn’t have had bugs. And Spielberg doesn’t tolerate shit dialogue. But if you have to fail to emulate one of those two, Kubrick is more interesting to aim for, ’cause God knows we have enough failed Spielbergs.
+
+20/03/2017 at 16:10
+
+cpt_freakout says:
+
+While I cannot identify with it, I believe that the Bioware fandom makes sense simply because the company’s been quite competent at world-building and writing characters easy to relate to. I don’t think their writing’s great by any means, at least when compared to other RPG makers, but it’s always decent enough to get most of us hooked and interested in the worlds they craft. For me, that changed with ME2, which was the first Bioware game whose writing came to eventually annoy me so much I just dropped it. In any case, I thought that the whole debacle with the trilogy’s ending showed perhaps that, interestingly enough, people were not so much committed to the story but the world in which that story took place (many other stories).
+It’s sad that it seems that the final nail on the coffin of that competency has come with Andromeda. At least now there’s a bunch of other writing-heavy RPG makers that are more than just competent, like CDPR. inXile did a great job with Torment, too, and hopefully Wasteland 3 and Pillars 2 will be better than their diamond-in-the-rough predecessors (OK, Wasteland 2 was just decent, but Pillars had tons of potential, IMO).
+
+20/03/2017 at 17:43
+
+RuySan says:
+
+Just to balance things out, I really liked Wasteland 2 and hated Pillars of Eternity. Probably the biggest disappointment of my gaming life.
+
+20/03/2017 at 22:20
+
+Allafif says:
+
+Some of the appeal has to be that a lot of people really, really like to virtually bone the elf NPCs. And the space elf NPCs.
+Tell them what they want to hear and give them presents. Romance is so easy.
+
+20/03/2017 at 08:21
+
+hoho0482 says:
+
+To me it reads exactly like the previous games. The collective hysteria that stopped people realising quite how moribund the whole experience always was has somehow been lifted.
+
+20/03/2017 at 13:04
+
+Synesthesia says:
+
+Yes. Yes!
+
+20/03/2017 at 14:37
+
+GardenOfSun says:
+
+I 100% agree. You basically said in a sentence what it took me two paragraphs to argue. :P
+
+21/03/2017 at 08:16
+
+popej says:
+
+I think it’s partly because Mass Effect 1 rode the wave of the booming console industry. PS3 and Xbox 360 had recently been released and here was this new show stopper of a game, quite unlike anything the growing console demographic had ever seen. It was never a PC game at heart though. It was always slightly dull and formulaic in my estimation, although I still enjoyed it when I first played it.
+
+20/03/2017 at 08:28
+
+BlackeyeVuk says:
+
+So, its a bore fest like Dragon Age Inquisition with guns. Yeah, Im gonna pass on this one, gonna pirated it in a year perhaps when bugs are clear , and maybe FORCE myself to play it, only to give up after 5 hours. But hey, I’ll try at least.
+
+20/03/2017 at 19:47
+
+Asurmen says:
+
+Or you could just not?
+
+20/03/2017 at 20:03
+
+BlackeyeVuk says:
+
+Or I may. It serves little point. They are not getting money from me in your case, where’s in my previous statement be a 0.0000001% buy IF I like it. (percentages wary, but I like to troll). So yeah arguing about that leads nowhere.
+
+20/03/2017 at 20:46
+
+XxBrentos9xX says:
+
+No qualms about stealing I guess? Seems like quite a toxic point of view.
+
+21/03/2017 at 07:22
+
+BlackeyeVuk says:
+
+Toxic? Amusing choice of words. I would prefer more being pragmatic , truthful along options I have. You are making this so simplistic. Your colors are white and black,that doesn’t mean you are wrong.
+And after a long philosophical discussion of which I have little time for we would end with conclusion of me being not wrong either. So please, let us not discuss.
+
+20/03/2017 at 08:28
+
+UnholySmoke says:
+
+sophomoric 
+*soporific. Unless you mean it was written the second time by someone.
+
+20/03/2017 at 08:37
+
+icarussc says:
+
+Sophomoric just means trite, shallow, or immature.
+
+20/03/2017 at 08:42
+
+ZippyLemon says:
+
+What about a new word?: sophomoronic.
+adjective: having the style or level of quality typical of a second year university student who has adapted to the demands of the curriculum without actually learning anything.
+
+20/03/2017 at 08:42
+
+Gwilym says:
+
+Why do this to yourself?
+
+20/03/2017 at 09:50
+
+John Walker says:
+
+No, I meant sophomoric.
+link to dictionary.com
+
+20/03/2017 at 08:33
+
+The Sombrero Kid says:
+
+How long before Edmonton announces Mass Effect 4, set in the milky way?
+
+20/03/2017 at 08:38
+
+ZippyLemon says:
+
+Thank you, John. We need this sort of critique in games.
+Most importantly, it is very refreshing to see a reviewer avoid praising a game anew for replicating what its predecessors had, while still giving credit where it is due.
+I relish the idea that you will do the WOTs for the next Elder Scrolls and GTA games.
+
+20/03/2017 at 08:58
+
+Hieronymusgoa says:
+
+I feel the need to share parts of the critic of one of my favorite German reviewers:
+“I can understand everyone, who loved the ME trilogy and can’t get comfortable with ME:A. Be it because he wanted more interesting characters (like in 1), a more dramatic story (like in 2) or more engaging combat (like in 3). But if you set aside your expectations you’ll be rewarded with a gigantic and motivating roleplaying game which you can spend weeks with.”
+…no one would have hated Dark Souls 2 if there hadn’t been Dark Souls 1 :)
+
+20/03/2017 at 09:26
+
+phuzz says:
+
+To be fair, it sounds like they did take their influences from the previous three games, except they took their inspiration for the UI from the inventory in ME1, they took the planetary scanning from ME2, and they took the nonsensical writing and bazillion sidequests from ME3.
+
+20/03/2017 at 12:19
+
+freiform says:
+
+Where can I find the full review?
+
+20/03/2017 at 13:33
+
+Hieronymusgoa says:
+
+here it is/they are: link to gamestar.de
+all four of the reviewers pointed out flaws but that they overall liked what they got. and “gamestar” is not known for their unhinged praise of aaa-games.
+
+20/03/2017 at 21:41
+
+freiform says:
+
+Thank you for the link.
+
+20/03/2017 at 12:50
+
+mavrik says:
+
+So basically just like DA:I, it’s wearing a name it shouldn’t because they changed all good aspects of the design?
+
+20/03/2017 at 13:03
+
+John Walker says:
+
+I think you’d have to put the game not just in isolation from the Mass Effect series, but also all RPG, contemporary and classic, to not see the writing for the agonising snorefest it is, nor the companions for being the blank-faced nobodies they are.
+
+20/03/2017 at 08:59
+
+HoboDragon says:
+
+Well, AAA games at their best, err, worst. Do I dare say “EA” ?
+Don’t they ever learn? Releasing a product with so many bugs (not to talk about content quality) only ever hurt a game (franchise) – sure they will sell quite a bit, but somehow I doubt it’s enough. Maybe that was the goal? Kill off the series forever?
+
+20/03/2017 at 09:03
+
+Hoot says:
+
+John, Thank you. Thank you so much for writing a TRUE and REPRESENTATIVE article that isn’t tinged by hopeful denial or rampant fanboy-ism.
+If you remember, I commented on your early impressions of the trial and said I think you might be too old, grumpy and resistant to letting yourself be immersed and invested in the game and that I would have to try the trial for myself.
+Consider this me eating humble pie and being glad for it, you just saved me £50. You were right. Immersion should happen without you thinking about it, turn game on, 5 hours later you’re like “holy shit, I’ve been playing 5 hours!”. Andromeda has terrible juvenile writing and seriously messed up animations that shatter all immersion. The 10 hours trial I played showed me that. It couldn’t convince me to give shit one about anyone I met after 8 hours, Peebee was the only one I wanted to know more about, and even then, only just. This is in stark contrast to Pillars of Eternity where I just had to find out who the fuck Thaos Ix Arkanon was and what his deal was; or The Witcher 3 which needs no comment on it’s writing or characters because they’re bloody excellent.
+I’ve reinstalled ME2 and using Nvidia Inspector to enable some fancy graphics I’ve got it looking almost as good as Andromeda, and even though the tech is not there the characters can still emote better in that game than in this new one.
+
+20/03/2017 at 09:24
+
+jonnyherbert says:
+
+Every time somebody writes the words ‘TRUE’ in all-caps, the President experiences a warm swelling feeling. cf. ‘facts’, ‘objective’, etc.
+
+20/03/2017 at 09:30
+
+Hoot says:
+
+Damn, did I just inadvertently aid or emulate the Trump?
+In the words of a Salarian from Andromeda after watching perhaps the worst display of juvenile writing the game possesses (link to youtube.com)…
+Kill. Me. Now.
+
+20/03/2017 at 10:34
+
+lglethal says:
+
+Hey Hoot, slightly off Topic question but what is Nvidia Inspector and how does it get you better graphics? From my very quick Google search (I’m at work so really should be doing other things… :P) it seems to just be a graphics Card Reader with some overclocking abilities. 
+How did you get better graphics in ME2? Or do you just mean you turned everything up to max settings?
+
+20/03/2017 at 10:54
+
+Hoot says:
+
+Hey man, it does present you with all kind of info regarding clock speeds and voltage, etc…but there is also a ‘profiles’ button that lets you select games or add your own .exe files and input codes or choose from dropdown lists for all kinds of settings like anti-aliasing,advanced shadowing, etc…and also options that you can’t normally force in older games like ME2, such as ambient occlusion.
+You should check it out.
+link to imgur.com
+EDIT:- Google Nvidia Inspector Anti-Aliasing Codes and Nvidia Inspector Ambient Occlusion codes.
+
+20/03/2017 at 13:07
+
+John Walker says:
+
+Thank you : )
+
+20/03/2017 at 09:07
+
+Raoul Duke says:
+
+Hmm, interesting. 
+Genuinely uncertain how much of this is actually just the same stuff that was present in ME3, just without an interesting plot and interesting companions to help you get past it, and how much of it is as genuinely mediocre as it sounds.
+Some of the design decisions sound truly baffling. Like they are trying to make the game harder to play, despite getting things pretty right in earlier versions.
+
+20/03/2017 at 09:09
+
+RuySan says:
+
+I feel that when it comes to this type of games, there’s “pre-Witcher 3” and “post-Witcher 3”. 
+Many players used to accept that cookie cutter quests and dull NPC’s were a price to pay to have huge open worlds. Not so much anymore.
+
+20/03/2017 at 09:37
+
+Hoot says:
+
+There were games before The Witcher 3 that still had great writing, including the previous Mass Effect games, Pillars of Eternity, Deus Ex (original & Human Revolution), Bioshock, System Shock 2, The Last of Us (I’ve not played it but people seem to regard it as an awesome game), etc, etc.
+But, what you say is true (see guy, no caps! I’ve learned). In a post Witcher 3 world where a relatively new development house has risen to the rank of RPG King on the back of an extremely well polished, well written and fun game…pfff…there’s little room to dole out mercy to a triple A long-time established developer who’s churning out this kind of juvenile tripe.
+
+20/03/2017 at 09:56
+
+ZippyLemon says:
+
+You might want to focus on the game, not on the dev team. Just because EA bought BioWare, doesn’t mean the “BioWare” of today has any relation to the BioWare of the KotOR, ME1/2, or DA:O days.
+When big corporations take over, management recedes into the heady clouds of corporatism and share value, and the creative people up and leave.
+Judge the game based on its own merits and faults, because surely the team that built it is hugely different to the one that built the ME universe.
+
+20/03/2017 at 10:06
+
+Hoot says:
+
+I understand that different games even within the same company are developed by different teams and these teams change over time. I was responding more to the impression I got from the OP that there weren’t well written games before The Witcher 3 (even though I realise this isn’t what he meant, I still wanted to comment) rather than the quality of Andromeda. I’ve posted about the quality earlier in the thread.
+What you need to understand though is that it is irrelevant in terms of the opinion people form. If a game has a developers title on it, in this case Bioware, then the quality reflects on Bioware as a whole and not just on the development team associated with it.
+
+20/03/2017 at 10:40
+
+ZippyLemon says:
+
+“… then the quality reflects on Bioware as a whole…” 
+Only if people buy into the idea that BioWare is a label that means something.
+Remember when EA bought BioWare, and then the next day they had rebranded all their studios with the BioWare name? And then a year later they had to scale it back, so now they “only” have three BioWare studios?
+BioWare Montreal was founded after the takeover for goodness’ sake, “built from the ground up to be an independent studio”, according to their website. Their work is barely related to anything branded “BioWare” before, except we all talk about like it is, because good god the comment sections would get bloated if we didn’t (see what’s happening right now? :D).
+Nah. I refuse to be duped. I wasn’t excited for this game because “it’s BioWare making it”. That’s just nonsensical. Now that this game is fluff, that doesn’t damage the “BioWare” brand in my mind. There’s nothing to damage!
+It’s smoke, man! Colourful vapour! Visions and dreams I say!
+
+20/03/2017 at 17:57
+
+Mark Schaal says:
+
+After Witcher 3 got massive praise despite its mediocre writing, I totally understand why other studios might choose not to invest much effort into writing.
+
+20/03/2017 at 09:11
+
+QiVers says:
+
+It’s a shame ME:A has turned out this way. Sounds as though it’s going the same the way as DA:I.
+That being said, I’m an easily impressed dullard, and I found DA:I pleasant enough, so will probably still pick it up in a sale.
+
+20/03/2017 at 09:59
+
+ZippyLemon says:
+
+If you have enough time on your hands, even golf can be worthwhile.
+Relativism is crazy.
+
+20/03/2017 at 15:42
+
+Otterley says:
+
+Isn’t golf the textbook edge case for infinite time?
+
+20/03/2017 at 09:13
+
+Harlander says:
+
+every single time you step away from a heater SAM says, “Pathfinder, the temperature is dropping,” or variants thereof
+Of all the ideas to steal from No Man’s Sky, that’s what they picked?
+
+20/03/2017 at 09:34
+
+Optimaximal says:
+
+At the end of the day, even things as drastically bad as the UI and writing can be saved. Look at how they fixed The Witcher!
+Of course, it won’t happen – Bioware likely won’t be given the time or money by EA to do anything beyond major bug-fixing and I guess the sales alone will decide whether there’s a follow-up.
+
+20/03/2017 at 09:42
+
+Hoot says:
+
+CDPR understood that releasing an Enhanced Edition of every Witcher game for free that actually did address the complaints of the community (hell, they fucking rewrote and re-recorded the first Witcher game completely) garners support from a very passionate community, makes then more money in the long run and buys them the goodwill they need to experiment with future titles (I’m looking at you Cyberpunk 2077! Please be fucking awesome!”).
+A developer living under the yolk of a greedy publisher like EA only sees the world like Neo does in the Matrix, except instead of seeing code where people and objects should be, they see only money.
+
+20/03/2017 at 10:14
+
+Optimaximal says:
+
+A developer living under the yolk of a greedy publisher like EA only sees the world like Neo does in the Matrix, except instead of seeing code where people and objects should be, they see only money.
+That’s a bit harsh. In that analogy, the developers are the humans in the battery tanks – they don’t get a say in whether EA releases funds to fundamentally fix the broken parts of the game.
+
+20/03/2017 at 10:22
+
+Hoot says:
+
+You’re right. I’ll amend it. 
+A developer living under the yolk of a greedy publisher like EA is forced to see the world like Neo does in the Matrix, except instead of seeing code where people and objects should be, they see only money.
+
+20/03/2017 at 13:36
+
+Harvey says:
+
+Hey, just popping in to say I’ve enjoyed your thoughtful comments on this post, they’ve contributed a lot to the conversation I think. Also to respectfully correct you, I believe you mean  yoke  not “yolk”
+
+20/03/2017 at 13:52
+
+Hoot says:
+
+Ee gads, you’re right. I should really re-read what I write and eliminate the typos but meh, I was wrapped up in the conversation!
+
+20/03/2017 at 09:41
+
+Kefren says:
+
+“maybe if enough people ask they could ditch the UI and start from scratch on something that works”
+Never worked for Skyrim. I couldn’t even find a mod to give me an interface that made it playable for me.
+
+20/03/2017 at 09:43
+
+Hoot says:
+
+SkyUI is pretty good, but in all fairness I never had a problem with the original Skyrim UI. The worst I could say about it was that it felt a bit clunky, but at least it was easy to access my weapons, journal, favourite spells, etc, etc.
+
+20/03/2017 at 10:27
+
+Der Zeitgeist says:
+
+Compared to ME:A, the original Skyrim UI on PC was totally fine. Sure it was a bit cumbersome here and there, but you never had any problem understanding how to do certain things.
+The UI of ME:A has all these layers of interfaces on top of each other, and it takes an awful lot of time to even find out what you can do with it.
+
+20/03/2017 at 10:41
+
+Kefren says:
+
+I looked at SkyUI but it seemed to just turn things like equipment from endless lists into a spreadsheet. (Think managing equipment and skills were my main issues, but there were others). I wanted a mouse-controlled UI where I dragged weapons and armour onto my character, stored things in the backpack or pouches and so on. Morrowind, Stalker, Dungeon Master, that kind of thing. Lists and spreadsheets just seem artificial to me in a fantasy RPG. If I looked in my backpack or at my body I’d see items, not lists.
+
+20/03/2017 at 09:55
+
+Dlarit says:
+
+Reading a few comments i feel the need to say as a “mass effect fan boy” I respect John’s (and other reviewers) opinions) but I’ve played my 10 hours EA early access and I’m hungry for more and made me pre-order (I hadn’t at that point as I’ve been playing wildlands), but that’s the wonderful thing about life, we all have different opinions and are free to express them and enjoy different things, We are all gamers, no hate here.
+
+20/03/2017 at 10:01
+
+Hoot says:
+
+Hey man, if you can enjoy the game then good for you! No sarcasm. 
+I too am a “mass effect fan boy” but I’m also an avid reader / movie goer and nothing grates on me more than bad writing or soul-less acting. And in my humble opinion, Andromeda has this in spades.
+Anyway, I’m detracting from the intent of my comment here. If you enjoyed it, then good :) I don’t let anyone tell me what makes me happy either.
+
+20/03/2017 at 11:47
+
+Konyo tom says:
+
+Hey Hoot,
+I have one question: is the writing equal tot DA:I lore, story and conversation options wise? 
+Thats all I need to know because I enjoyed dragon age inquisition.
+
+20/03/2017 at 13:32
+
+Hoot says:
+
+Even though I loved Dragon Age : Origins to death I personally didn’t enjoy Dragon Age 2 or Inquisition, I felt they wasted the awesome potential built up by the first game, in respect of both gameplay and lore/world building.
+Although Inquisition was far and away a better game than Dragon Age 2, I felt they both were poorly executed compared to DA:O. But in answer to your question (from the 10 hours I played), I feel like Andromeda’s writing is far worse than anything Bioware have released to date. Like it’s written by an eager 14 year old. It plays out more like a bad fanfic than anything else.
+Also, once you realise the ‘new’ aliens are just ‘space Knuckles’ wannabes, you can’t unsee that.
+
+20/03/2017 at 10:23
+
+ZippyLemon says:
+
+Everyone’s tastebuds respond positively to salt, fat, starch and sugar. 
+Now I’m not saying I don’t pop into McDonald’s now and again myself, but nobody could argue that their salt, fat, starch and sugar is skilfully arranged or reasonably priced.
+These bloated single player MMOs are junk entertainment made to sell. BGS didn’t double the number of dungeons in Skyrim halfway through development because it made the game better; they did it because it made people play (more mindlessly) for longer. The two things are pathologically confounded by the AAA games industry at the moment.
+Of course, I don’t mean to attempt to somehow invalidate your enjoyment of the game. I am literally unable to do that, and I wouldn’t want to anyway. I’m just saying… if you’re in McDonald’s, know there’s no craft behind the pleasant taste in your mouth.
+
+20/03/2017 at 12:27
+
+Osito says:
+
+You don’t want to invalidate their enjoyment, which, as you say, you can’t. But you do want to make it clear that in your opinion they have very poor judgement/taste.
+
+20/03/2017 at 13:05
+
+ZippyLemon says:
+
+Looking back, it was an assholey, preachy comment that wasn’t really justified by what they originally said. Though I stand by the meaning of it, it was uncalled for and the tone was lame af.
+Thanks for calling me out.
+
+21/03/2017 at 21:01
+
+Marr says:
+
+Wouldn’t you like to at least *visit* a world that isn’t ruled by outfits like EA and McDonalds?
+
+20/03/2017 at 18:58
+
+ColonelFlanders says:
+
+BGS=BattleGar Stalactica?
+
+20/03/2017 at 11:40
+
+Paxeh says:
+
+As a ‘mass effect fanboy’ I’m going to keep my money in my pocket. For me mass effect stopped at ME3 and this is just a cash grab from EA. I’ve stopped supporting EA exactly because of crap like this. I totally agree with Mr. Walker – this is a game that’s here because they wanted a new Mass Effect to make money on. Nothing more, nothing less. 
+I’ve played the trial at a friend and I found it so heartbreaking I’m not going to put any money into it. I hoped it would be different, but I was proven wrong. Shit acting. Terrible cringy script. Sloppy animations. Texture popping. Buggy depth scaling. Sound that just cuts out. 
+This stuff is a nightmare and just shows that EA as a company will never, ever, learn. And I’m not going to support this kind of stuff any longer after DA:I and Star Wars. RIP Bioware.
+
+20/03/2017 at 13:21
+
+nFec says:
+
+Mass Effect ended 30 minutes before ME3’s ending. Its an unfinished game where you can only marvel at the endless possibilities ;)
+
+20/03/2017 at 15:05
+
+Paxeh says:
+
+I’m one of the people who quit there yeah. I never really finished it and I’m happy I did. 
+Let me live in sweet sweet ignorance.
+
+20/03/2017 at 16:39
+
+Zenicetus says:
+
+Yep, that’s my headcanon for ME3. A decent ending for the series, if you stop with Shepard and Anderson bleeding out on the Citadel after saving the Earth. Fade to black.
+Maybe someone will eventually mod this new game to remove all the Mass Effect loading screens and references, so we can just treat this new game as something apart from the earlier series. A large sci-fi game that’s good for shooting aliens and wasting time when you’re bored. I guess that’s my new headcanon, from the sound of things. It isn’t Mass Effect, it’s something else.
+
+20/03/2017 at 10:00
+
+JackyRocks says:
+
+Thank you John for chipping away at this game for 70+ hours and giving us a real review.
+
+20/03/2017 at 10:18
+
+Howard says:
+
+Well….shit. I was holding out hope that once John had delved deeper, the good would shine out, but this sounds like an utter train wreck.
+Oh well, at least the place I preordered from (on the cheap, I hasten to add) just gave me my money back without any hassle. Still, I’d have rather had a new ME game. Grumble.
+
+20/03/2017 at 10:38
+
+brucethemoose says:
+
+This reminds me of SWTOR. It also had some beautiful scenery, great predecessors, and a ridiculous amount of content. Sometimes you can feel the writing gasping for air, trying to shine through. But it usually doesn’t, and its all stuck under that god awful MMO skin.
+After finishing the Jedi Knight storyline, I felt… dirty. Like I had wasted a bunch of time on something mediocre, yet not mediocre enough for me to drop it earlier.
+Also, I’d like to point out that “cliches” aren’t necessarily a bad thing. Many good pieces of media heavily lean on established tropes… But you still need good writing to pull it off, and I’m sad to see that Andromeda doesn’t have it :(
+
+20/03/2017 at 10:58
+
+ZippyLemon says:
+
+Hi brucethemoose, Bruce here. It sounds like we have more in common than our first names; thank you for delivering me from the temptation – growing recently – to grasp for KotOR 3 in the Jedi Knight SWTOR storyline.
+
+20/03/2017 at 14:49
+
+Ragnar says:
+
+I thought SWTOR’s Imperial Agent storyline (what I played of it) was rather good. To be fair, it is considered the best one, and I turned off the Light/Dark side indicators/notifications so that I could roleplay a covert agent without worrying about min/maxing alignment.
+Where SWTOR lost me is in being a WoW-style MMO. Once I had to break out the second hotbar row of cooldown abilities, around level 10-14, I quickly lost interest. Juggling a dozen abilities on cooldown is not my idea of fun.
+
+20/03/2017 at 17:45
+
+brucethemoose says:
+
+“Juggling a dozen abilities on cooldown is not my idea of fun.”
+Bingo. I would’ve killed for an auto-combat feature.
+
+20/03/2017 at 17:43
+
+brucethemoose says:
+
+That’s exactly why I played it. 
+You know, just I thought about telling you otherwise: that it’s worth trying just to get more of that wonderful Old Republic era. 
+But then I realized something: I hardly remember anything about it. Maybe 2 plot points and some pretty scenery… But not a single character other than my companions. It was so unremarkable that my brain decided it wasn’t worth remembering. With KOTOR I/II, on the other hand, I remember every detail, and can quote conversations I only heard once.
+
+20/03/2017 at 13:02
+
+A Gentleman and a Taffer says:
+
+I’m not sure on ME:A, but I recently returned to SWTOR to pick up my bounty hunter playthrough, and I’d forgotten how much I love the writing on that one. I think the writers got to have fun with it, and it shines through – everyone around you is being very ‘serious star wars’ about light/dark side, empires and rebellions, etc, and you consistently get to skewer your quest givers pretensions by saying “Meh, I’m just here for the money”, “Thanks for the reward. You’re hot, wanna fuck?”, or just shooting all concerned because screw it.
+The Jedi Knight story, by comparison, seems awful. I gave up a few hours in. Your entire story seems to be based around saving a dying woman, right? But the writers forgot to introduce you to her for more than 30 seconds, so there’s absolutely no motivation to help her (whoever the f she is). Definitely not enough to kill thousands and thousands of baddies in an effort to save one old lady (nothing against old ladies anywhere, btw). 
+I can imagine the constraints put on writing jedi knight stories sucking the fun out for the writers. Like John says, the new galaxy and setting for ME:A should have been great inspiration but perhaps the suits kept grinding them down with ‘keep it simple and generic’ dictats? The truth will out one day I guess.
+
+20/03/2017 at 17:33
+
+brucethemoose says:
+
+There are multiple arcs in the Jedi Knight story. The later ones carry a bit more weight, and the Knight ends up being the big hero of the Republic classes. 
+However, I can barely remember any of the details… KOTOR I/II, on the other hand, I remember like it was yesterday. I think that speaks to the quality of the writing: not bad, but not memorable either :(
+
+21/03/2017 at 21:03
+
+Marr says:
+
+Play Imperial Agent, that’s where all their real writers were hanging out.
+
+20/03/2017 at 10:47
+
+Ghostwise says:
+
+I’m glad a real journalist finally stood up to denounce the scandalous lack of Elcors in this game.
+Elcorgate, I call it. Trust me, heads will ROLL.
+
+20/03/2017 at 13:07
+
+A Gentleman and a Taffer says:
+
+I can see it now: 
+Back! By popular demand! The Elcor ship makes a late entrance in the new, premium, subscriber-only Mass Effect Andromeda DLC! Only £20! (Exclusive offer: Pay an extra £5 to play 1 day early).
+
+20/03/2017 at 10:55
+
+ColonelFlanders says:
+
+““You definitely have an interesting perspective on the interplay between faith and science.”
+This isn’t how people speak.”
+Gotta disagree with you there, I talk like that all the time.
+Joking aside, I find that much of what you’re saying about the shit writing is relevant across all the ME games and by extension most of the BioWare games. I never played a single one of those games and come away thinking the dialog is in any way believable. It’s always trite, always fragmented, and always poorly written. The only saving grace of BW games for me has been that the storyline itself is reasonably well thought out, but I personally believe the dialog has always sucked.
+
+20/03/2017 at 16:54
+
+Zenicetus says:
+
+The writing in the previous ME games wasn’t exactly world-class sci-fi literature, but at least it sounded like it was written by adults. Much of the dialog here sounds like it was written by a 14 year old, or at least someone without much experience in adult conversation. 
+That wasn’t the case in previous EA/Bioware games. I didn’t care much for the overall writing of the story arc and some of the quests in Dragon Age Inquisition, but at least at the level of character dialog, the writing in that game didn’t seem so juvenile. 
+From what I’ve seen so far, it’s like everyone on the ship lost some of their IQ points and reverted to adolescence from brain damage, as a result of being in cryosleep too long.
+
+20/03/2017 at 11:05
+
+Mandrake42 says:
+
+I remember with John’s preview of the game the more rabid fans like LordOfCritics had a massive rant in the comment section. Poor guy is probably in the emergency room now having shat out all his internal organs due to the number of mediocre reviews. He almost had an embolism when it was just John saying it.
+
+20/03/2017 at 11:25
+
+JohnH says:
+
+Okay then. Sounds like I’ll be giving this game a pass this time. I loved ME1. ME2 was good and the third one ended in a horrible trainwreck. Then I managed to play through DAI… But this is the end of the line for me with Bioware games I think. I kind of hope EA does to Bioware what they’ve done to every other good game studio they’ve aqcuired before and close them down.
+
+20/03/2017 at 11:31
+
+Lethys says:
+
+I plan on getting the game because I feel compelled to, in spite of how little I’ve enjoyed the last few BioWare offerings. 
+Since I have nearly zero expectations for something great, I’m hoping to enjoy this game in the same way I enjoy B-movies.
+
+20/03/2017 at 11:33
+
+lotares says:
+
+I’m kinda on an edge with this after 10-hour trial.
+Writing is so dull and generic, races are out of their tropes established in the previous trilogy, voice-acting is really bad sometimes — it all feels like a fan-fiction by 11-year old.
+But it’s so beautiful at times! I crave this feeling of numbing gigantic emptiness Universe is, and your personal insignificance in it. Those god-awful un-skippable 10-second animations when you scan planets are so breathtaking makes me wanna cry.
+Do we have a game with a same overall feeling that is set in space, looks beautiful and have some deep ideas that are fully realised? With an emphasis on exploration preferably. Not necessarily an RPG with a choice (usual suspects being Witcher 3, Fallouts etc) but more of a thematic soulmate.
+
+20/03/2017 at 12:00
+
+-Spooky- says:
+
+Tbh .. i´ve a problem with the voice acting (the actors sounds like in their early / mid 20s). When i got my 100+ hours out of the multiplayer – like in ME3 – so be it.
+
+20/03/2017 at 13:40
+
+Beefenstein says:
+
+“Do we have a game with a same overall feeling that is set in space, looks beautiful and have some deep ideas that are fully realised?”
+If you want to connect with the universe I would advise you to start with yourself. You are part of it; you are a bubble of creation able to look outward and understand what it is made of.
+
+20/03/2017 at 16:04
+
+Otterley says:
+
+Been there, tried that. It has some of the worst mechanics going: horribly slow progression if you don’t want to grind, exacerbated by skill and equipment degradation. My damage output is still negligible, and even if it weren’t, law enforcement nagging is worse than the NMS sentinel drones. Add the prevalence of ambiguous dialogue, hardcoded permadeath – were’s the fun?
+Ok, I’ll admit some of the companions are excellent, and the choice and consequence mechanic is top notch. Still only a 7/10 at best.
+P.S.: Technically the visuals are outstanding, but I’d appreciate a bit more artistic direction.
+
+20/03/2017 at 19:31
+
+Martell says:
+
+Also the dearth of cheat codes is a total bummer.
+
+20/03/2017 at 20:42
+
+Otterley says:
+
+Yeah, at least a credit hack would be cool ;)
+
+20/03/2017 at 23:02
+
+Hedgeclipper says:
+
+There’s cheat codes, they’re just not published. Some orange guy hacked himself a pile of cash and made himself president. But I agree about the graphics – you’d think we’d be able to get real looking hair by now.
+
+21/03/2017 at 07:15
+
+wwwhhattt says:
+
+Yeah, but you’ve got to sort all that out before you start otherwise it doesn’t work.
+
+20/03/2017 at 11:38
+
+BaronKreight says:
+
+I was watching a gameplay stream on twitch. Not a big stream you know, some random guy with 1 viewer (me). So he got to the scene when father and daughter got blown away from the platform and daughter’s helmet got broken. Father gave his helmet to his daughter. And you know what? The streamer said “Oh, that’s kinda sweet”. This is the audience for you. Casual gamers, middle-aged or older. They will buy this game and enjoy it. This is Mass Effect after all.
+
+20/03/2017 at 12:42
+
+Pich says:
+
+You’ve got to remember that these are just simple gamers. These are people of the genre. The common clay of the new media. You know… morons.
+
+20/03/2017 at 12:56
+
+BaronKreight says:
+
+I’m not saying it’s good or bad. It’s just how it is. Masses don’t tend to play video games extensively. They have their office jobs, families and kids. They want a casual game to spend time playing on a couch. How do you know what is good and what is not good in video gaming if you started playing video games when Mass Effect 1 came out?
+
+20/03/2017 at 13:18
+
+Jason Moyer says:
+
+I’m tired…tired of playing shit games…ain’t it a crying shame…I’m soooo tired…
+
+22/03/2017 at 00:30
+
+ffordesoon says:
+
+I’m not sure believing that the outcome of one quest is “kinda sweet” indicates anything about the streamer’s casual-gamer-ness or lack thereof.  I’ve watched legit terrible TV shows and movies with bits where I’ve gone, “Aw, that’s kinda sweet.”  Comments like the one you describe aren’t always indicative of someone’s broader attitude toward a work.
+Also, if the best they could get out of the streamer was “That’s kinda sweet,” it’s a bit telling.  Sounds less like praise than someone searching for something to praise.
+
+20/03/2017 at 11:50
+
+Stevostin says:
+
+“more side quests than every other game in history put together”
+More than Fallout 3? Fallout 3 was 80% side quest. So is probably Skyrim. I usually had my ME games at 25h playthrough, fram from the 200h I get from a typical Bethesda game (on first playthrough, I usually end up at 300-400).
+Which reminds me – RPS completely missed Fallout 3 and FNV as the great great games they were, so I wouldn’t rule out that ME to be actually good. That being said:
+– Everything said here cover what I thought of ME2 & 3 compared to ME1
+– hey, it’s not going on Steam right ? So it doesn’t really exist anyway. Why bother.
+
+20/03/2017 at 22:17
+
+brucethemoose says:
+
+The side quests ARE the main quests in Bethesda RPGs though. Any self-respecting fan will immidietley start running in a random direction the moment they leave the tutorial cave.
+
+21/03/2017 at 21:06
+
+Marr says:
+
+This fact is vital to Deathclaw ecology.
+
+20/03/2017 at 11:55
+
+Auldman says:
+
+Well that’s the last review by John Walker I will ever read.
+
+20/03/2017 at 12:07
+
+Daymare says:
+
+Hey, thanks for letting me know!
+Because – I hope – this means that’s the last comment by Auldman I will ever read.
+
+20/03/2017 at 12:23
+
+lglethal says:
+
++1
+
+20/03/2017 at 14:52
+
+Captain Narol says:
+
++2
+
+20/03/2017 at 16:07
+
+Otterley says:
+
++4
+
+20/03/2017 at 14:51
+
+Auldman says:
+
+Good to know you only read John Walker’s material here at RPS cause that means you’re in luck, man!
+
+20/03/2017 at 15:20
+
+J.C. says:
+
+lol
+
+20/03/2017 at 12:17
+
+Jay Load says:
+
+Good to know you’re going out on a high note. :)
+
+20/03/2017 at 12:17
+
+GAmbrose says:
+
+Any particular reason? Or just because you can’t handle negative criticism about a game you want to be good?
+
+20/03/2017 at 14:48
+
+Auldman says:
+
+Nah, I love negative criticism and I can handle the fact that this is a weak game pretty well. However this was a hatchet job that came off as an angry, jilted-young-lover’s rant against an ex that had let him down. Hence I can’t believe John has a family but maybe they marry much younger where he lives.
+
+20/03/2017 at 19:15
+
+ravenshrike says:
+
+link to youtube.com
+I do not think that hatchet job means what you think it means. A hatchet job would not have included anything positive of significance.
+
+20/03/2017 at 23:15
+
+John Walker says:
+
+You love negative criticism, apart from when it’s negative.
+
+20/03/2017 at 12:44
+
+Pich says:
+
+don’t let the door hit you on the way out
+
+20/03/2017 at 14:49
+
+Auldman says:
+
+Classic. You must have really struggled to come up with that retort. I appreciate the effort, I really do.
+
+20/03/2017 at 15:06
+
+Nauallis says:
+
+Don’t let the the stairs hit you on the way down!
+
+20/03/2017 at 13:10
+
+John Walker says:
+
+My family are devastated.
+
+20/03/2017 at 14:46
+
+Auldman says:
+
+You have a family? Now I am devastated.
+
+20/03/2017 at 15:21
+
+J.C. says:
+
+Your devastation makes my face tired. You are not a devastated-finder until you have devastated FOUND something.
+
+20/03/2017 at 19:02
+
+ColonelFlanders says:
+
+A simple yet beautiful zinger
+
+20/03/2017 at 13:38
+
+Beefenstein says:
+
+Fascinating.
+
+20/03/2017 at 12:20
+
+MajorLag says:
+
+“Mass Effect Andromeda feels like a game that exists because there needed to be a new Mass Effect game.”
+And there’s the tagline. It’s a shame really, because I kinda felt the same about ME3 (though I never played it, so that could be an unfair assessment). The whole “brand new galaxy!” thing could have made it interesting, but they opted instead for safety and produced something wholly uninteresting to me again.
+You could have gone anywhere. For instance, you could have made all the Andromedan species completely inexplicable, Lem style, with a lot of the game being about trying to get on with your colonizing business while events largely beyond your comprehension play out around you to muck things up. Or a better idea, there’s those too.
+Sequels for the sequel god. Though I suppose, if I were an EA shareholder, I’d be ok with it because it’ll take a long time for the fanboi-and-hype-driven sales to die out. Hell, if certain other series’ are any indication, it never will.
+
+20/03/2017 at 13:15
+
+A Gentleman and a Taffer says:
+
+Yes, that was my initial thought – there’s enough interesting stories to be mined from the relationships and interplay between different species on the colonising ships without having to find more humanoid, conversational ones in Andromeda.  What they find there could have been of the colossal, eldritch, unknowable kind that they did pretty well with the Sentinals in the first 3 games.  SAD.
+
+20/03/2017 at 17:51
+
+RuySan says:
+
+If there’s one thing i truly hate is when companies decide to start a “franchise” (I hate that word) right on the first game, even before measuring the consumer response. It’s annoying and presumptuous, yet every big company does it.
+Remember Assassin’s Creed? Always a shit game, always will be. Always will have a stupid premise and plot. Yes, Ubisoft knew right away they wanted to make 100’s of these games.
+
+20/03/2017 at 12:22
+
+Styxie says:
+
+Would that I were a pie.
+
+20/03/2017 at 15:23
+
+J.C. says:
+
+But were I pie, could I eat rye and pie, if my face was tired?
+
+21/03/2017 at 04:39
+
+bonuswavepilot says:
+
+Aye.
+
+20/03/2017 at 12:29
+
+genosse says:
+
+So, for someone who enjoyed DA:I and is a Mass Effect fan, can I expect just more of the same or does it compare worse to Inquisition?
+I know John didn’t play DA:I, but maybe some of you EA-Access guys can give me a quick heads-up? Thanks!
+
+20/03/2017 at 12:47
+
+Pich says:
+
+from the reviews the gameplay loop looks similar, but the writing looks worse than DAI.
+
+20/03/2017 at 15:18
+
+genosse says:
+
+Alright, thanks! Considering that I kept playing DA:I despite the repetitive gameplay and mainly for the story and characters (I know, right?!?), this doesn’t exactly fill me with confidence.
+Sure, this is highly subjective anyway, but I was at least hoping for parity in writing. I think this won’t be a day one purchase for me then.
+
+20/03/2017 at 16:26
+
+Archonsod says:
+
+One thing worth noting – Origin Access costs £3.99 for one month and gives you 10 hour of play, plus access to the EA Vault for the month. You also get 10% off buying the game if you decide to, which actually works out a few pennies cheaper than if you just bought it(and you can cancel the Access membership straight away).
+
+20/03/2017 at 15:39
+
+Guvornator says:
+
+Fortunately for you, I played the trial after a Dragon Age: Inquisition session so here’s my 5 cents:-
+So far (bearing in mind I’ve only played 10hrs of ME:A) ME:A is better game than DA:I, but DA:I has a better plot and better characters. Combat in ME:A is far, far better than that in DA:I or other Mass Effects and Ryder is more fun to control than Shepard, but a lot of what was wrong with the old Mass Effects (boring resource collection, plastic people) haven’t been sorted out. It’s a perfectly decent but unspectacular Mass Effect game. I think this review is closer to my experience than John’s link to pcgamer.com
+
+20/03/2017 at 16:24
+
+Archonsod says:
+
+It’s basically Mass Effect with DA:I style open worldish maps. In fact I think that’s one of the reasons John dislikes it – rather than use the Andromeda setting to do something new and original it’s basically Mass Effect. There’s some lip service paid to ‘strange new galaxy’ now and again, but for the most part they could have stuck it in the Milky Way without any major impact on the plot.
+
+20/03/2017 at 18:34
+
+genosse says:
+
+Thanks again everyone! I think I will go for the month of Origin Access for a relatively cheap demo of the game and to make up my mind. Good suggestion. :) 
+Me being me, I will surely play it anyway at some point, but I think I have to see for myself if I want to pay full price.
+
+20/03/2017 at 12:48
+
+Jokerme says:
+
+I can forgive most of these; bugs, design problems, busywork, etc. but I can’t forgive bad writing. There is no excuse for Bioware to write a bad story or bad dialogues. This just proves that the old Bioware is irreparably dead. RIP Mass Effect and everything Bioware stood for.
+
+20/03/2017 at 13:04
+
+jovel says:
+
+This is so heartbreakingly disappointing. Having loved star trek (as well as the earlier games in the series) the premise for this game was like a wet dream for me. For all it’s problems, the first mass effect was probably my favorite – walking around the citadel discovering the different species. Sigh…
+
+20/03/2017 at 13:06
+
+popej says:
+
+Oh god, that last picture! I haven’t laughed at the internet for a while. Thanks John.
+Might play the game one day.
+
+20/03/2017 at 13:19
+
+J.C. says:
+
+I’m pretty disappointed they couldn’t at least go above and beyond to explore “Hard” Sci-Fi elements that John mentioned. From the weirdest looking sentient aliens possible or ones that interact/communicate in bizzare ways (from a “human” perspective of understanding things) would have been a real hoot for me. Those aspects would have been really cool for Mass Effect to have and they totally wasted the potential to explore that. Instead it’s Most Generic Sci-Fi elements possible just to be “safe”™.
+
+20/03/2017 at 13:57
+
+gunny1993 says:
+
+I’m not surprised they couldn’t come up with some new sci-fi stuff, that requires real genius …. but couldn’t they have done the decent thing and stolen ideas from better writers.
+I mean most people playing this game won’t have read Ringworld or Dune, throw in some tripedial coward cows and a couple of giant drug worms and you’re golden.
+
+20/03/2017 at 14:09
+
+Hoot says:
+
+I’ve read Dune every year for the last 10 years. It’s by far my favourite sci-fi novel :) And because I’m a nerd I recite the Bene Gesserit ‘Litany Against Fear’ in my mind everytime I get anxious or nervous at a new situation in my life. 
+It’s sad that an awful lot of people who enjoy sci-fi movies and games are missing out on the literature that inspired them.
+
+20/03/2017 at 16:12
+
+Otterley says:
+
+Are your lips stained from drinking too much cranberry juice? ;)
+
+20/03/2017 at 16:04
+
+Archonsod says:
+
+They did. Star Trek did the whole “the other side of the galaxy, and it’s exactly the same!” twice.
+
+20/03/2017 at 14:44
+
+Frosty_2.0 says:
+
+The lack of vision on the alien & world design is very disappointing. I’m sure they’ve got some great concept art laying around between Montreal and Edmonton.
+I had thought & hoped they were holding back with what they had shown, saving some reveals for players to discover first-hand …
+
+20/03/2017 at 15:26
+
+J.C. says:
+
+Instead, we have discovered first-hand the greatest meme joy this game has created. That an NPC’s face is just too gosh durned tired… of everything. Maybe they got too tired with trying to come up with cool things?
+
+20/03/2017 at 13:29
+
+Herring says:
+
+“I mentioned in my last article about how atrocious is the UI, and it bears repeating. It’s awful in every imaginable way, bewilderingly so”
+I’m not sure if John’s willingness to tolerate NMS’ awful UI for a bajillion hours invalidates or emphasizes this opinion :D
+
+20/03/2017 at 15:17
+
+Nauallis says:
+
+Incredibly bad unrelated analogy time:
+The UK has this bizarre driving UI that dictates driving on the left side of the road, and they’ve stuck with it to such an extent that automobiles are manufactured backwards and flippy-floppy to accommodate it. It’s an incredibly bizarre and disturbingly bad UI choice, but people keep putting up with it, I guess just because. Because reasons. Also sunk costs. And the UK managed to convince most of their old colonies to adopt this strange UI, even in the face of standardization throughout most of the rest of the world. And (almost) nobody is modding it out! Here’s some facts because proof etc:
+link to en.wikipedia.org
+And us weirdos over here in ‘Murica still post speed limits in MPH, unlike the majority of the world, which uses KPH, except you other weirdos in the UK, except you get even weirder and post your rules on the wrong side of the road.
+Bad UI design? I THINK SO
+
+20/03/2017 at 20:19
+
+Grizzly says:
+
+I honestly think the weirdest of this is the custom distance units. I mean…
+5280 feet = 1 mile.
+Why would you ever do that.
+
+20/03/2017 at 16:43
+
+John Walker says:
+
+I think I’ve written more words about why I’m wrong to tolerate NMS’s bullshit than anything about any other game ever.
+
+20/03/2017 at 13:30
+
+Beefenstein says:
+
+I’m sorry you had to play for so many hours (about 3 days!) of your life to then write this honest review and probably get called a knob in the comments for it.
+You definitely have an interesting perspective on the interplay between games journalism and integrity.
+
+20/03/2017 at 22:35
+
+Juan Carlo says:
+
+This game is getting pretty mediocre reviews all around, though.  I don’t think there’s anything noteworthy about a bad review at this point.  It currently has the lowest metacritic score (75%) of any Bioware game ever.  And in the world of inflated video game scoring, a 75% is an unusually low score for a AAA game.
+
+20/03/2017 at 13:39
+
+shjkull says:
+
+>I’ve a very strong feeling that people are going to buy this anyway, and many will milk from it what they can in order to feel rewarded. That’s great.
+There’s nothing great about it.
+
+20/03/2017 at 13:49
+
+deiseach says:
+
+So no Mission Vao then? 
+I’ll get it eventually, but not any time soon.
+
+20/03/2017 at 13:54
+
+Matt7895 says:
+
+I played 10 hours of the trial version on Origin and I agree with this review entirely (hand-wringing about being rude about religious beliefs aside).
+BioWare deserve a kicking for this one. Play Mass Effect 2 immediately afterwards, and the differences are striking.
+
+21/03/2017 at 00:16
+
+Archonsod says:
+
+Part of me wonders if that’s because they played down the more generic sci-fi plot lines of the first and third games in favour of The Dirty Dozen in space.
+
+20/03/2017 at 14:43
+
+gabrielonuris says:
+
+The best Bioware Mass effects: ME1, ME2 and ME3;
+The best Ubisoft Mass effect: Mass Effect Andromeda.
+
+20/03/2017 at 14:45
+
+McCool says:
+
+Y’know I’ll probably get flak for this, but thus reads like a review of the original Mass Effects to me. Dull side quests masked by pretty visuals, a terrible UI and, most of all, terrible, terrible, wooden writing with everyone blurring out awkward platitudes at each other are the hallmarks of the series for me. I even wrote W piece once about Mass Effect 2 contwining some of the worst writing ever in a videogame.
+So it seems to me thus new one really is good old Mass Effect, but more so!
+
+20/03/2017 at 15:59
+
+Hoot says:
+
+I lost my Mass Effect save games so I just lat week I’ve been replaying the first ME through to regain them (I don’t trust MassEffectSaves.com) and a lot of your criticisms are valid but…I still enjoyed it more than I did the 10 hour trial of Andromeda because I know the original ME is a product of it’s time and it’s something was improved upon immensely in the following games. 
+Not so much for Andromeda.
+
+20/03/2017 at 15:04
+
+waltC says:
+
+“Robotic” is an excellent description of these ME games.  The people seem like empty, plastic-rubber husks motivated by energy cells to live a pre-programmed existence that seems essentially purposeless.  Seems like that’s all EA knows how to do anymore–it’s as if they think making games according to a bullet list is more important than simply making a great game.  It’s as if the people making these games don’t know what a great game is and have no idea how to make one.  It’s as if they could care less.  DA:O was a great start, which EA promptly murdered in DA2.  Then came DA:I, a huge, huge disappointment, especially considering it had to play next to The Witcher 3, which was made by developers who know how to make great games and are passionate about it.  Remarkably, W3 doesn’t seem to even have been noticed by EA…;) You’d think something might rub off, but nooooo-o-o-o-o-o….
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+BioWare, EA, feature, Mass Effect, Mass Effect Andromeda, review, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

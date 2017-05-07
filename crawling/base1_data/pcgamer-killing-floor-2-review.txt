@@ -1,0 +1,52 @@
+./html_data/pcgamer-killing-floor-2-review.html
+
+
+ 
+ 
+ 
+ 
+
+
+By
+Tyler Wilde
+ 
+
+Repetitive but fun, a hellish challenge or a relaxing, spectacular gore bath depending on how you approach it.
+What is it? A co-op horde shooter with detailed gore and lots of weapons.Reviewed on: Windows 10, Intel Core i5-3570, 8 GB RAM, Nvidia GTX TitanPrice: $30/£20Release Date: Out nowPublisher: Tripwire InteractiveDeveloper: Tripwire InteractiveMultiplayer: Online co-op with two or more players.Link: Official websiteBuy it: Humble Store 
+Read our affiliates policy.  
+My favorite gun in Killing Floor 2 is the medic’s HMTech-201 SMG. It makes a tinny plink plink plink sound as it arcs glowing blobs in a tidy line, kicking toward the sky like a scalpel swiping upwards. It’s one of the least deathcore weapons in KF2, where others are carrying bloodied sawblades, katanas, or double-barrel shotguns, but it’s delightful to me.
+My little medi-SMG is imprecise but controllable, to the point that I can waste almost no bullets if I’m in the zone. A delicate tap of my mouse button to launch one bullet into a failed science experiment’s head, popping it like an overripe melon, and then another gentle squeeze to land one in the chest to put it down. I play Killing Floor 2 to chase that zone, to feel the satisfaction of violently clearing up a mess of pasty mutant zombie flesh—without ever looking down my sights if I don’t want to. It’s an excellent way to kill time.
+
+Killing Floor 2 is primarily played in Survival mode, with a simple ruleset that sends increasingly challenging waves of monsters—called Zeds—screeching and slobbering at a group of players. (That’s typically six or fewer players, though custom servers can have 50 or more players, at which point you’re just goofing off.) Between waves, players can spend in-match money on armor, ammo, and weapons.
+It’s fun in its cautious moments, players grouped up, back to back, healing each other, trying to pick off scuttling, arachnid creatures and cloaked acrobats as they burst through every doorway. But it’s also fun in chaos, when a hulking Fleshpound scatters the team, or a faceless Cronenbergian demon grabs you from behind and you spin around to pop its head off with a Desert Eagle. There’s a lot of yelling over comms.
+
+There’s enough joy in Killing Floor 2’s weapon handling and explosive gore to make it fun for hours, even if the fun doesn’t vary much map to map.
+The basic strategy is uncomplicated: stay grouped, conserve ammo, have a good healer, know when to run away and know what parts of the map give you the most room to maneuver. But getting teamwiped, ending the game on wave four of ten, is also uncomplicated. Your medic went down early, someone backed into an unseen horde and got cornered while reloading, someone took a face full of fire from a Husk, a type of special mutant with an arm cannon.
+Killing Floor 2 is a fundamentally repetitive game. You’re playing the same challenge again and again, with magnetic enemies and a few predictable specials that’ll charge forward, swing their glowing red arms around, and so on. It lacks the journey of progressing through a Left 4 Dead 2 campaign, where a modder can play with the pace and vary the scenery, even introduce platforming sections. But there’s enough joy in Killing Floor 2’s weapon handling and explosive gore to make it fun for hours, even if the fun doesn’t vary much map to map.
+
+I am somewhat disappointed by the difficulty settings. Normal is too easy—me and three random players can take on ten waves without much trouble—but feels more satisfying in the moment than Hard or above, which offer the real challenge. Hard mode is hard because the mutants are faster, smarter, and have more health. I like the first two attributes, which require more precision on my part, but the increased health means my little SMG sprays more feebly into absorbent heads and torsos, and it just isn’t as enjoyable. 
+Of course, medic isn't the best class to handle a big Scrake busting through the door in the first place—and that's part of the teamwork—but even as a more potent damage-dealer, I get less fun out of unloading ammo into big damage tanks than I do kiting lesser enemies and rhythmically blasting their heads off. The big guys do, at least, shake up the routine, and can severely punish the team for bunching up in a tight corridor.
+The leveling system is another half success. Every five levels earned with a class—they’re called ‘perks,’ but I’ll call them classes, because that’s what they are—unlocks a choice of bonuses. At level 5 as a medic, for instance, I can choose to increase my health or increase my damage resistance. There are also basic stat bonuses, such as extra damage with class-specific weapons. The bonuses encourage puttering around in Normal difficulty servers to level up—which will be too easy for experienced FPS players to really enjoy—and discourage making swaps to better your team composition. I’m plainly doing my team a disservice by going into a match with a level 1 gunslinger instead of a level 10 medic.
+
+These are petty complaints when KF2 also lets me wield a microwave gun that balloons enemies until they burst.
+But sometimes I want to be the gunslinger, because the gunslinger’s starting dual revolvers are fun as hell. With no reticle overlay, aiming requires drawing two mental lines from each barrel, crossing each other because each gun points slightly in the other’s direction. Hitting a mutant head to the left with my right-handed gun, then one to the right with my left-handed gun, is a beautiful moment that everyone deserves have.
+I love most of Killing Floor 2’s weapons—none as much as the HMTech-201 SMG, of course—though there are some slight disappointments. I expect the rail gun to launch a red hot slug that rips through the air leaving a vacuum in its wake, but it gives off more of a defiant spit. Some of the guns, such as the SCAR-H assault rifle, feel gratuitous when there are more entertaining weapons in the same category, like the AR-15 and Kalashnikov. These are petty complaints when KF2 also lets me wield a microwave gun that balloons enemies until they burst.
+
+The melee weapons are fun, too, and I especially enjoy the katana. It’s not a complex melee system, but not undercooked. You can swipe left, right, down, and up by tapping WASD before attacking, perform light and heavy attacks, and time blocks with attacks to knock back specimens. Removing multiple Zed heads at once with a well timed katana swipe is a sight to behold, especially if it triggers one of Killing Floor 2’s slow-mo moments, which occur when any player on the team does something cool. 
+KF2’s gore system flings around limbs and giblets with grotesque glee. I especially love how blood splatter builds up as the waves go by, painting entire rooms and areas red. The squishing sounds and liquid explosions—which are even better if you can turn on Nvidia Flex without taking a massive performance hit—are a big part of what makes Killing Floor 2 satisfying even when it’s repetitive.
+
+What takes KF2 from good to great—and this will invite some ire, I’m sure—is Tripwire’s commitment to making multiplayer games that work like multiplayer games should. Yes, there are microtransactions. You can buy gun skins and costumes. I haven't done that and never plan to, though, because I don’t have to buy anything to connect to a server which spawns Half-Life 2 Striders as enemies, and I don’t have to buy anything to play on a map modeled after Super Mario 64’s hub world. At a time where matchmaking is usually all we get, watching an expansive server list populate is heartening. And just like in the good old days, if I don’t have a server’s map or mod components, it downloads them for me. It allows sub-communities to develop around servers, something missing in most modern shooters.
+
+Join a ridiculous 50-player server on a ridiculous player-made and enjoy the headshots.
+Killing Floor 2’s harshest critics bought it in Early Access and were disappointed by how Tripwire bullishly implemented changes and features they didn’t want, such as the microtransactions. The PvP mode, where one side plays the specimens, also drew criticism—and they’re right, it’s not much fun. Deeper than that, I’ve read complaints about balancing and the loss of particular tactics from the original. I last played Killing Floor years ago, and not for 500 hours, so I can’t honestly speak to those complaints. But I don’t personally play Killing Floor 2 to min-max my tactics and beat it flawlessly on the hardest mode. I like running around healing my team, doing a bit of crowd control with a flame thrower, kiting and beheading monsters, saving the day with a slow-mo shower of gore.  
+If you want a perfect replica of Killing Floor, with its specific classes and balancing, Killing Floor 2 isn’t that. But it is a visual spectacle, and a challenging, fun co-op shooter with an active mapmaking community. You can play it for the struggle against overwhelming odds, you and a few friends beating back hundreds of hellions, constantly pushed to the edge of death. Or you can play it like I’ve started to, when I’ve had a long day: put on a podcast, join a ridiculous 50-player server on a ridiculous player-made map that includes a literal staircase to heaven, and enjoy the headshots.
+Repetitive but fun, a hellish challenge or a relaxing, spectacular gore bath depending on how you approach it.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

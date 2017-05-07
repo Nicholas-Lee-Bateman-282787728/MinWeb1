@@ -1,0 +1,25 @@
+./html_data_bitcoins/exscudo-ecosystem-team-announces-first-launched-product-exscudo-channels-mobile-app.txt
+
+
+
+CryptoCoinsNews
+The Exscudo Channels app unites the functions of a mobile multicurrency wallet and a secure messenger. The app is to be released in Q2 2017.
+Why is it so secure?
+Exscudo Channels is the most convenient and secure tool for sending money and information from mobile devices. The Exscudo Team has taken the best practices of blockchain solutions to provide for ultimate reliability of the app. Despite the two-factor-authentication and other common security measures, the team has implemented more advanced features to protect the users.
+All messages are encrypted before they reach the blockchain. Exscudo Channels uses the algorithm of elliptic curves.
+It is utterly impossible to track the messages and finances: no one knows where the message comes from and where it goes to. The information is being processed on all nodes of the network simultaneously.
+The private key is stored on the user device only and is not transmitted to peers.
+The messenger cannot be blocked or banned, since new nodes and peers can be set up immediately, preventing the system from breaking down.
+The digital signature protects against unauthorized changes or sending of messages during the delivery process. The public key digital signature is stored in the public domain in the network itself.
+The HTTPS is an additional security measure to the encryption of messages.
+The idea behind Exscudo Channels was to create the optimal solution for secure communications for both private and commercial use. The product will be of interest for users that need a tool for secure business communication, as well as for those who seek absolute privacy and anonymity in everyday chats.
+What can I do with Exscudo Channels?
+With Exscudo Channels, people can send and receive messages and money quickly, easily and securely. The app unites the functions of a wallet and a messenger, and each of these two sides has its own features.
+The multicurrency wallet is connected to the user’s account on the Exscudo Exchange. It allows people to store, send, receive and exchange currencies in real-time with a minimum spread. It also supports NFC for direct payments right from a device. In the future, it will be possible to pay with cryptocurrencies from Exscudo Channels wallets even in convenience stores. The money is being converted automatically: if a user pays from a BTC wallet for a good which has a price in USD, the money is converted by the Exscudo Exchange automatically. The app will also integrate with Exscudo bank cards, but this functionality will be released in later updates of the app.
+The messenger supports different types of chats. There are private, personal and group chats, as well as public channels. In private chats, users can send and receive money directly in the chat. The user just needs to tap on the special button to make the transfer. Group chats are usual multi-user conversations for friends and colleagues. The admin of the group channel can invite only his or her contacts to the group chat. But the public channels make the difference. These are created for media people and businesses, as they provide for the monetization of the published content. These channels can be browsed openly in the search of the app and are usually devoted to specific topics: new, hobbies or corporate updates.
+Another feature of the app are the valuable likes.
+What are valuable likes?
+The mechanism is easy: if you like a post by another user, you press the ‘like’ button. By doing so, you send this person a little amount of EONs, the cryptocurrency that fuels the Exscudo ecosystem. This is a way of monetization for public channels, but also a means of approval for personal and group chats.
+What does the blockchain do?
+The app is based on the EON blockchain. EON is the proprietary product developed by the Exscudo team. The key feature of this blockchain is that it stores only the data that is needed for the verification by other peers. The personal data and the messages is not saved on the blockchain. Before getting into the blockchain, the data is being encrypted. EON is the fuel for all Exscudo products. Its small size provides for high flexibility and speed. EON uses the DPOS (Delegated Proof of Stake) algorithm to process the transactions quickly and safely. The owners of EON tokens can also set up their own nodes and receive payouts of commissions for transactions within the network.
+The Exscudo Channels app and the EON blockchain are planned to be released in Q2 2017. Many advanced features will be added gradually in the following updates, after other elements of the Exscudo Ecosystem are launched. For example, the app will support file transfer, voice and video communications in the later updates.

@@ -1,0 +1,38 @@
+./html_data/pcgamer-orwell-review.html
+
+
+ 
+ 
+ 
+
+
+By
+Phil Savage
+ 
+
+A novel perspective on totalitarian surveillance. Orwell may not make you think, but it should keep you entertained.
+What is it? A five episode adventure about spying on activists.Reviewed on: Windows 10, 16GB RAM, i5-6600k, GeForce GTX 1070Price: £7 / $10Publisher: Surprise AttackDeveloper: Osmotic StudiosMultiplayer: NoLink: www.orwellgame.comBuy it: Humble Store
+Read our affiliates policy.
+The government is spying on its citizens. Don't worry, I'm not about to launch into a rant about the Investigatory Powers Act. Rather, this is the set up to Orwell, a five-part episodic adventure about the tension between privacy and national security. Set in The Nation, Orwell is a visual novel in which you voyeuristically watch over a group of activists—trying to determine who is responsible for a series of bombings.
+The titular Orwell is a program for surveilling The Nation's citizens. You play as an investigator, and your job is to analyse the digital footprint of any citizens that The Party has marked as a potential threat. At first you're scouring public and state records—newspapers, websites and police databases. But soon, the intrusion goes deeper. You read emails and chat logs, listen to phone calls, and, in extreme cases, dig through your target's computer.
+As you read through the information, the Orwell system will highlight relevant passages of text as data chunks. The system itself is incredibly literal, and unable to distinguishes nuances of language. It can't, for instance, tell that, by listing their current location as 'The Internet', your target is making a funny joke. In fact, if Orwell was analysing that last sentence, it would offer a data chunk saying I thought putting 'The Internet' as your location is a funny joke. It doesn't do sarcasm.
+
+That's why you're there. An investigator's role is to separate fact from fiction. You're literally the brains of the operation, and a big part of the challenge is knowing what to upload. Sometimes that's easy—plenty of data chunks are either quirks of language, or obviously tangential. Others are clearly important. The tricky part is when you have conflicting information. There can only be one truth, but which one is it?
+And therein lies the drama. Is your target a naive activist or dangerous terrorist? Were they once unfairly arrested for a crime they didn't commit, or did their corporate parents pay to have the charges dropped? That's up to you. Orwell's subversive twist is that draconian surveillance is often seen as dispassionate and unthinking. But here, I find myself earnestly trying to discern the truth. I wanted to do a good job. It's not that the invasion of privacy is portrayed as benign, but it's flawed in a different way to how you might expect.
+It's not that the invasion of privacy is portrayed as benign, but it's flawed in a different way to how you might expect.
+A quirk of the system is the relationship between investigator and analyst. At first Symes, your analyst, acts as a tutorial – guiding you through how to use the program. But soon, he's reliant on you. It's an asymmetrical relationship. Symes doesn't have access to the information you're reading. And while he can talk to you, you can only respond via the data you upload. His job is to act on that data.
+The obvious limitation is that you can't make recommendations. Your ability to control and shape the situation comes from the data you do or, often more crucially, don't upload. Orwell teaches this lesson early on, when a target jokes about stealing her boyfriend's credit card. Upload that data chunk and Symes, who can't see the playful dynamic of the relationship, has the card cancelled. In later episodes, the stakes are more dramatic. There are some major decisions that can have a profound effect on the story—albeit, as is often the case with episodic storytelling, the story follows the same major beats no matter your choices. But doing what seems like the noble thing doesn't always lead to the best outcome. It's complicated and messy, which feels right.
+
+At times, it feels a bit limited. Often, the drama hangs on you deciding between two conflicting pieces of information—a gut instinct guess, with no way to further your understanding of the situation. That's part of the game's message—a commentary on online surveillance in a world where public personas are so carefully curated. But it's not always satisfying. You're an investigator, but you don't do much actual investigation. Mostly, you're unlocking and cataloguing a procession of story beats.
+It's also confusingly inconsistent. Occasionally, Symes will comment on things Orwell's own rules dictate he has no way of seeing—enough that I started to wonder if it was a plot point leading to some future reveal. But it's never mentioned, and so I'm inclined to think it's simply a mistake.
+Despite these problems, Orwell is a success. It lets you watch over a spiralling conspiratorial thriller, and throws in enough twists and surprises to keep things interesting. It's an enjoyable way to interact with a world—the voyeurism creating a distinct, enjoyable power dynamic that I refuse to self-reflect on any further. It's not at all subtle—it's called Orwell, after all—but it's a well told mystery framed by a captivating storytelling device.
+A novel perspective on totalitarian surveillance. Orwell may not make you think, but it should keep you entertained.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

@@ -1,0 +1,21 @@
+
+
+
+CryptoCoinsNews
+Computershare, an Australian stock transfer company, and SETL, a U.K.-based blockchain developer, are reportedly throwing their collective hat in the ring to provide a blockchain-based securities register for the Australian market, according to the Australian Financial Review.
+The two companies have reportedly been meeting to develop a blockchain that would compete with the Austrailian Securities Exchange (ASX) blockchain project.
+SETL and Computershare first agreed in April 2016 to create a blockchain-based securities register.
+Australia bankers and brokers have met with Francois Barthelmy, an SETL founder. Meetings have also been held with Peter Randall, SETL chief executive, and Scott Hudson, head of intermediary services at Computershare.
+The Computershare/SETL blockchain is seen as a competitor to ASX, which is replacing its Clearing House Electronic Subregister System (CHESS) system with a blockchain-based solution in cooperation with Digital Asset Holdings.
+ASX released a report recently revealing the broker community’s concerns about the discussions on its CHESS replacement. There is reportedly some question about whether Digital Asset Holdings can accomplish the task of automating the many different processes brokers want to see automated.
+A concern is stakeholders’ confidence, or lack thereof, in the ASX maintaining its profit margins during the experimentation process and possible switchover with a critical and core financial market software.
+While using the traditional and manual CHESS, the ASX has become the world’s most profitable major stock exchange. The report cited a profitability study that forecasts ASX to scale a profit margin of 77% in 2017, ahead of the Hong Kong Exchange’s forecast of 71%.
+The Computershare/SETL project could provide dissatisfied brokers with a bargaining chip to secure a more favorable deal from the market operator.
+ASX will decide about the technology by the end of the year.
+Randall is preparing to address the APAC blockchain conference this week in Sydney.
+ASX recently completed capacity tests of blockchain technology and will continue to explore using the solution to replace its existing infrastructure for post-trade processes in the country’s cash equity market.
+ASX plans to deploy a solution that is not public. Regulated markets require participants to be licensed and known to regulators so there are rights of reversal and error correction, in addition to privacy and security. The operational benefits of net settlement must also be retained in a system in which legal entities are responsible for financial assets.
+The Sydney Stock Exchange (SSX), meanwhile, has prototyped its open blockchain ledger for real-time issuance and allocation of equity security. The announcement came via the APX Settlement Private Limited (APXS), a joint venture between the SSX and blockchain consultant Bit Trade Labs to develop the public ledger.
+The APXS underlined its preference for an open blockchain platform, unlike the approach taken by ASX, its competitor.
+Opting for a collaborative approach with other participants from the industry, the APXS also sees its public blockchain solution leverage beyond the securities market to scale the commodities market. Such an effort, it says, would help government and other participating industries to change markets that are weighed down by antiquated technologies.
+Image from Shutterstock.

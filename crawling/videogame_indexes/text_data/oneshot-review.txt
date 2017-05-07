@@ -1,0 +1,245 @@
+./html_data/oneshot-review.html
+
+RPS Feature
+Shiny 
+By John Walker on December 12th, 2016 at 6:00 pm.
+
+I’ve never played a game like OneShot [official site]. I’ve played rather a lot of games, too. It’s also been a really long time since I’ve cared about a game’s main character quite so much, to the point where decisions really mattered to me. Which is rather a lot to say of a game made in RPGMaker. But then this is a game that does stuff with that cutesy engine that I would never have thought possible. It does stuff with my PC that I didn’t know games could do. This is quite the thing. Here’s wot I think:
+
+Things start off with few hints of what’s to come. You play as a young girl with cat-like eyes who wakes to find herself in a sparse, locked room. There’s a shelf, a PC, a window and a TV remote. Getting out from there perhaps evokes locked room games so popular on mobile, but this isn’t a theme that lasts. Instead she finds herself in a desolate wasteland of broken robots, fragmented lands, and eternal darkness.
+But, you almost immediately learn, she is the chosen one! She is the “Messiah”, clutching – as she is for most of the game – a light bulb the few remaining locals refer to as “the sun”. The Messiah is prophesied (so you are told by a specially powered ProphetBot) to carry the sun to the top of the tower in the central city of this world, and return light to the land. Okay, fairly standard RPG stuff, if still bleak and peculiar.
+
+It gets a little stranger when three other protagonists are introduced, one of them being, well, you. I was wandering the Messiah through the outer province of The Barrens, a little stuck for what to do and pretty sure I needed to find the combination for a safe I’d discovered elsewhere, and found a computer inside an abandoned building. Using it, it becomes clear the machine is talking to me, not the game’s character, which she picks up on as well. It comments that the safe combination is not available in this world. And then the game popped out of fullscreen (it runs at 640×480, but F8 has it take up your whole screen) and back into a little window, and a Windows dialogue box popped up. “Do you know what that means, John?”
+I’d never told the game my name. That was spooky. It turns out it digs it from your Windows profile (and were you to have that set to something else, it does offer a chance to change it in-game), and that’s not the only time it messes about with your PC. I did know what it meant. I found the combination outside of the game, and from this point on the Messiah knew I was there too.
+
+At which point a relationship between you and the character you’re controlling begins. Through limited dialogue options you can answer her questions, choose how much of your own reality you might want to reveal to her, as the two of you discuss the nature of the Sun. You can also choose how much you want to play up to her assumption that you’re some sort of god.
+The plot that unfolds is simple, but superb, even before the meta peculiarities. Very early on it becomes apparent that this is a world that’s in real trouble, strange glitches appearing alongside the more immediately obvious consequences of losing daylight. And there’s history here, a complex background of humanoid races and the robots they’ve created, how this small society is adapting to a world where bioluminescence is their only light source, and their shared history seemingly entirely collated by a figure referred to as The Author.
+
+Then the Messiah sees a bed, and asks you – you – if you mind if she has a sleep. Say yes and she’ll climb into bed, the screen fades, and then the game closes. You’re back to desktop. Reload it and she’s in the middle of a dream. Absolutely amazing. But, it turns out, just a small taste of the cleverness it has in store. I’m not going to spoil any of those surprises, but I’m pretty sure you’ll never have had a game do what it does.
+(A word of warning in that respect, and perhaps a hint of a spoiler – if you’re using any software that replaces Windows’ defaults for desktop gubbins, you’re going to hit a problem at a certain point. I closed down DisplayFusion, and had a much better time with the game as a result.)
+
+What makes the game truly magical would all take away from your experience of playing it. I want to say, “Gosh, X meant X was X!” and think such uncensored sentences would have you forking out the £6.30 without another thought. But then you’d hate me when you got to that for taking away that moment of surprise. So instead I’ll talk themes. This is a game about relationships, both the immediate connection between you and the character you’re playing, as well as an opaque commentary on the nature of all relationships between players and gaming characters. It made me think about such things in a new way, without ever overtly flagging that I should, and certainly without ever being so clumsy or cumbersome as to outright raise the matter in its narrative. It’s also a game about childhood, without feeling the need to shout about that – it just is about childhood because the character is a child, and the writing is true to that.
+It’s also ridiculously lovely. The interactions with other characters are mostly brief, but the many dozens of them are all worth reading, and nearly always contain a moment that will make you smile. And why is it called OneShot? I seriously don’t want to say. You’ll appreciate why.
+
+This is an incredible game. I started it with no expectations at all (as I mentioned before, I can’t even remember why I’d flagged the game to look at), and have come away from it as one of my favourite games of 2016. It rather nicely book-ends the year for me with Pony Island, two utterly different games that both explore similar themes from extremely different angles. Completely charming, delightfully written, and extremely clever – stick this on your Christmas playlist.
+OneShot is out now on Steam for £6.30/$9/€9.
+
+12/12/2016 at 18:25
+
+noodlecake says:
+
+Cool. :) Definitely interested.
+Why doesn’t this have the little “RPS recommended” badge? I’ve seen games that have received far less gushing reviews get them.
+
+12/12/2016 at 18:29
+
+kreon says:
+
+I was wondering the same thing.
+
+12/12/2016 at 18:40
+
+YogSo says:
+
+In one word: Inconsistency.
+RPS staff are only humans, after all.
+
+12/12/2016 at 18:52
+
+Ghostwise says:
+
+Some are cyborgs.
+
+12/12/2016 at 19:03
+
+NetharSpinos says:
+
+Some only exist from a certain angle.
+
+12/12/2016 at 19:34
+
+Ghostwise says:
+
+Some juggle geese.
+
+12/12/2016 at 20:43
+
+gwop_the_derailer says:
+
+Some are being watched over by me as they sleep.
+
+12/12/2016 at 20:45
+
+Boomerang says:
+
+I have two of them chained to a radiator in my basement.
+
+12/12/2016 at 20:58
+
+gwop_the_derailer says:
+
+How sweet of you, installing a radiator in the basement for their comfort.
+
+13/12/2016 at 10:26
+
+phuzz says:
+
+Little known fact: Two members of RPS have tails. One is Horace, can you guess who the other is?
+
+13/12/2016 at 07:45
+
+John Walker says:
+
+In two words: bloody CMS. I updated it to include the pic about three hours before publication, but apparently WordPress changed its mind about that.
+
+12/12/2016 at 19:56
+
+TechnicalBen says:
+
+Well, there goes my chance at ever making a cool game from a unique idea. I wondered about doing something like this… there are lots of cool possibilities.
+Though I think some other games have used similar ideas, just with less lore and story to them.
+But I think they did better artwork than I ever could and even any project I DO start never gets finished past “hello world” and some note book notes… so I really hope this programmer/team do well with this game and idea. :)
+
+14/12/2016 at 21:26
+
+MajorLag says:
+
+I know the feeling. When Sethian was posted it was like it was ripped directly from one of my notes in my “Game Ideas” folder. Not that I’d have minded even if the author had somehow psychically stole the idea, since A) I was unlikely to ever make it and B) the idea is the easy part, as we all know.
+
+12/12/2016 at 21:12
+
+AlexStoic says:
+
+Interesting, this. It hits a lot of the same notes as Undertale: retro look, retro gameplay, fourth wall breaking, quirky characters, child-like dialogue. Interestingly, the original version of OneShot came out before Undertale.
+It’s been out for 6 days with barely 1 scored review on metacritic and (according to Steamspy) 2,500 sales, compared to Undertale’s roughly 50,000 by this point, and eventually several million.
+It’s not too late for it to suddenly become wildly popular, of course, but considering the sales trends this year… it’s a damn shame.
+
+01/01/2017 at 16:15
+
+pipog says:
+
+Undertale Demo came out in 2013, so nope.
+Also, Undertale made it big, but at the same time its best qualities got spoiled to people because of its vast popularity. Considering that OneShot is a game that has a large element of surprise in its gameplay, I don’t really see a problem it being like a hidden indie gem. I mean, if not commercial success, then at least people will get to play it in its true form.
+And… I think that Undertale’s case was truly a miracle. I mean, the game itself is really good, but you know, luck and stuff. It’s really rare for an indie to get that popular, and not every game is supposed to, really. So um, better stop dwelling on it’s SteamSpy numbers and move on
+
+12/12/2016 at 21:33
+
+Shazbut says:
+
+I’m so interested, I didn’t read past the first paragraph, sorry. Will be back when I’ve played it
+
+13/12/2016 at 07:46
+
+John Walker says:
+
+Perfect!
+
+12/12/2016 at 22:45
+
+caff says:
+
+Sounds great. Loved Pony Island so I’m bound to love this.
+Thanks John, for pointing out another game I’d not heard of at all. I’m loving all your recommendations this year, most recently Owlboy which I’m hooked on.
+
+12/12/2016 at 23:32
+
+wldmr says:
+
+
+And why is it called OneShot? I seriously don’t want to say. You’ll appreciate why.
+
+Uhm, the second image in the article seems to be saying it in your stead, though. Haven’t played it yet, so perhaps that’s not what you’re referring to. But it still feels a little spoilery.
+
+13/12/2016 at 07:47
+
+John Walker says:
+
+That image appears in the very early moments of the game. It certainly doesn’t give the title away.
+
+13/12/2016 at 09:12
+
+wldmr says:
+
+No, but it indicates a way it which the title becomes relevant, Mr. McCleverQuip! The picture just seemed like one of those “Oh shit” moments that may work better if you don’t know it’s coming. But then again, it did the job of making me want to play the game, so what do I know? ;)
+
+13/12/2016 at 01:27
+
+UmungoBungo says:
+
+HL2B has the play time at 4 hours, would this be a fair number? I like to play lots of short games instead of one 50+ hour behemoth…
+
+13/12/2016 at 03:23
+
+phlogistic says:
+
+Four hours is about right, yeah. Though there might be more stuff added in a later update.
+
+13/12/2016 at 02:49
+
+Rizlar says:
+
+This sounds brilliant, props for covering it. Top hole. RPG maker needn’t turn out shite? It’s almost like the medium does not dictate the quality of the message, a concept fans of computer games ought to be familiar with.
+
+13/12/2016 at 16:46
+
+AutonomyLost says:
+
+I’ll be downloading this tonight. Thanks for the review, John.
+
+13/12/2016 at 17:31
+
+Marclev says:
+
+Blimey, started reading thinking there’s no way I’d be buying a top down RPG no matter what the review said, and finished reading wanting to wave my money at the developers.
+Not often that happens!
+
+13/12/2016 at 19:19
+
+Marclev says:
+
+For anybody as equally confused as I was above, this seems to be an adventure game, not an RPG (ignore the fact it was made in RPGMaker as per the article).
+
+14/12/2016 at 01:21
+
+pandiculator says:
+
+So glad to see that RPS Recommended sticker. Game is absolutely brilliant.
+
+14/12/2016 at 13:58
+
+changtau2005 says:
+
+Thanks John, for highlighting this atmospheric but low-key game which would have been easily overlooked. And boy, what a loss that would have turned out to be!
+
+20/12/2016 at 14:14
+
+Bury The Hammer says:
+
+Completed this last night. Actually made me shed a tear at one point. Very delicately done – the melancholy atmosphere of the music, art and dialogue really come together. It’s more of a short story than a novel, and you can whip through in a night or two, but its incredibly on point all the way through. It also dug its claws in deeper and quicker than I thought I would – in a few hours I went from playing normally to being filled with a sense of deep unease and sadness around the final areas.
+It’s also clever, whilst at the same time being reasonably easy. That’s fine. I think most people will enjoy the ride.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+adventure, feature, meta, OneShot, review, rpgmaker, RPS Recommends, Team Oneshot, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

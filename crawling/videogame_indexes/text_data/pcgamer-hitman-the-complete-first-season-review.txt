@@ -1,0 +1,60 @@
+./html_data/pcgamer-hitman-the-complete-first-season-review.html
+
+
+ 
+ 
+ 
+ 
+
+
+By
+Phil Savage
+ 
+
+Hitman is back. Confident design and a willingness to experiment produces some of the best missions of 47's long career.
+What is it? Sandbox stealth about a clone who is good at killing. Reviewed On:  Windows 10, 16GB RAM, i5-6600k, GeForce GTX 1070 Price: $60/£40Release Date: Out nowPublisher: Square EnixDeveloper: IO InteractiveMultiplayer: NoneLink: Official WebsiteBuy it: Humble Store Read our affiliates policy.  
+Like many, I was surprised when Hitman was announced as episodic. Surprised, but not worried. Story has never been the main focus of the Hitman series. That changed for Hitman: Absolution, and I—like many series fans—didn't much care for that game. In deciding to release each mission individually, IO seemed to be signalling that this new Hitman was back to being a standalone series of sandbox murder playgrounds. Everything fans loved about Blood Money, but larger and with more options.
+Looking back, that's pretty much what we got. Hitman, like Blood Money before it, does have a story, but it's a tale told in the margins—in post-mission cutscenes, overheard dialogue, and, later on, specific mission objectives that nonetheless follow the regular template. That's good, because the template works. There is a target, or two, or four, each with their own routes and security. Your job, as bald killer clone 47, is to assassinate them.
+You can, in many cases, just shoot your target and run away, hoping to reach the exit before the security team surrounds you. Doing so would be valid, but messy. 47 is a professional, and that means getting in and out with the minimum of fuss. Shootouts can be lethal—47 is far from invincible—but Hitman's hardest, most satisfying challenge is taking out targets without being recognised. This is where disguises come in. 47 can take clothes from unconscious (or dead) NPCs, wearing them to blend in. Disguise as a waiter, and you'll have access to a larger part of the level than a member of the public. Disguise as a security guard, and your access expands further still.
+
+Disguises have been one of the series' defining features since its inception, but Hitman offers the most elegant implementation to date. Instead of Blood Money's opaque and seemingly arbitrary suspicion meter, here you can only be discovered by specific NPCs of the same type. In certain cases the system requires some suspension of disbelief—it's not always clear why some guards can recognise their colleagues when so many others cannot—but the transparency is welcome, ensuring you can circumnavigate these characters in an effort to remain undetected.
+Disguises have been one of the series' defining features since its inception, but Hitman offers the most elegant implementation to date.
+It's not just a case of using disguises to get to a target. You must also figure out how you're going to kill them. Again: you have a silenced pistol, and it will do the job. Alternatively, you can take various tools into each mission, from guns and explosives, to lockpicks and a variety of poisons. Often, though, the most fiendish means of murder can be found within the level itself. 47 can rewire electric cables, loosen chandeliers, or tamper with gas heaters. And beyond the more generic options, each mission has its own tailored murder methods—called 'Opportunities'.
+Opportunities allow you to manipulate your targets from their set routines, often fatally so. Similar in function to Blood Money's accidents, they're a powerful tool to either draw a target away from their security, or to lead them straight to their own demise. In Hitman, not only are there more per level, but they're more formalised—letting you discover and track specific Opportunities based on overheard conversations or information found throughout the level.
+
+
+Paris: 75%
+"A smart progression of Blood Money's ideas."
+Sapienza: 85%
+"Huge, open and beautiful."
+Marrakesh: 81%
+"A detailed, intricate playground for murder."
+Bangkok: 78%
+"More good Hitman."
+Colorado: 75%
+"A welcome departure from previous episodes.
+Hokkaido: 85%
+"A confident and experimental end."
+While Opportunities are invariably the most entertaining ends, and most directly buy into the fantasy of Hitman's premise, they can also be overbearing. By default, Opportunites lead you, step by step, exactly where you need to go. If dropping a stuffed moose on some jerk requires a cameraman disguise, you'll be told where to track one down. Arguably it means Hitman is more welcoming to newcomers. To my mind, though, such detailed direction undersells the satisfaction of the core experience.
+Fortunately, every element of the UI can be tweaked. Opportunities can be set to minimal, giving you only the broadest of objectives and letting you to figure out the finer details. Or the objectives can be disabled entirely, challenging you to complete Opportunities more organically, using NPC dialogue and contextual hints. The result is the same—a jerk, dead by moose—but the feeling of accomplishment is far greater.
+My recommendation is to disable as many UI elements as you feel comfortable with before you first attempt each mission. Each Hitman mission is designed to be replayed, but you only get one chance at experiencing it for the first time. Turning off unnecessary hints forces you to stumble through these massive, intricate spaces, picking up items, searching for clues and seizing upon opportunities (note the lower-case 'o'). I'm hesitant to say this is Hitman as it's meant to be played—part of the appeal is how well the challenge scales. Nonetheless, the detail within each environment is such that Hitman is improved by the need for exploration.
+
+IO has succeeded in making levels bigger than any previous Hitman. They're dense, too, packed full of items and possibilities. Thematically, few of its environments are as strong as those of Blood Money—there's nothing that feels quite as iconic as the suburban witness protection scheme, or the New Orleans Mardi Gras. Nevertheless, each level offers something slightly different. Paris takes place in an enormous mansion during a fashion show—layering access between public, staff, and the secret auction being held on the top floor. Sapienza is a vibrant and rustic town. Marrakesh, a contrast between the public unrest of the streets and the calm, minimalist interior of the Swedish consulate.
+I've happily spent hours playing and replaying, each time finding fun new tricks.
+The early missions are all different takes on a similar theme—usually there's a big house involved. Later, though, IO starts to tweak and experiment with the formula. Colorado takes place on a farm full of mercenaries, and the entire area is marked as hostile. Hokkaido is set in a high-tech hospital, meaning 47 is unable to smuggle in items. These small shifts to the established formula can have a big effect—at least on your first run through.
+Each level is designed to be replayed, either repeating a mission to find new methods, or taking on one of the Escalations—special missions featuring alternate targets that evolve with new complications each time you complete them. As such, every environment is big and intricate enough to support multiple approaches, be it silent, fiendish, or crazed axe-murderer. Marrakesh and Bangkok are arguably the weakest in this aspect, but even they have plenty to do. In the best spaces—Sapienza and Hokkaido, specifically—I've happily spent hours playing and replaying, each time finding fun new tricks.
+
+As in Blood Money, the joy of Hitman is in manipulating these self-contained puzzle sandboxes. Strip away the theme and fantasy, and you're left with a diorama of moving parts—a seemingly perfect system of loops, each intersecting to create a complex scene. It's left to you to decide how you want to break it—whether it's by surgically removing key actors, or by violently smashing it all up with guns, bombs and a stuffed moose. This was the formula the series had been slowly perfecting, up until Absolution dialled it back in favour of smaller levels that fit a more prescribed narrative format. This new Hitman bigger, denser and with more options.
+There are problems, though, some of them caused by the episodic structure. The biggest is the reuse of the same few voice actors. Hitman bills itself as a 'World of Assassination', but the voices of that world are the same, no matter where you are. I didn't find it too distracting, but then I'm more invested in Hitman as a systemic challenge. If you're looking for an immersive experience, the repetition of voices will definitely damage that. Similarly, music repeats too. If, like me, you were a fan of the fantastic Jesper Kyd soundtracks of earlier games, the score for this Hitman is a disappointment.
+Online functionality is also awkwardly implemented, with unlocks and challenge progress requiring an internet connection. You can play offline, but you can't carry an offline mission online or vice-versa. You also can't use your unlocked items or alternate starting locations while offline. None of the online systems—the community-created Contracts mode, nor the one-time only Elusive Targets—are worth the downsides of this system. Hitman never justifies its restrictions. At least now you're no longer kicked directly back to the menu should your connection drop.
+Issues aside, the actual design of Hitman—the targets, environments and challenges—is strong throughout its six episodes. Hitman isn't perfect, but it's a well made and entertaining successor to Blood Money—a far cry from the mistakes of Absolution, and a return to form for the series.
+Hitman is back. Confident design and a willingness to experiment produces some of the best missions of 47's long career.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

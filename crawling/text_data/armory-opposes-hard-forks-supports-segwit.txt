@@ -1,0 +1,29 @@
+
+
+
+CryptoCoinsNews
+Armory has thrown is support behind Segregated Witness (SegWit) as a way to address the bitcoin network scalability challenge, the wallet noted on a Github post. The Armory opposes hard forks that can attack the original bitcoin blockchain.
+Armory would consider supporting a long-lasting fork that does not attack the original chain and allow its users to transact on that chain if necessary.
+Depending on the extent of the changes, Armory could deploy the change completely and implement a migration tool to another wallet supporting the change. It could also choose not to support the fork.
+The Armory wallet does not do consensus checks since it depends on its link to a local bitcoin node, which is typically Bitcoin Core. Anything based on Core, such as Bitcoin Unlimited, will work as long as changes ae not made to block formats or the transaction.
+Armory will be compatible with the hard fork as long as both bitcoin network formats remain the same. It will allow users to transact continuously on the forked network.
+Since transactions for both networks will be valid, replay attacks could occur, resulting in loss of coins on account of transaction replay. Armory has a recommended setup to help users avoid transaction replay if Bitcoin Unlimited (BU) or a similar block size increase hard fork should become activated. The procedure is not guaranteed to work.
+To interchange seamlessly between BU and Core transaction history, a user needs two copies of the blockchain data. A user does not need to rescan the pre-fork BU chain to receive a copy of the pre-fork Core database to use the pre-fork BU chain.
+To be safe, users should use Armory’s “Rebuild and Rescan Databases” feature to update the databases following the fork. It could also be necessary to re-download the blockchain if copies are made post-fork.
+A transaction replay attack occurs when a transaction becomes confined to both blockchains. It can occur intentionally or accidentally.
+To prevent transaction replay, the user has to “taint” their coins, the goal being to secure a transaction on one chain that isn’t valid on the other. After this, it is possible to mix remaining coins with the “tainted” output.
+The easiest way to taint on BU is to create a transaction by sending yourself coins with a low fee that will quickly confirm on BU and not on Core. When the transaction is mined on BU, replace by fee the underlying output on the Core chain with a high enough fee.
+Once the replace-by-fee transaction gets sufficient confirmations on Core, the user will have an UTXO (unspent transaction output set) exclusive to the BU chain and one on the Core chain. They are then safe to taint the remainder of the coins on each chain.
+There is no risk to tainting one’s own coins.
+An Armory developer further clarified the position in a Reddit post. He noted Armory has detailed its explanation for how to get Armory to see both chains and taint one’s coins. Armory’s recommendation in this area is not intended to endorse either chain, and it is not a position on the fork.
+Armory can work on both chains if the proper steps are followed. These include what not to do to keep both databases and chains segregated.
+It is preferable to remove coins from exchanges before a fork and then taint them.
+The developer noted the Armory forum is not a place to engage in politics or express personal opinions.
+Armory is a free, open source project where people can contribute code. The two criteria to be eligible for inclusion are: 1) the design of the feature must be technically feasible and meet Armory’s security requirements. 2) Demonstrable demand for the feature should exist. A new feature cannot alienate existing users.
+Also read: Segregated Witness: coming to a Bitcoin Core near you
+In the event of a fork, Armory will provide its users access to both chains.
+The developer spent three months deploying support for SegWit and a compressed public key with the intent of keeping the code paths separate.
+The compressed keys were introduced with better handling of fee/byte scenarios allowing users to lower fees. Such features depend on dedicated code that users are not forced to use.
+Any project that supports following its fork split with a purge of miners on the original chain defies everything that bitcoin stands for and should be denounced for its shameful aggression.
+The developer listed his points of disagreement with BU for the sake of thoroughness.
+Featured image from Shutterstock.

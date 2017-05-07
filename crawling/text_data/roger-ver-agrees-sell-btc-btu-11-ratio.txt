@@ -1,0 +1,20 @@
+
+
+
+CryptoCoinsNews
+Roger Ver, the bitcoin broker/asset manager and Bitcoin Unlimited supporter, has agreed to a one-to-one trade of Bitcoin Unlimited (BU) for bitcoin, signaling his confidence in Bitcoin Unlimited. The offer is for at least 60,000 bitcoins and as much as 130,000 bitcoins. with a bitcoin split pending.
+Someone has apparently offered to exchange his BTU for Ver’s BTC at a one-to-one rate. The bitcoin address on blockchain.info associated with the offer holds 40,000 BTC.
+The person also made the offer to another party, Jihan Wu: “Consider it primarily as a vote of no confidence in the Bitcoin Unlimited software and development team as it currently stands,” the post read. “I’ll add the contingency that the deal is null and void if there ar major changes to either.”
+Ver responded: “This sounds like a great deal for both of us. I look forward to ironing out the exact details and terms. I’m super busy for the next 48 hours, but would love to connect after that.”
+“I will sell my coins on the slow, expensive Core chain and use the proceeds from that… I would sell those coins and use the proceeds to buy more BU useful,” Ver said in a recent Youtube video posted by MadBitcoins. “Bitcoin Unlimited coins will be so much more useful because you’ll actually be able to sit and receive them with people, unlike the Bitcoin Core coins on this congested network that will be congested and last forever.”
+The post drew significant comment on Reddit.
+“I am speechless to see the account holding 40k bitcoin, who owns those kind of money!!!” a Reddit post noted. “If there is a split which is highly likely with the uncertain things going on with the rumors and things regarding it, i am not sure how things will go and the price is recovering even at this level. Good luck making the deal.”
+One post noted that Ver is putting his money where his mouth is, providing the offer is not a bluff.
+Another post said Ver will find an excuse not to make the public deal since he is only bluffing.
+Still another post questioned why Ver would do a one-for-one trade when the market rate on Bitfinex for BTU (Bitcoin Unlimited) is 0.2102 and the rate for BCC (Bitcoin Core) is 0.758. To be a fair trade, one would need to offer Ver 3.6 BTU for every 1 BCC.
+The offer naturally drew comment on the chances of success for Bitcoin Unlimited. Ver has been a proponent of a block size increase and supports Bitcoin Unlimited as a solution.
+Another post said for Bitcoin Unlimited to exist, it requires more proof-of-work than BTC.
+Also read: Bitcoin Core developers attack Bitcoin Unlimited
+The Ver offer demonstrates that Bitcoin Unlimited remains controversial. Those in favor of it argue that it would quickly increase transaction capacity, addressing delays and lowering fees. Those against it state that the Segregated Witness solution would increase capacity far higher through layer two protocols.
+Both sides say the other’s solution will centralize bitcoin. Those against Bitcoin Unlimited say an increased blocksize would increase costs, lowering the number of nodes. In response, BU supporters say that sharding would address these concerns and lead to centralized hubs due to the economies of scale. To which Segregated Witness supporters say the protocol is designed to be decentralized.
+Featured image from YouTube/Torsten Hoffmann.

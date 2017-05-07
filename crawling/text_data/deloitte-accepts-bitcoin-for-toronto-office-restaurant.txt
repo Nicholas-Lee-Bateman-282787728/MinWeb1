@@ -1,0 +1,26 @@
+
+
+
+CryptoCoinsNews
+Deloitte’s employee-only restaurant in its Toronto offices will now begin accepting bitcoin for lunch.
+The Toronto office of Deloitte Canada is now accepting bitcoin as a method of payment at its internal restaurant, open to employees and their guests.
+One of the ‘Big Four’ accounting giants, Deloitte made headlines after installing a bitcoin ATM (BTM) at its Toronto offices in September last year. While the unveiling of the BTM took place in front of gathered Deloitte employees on the 6th floor of Deloitte’s building, the BTM was soon relocated to the lobby on the 2nd floor, making it accessible to the public.
+Our BTM is now open to the public. Enter the Deloitte entrance off Yonge St. and go up the escalator | #bitcoin pic.twitter.com/X6wBgLZ0IT
+— Rubix by Deloitte (@RubixByDeloitte) September 7, 2016
+
+The effort to install a BTM was in the works for a couple of months, revealed Illiana Oris Valiente, strategy lead of Deloitte’s Rubix. As a blockchain development hub, Rubix consists of a team that exclusively develops blockchain applications under the company’s roof.
+“We thought it was really important to show people how to get access to bitcoin because it is really the entry point to understand the broader implications of the blockchain,” Valiente stated.
+Deloitte has now pointed to “tremendous adoption and understanding” of bitcoin as a result of the BTM. Pushing for the adoption of the cryptocurrency further, Deloitte is now accepting bitcoin at Bistro 1858, the company’s internal restaurant.
+The idea is to further awareness of bitcoin among employees by further its use cases. Bitcoin can now be purchased the BTM to then be used as payment for a meal at the restaurant.
+Ian Chan, a partner at Deloitte said:
+After placing a BTM in our offices and seeing Deloitte personnel downloading a wallet and buying their first fraction of a bitcoin, it seemed natural to enable the next step of the use case under our own roof.
+Deloitte co-runs Bistro 1858 with a hospitality company and is roping in the services of prominent bitcoin payments processor BitPay, to accept and settle transactions with the cryptocurrency.
+Spearheading the effort for bitcoin adoption within Deloitte, Valiente, who is also the co-founder of Rubix, added:
+By allowing individuals to buy and sell bitcoin with our BTM, and now to buy their lunch with bitcoin, we’re demonstrating that the blockchain experience for the front-end user is not all the complicated.
+“What is important to realize, however,” she added,” is that the back-end technology has fundamentally changed,” pointing to blockchain technology’s many use-cases beyond bitcoin.
+All of the ‘big four’ accounting and services giants have made it publicly known that they are researching and developing blockchain applications of their own for a number of objectives including benefiting their clients.
+KPMG has partnered technology giant Microsoft to co-launch blockchain development labs in Germany and Singapore. PricewaterhouseCoopers (PwC) has been more active in the space, deeming blockchain technology a “once in a generation opportunity” for financial services. After partnering Blockstream and Digital Asset in early 2016, the services firm sought to expedite the rollout of blockchain technology in mainland China in July 2016. By the end of the year, PwC launched ‘Vulcan’, its own blockchain platform.
+Ernst & Young partnered the Bitfury Group, a bitcoin mining and blockchain tech giant, late last year to develop blockchain services and applications. This year, EY Switzerland began accepting bitcoin as payments for all of its services.
+Deloitte arguably leads the pack in adopting and developing blockchain technology, with some 800 professionals across 20 countries exclusively working on blockchain-related prototypes in a number of areas including digital banking, payments, reward programs, real estate and trade reporting.
+The firm believes 2017 to be the “make-or-break” year for blockchain technology globally and is pouring resources into aggressive development by opening blockchain-exclusive labs in New York and Dublin.
+Featured image from Shutterstock.

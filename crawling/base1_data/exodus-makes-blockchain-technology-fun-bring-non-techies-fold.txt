@@ -1,0 +1,26 @@
+./html_data_bitcoins/exodus-makes-blockchain-technology-fun-bring-non-techies-fold.txt
+
+
+
+CryptoCoinsNews
+This is a sponsored story.
+
+Blockchain isn’t just for geeks. But because it’s such a new technology, many people aren’t warming up to it and gaining the many benefits that cryptocurrencies can offer them. Exodus, a multi-digital-asset wallet with the ShapeShift exchange built in, is attempting to change this picture.
+As its name implies, Exodus allows people to leave the geeky imagery often associated with blockchain technology and experience it as the uplifting journey that it can and should be.
+Exodus distinguishes itself on the blockchain landscape with its aesthetically pleasing user interface that will be especially welcome to cryptocurrency newcomers.
+JP Richardson, chief technical officer, and Daniel Castagnoli, chief creative officer, have created a website that allows even the least technical individuals to manage and trade blockchain assets. It hides the complex details. The developers made design a priority in creating a website that allows users to exchange assets in seconds.
+There are numerous videos of high production quality that make learning about blockchain technology fun.
+The videos present cryptocurrency calculations being done with inspiring sound track and soothing, uplifting imagery. They feature a personal touch, with Richardson and Castagnoli speaking emphatically.
+“The blockchain for the first time in history has created a movement to shift power back to the people to manage their own assets,” Castagnoli states in one of the engaging videos. “With no banks, no brokers, or institutional oversight.”
+“People risk too much by trading on exchanges,” says Richardson in a video. “These exchanges ask you weird questions like, ‘Where did you get your money? Where are you sending your money? What is your Linked-in profile? This develops a bad relationship with customers You give up your control of your identity, privacy and money because you believe that you don’t have a choice. We’re building Exodus to bring you that choice.”
+The visual aesthetics of cryptocurrency are used throughout the web pages in a way that personalizes much of the information.
+A video walks viewers through how to use the mobile app. The app shows the user’s portfolio visually, including how to view account balances, send and receive funds, convert from one currency to another, and view transactions on the blockchain. There is a landscape background that makes the financial presentation more enjoyable.
+The built-in Shapeshift exchange is demonstrated. “All the technical details of the exchange, including contract management, is built into Exodus,” the narrative explains.
+Users can track the value of their assets with the help of aesthetically pleasing charts that present real-time asset values.
+Users can control their own keys. Exodus encrypts private keys and transaction data locally for users.
+There are no accounts, no servers and no data sharing.
+At the time of this report, Exodus’ $29,684 portfolio included 28% bitcoin, 27% Ethereum, 19% Dash, 18% Dogecoin and 8% Litecoin.
+The website can be read in English, German French, Spanish and Portuguese.
+Exodus is not 100% open source. Many of its components are open source. Users can view the source code of individual components on Exodus’ Github repo. Exodus will be open source when the company defines its long-term strategy.
+There are five video user reviews of Exodus on the website. These videos give viewers non-biased, personalized observations about using Exodus. To read these reviews, click here.
+Exodus will support more assets provided they are available on ShapeShift and are among the top 20 in market capitalization.

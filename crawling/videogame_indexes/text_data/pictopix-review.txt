@@ -1,0 +1,310 @@
+./html_data/pictopix-review.html
+
+RPS Feature
+Pixel perfect 
+By John Walker on January 12th, 2017 at 5:00 pm.
+
+The PC is oddly bereft of decent Picross/Nonogram puzzles. Could Pictopix [official site] finally be the version that lets us put down our 3DS? Here’s wot I think:
+Quickly, in case you haven’t before, here’s what a Picross/Nonogram puzzle is: a usually square or rectangular grid of empty square cells, with each row and column accompanied by instructional numbers. A single ‘1’ means one cell in that row or column must be filled in. Something like ‘2 3 7’ would mean distinct groups of cells in that row or column must be filled in a run of two, three, then seven, with gaps between. Using just that, you can fill in or blank out every square in the grid to create a pixel drawing. The joy is in interpreting this scant information such that you can work out which cells the numbers apply to, each correctly deduced fill or blank giving you more clues for the next.
+
+I am permanently on the search for a good Picross game. I was introduced to the puzzle by Mario’s Picross for the GameBoy, which sounds more hardcore than it is – I played it via an emulator on an R4 cart on the DS back in 2005 or so. But wow did I play it. And its sequel. And the Wario variants therein. As Nintendo projects so often do, it got the format absolutely and perfectly right, in a way that I’d argue wouldn’t be repeated until Mario’s Picross creators Jupiter put out the ‘Picross e’ games, sold on the 3DS store, starting some sixteen years after their GB original. (Sidenote: their Picross DS released in 2007 enormously missed the mark of both the Mario games and the ongoing ‘e’ titles.)
+In the meantime, the puzzle (you may know then as Nonograms) has seen a renewed popularity in print form, in the wake of the explosion of Sudoku. This has reached the point where large, difficult Picross puzzles appear in newspapers like the Telegraph on a weekly basis, surely pushing them into the broad mainstream. So the obvious place to see that popularity exploited is the smartphone. And people have tried. Except absolutely no version I’ve ever tried (and I’ve tried so many) has been vaguely worthwhile, and it’s for one simple reason: Picross needs more than one button.
+
+Phones just can’t do it. To satisfactorily fill in a Picross you need a shortcut for choosing whether you’re painting in a tile or X-ing it out. On the DS, that was so ideally handled by the shoulder button, but on a phone, until someone figures out a version that uses the volume button or similar, it requires laboriously tapping back and forth between the two options, slowing the whole process down far too much to be smooth or fun. Which eventually brings us to the PC.
+The PC is obviously an ideal home for Picross! The two buttons on a mouse takes care of every issue, it should be a done deal. But every version of the puzzle I’ve tried has made enormous mistakes, messing up really obvious features, or gone out of its way to be awkward to play. And all this brings us to Pictopix.
+It’s brilliant!
+
+At last I’ve got myself a nonogram puzzler for PC that ticks every box, doesn’t have that one feature missing. Although for a moment I did worry.
+Pictopix does everything right. A simple, unobtrusive presentation, a plain (but pleasant) blue screen, the grids presented clearly, no nonsense or animations or needless attempts to dress up a concept that shines brightest when least obscured. Left click to paint, right click to X, done. But it also requires getting some other more subtler things right for a good Picross game, and it achieves those too.
+For instance, something too many forget is that a player is going to want to be able to fill in a long line as easily as possible, especially when some of its cells have already been filled one way or the other. Say in a 15×15 grid, you’ve got a row with (1 1) as its instructions, and you’ve painted in both those cells, you now want to X out the rest. Far too many versions of the puzzle would have a drawn line of Xs overwrite what’s already there. Not this one, letting you quickly and simply fill in the rest of the line in one move.
+Another similarly specific but vital element is ensuring that it’s easy to draw in a single line, without accidentally slipping out and putting in incorrect entries elsewhere. And this is where I thought I was going to be writing a review that said, “so close”. But the silly twerps have perfectly implemented this feature, then had it switched off by default. Once flipped on in the options, you’ve everything you need to being ploughing through its collections of 10×10 up to 25×25 grids.
+
+It has its idiosyncrasies. Most variants of the nonopuzzle have star ratings for completion, based on mistakes made and time taken, and Pictopix is no different. How it measures such things is a little strange. The game doesn’t react to wrong moves, and your response to that will vary – I often find it frustrating when games do, because if anything it’s an unwanted hint. But the absence of a reaction when you paint in the wrong tile is definitely odd. It notices, however, and make too many of these unmentioned mistakes and it’ll downgrade your score. (Which reminds me way too much of a driving test, weirdly. That silent condemnation revealed at the end.) More odd is how it won’t give you anything over one out of three stars if you have any of the hint modes on, despite one such “hint” being a bog-standard feature of the genre. That is, having instructional numbers fade once that row or column has them filled in. It’s usually used as a form of convenience for the player, rather than as a clue for progress, and while absolutely not necessary, it does seem a strange thing to penalise a player’s score for having switched on. Other hint features like showing which rows or columns can currently be deduced are there too, which is always the sign of a good Picross game (it means that you won’t be encountering badly designed puzzles where guesswork becomes necessary), and obviously having that switched on is blatant cheating.
+And as if all that weren’t enough, it comes with a puzzle creator too! And soon a Steam Workshop to share creations on, meaning it’ll hopefully (if enough people pick it up) become an endless supply of puzzles, of which hopefully some won’t be crude pictures of boobs.
+
+This is all the work of one man, Thomas Lerdy, and he’s absolutely nailed it. If like me you’ve been craving a good implementation of the puzzle for PC, then you’ve found it in Pictopix. If you’re looking for a fun, brain-using puzzle presented splendidly, then now is the time to discover why Picross/Nonograms are quite so great.
+Pictopix is out now on Steam for £4.25/$6/€6.
+
+12/01/2017 at 17:25
+
+lancelot says:
+
+I’m still waiting for someone to create a version of Blockout which is a faithful replica of the original 1989 game and can run on a modern PC. BlockOut II is a perfect example of landing smack in the “so close” zone.
+
+12/01/2017 at 17:32
+
+Robmonster says:
+
+A PC Picross game actually recommended by John? Insta-buy!
+
+13/01/2017 at 06:30
+
+reitrop says:
+
+Insta-buy as well. Thank you John, i totally did not see this game coming.
+
+12/01/2017 at 17:35
+
+LTK says:
+
+There’s a free Picross game on Steam called Picross Touch. It’s the only game of its kind that I’ve played, and its puzzles are exactly as you describe here, with the exception that you can’t mark tiles as not part of the pattern. 
+What I’m wondering is: does Pictopix add anything to the formula – aside from scores – or is it just more of these puzzles?
+
+12/01/2017 at 17:58
+
+John Walker says:
+
+Being able to put in the Xs is a pretty essential part of solving a picross. I’m interested to see what they’ve done to make that not necessary.
+No, Pictapix does nothing original at all. But bearing in mind the paucity of PC options, it really didn’t need to.
+
+12/01/2017 at 18:07
+
+LTK says:
+
+Turns out I’m dumb. I’ve been doing all of them without crossing out the blank spaces, but you can do exactly that in Picross Touch by right-clicking. I didn’t think it was necessary so I never tried. 
+Going about solving them logically can be a struggle though, so I can see how having a reminder on which squares are empty can be very helpful. 
+Thanks for the info! I might give this one a shot.
+
+13/01/2017 at 09:21
+
+Merry says:
+
+You need to be able to mark each square as being in one of three states until you have completed the puzzle.
+The thing is, there some squares that you know must be filled, others that you know must be empty, and yet others that you don’t know about either way. A puzzle starts with every square in the third state, and you need to be able to add information as you work and discover squares that must be either filled or empty.
+For instance, if a ten by ten puzzle has a 9 against the first row, then that bar of nine squares may only start in the first or the second square of the row. So you know that the middle eight squares of the row must be filled, but you still know nothing about the first and the last square.
+Later you may find that it is the first square that is filled, so you can mark it as such and also mark the last square as empty, which will aid you in establishing the last column, which now has only nine unknown squares.
+
+12/01/2017 at 17:37
+
+geldonyetich says:
+
+Apparently Nintendo is still introducing people to the idea of this kind of puzzler, because they released a superlative Pokémon Picross for the 3DS back in 2015.
+It’s indeed an excellent implementation… but brought down by the evils of micropayment injections.
+
+13/01/2017 at 12:47
+
+mechavolt says:
+
+I vehemently disagree about Pokemon Picross. There are levels that are impossible to solve without the hint powers. Good Picross is logically solvable.
+
+12/01/2017 at 17:57
+
+Chaoslord AJ says:
+
+There’s “Paint it back” on Steam. It’s not half bad.
+
+12/01/2017 at 17:58
+
+Knurek says:
+
+No mention of (even better) Paint it Back?
+link to store.steampowered.com
+Even has a special US election 2016 section.
+
+12/01/2017 at 18:44
+
+Arx says:
+
+Paint It Back is wonderful. The interface is more natural than most of the competition (on both PC and mobile), but what really sets it apart are the puzzles.
+When you start a puzzle, you’re given a bizarre yet compelling title for the painting. Almost without fail, the resulting painting is clever, unexpected, and genuinely funny. The puzzles’ results are also crisp, professional honest-to-goodness pixel art, rather than the muddy low-res-photo offerings I’ve seen elsewhere.
+I also have to mention that the larger puzzles (up to 30 x 30 squares, I believe) can be broken down into two to four mini puzzles to scale back the difficulty.
+I’m definitely going to check out Pictopix, but as of this moment, Paint It Back is hands-down my favorite nonogram game for PC.
+
+12/01/2017 at 21:04
+
+Oneiromancer says:
+
+Paint it Back is definitely my go-to Picross game on my iPhone. It has the best interface of the ones I’ve tried and as you say, they do make a good effort to be entertaining with the final picture matching the odd title. I happily dropped $3 to unlock the full version and drop the ads.
+
+12/01/2017 at 18:45
+
+John Walker says:
+
+Ooh, missed this one. Will take a look. Thanks both!
+
+12/01/2017 at 18:51
+
+GeoX says:
+
+…I play games to AVOID thinking about the election.
+
+13/01/2017 at 00:50
+
+epmode says:
+
+Yeah, I logged back in to post about Paint it Back. It has a lovely mobile port as well.
+
+13/01/2017 at 01:27
+
+The Velour Fog says:
+
+Got about halfway through Paint It Back and got bored. Far too easy.
+Once you go 3D Picross you cant go back.
+
+12/01/2017 at 18:07
+
+MonkeyJug says:
+
+Another mention for ‘Paint It Back’. Love that game.
+Also, Picross 3D: Round 2 has just released on 3DS. Goddam that Dragonfly puzzle!
+
+12/01/2017 at 18:47
+
+John Walker says:
+
+I love it, and I’m amazed how smartly they managed to find a new twist on it rather than just making more levels (which would be perfectly justified since this time it really IS 3D), but I still find that I end up just laboriously working my way through each puzzle slice by slice, more factory like than based on inspiration or smart deduction.
+
+12/01/2017 at 18:09
+
+QSpec says:
+
+I too am always in search of a good picross game. 
+While I usually agree that phone picross games typically drop the ball, I can in good faith recommend Nemo Picross (Android for sure, not sure if it is on the iphone too).
+Thanks for the review, I’ll look into it.
+
+12/01/2017 at 18:44
+
+Oneiromancer says:
+
+John, have you tried Descartes Enigma and Descartes Rainbow by Everett Kaser? (Link: link to kaser.com) If not, you absolutely have to. Not on Steam, but I think these are absolutely the best Picross games out there. Unlike most other Picross games I’ve seen, the puzzles can go up to 75×45 size, and the interface is really nice, taking advantage of every mouse button (especially helpful for color puzzles in Descartes Rainbow where you can bind a different color to each button) and the ability to show extra numbers in the UI to help your counting without giving away the answer. The Descartes games also allow making your own puzzles and a bunch are available to download in the full version (not updated since 2004, but I’ve still never gone through them all).
+Most of his other logic puzzle games are great as well; he used to sell a complete pack for $99 but now he has too many to do that. Hard to recommend a specific pack since each one has ones I love and ones I don’t enjoy as much, but even the first pack with both the Descartes games has enough other good ones to make it a deal over buying them individually. There are full-featured demos of every game so it’s easy to try them out as well; the only limit is the number of puzzles in the demo versions but most include 20-50 puzzles in all the difficulties so it’s easy to get a taste.
+
+12/01/2017 at 18:48
+
+John Walker says:
+
+Ooh, cheers, will have a play.
+
+12/01/2017 at 19:45
+
+Scurra says:
+
+To be honest, I tend to stick to the Conceptis puzzles site, which does have a decent engine and quite a range of picture puzzle types. And they too manage to do the “drag and fill a column without deleting your previous work” thing, but – to be fair – also fail on the left-and-right click thing (you have to click through to go from “mark a square on” to “mark a square off” to “reset the square”.)
+I will also endorse the Descartes puzzles, which are terrific.
+
+12/01/2017 at 23:55
+
+field_studies says:
+
+Ditto. Conceptis’ paper nonogram puzzles in Games magazine are what turned me on to this genre in the first place, and I’ve been using their various iOS games for years now. The interface there fails on the no-right-click too, and they don’t take advantage of the technology well, but still solid.
+I really wish there was some way to experience this picross 3-d stuff without owning a Nintendo product.
+
+13/01/2017 at 00:02
+
+Oneiromancer says:
+
+There used to be a 3D Picross game for iOS called “Oh! Cube”. Sadly it appears to have been removed from the App Store; probably broke after an OS update and was taken down. I still have it on my iPad but that doesn’t help anyone. People complained about it being a clone, but if that was just because it was a nonogram in 3D I think they were overreacting. But perhaps it copied puzzles directly which is certainly less kosher. Hmm, perhaps that was why it is no longer on the App Store…
+
+13/01/2017 at 01:15
+
+domanite says:
+
+I love the puzzles on ConceptisPuzzles.com, although recently I’ve been using their Android Fill-a-Pix app a lot instead.
+
+12/01/2017 at 21:03
+
+Arnvidr says:
+
+Hmm, I’ve been ever so slowly working my way through CrossMe on android, something to shoot light into my face when I try to wake up, it feels like a good one.
+Admittedly, you have to double-tap on a square to X it out, but with both single tap and double tap, you can then hold and drag to fill in a line. It will change any squares you already have filled, but there’s a switch in the settings that I’ve never tried that indicates it’s possible to make it like you want it.
+It also has a delightful version, CrossMe Color, where there can be more than one colour on each line, opening up more levels of difficulty and detailed images.
+Disclaimer: have not played very many other picross games.
+
+12/01/2017 at 22:26
+
+traaainor says:
+
+John, after your recommendation of Hexcells I’ll play any puzzle game you think is worth it. I would love an article of your personal best PC puzzle games.
+
+12/01/2017 at 22:32
+
+Scrofa says:
+
+Picross DS and Picross 3D on NDS were absolutely brilliant, I’ll snap this one on a sale, I guess.
+
+12/01/2017 at 22:35
+
+bhauck says:
+
+My favored Android version is just called “Random nonogram”. The only feature I miss is the ability to fill in a line’s Xs when it’s been figured out. It does at least have dragging.
+I think I’m happier with the double-click for X method than I would be with a mouse. When I played Hexcells, my natural response to figuring something out was to click it, expecting it to show up as what I’d just determined it should be, rather than funneling those responses to different fingers.
+
+12/01/2017 at 22:55
+
+evne says:
+
+I highly recommend Pattern from the wonderful Simon Tatham Puzzle Collection
+Doing 45 x 30 and larger random nonograms is awesome.
+
+13/01/2017 at 15:10
+
+Soapeh says:
+
+Correct, this puzzle collection is absolutely fantastic, my favourites being Tents and Pattern. On the Android side, I’d heartily recommend Nonograms Katana – works especially well if you have a Note-based device or any other stylus input.
+
+13/01/2017 at 10:24
+
+Paradukes says:
+
+As far as Nonograms go, I’ve been using this for a while: link to puzzle-nonograms.com
+It’s free, has quite a few difficulty options, and has a bunch of other logic problems as well. I’m hooked on Bridges at the moment.
+
+13/01/2017 at 11:13
+
+Knurek says:
+
+Also, John, you have *got* to stop spreading FUD on Picross DS.
+It played amazingly well as long as you switched to the button controls. No zooming then, even on 25×20.
+And had (still has, if you want to go through emulation route) free puzzle packs with most of puzzles from SNES games, previously exclusive to Japan.
+
+13/01/2017 at 22:39
+
+cheesysmell says:
+
+Hmmm kind of dull after Squareblocks, innit?
+
+13/01/2017 at 22:40
+
+cheesysmell says:
+
+Squarecells, that is!
+
+16/01/2017 at 11:14
+
+Marclev says:
+
+It’s telling that the review spends pretty much all of it praising the mechanics instead of the actual puzzles themselves.
+Without any sort of twist, the problem is that once you know the “rules”, there is no real challenge in these sorts of puzzles unless they’re intentionally designed to do unfair things like present you with two little information to avoid having to guess, or have multiple possible solutions. The “algorithm” you use to solve a 30×30 grid is exactly the same as you do for a 10×10 grid.
+As cheesysmell comments just above me, Squarecells took it to the next level, going back to normal Nonograms just seems boring and somewhat unchallenging.
+
+25/01/2017 at 16:15
+
+Treebard says:
+
+John – very happy to hear this (long time Picross fan here)…but now I have to ask: what was wrong with the 2007 Picross DS?
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, nonogram, Picross, Pictopix, puzzle, review, Tomlab Games, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

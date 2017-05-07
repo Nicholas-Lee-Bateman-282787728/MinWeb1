@@ -1,0 +1,57 @@
+
+
+ 
+ 
+
+
+By
+Ian Birnbaum
+ 
+
+Persistent bugs, a convoluted interface, and incompetent colonists hold back a great premise.
+What is it? Steampunk and Lovecraft inspired city-builder and colony simReviewed on: Windows 10, i5 4690k, 8GB RAM, Nvidia GTX 970Price: $30/£23Release date: Out nowPublisher: Gaslamp GamesDeveloper: Gaslamp GamesLink: www.clockworkempires.com
+A band of steampunky colonists lands on foreign shores. Their task: to build houses, chop trees, and civilize these barbaric pastures for cog and country. As they expand their settlement they upset the soil, every footfall in danger of waking The Things Beneath.
+Steampunk and Lovecraftian horror is such a lovely combination I’m shocked it doesn’t show up in games more often. Clockwork Empires smashes these two seemingly contradictory genres together—one optimistic, one nihilistic—surveys the wreckage, and points: “Now build a town on top of it!”
+The brilliance of the setting makes the end result more disappointing. After years on Steam Early Access, the 1.0 release of Clockwork Empires is buggy, unwieldy, and hamstrung by the most baffling UI I’ve ever seen in the city-building/town-managing genre. Clockwork Empires is a parade of otherworldly horrors, but it’s not the fun kind.
+
+These are dark days for our little colony. Monsters lurk in the swamps around town, and yesterday one of them attacked a woodcutter. Captain Dunnage, our only military officer, shot the creature and has been looking haunted and vacant ever since. Merle Brazenthatch, the chemist, reckons he can whip up some laudanum to help the good captain sleep at night. All he needs is a chemistry workbench. Well! That should be pretty simple.
+Thus begins our trial. Clockwork Empires looks like any city-building or sim-management game, and I love that every good and service in town is individually modeled to an absurd degree. I love that my administrative center needs to be supplied with rugs on the floors, desks to work on, paper to write on, and ink for the pens. That’s an economy worth modeling! But it just doesn’t work.
+The result is exasperating, constant handholding of a group I’m ultimately powerless to command.
+Underneath the steampunk and Cthulhu, all city-builders are about 1) telling people to do stuff and 2) people doing the stuff. You, chop that tree. You, build that house.
+But I can’t command anyone in Clockwork Empires. I can only suggest. “I suggest someone should mine that rock for iron,” I say, and eventually someone (I can’t decide who) may get around to it. I can flag a tree for harvesting, but I can’t tell the lumberjack to just keep those planks coming. The result is exasperating, constant handholding of a group I’m ultimately powerless to command. 
+Dwarf Fortress is also absurdly complex and features indirect unit control, but the difference is in the AI and my options for setting rules. I can trust the dwarfs to keep wood on the fire and food on the table while I’m tending to other things. In Clockwork Empires, a builder who runs out of wood is happy to stand around and complain instead of chopping down a tree to finish the job.
+
+On top of that, only a minority of my population is of real use. People in Clockwork Empires are divided along class lines: commoners are Laborers, and gentlefolk are Overseers. Every task, from chopping wood to distilling medicine, has to be managed by an Overseer, while Laborers can only assist. This structure slashes the effective working population. 
+It’s frustrating to think that the extra 20 percent stone-mining speed Laborers contribute to a job might be added by a technology upgrade for a pickaxe in another game. I always have 20 different jobs that need doing before everybody ends up dead, but instead of 20 able bodies, I only have seven functional Overseers, with thirteen extra Laborers.
+As I wait for the third glass bottle to be blown, Captain Dunnage wanders into the woods and dies.
+The small effective population is ill-equipped to handle the rigid, linear structure of Clockwork Empires’ economy. Captain Dunnage’s laudanum prescription is a good example: To make a chemistry workbench, Merle needs wood planks and glass bottles. For bottles, Harvey Square needs to pour glass, but in order to make glass, Cecil Thompburn has to build a brick ceramics kiln. Bricks to build a brick kiln require a stone ceramics kiln. Matthias Trinket says he can make a stone kiln if he has more stone. Hildred Hattemper is cutting stone, but she’s too scared to work at the quarry with monsters nearby. By chance, Hildred asks, could Captain Dunnage come provide security? 
+At this point, my excitement for an intricate economy has evaporated. With so many jobs required to be filled for the inflexible supply chain and so few upper-class twits available to fill them, every act of creation is a grind. As I wait for the third glass bottle to be blown, Captain Dunnage wanders into the woods and dies. The lucky bastard.
+
+This problem has been solved since the age of the floppy disk, and I don’t see any advantage in this new approach.
+Layers of economic complexity and granular detail can be a lot of fun, though. The best city-builder games revel in complexity—in addition to Dwarf Fortress, I’m thinking here of managing firewood stores in Banished or analyzing traffic throughput in Cities: Skylines. But crucially, these other, better city-builders have great user-interfaces to manage complexity.
+Every action in Clockwork Empires involves a journey through a series of nested menus. Sometimes these menus are contradictory or redundant, but they are always hard to read and impossible to find. There’s one menu tree for different buildings, and an entirely different menu tree for all of the equipment and gear that can go into those buildings. There’s a hidden sub-sub-menu inside the second menu tree for all of the ways you can decorate those different buildings!
+ 
+
+If you’ve suggested that some Overseer somewhere should chop down some trees, you may want to send some help to bring home the lumber. Assigning extra laborers is a simple matter of opening the phonebook of every Overseer in the colony, scrolling until you find their name (names are not in alphabetical order), and clicking to assign the extra hands. When those laborers are no longer needed, do the same thing to unassign them, then do it again to send those workers somewhere else.
+Worse, there are no hotkeys. Not for buildings, not for goods, not for calling extra laborers, not for signaling an attack by an angry cult, not for anything. How is this possible? These are thoroughly solved problems. Even if we accept that the Overseer/Laborer division is crucial to this game, we’ve been left-clicking characters and right-clicking on jobs since Warcraft. This problem has been solved since the age of the floppy disk, and I don’t see any advantage in this new approach.
+To look at Clockwork Empires’ UI is to stare into madness, to gaze at the inconceivable, to view corrupted windows that no man dares name, drop-down menus that pound with the sound of the drums, the drums, the drums.
+
+I’m really shocked to say this after how carefully crafted, clever, silly, and colorful I found Gaslamp Games’ last project, Dungeons of Dredmor, but Clockwork Empires does not look good. Textures are muddy, animations are choppy, I experienced frequent screen-tearing, and characters’ faces are angular and blocky enough to cut firewood. This could be an issue of adjusting video settings, but I wouldn’t know: other than starting resolution and fullscreen/windowed modes, there are no video options. Forum posters are complaining about long load times, technical issues and framerate drops. I’m not alone in seeing a few crashes back to desktop.
+What should have been an organic saga landed for me as a flop.
+The AI isn’t quite the storyteller I’d hoped for, either. Like Dwarf Fortress, Clockwork Empires hoped to fill this world with personal drama. Much was made of how citizens would have personalities and make friends or enemies. It’s a great trick if you can spin it, but here it either doesn’t work or doesn’t matter. Nosing around and reading all of my citizens’ diaries, I found that no one had made a friend that returned their affection, and no one had made an enemy that was aware of their hatred. What should have been an organic saga landed for me as a flop.
+Inevitable run-ins with Lovecraftian horror were also supposed to be one of Clockwork Empires' big attractions, but I found the encounters flat and rote. The first time a fishman wanders through the workshop—I can build ceramic pistols, but a lock is beyond me—is the same as the tenth time it happens. More terrestrial enemies like bandits also walk right in to cause the same amount of trouble, sapping any mystique the fishmen had left.
+
+Disturbing the world by felling a tree or building a house is supposed to be a tough choice in Clockwork Empires, because every action brings you closer to awakening the Old Ones. But the thing is, I don’t care. There’s not a damn thing Azathoth can do to me tomorrow that would be worse than starving to death today. The new farm is going up, and if Shub-Niggurath Herself has a problem with it, She can take a number.
+I noted many bugs, but citizen behavior is so erratic that I can’t be completely sure if Mr. Ezekiel Uxter refused to leave his house because of a deep existential depression or because he had glitched through the floor. Occasionally, bugs are as apparent as they are hilarious: while Mildred Steelcog and Titus Whistecotter shoveled earth to level a small hill, they stood opposite each other and moved dirt into one another’s pits. I had a good laugh while they leveled and un-leveled the ground beneath them, enjoying this unintentional recreation of a Three Stooges skit, and then the game crashed.
+Gaslamp seems to be involved and invested in continuing to improve Clockwork Empires, so future updates might overhaul the UI and solve a lot of the bugs and performance problems. Still, future support is no excuse for launching an Early Access game when it’s this rough, and that makes me worry about its future prospects. For now, I don’t recommend joining this expedition.
+ 
+Persistent bugs, a convoluted interface, and incompetent colonists hold back a great premise.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

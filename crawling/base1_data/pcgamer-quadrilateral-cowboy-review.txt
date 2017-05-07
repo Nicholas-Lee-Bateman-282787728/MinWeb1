@@ -1,0 +1,41 @@
+./html_data/pcgamer-quadrilateral-cowboy-review.html
+
+
+ 
+ 
+ 
+ 
+
+By
+Tom Senior
+ 
+
+A few technical issues aside, Quadrilateral Cowboy is a clever puzzle game bursting with personality.
+What is it? A puzzle game in which you use hacking equipment to commit heists.Developer: Blendo GamesPublisher: Blendo GamesReviewed on: Windows 10, 8GB RAM, GeForce GTX 970Multiplayer: None, but there are leaderboardsLink: Official site 
+Quadrilateral Cowboy is a game about heists. You scan papers from offices in lock down, steal safes from banks, download the brains of coma patients in hospitals floating in space. You achieve this with the help of a hacking deck, some springboards, a tiny dog-like robot that can go places you can't, and a gun turret in a suitcase.
+Technically, you never actually execute the heists in question. The plucky Impala team likes to beat a virtual build of each job to figure out a plan before risking their necks proper. This affords you a lot of luxuries that puzzle games rarely allow, such as the ability to no-clip through walls to look at the level from any angle. Instant restarts, tutorial messages and the abstract nature of many of the levels are thus accounted for in the fiction.
+Your deck is your greatest weapon in Quadrilateral Cowboy's strange environments. This little computer can hack into gates, doors and laser grids directly using simple command line language that the game teaches you well. Imagine a corridor with door 1 at one end and door 2 at the other—both clearly labelled as such in-game. Typing 'door1.open(3)' into your deck will open the first door for 3 seconds. You can queue up commands with semicolons. So 'door1.open(3); wait(3); door2.open(3)' opens door 1, gives you 3 seconds to walk down the hall, and then opens the door at the end for 3 seconds. Queueing up combinations of commands is a key skill that lets you accomplish heists with maximum efficiency—necessary if you want to top the leaderboards that pit your time against your friends.
+Command line hacking is at once fiddly and extremely cool, which is a fair shorthand description of the whole game. Your deck also controls your little robot pal and, eventually, your gun-in-a-box. You can awkwardly place a little monitor next to your deck to see the world from the perspective of your gadgets, though I wished that the monitor would auto-place at an angle that let you consistently see your deck screen and the camera feed at the same time. The monitor feed lets you explore and hack open doors with dog-bot and shoot switches with the gun, using turn(x) and pitch(x) commands to aim.
+
+Placing the deck, setting up the monitor and typing commands is a clunky process, but fundamental to Quadrilateral Cowboy's appeal. Your heists take place in an anachronistic world where augmented limbs and space elevators coexist with portable vinyl players—one of which is always to hand if you want to listen to some crackling '20s pop while you do crime. The inability to control your robot with WASD or aim your gunbot with a mouse is part of this, and also adds an important element of graft to each mission. The difficulty of the heist fantasy is that once you've stripped away the quips and cool music, the execution is a matter of pressing buttons to open doors in a certain order. Quadrilateral Cowboy's hacking tools turn the button-pressing into a skill that you can learn and refine.
+The system lets you set up some delightful moments. After a few missions you get the ability to attach command lines to your character's blinks, performed with the Q button. Inside a well-secured apartment I blinked twice to have my turret—carefully placed outside—shoot out two switches through a window to wipe out some lasers. I'd taken some time to spot the obstacles in the apartment, opened the window, set up my turret and painstakingly set up the precise set of aim and fire commands to hit both switches. This is Quadrilateral Cowboy at its best, delivering the established casing-setup-execution heist structure in a satisfying 10-minute burst.
+The campaign, which you can tackle out of order if you choose, doesn't quite capitalise on this strength. A lot of the missions sensibly exist to teach you how to use individual gadgets, but the final coming together of all of these elements is all too brief. There is a stretch of missions that let you jump between three characters with different abilities, which is quickly dropped. This tangent feels as though it's been ported in from a different game, and it does little to grow your toolset when the game returns to heists that you tackle as an individual. I wanted more of these. I felt as though I'd been taught the game's systems, but ultimately had very little opportunity to apply that complete body of knowledge beyond the final mission, which requires you to use all of your gadgets in concert.
+
+It's still a fun journey, thanks in large part to Blendo Games' signature sense of style. Quadrilateral Cowboy runs on id Tech 4, the Doom 3 engine. The big, boxy characters and stark textures depict a retrofuturistic world arranged by dream logic. People live in towers of trucks accessed by flying bikes. You buy gadgets from a cat who runs an illicit tech store. Short scenes between each heist give you an opportunity to visit your accomplices' apartments, which are packed full of paraphernalia. Take the time to read the spine of every book, play the text adventure on your friend's computer, and throw things around. Blendo games are cool, funky places to hang out.
+This is a hugely important and enjoyable element that, quite apart from the heisting, makes the game worth a visit. It must be said that in addition to the slightly uneven campaign, there are a few issues holding the game back. It crashed a handful of times during my playthrough and minor bugs, such as the laser pointer texture sticking onto walls, popped up every now and then. While I found the input system to be tactile and fun—particularly when trying to enter commands in midair in low-gravity environments—some will find all of the typing laborious.
+The drawbacks didn't seriously damage my time with Quadrilateral Cowboy. It's a smart puzzle game, overflowing with personality. Even though it doesn't quite reach its full potential, I dare say I'll return to out-heist my friends and colleagues when the leaderboards go live for the wider gaming community. If you like capers, neat gadgets and weird worlds, it's a steal. 
+
+
+
+
+
+A few technical issues aside, Quadrilateral Cowboy is a clever puzzle game bursting with personality.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

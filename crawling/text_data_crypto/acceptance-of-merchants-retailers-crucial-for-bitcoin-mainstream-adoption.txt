@@ -1,0 +1,18 @@
+./html_data_bitcoins/acceptance-of-merchants-retailers-crucial-for-bitcoin-mainstream-adoption.txt
+
+
+
+CryptoCoinsNews
+Bitcoin company executives and analysts including Irene Katzela, CEO of Chain of Points, firmly believe retailer and merchant adoption is the key to bitcoin mainstream adoption.
+Since 2014, the bitcoin industry and market have seen a rapid emergence of bitcoin-accepting merchants. Companies like TigerDirect and Expedia have begun to offer bitcoin as one of their main payment methods. 
+Currently, bitcoin is perceived more as a store of value and a safe haven asset rather than an actual digital currency. Some bitcoin investors like Roger Ver argue that the development community of bitcoin must work towards transforming bitcoin into a settlement system and digital cash rather than digital gold.
+While this approach isn’t necessary as bitcoin can be used as both a store of value or settlement system depending on certain users, it is important to understand that limited merchant adoption is restricting the mainstream adoption of bitcoin.
+With the integration of various scaling technologies like Segregated Witness (Segwit) that are currently on the verge of activation, bitcoin blocks are set to see at least a 2.1x increase. Considering the average blocksize of 1 mb, a 2.1x expansion of the bitcoin blockchain will appropriately scale the network.
+In contrary to what many investors claim, the expansion of bitcoin blocksize will not abruptly bring hundreds of millions users into bitcoin. The user base of bitcoin is not growing at linear rate. Instead, it is demonstrating an exponential growth rate as the digital currency is still at an early stage of adoption.
+As Katzela emphasizes, it is important to persuade the general population and consumer base to utilize bitcoin by introducing its benefits and advantages over cash or other traditional forms of payments in existence. Some bitcoin platforms like Purse.io are already targeting the general population or mainstream users by offering 20% discount on products. Some individual merchants also provide special discounts to bitcoin users, as bitcoin significantly decreases credit card fees or financial service fees handled by merchants.
+When a user tries to utilize bitcoin for the first time and sees that it is secure, fast, and cheaper than credit card payments or bank transfers due to a merchant’s effort in providing a discount or a special promotion in appreciation of lowered fees, the adoption rate amongst beginner bitcoin users will drastically increase.
+“The savings on the merchant side are clear considering the fees incurred by using existing payment methods. An increasing number of merchants pass some of the cost savings onto consumers, in the form of discounts and incentives. As these cost savings continue, consumers will soon realize that virtual currency enables lower prices for goods and services,” said Katzela.
+An increasing number of merchants are beginning to accept bitcoin as they’re seeing a significant decline in the volatility rate of bitcoin. The digital currency has been demonstrating stability over the past 12 months.
+As Katzela explains, the number of merchants accepting bitcoin is increasing but the mainstream user base of bitcoin isn’t growing at a similar rate. Bitcoin-accepting merchants that aren’t taking a step further to convince mainstream users in using bitcoin will only appeal to existing consumer base of bitcoin.
+“Aiming only to increase the number of merchants that accept virtual currency is only half of the equation for wide consumer adoption. Achieving greater consumer adoption equates making consumers feel safe using virtual currency in their everyday lives,” said Katzela.
+Featured image from Shutterstock.

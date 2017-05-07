@@ -1,0 +1,14 @@
+
+
+
+CryptoCoinsNews
+Press Release: The Internet of Coins developers are launching the construction of an inter-systemic and cross-blockchain token called a ‘hybrid asset’. This token allows for the transfer of value between ledger systems without the need to update or adapt existing cryptocurrency source code. The not-for-profit organization has announced a crowdfunding to start on the 21st of March 2017.
+In their presentation on Bitcoin Wednesday at A-Lab in Amsterdam, the team showed a live demonstration of the transactional operating system and its graphical user interface which powers this novel blockchain technology.
+The team has been developing the code for the project since their whitepaper release in 2014. Recently they announced their launch campaign under the name Coinstorm, looking to ignite a revolutionary collaboration among cryptocurrency enthusiasts to further decentralize the alternative economy scene.
+ Joachim de Koning: “Our goal is to create a coherent whole out of the decentralized economy initiatives we see today. There are more than a few decentralized exchange initiatives out there that we are bonding together to form a decentralized financial web.”
+ Robert de Groot: “With this system we aim to make everyone an exchange, to take away the risks of trusting a centralized third party and to connect alternative economies across geographical borders. Exchanging value should become as easy as swapping files; we aim for Internet of Coins to become the Bittorrent of cryptocurrencies and asset systems.”
+Hybrid assets function as a dynamic portfolio, spreading the risk from holding value on a single blockchain to storing it on multiple chains. Technical an economic risks are diversified over the value systems that these assets run on. The design has a strong meta-level approach, and offers those who seek safety from volatility and blockchain failures a new vehicle to store their value.
+The founders expect that the distribution of hybrid assets will ultimately lead to an increase of liquidity on the decentralized exchanges, and more interconnectivity of the different cryptocurrency systems that are all implementing their own take on what decentralized value is and how it should work.
+Contact: [email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */ Twitter: @internetofcoins
+Campaign site: https://coinstorm.net
+Developer blog: https://internetofcoins.org

@@ -1,0 +1,16 @@
+
+
+
+CryptoCoinsNews
+A new platform called Evolve Markets allows investors to trade commodities, indices, and cryptocurrencies by funding their trade accounts with bitcoin.
+The platform connects independent traders to global financial assets using the bitcoin payment protocol.
+Those who register on Evolve Markets can begin to trade quickly by funding their accounts with bitcoin.
+Traders that have a bitcoin-funded account can access the most liquid global markets to execute trades. The platform holds account balances in bitcoin, which users can withdraw at any time without incurring withdrawal fees.
+The platform also provides robust financial tools, institutional liquidity and a tier 4 institutional infrastructure. Features include bitcoin BIT base security accounts, immediate account approval, MetaTrader WebTrader, deposits tradable in minutes, up to 1:500 leverage and negative balance protection.
+All bitcoin deposits from traders are stored in cold storage. Bitcoin withdrawals are managed manually to prevent attacks or unexpected errors by manually executing and verifying each request. Security measures also include two-factor authentication using MetaTrader 4 Password or Google Authenticator and database encryption across multiple layers.
+Also read: This bitcoin-only platform reinvents stock, commodities and forex trading
+Evolve Markets offers an affiliate structure to encourage traders to refer the platform to their peers. The affiliate and “introducing brokers” programs give users an opportunity to earn ongoing commission on each trade executed by those referred by them. The ongoing commission is paid in bitcoin to the referrer’s MetaTrader account.
+Evolve Markets also offers affiliate link and commission tracking to maintain a transparent structure allowing traders to track commissions earned from referrals.
+The company plans to add more features to the platform.
+Evolve Markets is a privately-owned IBC in the Grenadines and Saint Vincent. The trading platform specializes exclusively in bitcoin-denominated accounts and adopts a straight-through-processing execution model. The tradable financial assets supported on the platform include commodities, forex, indices, and cryptocurrencies.
+Image from Shutterstock.

@@ -1,0 +1,36 @@
+
+
+ 
+ 
+ 
+ 
+
+By
+Andy Kelly
+ 
+
+An atmospheric collection of clever, surprising interactive short stories with a gorgeous retro aesthetic.
+What is it? A series of short, experimental interactive horror stories.Expect to pay £7/$10Developer No CodePublisher Devolver DigitalReviewed on GTX 1070, Intel i5-6600K, 16GB RAMMultiplayer NoneLink Official siteBuy it Humble storeRead our affiliates policy
+I’m sitting at a desk in a dark room lit only by the dim orange glow of a lamp and a buzzing CRT monitor. An old computer’s tape loader shrieks as pixels trickle down a flickering screen, forming the shape of an old house, then a name beneath it: The House Abandon. The tape finally finishes loading and I find myself playing an old parser-based horror text adventure.
+It tells me I’m in a car in front of a house, and I begin typing commands. I find a key in the glovebox. I unlock the door. I step into the house and walk upstairs to my bedroom. And as I explore the house, strange things start to happen in the room around me, eerily mirroring the game. It’s a wonderfully creepy idea, which Stories Untold cleverly riffs on across its four episodes.
+I say episodes rather than chapters or levels, because Stories Untold is clearly structured like a TV show. Each episode begins with an evocative intro sequence, giving it the feel of an anthology show like The Twilight Zone or The Outer Limits. The episodes are fairly standalone, but they reference each other in increasingly clever ways, with a great payoff at the end.
+The House Abandon is the first episode, establishing the game’s sinister, brooding atmosphere and stylish retro aesthetic. This kind of nostalgic art style can easily be overdone to the point of being contrived, but it’s used brilliantly here. The chunky computers, plasticky clack of the keyboard as you type, and subtle use of film grain gives everything a rich, tactile feel.
+
+The other episodes continue this idea of interacting with a computer as things happen in the environment around you, but in wildly different contexts. In one episode you’re conducting an experiment on a strange artifact. In another you’re decoding radio transmissions at a remote Arctic listening post. It’s a short game, about 3-4 hours long, but fills its relatively meagre runtime with an enormous amount of creativity and imagination.
+Puzzle-solving makes up a large portion of the game, particularly in the listening post. Here you have to periodically spin your chair around and refer to a microfilm to decode numerical messages picked up on a shortwave radio. The puzzles are cleverly designed, satisfying to solve, and complemented by a mysterious, unfolding plot that’s full of surprises. You’re always on edge, wondering what surreal thing it’ll throw at you next.
+Stories Untold is a fascinating, subversive experiment in storytelling that delights in messing with your head. It tells an intriguing, enigmatic sci-fi horror tale in a genuinely unique way, ending with a dramatic final act that left me reeling. The text parser isn’t as thorough as it perhaps could be, often failing to recognise seemingly obvious commands, but it’s an inventive twist on the genre and absolutely dripping with atmosphere.
+
+
+
+
+
+An atmospheric collection of clever, surprising interactive short stories with a gorgeous retro aesthetic.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

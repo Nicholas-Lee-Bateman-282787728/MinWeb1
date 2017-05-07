@@ -1,0 +1,338 @@
+./html_data/steep-review-pc.html
+
+RPS Feature
+Hug that mountain 
+By Brendan Caldwell on December 7th, 2016 at 7:30 pm.
+
+Steep [official site] is a lot like the extreme sportspeople it represents. It is excitable, loud and eager to have fun, fast and fresh. But in its haste and keenness it has somehow forgotten to take some of the most obvious precautions and frequently falls down flat on its face. The disappointing thing is that these failings – mostly failings of control and flow – haven’t just hobbled the game, they hobble the player too.
+
+For snowboarding games, the pattern has generally been straightforward. Single-hit courses or tournaments for points or 1st place. Steep is trying something else, slathering Ubiconography over an open-world recreation of the Alps. In this, it is following the lead of SNOW, but adding a pair of binoculars that you use to spot and unlock distant ‘drop zones’. Whether the adaptation of the open world really works for this genre is another matter (it half works).
+
+Mostly, you will be fast-travelling to new heights and barrelling downwards by one of three extreeeeeme methods – skis, snowboard, or wingsuit – which you can choose from a wheel at any time, so long as you are standing still and not in the middle of a race. There’s also paragliding, but more on that particular misjudgement later.
+Events come in a few flavours, like straight races or freestyle tricksing. Others try to be wackier. One specific event sees you following a trail of flowers to a goat statue, another type forces you to follow an NPC rider, always much slower and less able than yourself, while you listen to the “story” of a particular mountain. These are dreadfully written monologues delivered by a voice actor personifying an Alp. “I am Monte Rosa,” says one mountain, sexily. “Roam free and seek out the secrets of my land.” “I am Peak of the Damned,” says another vast geological formation, “I am weak, tired and angry at man.” You should be, mate. Look at what they’ve done to you.
+
+For the most part (thankfully) the events are just a push to get the most points, or a simple race to the finish line. There’s also the weirdly satisfying ‘bone collector’ events, which always involve a terrible and purposeful fall down the side of a ragged cliff face. It is impossible for your character to die.
+
+You start cleaning up bronze, silver and gold quickly, leveling up and unlocking more courses and mountain summits while gaining cash for cosmetic gear – bobble hats, patterned wingsuits, trailing flares. I hit a plateau at about level 14 – a plateau of experience points, not a real one, with feelings. The only events I hadn’t completed were the paragliding ones. Next to the adrenaline-fueled snowboarding, super-fast wingsuit diving, and tree-dodging cross-country skiing, this lackadaisical parachute sport feels out of place, a sluggish contrast to everything else. In these events you go wobbling out into the air and must intuit air currents and checkpoints, navigating the atmosphere itself in a slightly faster way than your opponents. Of all the sports they could have thrown in as the desperate fourth spot on the extreeeeme wheel, why this one? Bobsledding would have made more sense. Ice fishing would have made more sense.
+
+Cleaning up the icons began to become a slower process at this point, but you can always return to old bronzes in an attempt to better yourself. This wouldn’t be a problem, except by this time Steep’s most bothersome quirks will have become clear.
+I had already been subjected to the clunky controls in the beta, so I knew what to expect going back in. Still, after the fifth hour of flummoxed jumps and sudden halts, I found my teeth were grinding. There are a few problems with the controls and the stunt mechanics. The first is that the window to perform a jump is far too narrow. You see, to leap you have to hold down a trigger and release at a certain point, just before the end of a ramp. But this window is far too small and every small rise or natural bump has a different idea of where this “sweet spot” is.
+
+The second problem is that both control sticks move your board/skis, but in different ways, both in the air and on the snow. This leads to all sorts of thumb gymnastics. For instance, to speed up you have to hold forward on the left stick (and you need this speed to do the jumps and stunts you want). But you also have to flick this stick (or the other stick (or both!)) in a certain direction after immediately releasing the R trigger (or L trigger (or both!)) all timed to this slim and changeable window, just before the ramp actually ends, no later and no sooner. But it doesn’t end there. Now that you’re in the air, you should hold down the triggers again, that way you’ll grab your board or skis. Oh, and don’t forget to let go of the sticks before you land. It’s an over-complicated system that tries hard to replicate the balance of skill, practice and intuition present in games like Skate or Olli Olli but ultimately fails to get that balance correct.
+
+It is something you can improve with time and practice, but even after hours of gaining the ability to pull off ridiculous 1080 aerial corkscrews, I will still frequently fail to hit a ramp or bump correctly, whether because of a lack of speed, or because I moved my thumb from the acceleration too early, or because I missed the window, or because I moved a stick a millisecond too early, or because the ramp wasn’t as big as I thought, or as small as I thought, or or or… What I’m saying is that practice can help you out here, but it will only get you so far. Sometimes a control scheme is just plain janky.
+This is Steep’s biggest offence. But sometimes it likes to be a jerk in other, smaller ways: suddenly making some checkpoints half their normal size at a moment’s notice, for instance. Or not showing you where new checkpoints will appear with enough time. Sometimes your player model goes in front of a critical point of your downhill view, meaning you can’t see what you are speeding towards. In fact, the camera in general could be called “uncooperative” but that would imply it could be controlled even slightly. As it stands, while riding it does whatever it likes, trying to correct itself when no correction is needed, sometimes twisting itself into unholy almost-upside-down viewpoints where the only bodily response is to turn your own head in response and try to make sense of it all.
+
+All this adds to Steep’s general problem, which is one of flow. Yes, when you fluff a course or a line, you can just hold ‘Y’ to restart the thing. And at first, this is a great addition, especially when you are learning how not to tumble into piles of jagged rocks. But later, it becomes just another frustration. You can barrel down a slope for ages and miss a single checkpoint, or get stuck behind the infuriatingly common fences, glitching out on the wood as you attempt to free yourself. Sometimes you just get stuck on a perfectly level glade of snow and your character forgets how to propel themselves forward, sliding around in every direction apart from the one direction you actually want to move in. Outside of a race, you can switch to walking and find a good spot to get moving again but during a race or event, you can’t do this. Any of these irritating interruptions and it’s back to the top for you. On the harder routes you hit ‘Y’ again and again until it becomes too much and you exit out looking for a new route to calm your nerves.
+
+In part, this is the trade-off for having an open world. A more traditional game might have slapped you back onto the course at a recent position (an imperfect design in itself) but in a giant realm like this I’m not sure if it’s technically possible to resort to that. Which brings into question the whole act of genre fusion here. Winter sports may simply be the type of game that doesn’t necessarily benefit from being transferred to an open world. What works in Burnout Paradise, where all roads can be traversed in any discernible direction thanks to, you know, motors, doesn’t work so well in an environment where you can only travel according to gravity. Fast travel and quick resets get you to the top of the course, but they don’t sweeten the bitterness of a checkpoint missed by an inch – sometimes only because the game decided to suddenly make it half the size of all the others.
+
+It’s also buggy. I have found myself trapped inside cliffs, or frozen on the spot, as if the character model suddenly remembered how cold it was. My character often appeared standing on top of starting posts instead of beneath them, requiring a fiddly and annoying attempt to hop back down at each restart. None of these bugs are game-crushing but they do add to the overall sense of petulance and non-cooperation.
+
+Half of Steep’s problems can be overcome with practice, the other half are frozen in place. Learn the land and the messy controls and you will have an OK time, and for a serious subset of fans and enthusiasts I imagine there is a lot to love about perfecting each and every line by sheer force of will or error. For me, the feeling of finally nailing that 10-part wingsuit ride is not so much rewarding as it is a grumpy relief.
+
+There’s solace to be had in the environment, which is stunning (I’ve mentioned before that whoever is in charge of the snow effects deserves their own small award) and there’s some passing amusement to be gained from bringing up the automatic replay system and watching your character hit their head on some pylon cables in slow motion. But none of that can undo the testy controls and a dozen accompanying niggles. For all its enthusiasm, openness, and Red Bull product placement, Steep can’t overcome a mountain of small problems.
+Steep is out now for Windows, via Steam.
+
+07/12/2016 at 19:56
+
+HothMonster says:
+
+I was hoping I would like this but after playing the beta I came to largely the same conclusions you did. Shame the open beta was just for marketing instead of actually having early enough to address player complaints.
+
+07/12/2016 at 19:57
+
+satan says:
+
+Kinda thought snowboarding games would be around forever, they were so incredibly fun and replayable on Saturn/PSX/N64. Oh hey there’s a wiki page for the genre:
+link to en.wikipedia.org
+
+07/12/2016 at 23:23
+
+boundless08 says:
+
+They really will make a wiki page for anything won’t they. Cool Boarders 3 though, that was my main jam back in primary school
+
+09/12/2016 at 08:44
+
+batraz says:
+
+Loved 1080 and old Tony Hawk stuff… I don’t know what happened to this genre, or to me, but it seems it became too serious and technical. I hoped this one could be it… maybe next time.
+
+07/12/2016 at 20:23
+
+Eight Rooks says:
+
+Good review on the whole – I’m fairly sure it’s not for me. It reads like an awkward halfway house between a game trying to be more “realistic” and the zaniness of Amped 3 or SSX, and bits of it seem jaw-droppingly embarrassing – I didn’t think it was possible to develop something more pointless and out-of-touch than the “story” sections in the SSX reboot, but the mountain voice acting sounds like Ubi have cracked it.
+That being said, some of your criticisms are a bit… I haven’t played it so I can’t disagree outright or anything, but your longer description of the controls makes it sound not a million miles from the same control system SSX has had for ages. Press one thing to go fast, let go of it when you want to jump off the ramp, move in a particular direction to spin, use the shoulder buttons for grabs… maybe it’s the particular layout Steep wants you to use or something but SSX’s really wasn’t that hard to pick up. Some of the other faults you bring up seem kinda familiar, too – yes, it was annoying warping back to the top in SSX 3 when I’d missed something, for example, but it never struck me as that big a deal, and while you were always heading downhill, the courses still felt fairly open (even by today’s standards, other than the PS2-era visuals I still count SSX 3 in particular as a phenomenal game). I even got used to “walking” back uphill a little way to reach a turnoff I’d missed. Again, it’s still a really good review IMO, and I appreciate a warning articulated this clearly! Just wondering what snowboarding games you’ve actually played extensively, if any (Burnout Paradise always bored me to tears).
+
+08/12/2016 at 04:28
+
+Nogo says:
+
+The controls are actually pretty great. The game can be a bit obscure with information and even outright coy at times, but Brendan is straight up missing basic components of it. There’s a lot of aracdey style real world modelling in here that seems to throw a lot of people.
+First off you don’t really want to be pushing forward that much, it limits your control, and save for a few mellow races doesn’t really help that much. On top of that, I can’t find any difference between forward and tucking for a jump (except the jump), so just hold one of the triggers unless it’s a long straight or something. 
+Secondly there isn’t actually a sweet spot for a jump (despite the game’s best effort to convince you). Where you release determines the shape of your jump. Near the lip (later than the game implies) gives more ‘pop,’ whereas earlier gives more distance, additionally you can stay tucked to ‘squash’ it, just plain jump over it, or do nothing and take a natural arc from your momentum. 
+It’s kind of interesting Brendan compared it to Skate but then summarily dismissed it. I ski and skate in real life, my only remaining console is an old busted 360 covered in stickers that exists solely to fire up Skate. Me and my friends mastered every challenge years ago, but still go back weekly because we like setting a spot, dropping in and getting rad. It’s a fun way to live out a real life passion in a fantastic way, mostly because it understood and captured the feeling of going out with your buddies and hitting a rail or park for a few hours.
+Steep feels the same way for skiing, to me. I’m only level 8, but I’ve done almost no challenges (besides for the skis I want) because like I do on a fresh powder day, I scope a neat line, using mountain view, which zooms nicely but also acts drunk because it’s always trying to aligning, and shredding it until I’m satisfied. 
+I learned all the controls and tricks the same way, just having fun trying them, playing around, trying to go where I want and hit whatever neat feature catches my eye.
+With voices off, a custom soundtrack, and maybe a pair of goggles, it’ll get me through those dark summer days in the same way Skate does when my ankle is feeling a bit rough. 
+That said it really is a pretty bad ‘game’ in the traditional sense. Like Ubi touched the soul of a mountain sim.
+P.S. The paraglider is mostly meant for getting around, excels at getting you to neat spots that aren’t already drop zones. Was a total mistake to include missions for it, though.
+
+09/12/2016 at 07:47
+
+Plake says:
+
+Exactly what i’m thinking (except on 1 instead of 2 wooden planks ;-P). The reviewer also clearly doesn’t play snowboarding/skating games that often! The new SSX, with all its faults, did show how to bring snowboardgames into open worlds…
+
+09/12/2016 at 07:59
+
+TheDyingScotsman says:
+
+Sorry. One bone of contention despite your TLDR: the controls are absolutely horrendous.
+
+07/12/2016 at 20:34
+
+TheMightyEthan says:
+
+That’s too bad, I loved Amped 1 & 2 (3 got too silly for me) and was hoping for something to get me back into the genre. Oh well.
+
+07/12/2016 at 21:08
+
+elektritter says:
+
+Hm, I can’t really agree with your conclusion on Steep. Though your criticisms of mechanics, controls, flow are valid, I had a great experience with Steep, but not because of the stunts or the events or the general Forza-Horizon-esque festival setup, but because of the tranquility and peace I get from just sliding down the mountains, be it on a snowboard, on skis, or even with the paraglider, that I actually do like a lot.
+For me it’s just a massive amount of fun to climb those beautiful mountains, get to some hidden places, and then watch the pretty snow react to my board while I’m racing to the bottom. I barely participated in any events, didn’t really play it like an extreme sports game, I usually stayed away from jumps and stunts and found a lot of joy in playing it my own way.
+It is very expensive though.
+PS: A great article that conveys the kind of feelings I get from playing Steep is actually the “The Verge” review.
+
+07/12/2016 at 23:49
+
+particlese says:
+
+I’ve been kinda of morbidly interested in this game, being attracted by the open layout and general beauty of it, while being repulsed by the X! STREME! emphasis and all that apparently comes with it in games these days — loud branding, loud patronizing announcers, loud points or gameification or whatever. This and the beta’s review here pretty much sealed my decision of “nope” for this game.
+And yet… Between your comment and the Verge article you mentioned, I’m now more interested than I have been since the giddy burst when the first screenshots were shown! The second video there actually looks like genuine skiing of the kind I love (aside from the whole snowboard thing) — meandering down a mountainside, picking your way through trees and actively avoiding becoming airborne, listening to the whooshing and crushing of the snow, and maybe hearing the occasional sound of a small bird… All it needs is some phenomenally satisfying but otherwise unremarkable food at the bottom!
+I don’t suppose there’s some way to turn off the announcer and maybe the other gamey stuff without losing the environmental sound effects, is there? Or maybe I’ll just hit the y button before reaching the goals, provided the magic binoculars are all that’s needed to “unlock” new drop points. Hmmm!
+
+07/12/2016 at 23:58
+
+particlese says:
+
+No offense to Brendan with that link, mind. Seems like he’s criticizing the game well from the perspective of someone who wants to play the game more or less as it was marketed, but that’s not the reason I was keeping an eye on it.
+
+07/12/2016 at 21:50
+
+bobdylan401 says:
+
+I just had to create an account because of how appalled I was with this review. It just completely misses what the game is trying to accomplish and does accomplish. It would be like saying that apples arent good because they don’t taste like oranges. wtf?!
+ It is a realistic and beautiful snowboard sim that relishes its open world, which is massive and georgeous, and they are releasing an equally large map for FREE soon. 
+ The challenges do get hard, but its not a game where you are supposed to grind the challenges and just hit y over and over again if you are getting frustrated. 
+It is a game where you learn the mechanics and nuances of the controls by finding your own lines and setting your own challenges, so that you get so good at the game that you can handle those challenges.
+It is a freaking amazing game and you can create your own challenges for others or yourself to come back to with a mere press of a button. 
+It’s about finding a giant rock at the bottom of a bowl that you had to explore to find, and think, how am I going to air over that rock. And conquering that rock.
+This review is just really off the controls feel fine and the first person mode is the most fantastic and revolutionary addition to the entire extreme sport game roster.
+If you liked SSX3 and Skate 3, you will adore this game.
+
+07/12/2016 at 22:34
+
+klops says:
+
+Realistic.
+
+07/12/2016 at 23:30
+
+jamesgecko says:
+
+It is possible that you are not associated with Ubisoft in any way. But is it likely?
+
+08/12/2016 at 11:19
+
+ironman Tetsuo says:
+
+It’s really hard to tell isn’t it?
+On the one hand; a veritable smorgasbord of marketing bullet points, but on the other there’s that weird apples/oranges line that makes zero sense, a casual WTF! and the word “Challenges” repeated 5 times over only 3 sentences, I mean I’d expect more from a paid professional… Or is that just what they want us to think!?!?! :-O
+
+08/12/2016 at 12:16
+
+phuzz says:
+
+I should imagine Ubisoft have their lawyers go round monthly and remind all their staff to never post anything about their games and to leave it to the marketing department on pain of being fired.
+I’m guessing Bob is a fan, and just hasn’t quite learnt the rule of gaming (and indeed, life): Different people like different things.
+
+09/12/2016 at 07:52
+
+Plake says:
+
+That’s exactly the feeling i had after the beta. Funny how the fanboys below you are blindly hating…
+
+09/12/2016 at 08:18
+
+TheDyingScotsman says:
+
+The controls are in no way “nuanced” they are simply clunky, horrendous and badly thought out controls which make the entire game feel like a chore rather than what it is attempting to achieve. Like a lot of games in this era; the idea and principle is great, but poorly executed
+
+07/12/2016 at 22:31
+
+Neurotic says:
+
+I had really wanted to try this, but not at 25 Gb. Especially not after this review!
+
+09/12/2016 at 08:20
+
+TheDyingScotsman says:
+
+ummm, most games are that big in this day and age so I’m not sure what your point is? But you’re right: it’s definitely not worth the bandwidth IMO especially if you’re on limited data (if you are, I feel bad for you, truly :( )
+
+09/12/2016 at 14:15
+
+Marclev says:
+
+The amount of storage a game takes up influences your decision to purchase it?!
+
+08/12/2016 at 00:59
+
+Ejia says:
+
+Still think it’s a pity this isn’t a game about making a proper cup of tea, but I’m sure there are lots of those around. Probably.
+
+08/12/2016 at 06:09
+
+DoctorDaddy says:
+
+Well, you are my favorite, now.
+
+08/12/2016 at 01:43
+
+yogibbear says:
+
+Personally I’ve really enjoyed the engine in this game and just the free roam mechanics of snowboarding/skiing down some random mountain into some new area, and I haven’t had any problems with the control scheme. I just don’t know how a game as chilled out as this is is going to do well enough to guarantee on-going support or a sequel of any kind without adding much needed chunky meaty-ness that is most definitely needed. Also the map interface is incredibly terrible. Not sure I’d be so harsh on the controls/jumping/tricks as I’ve had no issues, but yeah I’d totally say stay away if you want meat/depth. Almost suffers from missed expectations, this is not SSX tricky. This is free roam mountain game with above average graphics and excellent animations.
+
+08/12/2016 at 06:55
+
+Oozo says:
+
+For a team ostensibly coming from the French alps, their knowledge about the local fauna seems to be a bit spotty — that does not look like a chamois at all, costume design-people.
+
+08/12/2016 at 08:07
+
+N'Al says:
+
+What gave it away, the giant ski goggles?
+
+08/12/2016 at 11:38
+
+Oozo says:
+
+I’m willing to believe that wearing goggles is one of Rupicapra rupicapra’s observable behaviour patterns, as is the bipedal walk. It’s the very inaccurate coat color and the frankly ridiculous horns that I take offense to.
+
+08/12/2016 at 12:18
+
+phuzz says:
+
+I though chamois were yellowish and that their natural habitat was the door pocket of my car?
+
+09/12/2016 at 08:24
+
+TheDyingScotsman says:
+
+The team are not from the French alpes (maybe on or two are? I dunno). I haven’t spent enough time in game to comment on comparisons, but if I did I could. Since I actually spent an extensive amount of time in the alpes (lived there for a year, and travelled extensively over the years).I lived In the Queyras to be precise. A very quiet yet popular area among those in the know for the skiing (among other things) etc. Beautiful area if you ever feel like visiting :)
+
+08/12/2016 at 08:04
+
+Hyena Grin says:
+
+I played the beta with my SO, and we both enjoyed it quite a bit actually. Not enough for me to buy it, but I think that is mostly just a matter of the game not really selling the experience I tend to go looking for in games. So it’s not really Steep’s fault.
+It was interesting that this review went into control frustrations with analogue stick controls for a PC version. I mean, I get that this sort of game is probably expected to be better with a controller regardless of platform. Just seems weird. Not a word about the keyboard & mouse controls. Some of us don’t use controllers, just saying. It would’ve been nice to see some info on the default peripherals. 
+I played with mouse & keyboard, and I will say that timing jumps was a tad awkward, and that the lack of camera control was annoying (mouse needlessly rendered non-functional while moving). But I can’t really relate to the problems with doing stunts or controlling speed. Those things are fine on the keyboard.
+Nyah.
+Me and the SO will probably get it when it’s on sale or something. It seemed like a fun thing to have around to goof around in. I’m just not really a completionist, nor an extreme sports enthusiast, so the game had a long way to go to sell me. That said, I had a lot of fun going downhill, and when you get a good flow it feels great, it’s a thrill and yet serene at the same time, so I feel like they hit some good notes. I just don’t see me wanting to do that, like, a lot.
+Honestly the best thing about the game, to me, was exploring. Weaving between the trees on a not-so-steep piece of terrain is great. Pausing at a scenic spot to admire the view, that’s great. They really should have allowed you to move with the skis uphill. That would have gone a long way to making the quiet exploration aspect more entertaining for me. I just wanted to move around freely, even if that meant spending a few minutes climbing with my skis to find a different path. Having to take the skis off felt like an unnecessary step.
+Just my 2 cents.
+
+09/12/2016 at 08:25
+
+TheDyingScotsman says:
+
+It’s always a sign of something a little strange going on behind closed doors when someone uses the acronym “SO”. Especially apparent when used twice in as many paragraphs
+You better watch out she doesn’t catch you on here referring to her like that! You’ll be in trouble! lol
+
+10/12/2016 at 02:56
+
+Hyena Grin says:
+
+If by strange you mean ‘gay marriage’ then I suppose so.
+Honestly, gender, sexuality, and relationships are complicated, and rather than divulge more than necessary, sometimes it just makes sense to say ‘SO.’
+I could’ve said husband, but without clarifying that I am also male, that very likely would make many people assume that I am female, which I’m not. But if I do take the time to say that we are both male, people will assume that I am gay, and I’m not that either. I’m bisexual.
+And if I stopped to explain the nuance of my relationship (as I am now) someone would inevitably think I was making a big deal out of it, rubbing it in their face or whatever. 
+As you can see, sometimes ‘SO’ is just the simplest way to avoid long awkward conversations, when you don’t have a traditional heteronormative relationship.
+But sadly, when you are purposefully non-explicit about the nature of your relationship, people start making other assumptions, as you just did.
+At the end of the day, I’m okay with that.
+
+12/12/2016 at 01:24
+
+aerozol says:
+
+Thanks for sharing Hyena Grin! Thought-provoking.
+
+08/12/2016 at 08:13
+
+Unsheep says:
+
+I keep thinking about that pro skier who died while taking photos for the game. 
+I’m definitely interested in this game though, would be my kind of thing, but I can’t afford it right now, with all the current and upcoming holiday game sales. 
+They should have sorted out the technical issues by the time I get around to buying it. I’ll be getting it for my PS4 though, since my PC won’t able to run it well enough.
+
+08/12/2016 at 10:55
+
+cautiousclark says:
+
+The more I read reviews of this the more I think its biggest failure is just not conveying the different ways in which the game can be enjoyed. It nudges you towards stuff with its different playstyle exp meters, but you seem to be left entirely on your own when it come to understanding what they even mean by ‘playstyle’.
+I played the closed open beta (weird) and the open open beta probably about as much as anyone reviewing the actual game has, and I didn’t even realize you could ride updrafts all the way from base to summit until I played the full game. I also had no idea how freeride really worked until I googled it, and now I play that style more often than any other. At this point I’ve done only a small handful of challenges, instead just exploring and riding, and I’m already at like level 17, been to every peak before unlocking it and have had an immensely relaxing time doing so. The only thing I don’t have is money to buy gear.
+I hope they get a chance to iterate on it.
+
+08/12/2016 at 11:01
+
+Blackrook says:
+
+Haven’t played the full version yet although I’ve bought 2 copies for xmas so I can play with Daughter as we both enjoyed the Beta. 
+I agree the controls were a bit odd to get used to, but I found using keyboard as good as the controller.
+But over all I also liked the vibe of just coasting down a mountain, enjoy the scenery and see where you end up. Its the same feeling as a long casual drive in the Crew.
+
+12/12/2016 at 21:54
+
+teethslapper says:
+
+I do believe that this review is unfair in the sense that the majority of it focuses on the negative. Yeah the controls may be a little wonky at times but it’s really not any different than all of the other snowboarding games I’ve ever played. We’re talking a lot of crazy altitude drops, rocky terrain, thin lines, etc. We aren’t meant to be going full on all of the time. Flow side to side to keep your speed down, pull down on the stick to slow down until you find the next best line.
+It seems to me that the lack of pushing the player to do certain things is kind of the point. They show you a little bit of each to let you get your feet wet and then you decide what is best for you, or what you enjoy best. Yes there are events and things to do but if you are only focused on that, I can see where you would get bored.
+Hell, for the first few hours of the game I was actually sick but still wanted to play something to pass the time so I paraglided around the map just discovering everything. It was super relaxing but still oddly fun. While doing that I noted some interesting areas to do runs and went back and did my own thing. If I liked the run, I saved it and ‘dared’ my friends. One of my biggest complaints is that you can’t share more than one ‘dare’ at a time, I don’t understand that design choice.
+Just like Nogo said, part of the fun isn’t even doing challenges or events. It’s finding a really fun part of a mountain and laying out a line and just doing it. I’m never going to snowboard in the Alps so this is the next best thing.
+There was also no mention of how well the multiplayer or even the open world with strangers works. I think it’s great that I can be out on the mountain and see others doing their thing. Many times I was paragliding and could see people down on the mountain hauling ass or out doing tricks. You can even watch people while in mountain view if you zoom in and follow them. That was one of the biggest complaints people had with No Man’s Sky because it was promised and they didn’t deliver, yet when a game adds it and it works flawlessly…nothing. 
+The wingsuit stuff and paragliding aren’t going to be for everyone but they are fun and add a little variety to the game. I was stuck on one wingsuit challenge(see: the tunnel) for at least an hour last night before I finally got it but it was fun and the sense of accomplishment was pretty great.
+Overall, it’s a beautiful game. If you liked past snowboarding/skiing games then you are probably going to really enjoy it.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+Steep, Ubisoft, Ubisoft Annecy.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

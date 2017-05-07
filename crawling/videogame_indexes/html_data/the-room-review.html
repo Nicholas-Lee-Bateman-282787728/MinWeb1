@@ -1,0 +1,1912 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta property="fb:pages" content="176784995741043"/>
+<meta name="Googlebot-News" content="noindex, nofollow"><title>Wot I Think: The Room | Rock, Paper, Shotgun</title>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/style.css?cb=acf3c73" type="text/css" media="screen"/>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/icon-fonts/css/fontello.css?cb=c8c7fe11" type="text/css" media="screen"/>
+<link rel="pingback" href="https://www.rockpapershotgun.com/xmlrpc.php"/>
+<link rel="shortcut icon" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/favicon-new.ico"/>
+<link rel="next" href=""/>
+ 
+ 
+ 
+<meta name="description" itemprop="description" content="The Room, BAFTA winning mobile puzzling mega-hit, has at last reached the PC in HD glory. I've slid my bottom into the slot on my chair, pressed the button that"/>
+<meta name="keywords" itemprop="keywords" content="feature,fireproof games,review,the room,wot i think"/>
+<link rel="canonical" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Feed" href="https://www.rockpapershotgun.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Comments Feed" href="https://www.rockpapershotgun.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Wot I Think: The Room Comments Feed" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/feed/"/>
+<meta property="og:title" content="Wot I Think: The Room"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.rockpapershotgun.com/2014/07/31/the-room-review/"/>
+<meta property="og:site_name" content="Rock Paper Shotgun"/>
+<meta property="og:image" content="https://www.rockpapershotgun.com/images/14/jul/room4.jpg"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.rockpapershotgun.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='eu-cookie-directive-css' href='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/style.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='bbspoiler-css' href='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='https://www.rockpapershotgun.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='rps_features-css' href='https://www.rockpapershotgun.com/wp-content/plugins/rps-features/rps-features.css?ver=1.10' type='text/css' media='all'/>
+<link rel='stylesheet' id='lightboxStyle-css' href='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/css/textframe/colorbox.css?ver=2.7' type='text/css' media='screen'/>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/wp-gfycat/js/gfycat_test_.js?ver=4.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var title = {"unfolded":"Expand","folded":"Collapse"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.5.3'></script>
+<link rel='https://api.w.org/' href='https://www.rockpapershotgun.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.rockpapershotgun.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.rockpapershotgun.com/wp-includes/wlwmanifest.xml"/>
+<link rel='prev' title='Computational! Prison Architect Adds Logic Circuits' href='https://www.rockpapershotgun.com/2014/07/31/prison-architect-logic-circuits/'/>
+<link rel='next' title='Aegis Defenders Hoping To Be Money Makers On Kickstarter' href='https://www.rockpapershotgun.com/2014/07/31/aegis-defenders-tower-defense-platformer-kickstarter/'/>
+<meta name="generator" content="WordPress 4.5.3"/>
+<link rel='shortlink' href='https://wp.me/pkbbD-Wij'/>
+<link rel="alternate" type="application/json+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2014%2F07%2F31%2Fthe-room-review%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2014%2F07%2F31%2Fthe-room-review%2F&#038;format=xml"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity - Full Post Feed" href="https://www.rockpapershotgun.com/feed/?dualfeed=2"/>
+ 
+<meta property="fb:pages" content="176784995741043"/>
+<link type="text/css" rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/plugins/simple-pull-quote/css/simple-pull-quote.css"/>
+<style>.theiaPostSlider_nav.fontTheme ._title,.theiaPostSlider_nav.fontTheme ._text{line-height:16px;}.theiaPostSlider_nav.fontTheme ._button{color:#c1272c;}.theiaPostSlider_nav.fontTheme ._button ._2 span{font-size:16px;line-height:16px;}.theiaPostSlider_nav.fontTheme ._button:hover,.theiaPostSlider_nav.fontTheme ._button:focus{color:#db5357;}.theiaPostSlider_nav.fontTheme ._disabled{color:#727272!important;}</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel="amphtml" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/amp/"/> <script>
+                        function mormontLoaded () {
+                                mormont('set', 'section', 'article');
+                                mormont('set', 'language', 'en');
+                                mormont('set', 'platforms', ["pc"]);
+                                mormont('set', 'published', "2014-07-31T19:00:37+00:00");
+                                mormont('set', 'article_type', "news");
+                                                                mormont('set', 'tags', ['tag:feature','tag:fireproof-games','tag:review','tag:the-room','tag:wot-i-think']); 
+                                mormont('send', 'pageview');
+                            };
+                </script>
+<script src="//cdn.gamer-network.net/2015/scripts/mormont/v2/mormont.js" async onload="mormontLoaded()"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/plugins.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/application.js" type="text/javascript" charset="utf-8"></script>
+<script src="//cdn.gamer-network.net/plugins/dfp/async.dfp.1.1.16.js"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/ad-related.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/InlineAds.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('.entry img').each(function(){jQuery(this).attr('title',(jQuery(this).attr('alt')))});
+});
+</script>
+ 
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-2667859-1', 'auto');
+
+    ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
+
+    ga('send', 'pageview');
+
+            ga('set', 'dimension4', '0');
+    </script>
+ 
+<meta name="readability-verification" content="EDFS6HqfEsVJByL2MzxYRrype6cdTyPbjFaJAWj5"/>
+ 
+<script type='text/javascript'>
+    var OA_source = 'article';
+</script>
+ 
+<meta name="twitter:card" value="summary"/>
+<meta name="twitter:url" value="https://www.rockpapershotgun.com/2014/07/31/the-room-review/"/>
+<meta name="twitter:title" value="Wot I Think: The Room"/>
+<meta name="twitter:description" value="The Room, BAFTA winning mobile puzzling mega-hit, has at last reached the PC in HD glory. I&#8217;ve slid my bottom into the slot on my chair, pressed the button that popped up on my mouse, and rotated my head until it faces the screen, which caused a mechanical whirring sound and the revealing of wot [&hellip;]"/>
+<meta name="twitter:image" value="https://www.rockpapershotgun.com/images/14/jul/room4.jpg"/>
+<meta name="twitter:site" value="@rockpapershot"/>
+<meta name="twitter:creator" value="@rockpapershot"/>
+ 
+ 
+</head>
+<body class="single single-post postid-224087 single-format-standard category-featured-articles category-pc-game-reviews">
+<div id="header">
+<div id="header-content">
+<div class="logo">
+<a href="https://www.rockpapershotgun.com">Rock, Paper, Shotgun</a>
+</div>
+<div class="header-items">
+<a class="hidden-desktop mobile-link search-link" href="#header-search">Search</a>
+<div id="header-search" class="mobile-menu visible-desktop">
+<form method="get" action="/" id="search">
+<fieldset>
+<input type="text" name="s" id="search-site" placeholder="Search the site"/>
+<input type="submit" class="submit" value="Go"/>
+</fieldset>
+</form>
+</div>
+<div id="menu-header-links-container" class="hidden-mobile"><ul id="menu-header-links" class="menu"><li id="menu-item-260401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-260401"><a href="https://www.rockpapershotgun.com/2015/10/16/best-free-games-on-pc/">50 Best Free Games On PC</a></li>
+<li id="menu-item-419715" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-419715"><a href="https://www.rockpapershotgun.com/2016/12/01/best-games-of-the-year-2016/">Best PC Games of 2016</a></li>
+</ul></div>
+<a class="hidden-desktop mobile-link menu-link" href="#menus-wrapper">Menu</a>
+<div id="menus-wrapper" class="mobile-menu visible-desktop">
+<div id="menu-main-container"><ul id="menu-main-nav" class="menu"><li id="menu-item-168856" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168856"><a href="/category/featured-articles/">RPS Features</a></li>
+<li id="menu-item-168857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168857"><a href="/pc-game-reviews/">Reviews</a></li>
+<li id="menu-item-168858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168858"><a href="/category/pc-game-news/">News</a></li>
+<li id="menu-item-168859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168859"><a href="/category/free-pc-games">Free Games</a></li>
+<li id="menu-item-287901" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287901"><a href="https://www.rockpapershotgun.com/category/esports/">Esports</a></li>
+<li id="menu-item-168860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168860"><a href="/category/hardware/">Hardware</a></li>
+<li id="menu-item-281803" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-281803"><a href="https://www.rockpapershotgun.com/category/guides/">Guides</a></li>
+<li id="menu-item-168861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168861"><a href="/supportrps">Support RPS</a></li>
+<li id="menu-item-168862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168862"><a href="/forums/forum.php">Forum</a></li>
+</ul></div>
+<div id="menu-utility-container">
+<ul id="menu-utility" class="menu"><li id="menu-item-142626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142626"><a href="https://www.rockpapershotgun.com/about-pc-gaming-rps/">About Us</a></li>
+<li id="menu-item-168863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168863"><a href="https://www.rockpapershotgun.com/advertise-pc-games/">Advertise</a></li>
+<li id="menu-item-142627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142627"><a href="https://www.rockpapershotgun.com/hey-prs-and-developers/">Hey, developers!</a></li>
+<li id="menu-item-142628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142628"><a href="https://www.rockpapershotgun.com/privacy-stuff/">Privacy</a></li>
+<li id="menu-item-168865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168865"><a href="http://feeds.feedburner.com/RockPaperShotgun">RSS</a></li>
+<li id="menu-item-168864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168864"><a href="http://steamcommunity.com/groups/rps">Steam</a></li>
+<li id="menu-item-249683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249683"><a href="https://twitter.com/rockpapershot">Twitter</a></li>
+<li id="menu-item-266251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-266251"><a href="https://www.facebook.com/rockpapershot">Facebook</a></li>
+</ul> <ul>
+<li><a href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.rockpapershotgun.com%2F2014%2F07%2F31%2Fthe-room-review%2F">Login</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page-wrapper">
+<div class="leaderboards hidden-mobile">
+ 
+<div class="ad-desktop ad-hd ad-leaderboard-top-desktop" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90,970x250,1260x110,1260x250" id="div-ga-RPS_LB_1" data-ghost-zone="25" data-yafa-name="bwxynpjn" data-yafa-img="https://images.eurogamer.net/2017/vv4y5y544y5vbbyv45/n598nyv43tn98.jpg" data-yafa-click="http://bit.ly/2o8OYcq" data-yafa-target="#page-wrapper" data-yafa-style="padding-top:200px; background-color: white; background-repeat: no-repeat; background-position: 50% 0;" data-yafa-linktarget="#page-wrapper, #inner-wrapper, .page" data-yafa-linkheight="1200"></div>
+ 
+ 
+<div class="ad-tablet ad-leaderboard-top-tablet" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90" id="div-ga-RPS_LB_1_TABLET" data-ghost-zone="25"></div>
+ 
+</div>
+<div id="page">
+<div id="content">
+<div class="content">
+<article id="post-224087" class="block featured-block">
+<p class="featured-block-title">
+<a class="featured-block__text  featured-block__text--feature" href="https://www.rockpapershotgun.com/category/featured-articles">RPS Feature</a>
+[squiggly symbol] </p>
+<div class="post-inner">
+<nav>
+<ul class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com" rel="v:url" property="v:title">
+Home </a>
+</li>
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com/pc-game-reviews" rel="v:url" property="v:title">
+Reviews </a>
+</li>
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com/tag/the-room" rel="v:url" property="v:title">
+The Room </a>
+</li>
+</ul>
+</nav>
+<header>
+<h1>Wot I Think: The Room</h1>
+<aside class="byline">
+<p>By <a href="mailto:j&#111;&#104;&#110;&#64;roc&#107;pape&#114;sh&#111;t&#103;&#117;n.&#99;om">John Walker</a> on July 31st, 2014 at 7:00 pm.</p>
+</aside>
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2014/07/31/the-room-review//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Wot I Think: The Room https://www.rockpapershotgun.com/2014/07/31/the-room-review/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2014/07/31/the-room-review//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</header>
+<div class="entry">
+<p><img src="https://www.rockpapershotgun.com/images/14/jul/room4.jpg" alt=""/></p>
+<p><em><a href="http://www.fireproofgames.com/the-room">The Room</a>, BAFTA winning mobile puzzling mega-hit, has <a href="http://store.steampowered.com/app/288160/">at last reached the PC</a> in HD glory. I&#8217;ve slid my bottom into the slot on my chair, pressed the button that popped up on my mouse, and rotated my head until it faces the screen, which caused a mechanical whirring sound and the revealing of wot I think:</em></p>
+<p><span id="more-224087"></span></p>
+<p>Obviously, since the Great Decree was established, it’s now been accepted by all who wish to live that Myst was a bloody awful game. As was Riven. And Myst III: Exile. And Uru. And probably IV and V &#8211; no one’s ever given me money to force myself to play them. Hateful rubbish, meandering nonsense strung together by obscure puzzles, existing only because of the curse of the CD-ROM on PC gaming. That’s just a fact.</p>
+<p>The Room is the game Myst should have been. The Room is, I state with absolute conviction and abundant evidence, the game people who thought they enjoyed Myst pretended they were playing, but it turns out was entirely in their imaginations rather than in the miserable Power Point presentation in front of which they were actually sat.</p>
+<p>The Room is a beautiful presentation of rendered graphics, sewn together with intricate, engaging puzzles. Myst was a slideshow of Vaseline-smeared tedium over which Z-list non-actors burbled inane claptrap about magic books.</p>
+<p><img src="https://www.rockpapershotgun.com/images/14/jul/room2.jpg" alt=""/></p>
+<p>That’s not to say there’s no inane claptrap in The Room. It’s just kept to a minimum, tucked away in entirely ignorable notes. The core game is exploring one enormous, impossibly elaborate puzzle box, hunting for switches, slides, keys and codes, to pick your way through puzzle after puzzle, each opening another section, unlocking new challenges, and constantly making you feel like a proper clever-clogs despite never actually doing anything all that clever.</p>
+<p>The game has been around for a couple of years, first on iOS, then eventually Android. This PC version is an almost entire remake (according to the developers, Fireproof Games), apparently requiring nearly every asset to be rebuilt in order to create an HD, PC-worthy version. And by crikey, it’s beautiful. It’s genuinely astonishing at times, as the mechanical parts of the box slide so elegantly, surfaces rearranging themselves, objects raising and lowering, all utterly wonderfully. Just staring at the animations is reward enough for solving any puzzle it offers.</p>
+<p><img src="https://www.rockpapershotgun.com/images/14/jul/room3.jpg" alt=""/></p>
+<p>That really is all the reward there is, but it’s genuinely enough. The story, something about some chap trying to discover some mystical ether element thing, is utter guff, and ultimately goes nowhere at all. In fact, this PC build includes the mobile version’s DLC tacked onto the end, creating a stuttering finish that makes even less sense when played as a whole. The only reason it exists is to add a justification to the game’s peculiar twist, a magic lens through which alternate versions of reality can be seen. Which tends to boil down to: if you can’t figure out what to do next, you probably forgot to look at stuff through the lens.</p>
+<p>Invariably this involves revealing hidden scrawl, codes, or creating a repeating geometric shape that has mystical connotations to something, somewhere. And while it takes nothing away from the game, I still can’t help but wish for a version of The Room that relied only on its near-believable mechanical wizardry, rather than, well, actual wizardry. The lens gives the game design carte blanche to impossibly change the materials by magicky magic, and this always feels cheap when compared to its wondrous flips, twists and clunks as it rearranges itself before you.</p>
+<p><img src="https://www.rockpapershotgun.com/images/14/jul/room1.jpg" alt=""/></p>
+<p>That thing about feeling like a clever-clogs. Something I especially like about The Room is it’s never needlessly obscure. In fact, it’s almost never difficult. It’s just constantly involving. If you get stuck, it’s likely because you’ve not noticed a teeny switch, or forgot to check the lens, and the in-game hint system will gently nudge you if you ask. But it’s not likely because a puzzle is over-complicated or just plain impenetrable. As someone who’s suffered a lot of badly implemented or plain obtuse puzzles in lazy adventure games, some of the challenges prepare me to groan, before realising that – oh – I just do this, this, then this, and yes! Click! I’m a clever-clogs! Even the ominous threat of a sliding tile puzzle quickly reveals itself to be a simple, quickly dismissed affair.</p>
+<p>At £4, the two to three hours it should take (boasting of completing it more quickly only reveals a person to be a goof-face who doesn’t take the time to appreciate the beautiful art) is great value. (Although it must be noted the SD version currently costs just 69p on Android/iOS.) It doesn’t amount to anything, it doesn’t go anywhere, and it’s worth noting it lacks The Room 2’s genuinely haunting horror moments. (Presumably we can hope for The Room 2 on PC some time in 2016.) But what it <i>is</i> is entirely worth having: a sumptuous, decorative creation. And it sure isn’t Myst.</p>
+</div>
+<footer class="article-footer">
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2014/07/31/the-room-review//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Wot I Think: The Room https://www.rockpapershotgun.com/2014/07/31/the-room-review/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2014/07/31/the-room-review//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</footer>
+ 
+<link rel="stylesheet" type="text/css" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/css/recommendations.css" media="screen"/>
+ 
+<div id="recommendations-wrapper">
+<div id="recommendations">
+<div id="rcjsload_gam148"></div>
+<script type="text/javascript">
+                            (function() {
+                            function ad_block_test(e,o){if("undefined"!=typeof document.body){var t="0.1.2-dev",o=o?o:"sponsorText",n=document.createElement("DIV");n.id=o,n.style.position="absolute",n.style.left="-999px",n.appendChild(document.createTextNode("&nbsp;")),document.body.appendChild(n),setTimeout(function(){if(n){var o=0==n.clientHeight;try{}catch(d){console&&console.log&&console.log("ad-block-test error",d)}e(o,t),document.body.removeChild(n)}},175)}}
+                            ad_block_test(function(is_blocked){
+                            var widget_id =48030;
+                            if (is_blocked === true) {
+                            widget_id =48136;
+                            }
+                            var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+                            var rcel = document.createElement("script");
+                            rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+                            rcel.type = 'text/javascript';
+                            rcel.src = "//trends.revcontent.com/serve.js.php?w="+widget_id+"&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth) +"&referer="+referer + '&is_blocked=' + is_blocked;
+                            rcel.async = true;
+                            var rcds = document.getElementById("rcjsload_gam148"); rcds.appendChild(rcel);
+                            });
+                            })();
+                            </script>
+</div>
+</div>
+</div>
+<div id="rps-article-carousel" class="rps-carousel-container">
+<header>
+<h4>From this site</h4>
+</header>
+<div class="rps-carousel">
+<a class="prev navigation"><span class="icon-angle-left"></span></a>
+<section>
+<article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/overwatchcharacterguide.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/23/overwatch-character-guide-abilities-and-strategy-tips/"><div class="text"><h5 class="title">Overwatch Character Guide</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/snapmapbest.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/24/best-doom-snapmaps/"><div class="text"><h5 class="title">DOOM’s Best SnapMaps</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/civho1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/"><div class="text"><h5 class="title">Civilization VI Is Exciting & Aggressive</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/oct/warcraft1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/26/warcraft-the-beginning-review/"><div class="text"><h5 class="title">Warcraft: The Beginning review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/bw_6.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/the-witcher-3-blood-and-wine-review/"><div class="text"><h5 class="title">The Witcher 3: Blood And Wine review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/OW1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/27/overwatch-review/"><div class="text"><h5 class="title">Overwatch review</h5></div></a></article>
+</section>
+<a class="next navigation"><span class="icon-angle-right"></span></a>
+</div>
+</div>
+</article>
+<div id="mobile-ads" style="display:none;">
+<div id="mobile-leaderboard-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-leaderboard-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-leaderboard-mobile" data-dfp-id="RPS_LB_MOB" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_LB_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile" data-dfp-id="RPS_MPU_MOB" data-dfp-sizes="300x250,320x400,300x600, 320x100, 320x50" id="div-ga-RPS_MPU_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-2-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-2" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-2" data-dfp-id="RPS_MPU_MOB_2" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_2"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-3-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-3" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-3" data-dfp-id="RPS_MPU_MOB_3" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_3"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-4-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-4" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-4" data-dfp-id="RPS_MPU_MOB_4" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_4"></div>
+ 
+</div>
+</div>
+</div>
+<script>
+                var inline_ads = new InlineAds({ container: jQuery("#content .post-inner > .entry").first(), mpu_ads: jQuery("#mobile-ads .mpu") });
+
+                ga('set', 'dimension1', "featured-articles,pc-game-reviews");
+                ga('set', 'dimension2', "feature,fireproof-games,review,the-room,wot-i-think");
+                ga('set', 'dimension3', "John Walker");
+
+                </script>
+<div id="comments">
+<div class="block" style="padding-bottom: 0;">
+<h3 class="comments">76 Comments</h3>
+</div>
+<div class="block no-back no-border" id="all-comments">
+ 
+ 
+<div class="pagination">
+</div>
+<ol class="commentlist">
+<li class="comment byuser comment-author-urthman even thread-even depth-1 comment-role-subscriber" id="li-comment-1640777">
+<div id="comment-1640777">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c7e8607d08dfa6e0bce264739188258a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c7e8607d08dfa6e0bce264739188258a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640777">31/07/2014 at 19:17</a>
+</span>
+<cite class="fn">Urthman</cite> <span class="says">says:</span></span>
+</p>
+<p>Poor John, he&#8217;s got some sort of brain problem that makes him unable to enjoy Myst. I&#8217;m glad whatever it is left him able to enjoy so many other kinds of games.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-urthman odd alt depth-2 comment-role-subscriber" id="li-comment-1640801">
+<div id="comment-1640801">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c7e8607d08dfa6e0bce264739188258a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c7e8607d08dfa6e0bce264739188258a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640801">31/07/2014 at 19:28</a>
+</span>
+<cite class="fn">Urthman</cite> <span class="says">says:</span></span>
+</p>
+<p><i> the game people who thought they enjoyed Myst pretended they were playing</i></p>
+<p>I think this is the key skill that&#8217;s lacking. Myst requires you to assemble the island in your head from the individual still photos. Some people aren&#8217;t able/willing to do that, and complain that it&#8217;s a &#8220;slideshow,&#8221; which, to me, is like complaining that a book is a &#8220;wordfest.&#8221;</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-chaz even depth-3 comment-role-subscriber" id="li-comment-1640859">
+<div id="comment-1640859">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/15be2ddf77f7772b447c1132db355eb5?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/15be2ddf77f7772b447c1132db355eb5?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640859">31/07/2014 at 20:13</a>
+</span>
+<cite class="fn">Chaz</cite> <span class="says">says:</span></span>
+</p>
+<p>I got the Real Myst Masterpiece edition, so I don&#8217;t have to do that. Now fully rendered in proper move around as you like first person. Makes it a lot easier to figure things out when you can see the islands in a proper first person view. Also alleviates some of the back and forthing when you flick buttons or switches to see what they might be doing, when you can just look around as opposed to having to click you way back around a bunch of static screens.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-ensor odd alt depth-3 comment-role-subscriber" id="li-comment-1640965">
+<div id="comment-1640965">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d527d6f84096375c4b2c166709b2ca18?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d527d6f84096375c4b2c166709b2ca18?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640965">31/07/2014 at 22:22</a>
+</span>
+<cite class="fn">ensor</cite> <span class="says">says:</span></span>
+</p>
+<p>Bang on. They&#8217;re almost like epistolary games, the cultural and market forces of the rest of gaming only helping to obscure whatever merit they have.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-faxmachinen even depth-3 comment-role-subscriber" id="li-comment-1640997">
+<div id="comment-1640997">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7ae2242670a92ded8985e6739aa1f263?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7ae2242670a92ded8985e6739aa1f263?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640997">31/07/2014 at 23:23</a>
+</span>
+<cite class="fn"><a href='http://faxmachinen.com/tree/' rel='external nofollow' class='url'>Faxmachinen</a></cite> <span class="says">says:</span></span>
+</p>
+<p>I always figured Mr. Walker was just not intelligent and/or patient enough for Myst&#8217;s puzzles, but your idea that he lacks the spatial awareness required for immersion also has merit. On the other hand he did play Exile, and the panoramic navigation in that one made it much easier.</p>
+<p>I actually preferred the &#8220;slideshow&#8221; versions though. The invisible barriers in RealMyst, Myst V and URU did far more to ruin immersion, and aside from Myst, the pre-rendered graphics always looked nicer.</p>
+<p>For reference, <a href="http://37.media.tumblr.com/tumblr_me5oyqaxIF1rifem1o1_1280.png" rel="nofollow">this is what pre-rendered graphics looked like in 1997</a>. A year later, <a href="http://www.mobygames.com/images/shots/l/496119-half-life-source-windows-screenshot-at-the-reception-desk.png" rel="nofollow">Half Life</a> was released.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-cinek odd alt depth-4 comment-role-subscriber" id="li-comment-1641229">
+<div id="comment-1641229">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5c6eac59d2b5c4e12de0e7f51170c516?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5c6eac59d2b5c4e12de0e7f51170c516?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641229">01/08/2014 at 11:17</a>
+</span>
+<cite class="fn">Cinek</cite> <span class="says">says:</span></span>
+</p>
+<p>Half-Life running 1280&#215;1024 in 1998? You&#8217;re dreaming!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-malkav11 even depth-3 comment-role-subscriber" id="li-comment-1641033">
+<div id="comment-1641033">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d7aebcc33b8dfe0baf06908463168c6b?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d7aebcc33b8dfe0baf06908463168c6b?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641033">01/08/2014 at 00:40</a>
+</span>
+<cite class="fn">malkav11</cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;m not a fan of Myst or Riven (although I find things to appreciate about both), but let&#8217;s not lump Myst III: Exile, made by the splendid folks behind the Journeyman Project games, in with the rest of the series. III has much more logical, intuitive puzzle design and a rather strong, largely self-contained narrative scenario with a pretty great (somewhat scenery chewing) performance by the always enjoyable Brad Dourif as the sympathetic villain of the piece. It&#8217;s very much worth playing even if you&#8217;re not a fan of the design sensibilities Cyan demonstrates in the other Myst games.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-gepardenk odd alt depth-4 comment-role-subscriber" id="li-comment-1641227">
+<div id="comment-1641227">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d37d63a60fc330216008aaf9152df37e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d37d63a60fc330216008aaf9152df37e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641227">01/08/2014 at 11:16</a>
+</span>
+<cite class="fn">GepardenK</cite> <span class="says">says:</span></span>
+</p>
+<p>While I love Myst 3: Exile, especially Brad Dourif`s character, I must say that the puzzles in Riven (there is about 2 of them) makes much much more sense. Everything in Riven (from puzzles to the world itself) is less&#8230; random. And even Ghen as the villian is at Brad`s level, his story is even sadder. So for me Myst3 comes second, Riven is king</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-awesomeclaw even depth-5 comment-role-subscriber" id="li-comment-1641231">
+<div id="comment-1641231">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/151828c03206392223371139fd58d7ee?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/151828c03206392223371139fd58d7ee?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641231">01/08/2014 at 11:21</a>
+</span>
+<cite class="fn">Awesomeclaw</cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;ve said this before somewhere else on RPS, but the Myst series having puzzles which make sense in context is what makes it great. Of course there are still a few puzzles which make no sense, but a lot of the time (if not most of the time) the space you explore and the puzzles you encounter have a consistent internal logic which I think is missing from the Room and the Room 2.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-cinek odd alt depth-5 comment-role-subscriber" id="li-comment-1641233">
+<div id="comment-1641233">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5c6eac59d2b5c4e12de0e7f51170c516?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5c6eac59d2b5c4e12de0e7f51170c516?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641233">01/08/2014 at 11:24</a>
+</span>
+<cite class="fn">Cinek</cite> <span class="says">says:</span></span>
+</p>
+<p>Yea, I would go for the same, only perhaps not because of puzzles themselves, but rather world and immersion. Riven felt&#8230; deeper. Like a proper, huge, living world. Exile somehow wasn&#8217;t able to capture that. I always felt like visiting huge, stunning&#8230; rooms there.<br/>
+Myst IV was somewhat an oddity though &#8211; I don&#8217;t even remember if I actually completed it &#8211; played it right after the release and never returned back &#8211; unlike with all the other games in a series (yes, I even re-played Myst V &#8211; IMHO people are way too critical about this game).</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-gepardenk even depth-5 comment-role-subscriber" id="li-comment-1641387">
+<div id="comment-1641387">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d37d63a60fc330216008aaf9152df37e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d37d63a60fc330216008aaf9152df37e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641387">01/08/2014 at 13:40</a>
+</span>
+<cite class="fn">GepardenK</cite> <span class="says">says:</span></span>
+</p>
+<p>Agreed. The world in Riven is the real star. It is insanely well though out and presented. The other myst games looks like random 3d art in comparison. Even great crpgs like Planescape is not even close (although the overall story in Planescape is arguably better)</p>
+<p>Riven`s problem is that of a good big book, you cant understand how clever it is unless you take a deep dive. I tagged riven as the worst of the Myst games until I really played it</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-malkav11 odd alt depth-5 comment-role-subscriber" id="li-comment-1641405">
+<div id="comment-1641405">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d7aebcc33b8dfe0baf06908463168c6b?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d7aebcc33b8dfe0baf06908463168c6b?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641405">01/08/2014 at 13:50</a>
+</span>
+<cite class="fn">malkav11</cite> <span class="says">says:</span></span>
+</p>
+<p>I never would have been able to make any headway in Riven at all without a walkthrough. Some of Myst&#8217;s puzzles were vaguely intelligible, although mostly I wouldn&#8217;t have gotten them either, but Riven? Nope. A big part of that, admittedly, has to do with the fact that Myst (and Myst III)&#8217;s puzzles were largely contained inside a single, relatively limited geographical area, whereas Riven&#8217;s puzzles frequently expected you to run all over the entire game world trying to figure out what was connected to what and why. This is just not something I am interested in doing in a world of any meaningful scope, especially when you make it as time-consuming and labor-intensive as Riven did to move around.</p>
+<p>I largely solved Myst III on my own, and when I did get stuck it usually turned out I&#8217;d just overlooked part of the puzzle.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-awesomeclaw even depth-5 comment-role-subscriber" id="li-comment-1641443">
+<div id="comment-1641443">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/151828c03206392223371139fd58d7ee?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/151828c03206392223371139fd58d7ee?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641443">01/08/2014 at 14:29</a>
+</span>
+<cite class="fn">Awesomeclaw</cite> <span class="says">says:</span></span>
+</p>
+<p>I think that the worlds in Myst 4 are fairly well realized. I do have two main problems with that game, one of which is the low resolution it&#8217;s rendered at (and since it doesn&#8217;t support windowed play, you have to have pixels as big as your fist), the other being that the final couple of puzzles are complete tedious bullshit. The rest of the game is just fine though, and each age&#8217;s kind of final &#8216;payoff&#8217; (the red and blue books being presented in Tomahna and the ends of each puzzle line in the two prison ages) are fantastic.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-gepardenk odd alt depth-5 comment-role-subscriber" id="li-comment-1641521">
+<div id="comment-1641521">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d37d63a60fc330216008aaf9152df37e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d37d63a60fc330216008aaf9152df37e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641521">01/08/2014 at 15:33</a>
+</span>
+<cite class="fn">GepardenK</cite> <span class="says">says:</span></span>
+</p>
+<p>Awesomeclaw:<br/>
+Myst IV had some really strong moments, but the acting was way to cheesy in places which ruined the story (most voiced journals were awesome though). I hated the last act as well and not just because of the puzzles. I have always enjoyed Myst because of its focus on science, but that last part flew well into the realms of spirits and fantasy which kinda broke it for me. </p>
+<p>malkav11:<br/>
+Yes, Riven is a bit different that way. Most of the gameplay is about exploring around and fiddeling with interactive stuff that is not part of a solvable puzzle. Only when you really understand the world and what the different buildings do can you go and solve the two main puzzles in the game. Its funny because the puzzles themselves are actually incredibly logical and self explanatory, but they are almost impossible to solve without that understanding of the world (like a caveman trying to start a car). Clicking around until its solved Monkey Island style is simply not an option</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-malkav11 even depth-5 comment-role-subscriber" id="li-comment-1642261">
+<div id="comment-1642261">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d7aebcc33b8dfe0baf06908463168c6b?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d7aebcc33b8dfe0baf06908463168c6b?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1642261">03/08/2014 at 00:58</a>
+</span>
+<cite class="fn">malkav11</cite> <span class="says">says:</span></span>
+</p>
+<p>Working out how to solve a puzzle is great. Working out what the puzzle even is, let alone its parameters is definitively not my cup of tea, and Riven in particular and most of the Myst franchise in general seem to be very much on that side of things. I&#8217;m sure it went over gangbusters with, e.g., the cryptic crossword crowd, though.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-gepardenk odd alt depth-5 comment-role-subscriber" id="li-comment-1643089">
+<div id="comment-1643089">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d37d63a60fc330216008aaf9152df37e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d37d63a60fc330216008aaf9152df37e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1643089">04/08/2014 at 13:52</a>
+</span>
+<cite class="fn">GepardenK</cite> <span class="says">says:</span></span>
+</p>
+<p>Yes Riven is definitely a case of &#8220;working out what the puzzle even is&#8221;. It does this very well and its perfect for the &#8220;explore a world in peace and find its secrets&#8221; its going for. But I agree that if you are looking for a proper puzzle game with lots of direct problems then you will be disappointed. The direct problems (there is about 2 of them) is only clear when the player is ready, usually after LOTS of exploring, reading and contemplating</p>
+<p>But I cant see why you think the other Myst games is like that. The other Mysts are very much a case of &#8220;here is 4 puzzles, solve them&#8221;. Very straight forward and logical. Much more so than most point`n clicks at any rate.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-gwz even depth-5 comment-role-subscriber" id="li-comment-1645553">
+<div id="comment-1645553">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/2580efc808ccc6587edf1414b0b19b4b?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/2580efc808ccc6587edf1414b0b19b4b?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1645553">07/08/2014 at 14:50</a>
+</span>
+<cite class="fn">gwz</cite> <span class="says">says:</span></span>
+</p>
+<p>I remember Riven quite fondly, and completing it was wildly satisfying. That said, games and times have changed a lot and I would never have the patience required to appreciate it and finish it today. I got through the great “Device 6” on a long flight and was for once thankful that I was unable to reach for a walkthrough.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-caradog odd alt depth-4 comment-role-subscriber" id="li-comment-1641317">
+<div id="comment-1641317">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/b0ac52dbe364ed3c6863ecb44f3b75f6?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b0ac52dbe364ed3c6863ecb44f3b75f6?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641317">01/08/2014 at 12:44</a>
+</span>
+<cite class="fn">Caradog</cite> <span class="says">says:</span></span>
+</p>
+<p>Have to agree with you here. I remember having a fantastic experience with Myst III, which was challenging but not obscure enough in its approach that I couldn&#8217;t overcome each of the puzzles. I recently tried Myst IV and could not believe how difficult it was, with every step along the way an immense frustration.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-jeroen-d-stout even depth-2 comment-role-subscriber" id="li-comment-1640811">
+<div id="comment-1640811">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/fdcbab20762975c21ddb57165d84ab94?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/fdcbab20762975c21ddb57165d84ab94?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640811">31/07/2014 at 19:32</a>
+</span>
+<cite class="fn">Jeroen D Stout</cite> <span class="says">says:</span></span>
+</p>
+<p>I wanted to do a fundraiser to help him but, really, extending this horrid misery of a mental state would be the cruel thing to do.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-yoggesothothe odd alt depth-2 comment-role-subscriber" id="li-comment-1641013">
+<div id="comment-1641013">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7e03de1e1297b00a88f920796346a9b7?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7e03de1e1297b00a88f920796346a9b7?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641013">01/08/2014 at 00:02</a>
+</span>
+<cite class="fn">yoggesothothe</cite> <span class="says">says:</span></span>
+</p>
+<p>Not trying to start a flame war here, but I don&#8217;t understand why people take a harsh assessment of *insert whatever game one enjoys* as a personal attack. Possibly I am biased as I happen to agree with Mr. Walker&#8217;s assessment of Myst (that is, it only seems exaggerated for effect than for the purpose of causing offense), but really, there&#8217;s no need to resort to his dislike of the game as a &#8220;brain problem&#8221; is there? That seems very specifically personal and intentionally hurtful.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-yoggesothothe even depth-3 comment-role-subscriber" id="li-comment-1641015">
+<div id="comment-1641015">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7e03de1e1297b00a88f920796346a9b7?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7e03de1e1297b00a88f920796346a9b7?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641015">01/08/2014 at 00:03</a>
+</span>
+<cite class="fn">yoggesothothe</cite> <span class="says">says:</span></span>
+</p>
+<p>err meant to say refer there, not resort</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-deano2099 odd alt depth-3 comment-role-subscriber" id="li-comment-1641049">
+<div id="comment-1641049">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/9743be403ec2b5b12d23b609003f66d3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9743be403ec2b5b12d23b609003f66d3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641049">01/08/2014 at 01:17</a>
+</span>
+<cite class="fn">Deano2099</cite> <span class="says">says:</span></span>
+</p>
+<p>The article does suggest that all people who like Myst be put to death in the first paragraph. Yes, it&#8217;s hyperbole, but so is &#8216;brain problem&#8217;.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-botherer bypostauthor even depth-3 comment-role-administrator" id="li-comment-1641159">
+<div id="comment-1641159">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=64&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=128&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-64 photo' height='64' width='64'/></div>
+<div class="comment-content large-avatar"><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641159">01/08/2014 at 09:44</a>
+</span>
+<cite class="fn"><a href='http://www.rockpapershotgun.com' rel='external nofollow' class='url'>John Walker</a></cite> <span class="says">says:</span></span>
+</p>
+<p>It might have something to do with my deliberately trolling them.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-domogrue odd alt depth-4 comment-role-subscriber" id="li-comment-1641323">
+<div id="comment-1641323">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/a3465ed93ef4832a8a389ece71c5b227?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/a3465ed93ef4832a8a389ece71c5b227?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641323">01/08/2014 at 12:47</a>
+</span>
+<cite class="fn">domogrue</cite> <span class="says">says:</span></span>
+</p>
+<p>No, I’m pretty sure Rock Paper Shotgun wears a solemn 100% serious demeanor 100% of the time, approaching every game and topic with solemn severity and a complete lack of humor.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-geebs even depth-5 comment-role-subscriber" id="li-comment-1641467">
+<div id="comment-1641467">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/0abee2094c999e8cbf37db413225e306?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/0abee2094c999e8cbf37db413225e306?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641467">01/08/2014 at 14:46</a>
+</span>
+<cite class="fn">Geebs</cite> <span class="says">says:</span></span>
+</p>
+<blockquote><p>a complete lack of humor.</p></blockquote>
+<p>MISSION ACCOMPLISHED</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-poulwrist odd alt depth-2 comment-role-subscriber" id="li-comment-1641155">
+<div id="comment-1641155">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/48bb56b3ae46af3c5acb2fdac95fe331?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/48bb56b3ae46af3c5acb2fdac95fe331?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641155">01/08/2014 at 09:17</a>
+</span>
+<cite class="fn">PoulWrist</cite> <span class="says">says:</span></span>
+</p>
+<p>Are you that guy I once talked to on the Funcom IRC who was convinced that Myst was the greatest example of blending gameplay design and story in the history of games? A game that influenced all games since its release, including all Call of Duty games. A game so utterly perfect that you had spent the last 20 years randomly interviewing people about Myst, what they liked, how they saw it and trying to make it seem as if they were somehow misled sheep that needed to be returned to the flock?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-artyfishal even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-1640791">
+<div id="comment-1640791">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1b482d942a228d836df1c597cfa5b52b?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1b482d942a228d836df1c597cfa5b52b?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640791">31/07/2014 at 19:21</a>
+</span>
+<cite class="fn">ArtyFishal</cite> <span class="says">says:</span></span>
+</p>
+<p>Man, I love Myst. Everything from its silly story to its great ambient audio and mechanical puzzles. I love the room too. It reminds me of Myst, but it is its own thing too. And that&#8217;s alright. It&#8217;s alright to like things.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-jauntyangle odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-1640833">
+<div id="comment-1640833">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6ab47e510deec0f8b5954a3e3073cc35?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6ab47e510deec0f8b5954a3e3073cc35?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640833">31/07/2014 at 19:53</a>
+</span>
+<cite class="fn">JauntyAngle</cite> <span class="says">says:</span></span>
+</p>
+<p>I clicked on this article thinking it would be about a game adaptation of Tommy Wiseau&#8217;s masterpiece movie, but I was wrong.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-scumbag even depth-2 comment-role-subscriber" id="li-comment-1640885">
+<div id="comment-1640885">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d238d81463e7f1bd7561328d0819e7c0?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d238d81463e7f1bd7561328d0819e7c0?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640885">31/07/2014 at 20:51</a>
+</span>
+<cite class="fn">Scumbag</cite> <span class="says">says:</span></span>
+</p>
+<p>Oh hi JauntyAngle! &#8230;and so forth.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-rawrian odd alt depth-2 comment-role-subscriber" id="li-comment-1640887">
+<div id="comment-1640887">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7a5b16e310c971496faa243c22b8b4c3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7a5b16e310c971496faa243c22b8b4c3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640887">31/07/2014 at 20:53</a>
+</span>
+<cite class="fn"><a href='http://steamcommunity.com/profiles/76561198010646021' rel='external nofollow' class='url'>Niko</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Do you know this one? It&#8217;s really good:<br/>
+<a href="http://www.newgrounds.com/portal/view/547307" rel="nofollow">link to newgrounds.com</a></p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-deadly-habit even depth-2 comment-role-subscriber" id="li-comment-1640927">
+<div id="comment-1640927">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e5c86e4164591ae9fc4fa8461f7b0d7e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e5c86e4164591ae9fc4fa8461f7b0d7e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640927">31/07/2014 at 21:18</a>
+</span>
+<cite class="fn">Deadly Habit</cite> <span class="says">says:</span></span>
+</p>
+<p>You&#8217;re not my fucking mother!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-phasma-felis odd alt depth-2 comment-role-subscriber" id="li-comment-1641025">
+<div id="comment-1641025">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c7198de45829816d1b1e88055c50740e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c7198de45829816d1b1e88055c50740e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641025">01/08/2014 at 00:24</a>
+</span>
+<cite class="fn">Phasma Felis</cite> <span class="says">says:</span></span>
+</p>
+<p>You want <a href="http://www.newgrounds.com/portal/view/547307" rel="nofollow">THE ROOM: The Game</a>.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-anon459 even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-1640879">
+<div id="comment-1640879">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7c3ee63be29e05efc1beb88df662dc2c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7c3ee63be29e05efc1beb88df662dc2c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640879">31/07/2014 at 20:27</a>
+</span>
+<cite class="fn">anon459</cite> <span class="says">says:</span></span>
+</p>
+<p>I noticed there are bible verses scattered throughout this game. I couldn&#8217;t read the one on the last puzzle of the game, though. I don&#8217;t suppose anyone happens to know what it is?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-pestysam odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-1640913">
+<div id="comment-1640913">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7517f3415b34a5ce749636b664c3b211?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7517f3415b34a5ce749636b664c3b211?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640913">31/07/2014 at 21:03</a>
+</span>
+<cite class="fn">pestysam</cite> <span class="says">says:</span></span>
+</p>
+<p>The Room is a distraction, not a game. Aside from the graphics &amp; smoother interface, I can&#8217;t see how anyone can consider it better than Myst. They&#8217;re both shit.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-botherer bypostauthor even depth-2 comment-role-administrator" id="li-comment-1640973">
+<div id="comment-1640973">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=64&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=128&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-64 photo' height='64' width='64'/></div>
+<div class="comment-content large-avatar"><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640973">31/07/2014 at 22:41</a>
+</span>
+<cite class="fn"><a href='http://www.rockpapershotgun.com' rel='external nofollow' class='url'>John Walker</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Quick everyone, it&#8217;s the That&#8217;s Not A Game Police! Run and hide!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-horsemedic odd alt depth-3 comment-role-subscriber" id="li-comment-1641489">
+<div id="comment-1641489">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e4245e86c7225ec3d736493ebeaff2d8?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e4245e86c7225ec3d736493ebeaff2d8?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641489">01/08/2014 at 15:11</a>
+</span>
+<cite class="fn">horsemedic</cite> <span class="says">says:</span></span>
+</p>
+<blockquote><p>The Room is, I state with absolute conviction and abundant evidence, <b>the game people who thought they enjoyed Myst pretended they were playing,</b> but it turns out was entirely in their imaginations rather than in <b>the miserable Power Point presentation in front of which they were actually sat.</b></p></blockquote>
+<p>Who will game police the game police?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-toxic-avenger even depth-4 comment-role-subscriber" id="li-comment-1642255">
+<div id="comment-1642255">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7c284beddbcdb0a26ac8f2346e193205?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7c284beddbcdb0a26ac8f2346e193205?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1642255">03/08/2014 at 00:25</a>
+</span>
+<cite class="fn">toxic avenger</cite> <span class="says">says:</span></span>
+</p>
+<p>As you are very well aware already, he wasn&#8217;t making the argument that Myst isn&#8217;t a game. He used its Power Point qualities to illustrate what an abortion of a game it actually is.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-horsemedic odd alt depth-5 comment-role-subscriber" id="li-comment-1642301">
+<div id="comment-1642301">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e4245e86c7225ec3d736493ebeaff2d8?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e4245e86c7225ec3d736493ebeaff2d8?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1642301">03/08/2014 at 07:49</a>
+</span>
+<cite class="fn">horsemedic</cite> <span class="says">says:</span></span>
+</p>
+<p>It&#8217;s at least as stupid to tell people what they enjoy as it is to tell them what&#8217;s a game. But thanks for your pedantic literalism.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-phasma-felis even depth-2 comment-role-subscriber" id="li-comment-1641027">
+<div id="comment-1641027">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c7198de45829816d1b1e88055c50740e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c7198de45829816d1b1e88055c50740e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641027">01/08/2014 at 00:25</a>
+</span>
+<cite class="fn">Phasma Felis</cite> <span class="says">says:</span></span>
+</p>
+<p>Games are distractions. That&#8217;s what they&#8217;re for.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-emeraude odd alt depth-3 comment-role-subscriber" id="li-comment-1641513">
+<div id="comment-1641513">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/078cfd3462cdea92291bb8d7ad195213?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/078cfd3462cdea92291bb8d7ad195213?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641513">01/08/2014 at 15:27</a>
+</span>
+<cite class="fn">Emeraude</cite> <span class="says">says:</span></span>
+</p>
+<p>Games are distractions. That’s what they’re for.<br/>
+Novels are distractions. That’s what they’re for.<br/>
+Movies are distractions. That’s what they’re for.<br/>
+Theater is distraction. That’s what it&#8217;s for.</p>
+<p>I must confess I am doubtful. I can&#8217;t see the link between first and second proposition being as absolute as you make it out to be. I&#8217;m not even sure there is an aim to those things really (at least before they become full fledged targeted products), other than their being created.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-alfius even depth-2 comment-role-subscriber" id="li-comment-1641331">
+<div id="comment-1641331">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/f052bc68e64974aa6349b59b85ab3aef?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/f052bc68e64974aa6349b59b85ab3aef?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641331">01/08/2014 at 12:54</a>
+</span>
+<cite class="fn">Alfius</cite> <span class="says">says:</span></span>
+</p>
+<p>Basically, anything that isn&#8217;t ARMA 3 or Wargame bores me to tears these days (with some few exceptions), as would, I&#8217;m sure, Myst and a whole panoply of others I loved so dearly way-back when. Please leave me the memories, must we rake up, what would seem today, the glaring inadequacies of the objects of our erstwhile infatuations?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-toxic-avenger odd alt depth-3 comment-role-subscriber" id="li-comment-1642257">
+<div id="comment-1642257">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7c284beddbcdb0a26ac8f2346e193205?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7c284beddbcdb0a26ac8f2346e193205?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1642257">03/08/2014 at 00:27</a>
+</span>
+<cite class="fn">toxic avenger</cite> <span class="says">says:</span></span>
+</p>
+<p>This comment demonstrates everything that is wrong with Myst, through only its grammar and diction. Go wikipedia &#8220;purple prose.&#8221;</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-alfius even depth-4 comment-role-subscriber" id="li-comment-1642815">
+<div id="comment-1642815">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/f052bc68e64974aa6349b59b85ab3aef?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/f052bc68e64974aa6349b59b85ab3aef?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1642815">04/08/2014 at 10:17</a>
+</span>
+<cite class="fn">Alfius</cite> <span class="says">says:</span></span>
+</p>
+<p>Verily, say I, yonder chap must be a hoot at parties.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-rustybroomhandle odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-1640917">
+<div id="comment-1640917">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/540aa1d58407cc94fad7e632393a6699?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/540aa1d58407cc94fad7e632393a6699?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640917">31/07/2014 at 21:08</a>
+</span>
+<cite class="fn"><a href='http://makerseden.screwylightbulb.com' rel='external nofollow' class='url'>rustybroomhandle</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Myst is a great series*! This is my opinion, and unlike Mr Crankypants up there, I don&#8217;t berate anyone who has an opposing opinion. ** </p>
+<p>* except maybe V<br/>
+** except Mr Crankypants</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-poulwrist even depth-2 comment-role-subscriber" id="li-comment-1641157">
+<div id="comment-1641157">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/48bb56b3ae46af3c5acb2fdac95fe331?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/48bb56b3ae46af3c5acb2fdac95fe331?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641157">01/08/2014 at 09:21</a>
+</span>
+<cite class="fn">PoulWrist</cite> <span class="says">says:</span></span>
+</p>
+<p>Great in the same way that One Direction&#8217;s discography will also haunt posterity.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-awesomeclaw odd alt depth-2 comment-role-subscriber" id="li-comment-1641235">
+<div id="comment-1641235">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/151828c03206392223371139fd58d7ee?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/151828c03206392223371139fd58d7ee?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641235">01/08/2014 at 11:24</a>
+</span>
+<cite class="fn">Awesomeclaw</cite> <span class="says">says:</span></span>
+</p>
+<p>I think Myst 5 is too easy and too small, but I don&#8217;t think it&#8217;s a bad game.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-gepardenk even depth-3 comment-role-subscriber" id="li-comment-1641299">
+<div id="comment-1641299">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d37d63a60fc330216008aaf9152df37e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d37d63a60fc330216008aaf9152df37e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641299">01/08/2014 at 12:27</a>
+</span>
+<cite class="fn">GepardenK</cite> <span class="says">says:</span></span>
+</p>
+<p>Myst 5 have some really clever worlds/puzzles. The story and exploration elements are awful though. Also: Invisible walls, grrrrrrr</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-the-first-door odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-1640919">
+<div id="comment-1640919">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/21ca09e1250843e3e1f262e297dffeb3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/21ca09e1250843e3e1f262e297dffeb3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640919">31/07/2014 at 21:08</a>
+</span>
+<cite class="fn">The First Door</cite> <span class="says">says:</span></span>
+</p>
+<p>Every time you write about Myst, John, all I think is just how utterly wrong you are. While I grant you that some of the puzzles in Myst and Riven were perhaps needlessly complex, that was sort of the point. Also, I always thought most of them were well laid out and self-explanatory if you just bothered to explore and experiment a little. This is especially true when you are talking about Uru. Most involved learning how machines worked or learning basic number systems, neither of which I&#8217;d call obscure. Hell, many of them relied on basic physics, mathematics, or an understanding of how time passes!</p>
+<p>If you want to talk about obscure puzzles, then we really should talk about The Longest Journey (which I love) and the Gabriel Knights series (which I hate), both of which have much more obscure and stupid puzzles. Like that one with the rubber ducky&#8230;</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-hmm-hmm even depth-2 comment-role-subscriber" id="li-comment-1640957">
+<div id="comment-1640957">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/bfd9ad4ed68666a243a133d0c44f65cb?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/bfd9ad4ed68666a243a133d0c44f65cb?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640957">31/07/2014 at 22:11</a>
+</span>
+<cite class="fn">Hmm-Hmm.</cite> <span class="says">says:</span></span>
+</p>
+<p>I think you needn&#8217;t bother. I doubt it&#8217;s possible to shake him from this game-inflicted trauma that was somehow inflicted on him. I feel for him, the poor man.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-the-first-door odd alt depth-3 comment-role-subscriber" id="li-comment-1640991">
+<div id="comment-1640991">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/21ca09e1250843e3e1f262e297dffeb3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/21ca09e1250843e3e1f262e297dffeb3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1640991">31/07/2014 at 23:16</a>
+</span>
+<cite class="fn">The First Door</cite> <span class="says">says:</span></span>
+</p>
+<p>I know&#8230; it just saddens me a little, that&#8217;s all. Personally I think The Path of the Shell has one of the finest multi-leveled puzzles I&#8217;ve ever seen, you see!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-faxmachinen even depth-4 comment-role-subscriber" id="li-comment-1641003">
+<div id="comment-1641003">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7ae2242670a92ded8985e6739aa1f263?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7ae2242670a92ded8985e6739aa1f263?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641003">31/07/2014 at 23:34</a>
+</span>
+<cite class="fn"><a href='http://faxmachinen.com/tree/' rel='external nofollow' class='url'>Faxmachinen</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Do remind me which one. It&#8217;s been a long time since I played URU.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-the-first-door odd alt depth-5 comment-role-subscriber" id="li-comment-1641143">
+<div id="comment-1641143">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/21ca09e1250843e3e1f262e297dffeb3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/21ca09e1250843e3e1f262e297dffeb3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641143">01/08/2014 at 08:52</a>
+</span>
+<cite class="fn">The First Door</cite> <span class="says">says:</span></span>
+</p>
+<p>It was the time-travel level, Ahnonay. The one which was written to prove that one of the D&#8217;ni was a god, from what I remember. It had a few really clever reveals and the end of the level was such a brilliant payoff!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-awesomeclaw even depth-5 comment-role-subscriber" id="li-comment-1641241">
+<div id="comment-1641241">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/151828c03206392223371139fd58d7ee?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/151828c03206392223371139fd58d7ee?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641241">01/08/2014 at 11:26</a>
+</span>
+<cite class="fn">Awesomeclaw</cite> <span class="says">says:</span></span>
+</p>
+<p>The area of the puzzle you&#8217;re thinking of was designed to &#8216;show&#8217; that the previous grower (a kind of mystical prophet person to the D&#8217;Ni) was able to manipulate time.</p>
+<p>And yes, the Path of the Shell is excellent. I really want to go back and play through the entire of Uru but it doesn&#8217;t play nicely with my rig.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-geebs odd alt depth-2 comment-role-subscriber" id="li-comment-1641005">
+<div id="comment-1641005">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/0abee2094c999e8cbf37db413225e306?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/0abee2094c999e8cbf37db413225e306?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641005">31/07/2014 at 23:42</a>
+</span>
+<cite class="fn">Geebs</cite> <span class="says">says:</span></span>
+</p>
+<p>Speaking of Uru &#8211; I recently picked it up from GoG; I love Myst but the controls for Uru are doing my nut. Is there any way to get mouse look FPS controls working? The official forums didn&#8217;t help much.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-the-first-door even depth-3 comment-role-subscriber" id="li-comment-1641145">
+<div id="comment-1641145">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/21ca09e1250843e3e1f262e297dffeb3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/21ca09e1250843e3e1f262e297dffeb3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641145">01/08/2014 at 08:56</a>
+</span>
+<cite class="fn">The First Door</cite> <span class="says">says:</span></span>
+</p>
+<p>It&#8217;s been a while, but from what I remember, no. I get a little confused though, as Myst V had similar but slightly better controls. I think for Uru, I mostly played it from third person because of that being a bit odd.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-frenchy2k1 odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-1641023">
+<div id="comment-1641023">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1c4325b029f66e7cee3f7be6785a8a79?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1c4325b029f66e7cee3f7be6785a8a79?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641023">01/08/2014 at 00:24</a>
+</span>
+<cite class="fn">frenchy2k1</cite> <span class="says">says:</span></span>
+</p>
+<p>I played The Room games (both) on my Android phone after getting them from an Humble Bundle and they were both quite lovely.<br/>
+Short, to the point, never obtuse. Just a nice and stimulating little puzzle to solve.<br/>
+Presentation is top notch, graphics are great, puzzles are nice.<br/>
+Fully recommended.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-caff even depth-2 comment-role-premium_user" id="li-comment-1641047">
+<div id="comment-1641047">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/904aff477b2a457e13e97784b60a049b?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/904aff477b2a457e13e97784b60a049b?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641047">01/08/2014 at 01:10</a>
+</span>
+<cite class="fn">caff</cite> <span class="says">says:</span></span>
+</p>
+<p>I totally agree. This had my parents hooked from the minute I recommended it to them. Personally, I don&#8217;t have the patience and staying power (I wish I did). But I can appreciate the quality and style of this game.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-montorsi odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-1641029">
+<div id="comment-1641029">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/535bc7adb45f8724c9c717aefab20437?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/535bc7adb45f8724c9c717aefab20437?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641029">01/08/2014 at 00:29</a>
+</span>
+<cite class="fn">montorsi</cite> <span class="says">says:</span></span>
+</p>
+<p>So is this game any good? The opening salvo leaves me questioning the writers sanity and I can&#8217;t really take his word for anything.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-dances-to-podcasts even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-1641063">
+<div id="comment-1641063">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7a0e2b8178ccd8d023b0ac3e7966142c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7a0e2b8178ccd8d023b0ac3e7966142c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641063">01/08/2014 at 03:04</a>
+</span>
+<cite class="fn">Dances to Podcasts</cite> <span class="says">says:</span></span>
+</p>
+<p>Y&#8217;all got trolled.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-jaheira odd alt depth-2 comment-role-subscriber" id="li-comment-1641085">
+<div id="comment-1641085">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/259b3e4194eceebb3d02ce1036c0fe92?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/259b3e4194eceebb3d02ce1036c0fe92?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641085">01/08/2014 at 04:59</a>
+</span>
+<cite class="fn">jaheira</cite> <span class="says">says:</span></span>
+</p>
+<p>Yeah, but it&#8217;s funny every time.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-guygodbois00 even depth-3 comment-role-subscriber" id="li-comment-1641193">
+<div id="comment-1641193">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/63dda02c7bc726257ac4f33c1ca65636?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/63dda02c7bc726257ac4f33c1ca65636?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641193">01/08/2014 at 10:47</a>
+</span>
+<cite class="fn">guygodbois00</cite> <span class="says">says:</span></span>
+</p>
+<p>Is /sarcasm option turned on?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-botherer bypostauthor odd alt depth-2 comment-role-administrator" id="li-comment-1641161">
+<div id="comment-1641161">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=64&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9c2881df5049804d883fb9146ddc108b?s=128&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-64 photo' height='64' width='64'/></div>
+<div class="comment-content large-avatar"><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641161">01/08/2014 at 09:47</a>
+</span>
+<cite class="fn"><a href='http://www.rockpapershotgun.com' rel='external nofollow' class='url'>John Walker</a></cite> <span class="says">says:</span></span>
+</p>
+<p>It&#8217;s important to note that while, yes, I was obviously deliberately winding people up, nothing I said was inaccurate. Myst is AWFUL, and people who like it really aren&#8217;t to be trusted.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-cinek even depth-3 comment-role-subscriber" id="li-comment-1641223">
+<div id="comment-1641223">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5c6eac59d2b5c4e12de0e7f51170c516?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5c6eac59d2b5c4e12de0e7f51170c516?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641223">01/08/2014 at 11:12</a>
+</span>
+<cite class="fn">Cinek</cite> <span class="says">says:</span></span>
+</p>
+<p>Get out of this world!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-deano2099 odd alt depth-3 comment-role-subscriber" id="li-comment-1641851">
+<div id="comment-1641851">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/9743be403ec2b5b12d23b609003f66d3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9743be403ec2b5b12d23b609003f66d3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641851">01/08/2014 at 20:37</a>
+</span>
+<cite class="fn">Deano2099</cite> <span class="says">says:</span></span>
+</p>
+<p>True, but Riven is bloody brilliant puzzle design. Just wrapped up in an interface that obfuscates it and makes it nigh on impossible to appreciate. It&#8217;d be far better in another form, as a freely navigable 3D rendered world, or even better, a real life theme park open to just one person at a time.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-faxmachinen even depth-3 comment-role-subscriber" id="li-comment-1641983">
+<div id="comment-1641983">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7ae2242670a92ded8985e6739aa1f263?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7ae2242670a92ded8985e6739aa1f263?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641983">02/08/2014 at 02:53</a>
+</span>
+<cite class="fn"><a href='http://faxmachinen.com/tree/' rel='external nofollow' class='url'>Faxmachinen</a></cite> <span class="says">says:</span></span>
+</p>
+<p>It&#8217;s also worth noting that while many retorts were utter slander, the statements about the <i>modus operandi</i> of Mr. Walker&#8217;s brain can be proven factually correct.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-toxic-avenger odd alt depth-4 comment-role-subscriber" id="li-comment-1642259">
+<div id="comment-1642259">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7c284beddbcdb0a26ac8f2346e193205?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7c284beddbcdb0a26ac8f2346e193205?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1642259">03/08/2014 at 00:31</a>
+</span>
+<cite class="fn">toxic avenger</cite> <span class="says">says:</span></span>
+</p>
+<p>Man, you must be such a character in real life: like the protagonist of Scorsese&#8217;s King of Comedy</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-gwathdring even thread-even depth-1 comment-role-subscriber" id="li-comment-1641087">
+<div id="comment-1641087">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d4f579ab2ceacf148c27c5da3f39f6ed?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d4f579ab2ceacf148c27c5da3f39f6ed?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641087">01/08/2014 at 05:02</a>
+</span>
+<cite class="fn">gwathdring</cite> <span class="says">says:</span></span>
+</p>
+<p>I found is disappointing. It was very pretty, but I&#8217;ve played room escapes and secret-box-like games I find to strike a much better balance between not-evil and puzzle-like. I feel like there wasn&#8217;t enough challenge here. Everyone&#8217;s brain is different so part of the challenge of any puzzle is &#8230; well, just being a little bit illogical. And this never really took us there.</p>
+<p>The thing I missed most compared to room escapes and deconstructions I&#8217;ve played online wasn&#8217;t the fiendishness, though &#8230; but the multi-layered stages. This game had multiple single-layer stages. You could never really proceed down multiple paths at once. In my favorite games from this genre, you can pursue multiple avenues and alleyways of the puzzle/secret-box at once. Those alleys meet up eventually and require input from one-another and eventually it all comes back together &#8230; but that more extensive scope means that the challenge of <i>noticing</i> (which makes up the entirety of the interactive part) gets more robust because you&#8217;re supposed to be noticing more things across time and space. The same simple, straightforwardness can suddenly become more involved and make you feel more clever while still responding well to sitting there going &#8220;hmm&#8221; rather than expecting you to explicitly follow the puzzles illogic which is how adventure games tend to go about making things hard &#8230; which is funny because adventure games have the perfect fictional setups to do what I&#8217;m talking about well and yet so many instead rely on obscurity and illogic to create intrigue.</p>
+<p>Anyway, back to The Room. A better way to put all of this is in terms of what I wanted to see. When I opened that first safe? There was a bunch of cool stuff in there. I thought I would get to poke around and use bits of the big safe on the new smaller box and move back and forth and explore the interesting looking machinery of the large safe &#8230; instead all of that vanished leaving me with just the smaller box. And all that writing on the walls never mattered a whit. It felt resolutely small and that sucked away a lot of the initial mystery and interest.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-black-materia odd alt depth-2 comment-role-subscriber" id="li-comment-1641121">
+<div id="comment-1641121">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4dbc95eaa55dcc60f57aa567ac1bb77a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4dbc95eaa55dcc60f57aa567ac1bb77a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641121">01/08/2014 at 07:50</a>
+</span>
+<cite class="fn"><a href='http://www.christophe.debont.be' rel='external nofollow' class='url'>Black Materia</a></cite> <span class="says">says:</span></span>
+</p>
+<p>The sequel has a more open approach like you describe in your second paragraph. Each room consist of different little puzzles which all come together in a satisfying solution to the room.</p>
+<p>It makes the game more about the room, and less about the box like this one. Overall I think it&#8217;s the superior game, so you really should give it a second chance when it comes around the pc eventually.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-black-materia even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-1641125">
+<div id="comment-1641125">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4dbc95eaa55dcc60f57aa567ac1bb77a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4dbc95eaa55dcc60f57aa567ac1bb77a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641125">01/08/2014 at 07:58</a>
+</span>
+<cite class="fn"><a href='http://www.christophe.debont.be' rel='external nofollow' class='url'>Black Materia</a></cite> <span class="says">says:</span></span>
+</p>
+<p>One of the best mobile games out there, but as with Year Walk I&#8217;m wondering how does the not-being-able-to-touch-stuff impact the experience? </p>
+<p>While playing this in a dark room on my iPad, it almost felt as if the box was right in front of me, ready to be carefully manhandled by my eager fingers. The tactility of the thing was so gratifying that I almost can&#8217;t believe you get the same experience by not touching it directly. I&#8217;d love to be proven wrong, though.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-cinek odd alt depth-2 comment-role-subscriber" id="li-comment-1641225">
+<div id="comment-1641225">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5c6eac59d2b5c4e12de0e7f51170c516?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5c6eac59d2b5c4e12de0e7f51170c516?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641225">01/08/2014 at 11:13</a>
+</span>
+<cite class="fn">Cinek</cite> <span class="says">says:</span></span>
+</p>
+<p>&#8220;get the same experience by not touching it directly.&#8221; &#8211; but&#8230; but you are NOT touching it directly on an iPad either. It&#8217;s just glass that you&#8217;re touching. Just glass. Chillax.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-bill even thread-even depth-1 comment-role-subscriber" id="li-comment-1641205">
+<div id="comment-1641205">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/649f7961f852bd6b5ee5b08e78bda732?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/649f7961f852bd6b5ee5b08e78bda732?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641205">01/08/2014 at 10:55</a>
+</span>
+<cite class="fn">bill</cite> <span class="says">says:</span></span>
+</p>
+<p>I find it odd that John is so anti-myst, as it seems like exactly the kind of game RPS writers should love. </p>
+<p>I do wonder if it comes down to the time in his life when he first played it. IF i&#8217;d played it for the first time as a teenager I&#8217;d have hated it, found it too hard, too slow and obscure. But now, as someone who has been more interested in recent indie games, walking simulators, etc.. it seems much closer to those.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-strangeloup odd alt depth-2 comment-role-subscriber" id="li-comment-1641493">
+<div id="comment-1641493">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/77495710d71a452e659ce5cbd768b58d?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/77495710d71a452e659ce5cbd768b58d?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641493">01/08/2014 at 15:14</a>
+</span>
+<cite class="fn">strangeloup</cite> <span class="says">says:</span></span>
+</p>
+<p>I first played Myst at art college, which seems near as damnit the perfect context for it. As you say, it definitely has a lot more in common with today&#8217;s art games/walking simulators than other games of the same era, though The Journeyman Project (from around the same time) was at least a little similar.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-lacool even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-1641419">
+<div id="comment-1641419">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/f9f72d1d0ca514e13392794d07c74540?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/f9f72d1d0ca514e13392794d07c74540?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641419">01/08/2014 at 14:11</a>
+</span>
+<cite class="fn">Lacool</cite> <span class="says">says:</span></span>
+</p>
+<p>Pretty hard to take a recommendation on a Myst-like from a guy who spends the first 2 paragraphs saying how horrible the originals all were? So confusing&#8230;..</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-deano2099 odd alt depth-2 comment-role-subscriber" id="li-comment-1641853">
+<div id="comment-1641853">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/9743be403ec2b5b12d23b609003f66d3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/9743be403ec2b5b12d23b609003f66d3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641853">01/08/2014 at 20:39</a>
+</span>
+<cite class="fn">Deano2099</cite> <span class="says">says:</span></span>
+</p>
+<p>It&#8217;s not really anything like Myst, to be fair.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-baf even thread-even depth-1 comment-role-subscriber" id="li-comment-1641741">
+<div id="comment-1641741">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e296eba5f48e66bbcd123b59ec2dc936?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e296eba5f48e66bbcd123b59ec2dc936?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1641741">01/08/2014 at 18:41</a>
+</span>
+<cite class="fn"><a href='http://wurb.com/stack/' rel='external nofollow' class='url'>Baf</a></cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;ve played the iPad version. There are a couple of places in it which involve tilting the device you&#8217;re playing it on, which was a terrible design decision. Worse, it springs this on you unexpectedly and without telling you. They just expect you to notice that tilting the tablet has in-game effects in these two places, and that assumes a lot about the context in which you&#8217;re playing it.</p>
+<p>Obviously the PC version can&#8217;t do this, so that&#8217;s got to be an improvement. But I&#8217;m left wondering what they do instead.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-enkinan odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-1643525">
+<div id="comment-1643525">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/716aee26928cce40436cff1ba23f527b?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/716aee26928cce40436cff1ba23f527b?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2014/07/31/the-room-review/#comment-1643525">04/08/2014 at 19:13</a>
+</span>
+<cite class="fn">Enkinan</cite> <span class="says">says:</span></span>
+</p>
+<p>Thanks for the WOT, this was an enjoyable game.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ol>
+<div class="pagination">
+</div>
+</div>
+</div>
+</div>  
+<ul id="sidebar" class="hidden-mobile hidden-tablet">
+<li id="rpstagsearch-2" class="widget-container RPSTagSearch"> <div id="affiliate-disclaimer">
+<h4>Disclaimer</h4>
+<div class="disclaimer"><p><small>If you click our links to online stores and make a purchase we may receive a few pennies. Find more information <a href="/affiliate-linking-policy/">here</a>.</small></p></div>
+</div>
+<h4>Tags</h4>
+<p class="tags"><a href="https://www.rockpapershotgun.com/tag/feature/" rel="tag">feature</a>, <a href="https://www.rockpapershotgun.com/tag/fireproof-games/" rel="tag">Fireproof Games</a>, <a href="https://www.rockpapershotgun.com/tag/review/" rel="tag">review</a>, <a href="https://www.rockpapershotgun.com/tag/the-room/" rel="tag">The Room</a>, <a href="https://www.rockpapershotgun.com/tag/wot-i-think/" rel="tag">wot i think</a>.</p>
+<h4 class="widget-title">Search <span>for clues</span></h4>
+<form method="get" action="/" id="tagsearch">
+<fieldset>
+<input type="hidden" name="valuesUrl" id="valuesUrl" value="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/values.php"/>
+<input type="text" name="tagsearchtext" id="tagsearchtext" placeholder="Search for a tag" style="width:230px"/>
+<input type="submit" class="submit primary" value="Go"/>
+</fieldset>
+</form>
+</li><li id="rpsadblock-2" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<style>*{margin:0;padding:0;border:0;}</style>
+ 
+<style>.home.infinite-scroll #sidebar #div-ga-RPS_MPU_MOB{display:none!important;}</style>
+ 
+<style>.rps-carousel article .text{right:0;}.entry a{font-weight:bold;text-decoration:none;}div.content div.block p.featured-block-title,div.content div.block p.premium-block-title,div.content div.block p.giveaway-block-title{min-height:32px;}p.giveaway-block-title span{background-image:url(/wp-content/themes/rockpapershotgun2013/images/giveaway-title-bg.png);background-size:77px 15px;padding-left:0;}div.content div.block p.giveaway-block-title{padding-right:15px;}</style>
+ 
+ 
+<style type="text/css">#rps-article-carousel .navigation:after{background-image:url(/wp-content/plugins/rps-article-carousel/carousel-arrows.png);}@media screen and (max-width: 665px) {#header .logo a{background-image:url(/wp-content/themes/rockpapershotgun2013/images/logo-single-line.png);}}</style>
+ 
+<style type="text/css">.infinite-wrap .rps-carousel-container{display:none;}</style>
+<script>
+jQuery(document).ready(function () {
+    jQuery('a[href="https://twitter.com/asponge"]').remove();
+});
+</script>
+ 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_1" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_1"></div>
+ 
+</div>
+</li><li id="rpsnews-2" class="widget-container RPSNews"><h4 class="widget-title">News <span>and things</span></h4>
+<ul class="no-bullets thumbs">
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/" rel="bookmark" title="Come see developer sessions this week at EGX Rezzed"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/kenlevine.jpg&w=50&h=50&cc=#000" alt="Come see developer sessions this week at EGX Rezzed"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/" rel="bookmark" title="Come see developer sessions this week at EGX Rezzed">
+Come see developer sessions this week at EGX Rezzed </a></h5>
+<p>They look quite good</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/" rel="bookmark" title="Rumour! Call of Duty: WW2 is real, and a real bad name"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/28cod.jpg&w=50&h=50&cc=#000" alt="Rumour! Call of Duty: WW2 is real, and a real bad name"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/" rel="bookmark" title="Rumour! Call of Duty: WW2 is real, and a real bad name">
+Rumour! Call of Duty: WW2 is real, and a real bad name </a></h5>
+<p>PING!</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/dark-souls-3-the-ringed-city-dlc-released/" rel="bookmark" title="Dark Souls 3 now concluded in The Ringed City"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/28darksouls3ringed.jpg&w=50&h=50&cc=#000" alt="Dark Souls 3 now concluded in The Ringed City"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/dark-souls-3-the-ringed-city-dlc-released/" rel="bookmark" title="Dark Souls 3 now concluded in The Ringed City">
+Dark Souls 3 now concluded in The Ringed City </a></h5>
+<p>This is the end</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/" rel="bookmark" title="Destiny 2 announced, but why do we care?"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/destiny2.jpg&w=50&h=50&cc=#000" alt="Destiny 2 announced, but why do we care?"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/" rel="bookmark" title="Destiny 2 announced, but why do we care?">
+Destiny 2 announced, but why do we care? </a></h5>
+<p>Dest2ny</p> </li>
+<li class="more"><a href="https://www.rockpapershotgun.com/category/pc-game-news/"><strong>And much more&hellip;</strong></a></li>
+</ul>
+<div class="clear"></div>
+</li><li id="autofeature-2" class="widget-container AutoFeature">
+<a data-id="422987" class="widget-link invert-widget" id="autofeature-422987" href="https://www.rockpapershotgun.com/2017/01/13/the-50-best-fps-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/may/wasd3header3.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best FPS On PC</h4>
+<p>The Worthiest Reticules Of All Time</p> </a>
+</li><li id="autofeature-3" class="widget-container AutoFeature">
+<a data-id="437667" class="widget-link " id="autofeature-437667" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/rainworld_wit_1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Rain World</h4>
+<p>The 5175th series of Planet Earth </p> </a>
+</li><li id="rpstagaz-2" class="widget-container RPSTagAZ"><h4 class="widget-title">Browse <span>our tags</span></h4>
+<ul class="tag-list tag-list--alphabet">
+<li><a href="/tags?letter=a">A</a></li>
+<li><a href="/tags?letter=b">B</a></li>
+<li><a href="/tags?letter=c">C</a></li>
+<li><a href="/tags?letter=d">D</a></li>
+<li><a href="/tags?letter=e">E</a></li>
+<li><a href="/tags?letter=f">F</a></li>
+<li><a href="/tags?letter=g">G</a></li>
+<li><a href="/tags?letter=h">H</a></li>
+<li><a href="/tags?letter=i">I</a></li>
+<li><a href="/tags?letter=j">J</a></li>
+<li><a href="/tags?letter=k">K</a></li>
+<li><a href="/tags?letter=l">L</a></li>
+<li><a href="/tags?letter=m">M</a></li>
+<li><a href="/tags?letter=n">N</a></li>
+<li><a href="/tags?letter=o">O</a></li>
+<li><a href="/tags?letter=p">P</a></li>
+<li><a href="/tags?letter=q">Q</a></li>
+<li><a href="/tags?letter=r">R</a></li>
+<li><a href="/tags?letter=s">S</a></li>
+<li><a href="/tags?letter=t">T</a></li>
+<li><a href="/tags?letter=u">U</a></li>
+<li><a href="/tags?letter=v">V</a></li>
+<li><a href="/tags?letter=w">W</a></li>
+<li><a href="/tags?letter=x">X</a></li>
+<li><a href="/tags?letter=y">Y</a></li>
+<li><a href="/tags?letter=z">Z</a></li>
+<li><a href="/tags?letter=0-9">#</a></li>
+</ul>
+</li><li id="bdp-comments" class="widget-container widget_bdp_comments"><h4 class="widget-title">Respond <span>to our gibber</span></h4><ul id="widget_bdp_comments_ul">
+<li>Hieronymusgoa</a> : &ldquo;Totally with you on that one. I play indie games 90% of the time, apart ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/17/have-you-played-dragon-age-inquisition/#comment-2409217'>Have You Played… Dragon Age: Inquisition?</a></li>
+<li>SuicideKing</a> : &ldquo;I wish you'd talk to Eugen too, about Steel Division, being published by Paradox, etc. ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/#comment-2409215'>Come see developer sessions this week at EGX Rezzed</a></li>
+<li>ZX k1cka55 48K</a> : &ldquo;Just read the Changelog in disgust without realizing that it's just a joke, because it ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/#comment-2409213'>The RPG Scrollbars: Predicting Planescape</a></li>
+<li>Chromatose</a> : &ldquo;I was a complete sad-sack and purchased an Xbox 360 especially to play Destiny. Sure, ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/#comment-2409211'>Destiny 2 announced, but why do we care?</a></li>
+<li>Drib</a> : &ldquo;Missed an opportunity for "Call of 2dy 2: WW2"&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/#comment-2409209'>Rumour! Call of Duty: WW2 is real, and a real bad name</a></li>
+</ul>
+</li><li id="rpsadblock-3" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_2" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_2" data-ghost-zone="59"></div>
+ 
+</div>
+</li><li id="autofeature-14" class="widget-container AutoFeature">
+<a data-id="413239" class="widget-link invert-widget" id="autofeature-413239" href="https://www.rockpapershotgun.com/2016/11/18/the-50-best-strategy-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/apr/stratheader.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 best strategy games on PC</h4>
+<p>Hit Parade</p> </a>
+</li><li id="autofeature-15" class="widget-container AutoFeature">
+<a data-id="432371" class="widget-link " id="autofeature-432371" href="https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/feb/plane1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The RPG Scrollbars: Predicting Planescape</h4>
+<p>The long awaited follow-up to Forgotten Realms: Baldur's Gate</p> </a>
+</li><li id="autofeature-4" class="widget-container AutoFeature">
+<a data-id="437233" class="widget-link " id="autofeature-437233" href="https://www.rockpapershotgun.com/2017/03/27/the-best-games-of-my-lifetime-year-by-year-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/chartists.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of *my* lifetime, year by year</h4>
+<p>A list, probably wrong</p> </a>
+</li><li id="autofeature-13" class="widget-container AutoFeature">
+<a data-id="408185" class="widget-link invert-widget" id="autofeature-408185" href="https://www.rockpapershotgun.com/2016/10/31/the-50-best-free-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/dec/awardsheader_small.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best Free Games On PC</h4>
+<p>No free-to-play, just free.</p> </a>
+</li><li id="autofeature-12" class="widget-container AutoFeature">
+<a data-id="437071" class="widget-link " id="autofeature-437071" href="https://www.rockpapershotgun.com/2017/03/26/the-sunday-papers-443/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/sep/papers2.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The Sunday Papers</h4>
+<p>Read more</p> </a>
+</li><li id="autofeature-10" class="widget-container AutoFeature">
+<a data-id="437303" class="widget-link " id="autofeature-437303" href="https://www.rockpapershotgun.com/2017/03/25/best-free-games-of-the-week-46/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/mar/gabey.png&w=280&h=112&zc=11" alt=""/>
+<h4>Gabe Newell to write, direct and star in Half-Life movie</h4>
+<p>NEWS ALERT. NEWS ALERT</p> </a>
+</li><li id="autofeature-9" class="widget-container AutoFeature">
+<a data-id="373643" class="widget-link invert-widget" id="autofeature-373643" href="https://www.rockpapershotgun.com/2016/06/15/if-only-text-adventures-for-people-who-hate-guessing-the-verb/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jun/superluminalvagrant.jpeg&w=280&h=112&zc=11" alt=""/>
+<h4>IF Only: Text Adventures For People Who Hate Guessing The Verb</h4>
+<p>Parsers Verbed</p> </a>
+</li><li id="autofeature-8" class="widget-container AutoFeature">
+<a data-id="436299" class="widget-link " id="autofeature-436299" href="https://www.rockpapershotgun.com/2017/03/25/whats-wrong-with-mass-effect-andromeda/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/mea.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Everything else that's wrong with Mass Effect Andromeda</h4>
+<p>A Galaxy Of Errors</p> </a>
+</li><li id="autofeature-7" class="widget-container AutoFeature">
+<a data-id="437299" class="widget-link " id="autofeature-437299" href="https://www.rockpapershotgun.com/2017/03/25/what-to-play-this-weekend-28/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/nov/wypalice.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>What are we all playing this weekend?</h4>
+<p>WELL?</p> </a>
+</li><li id="autofeature-5" class="widget-container AutoFeature">
+<a data-id="359811" class="widget-link invert-widget" id="autofeature-359811" href="https://www.rockpapershotgun.com/2016/04/13/build-engine-duke-nukem-blood-shadow-warrior/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/apr/build1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Blood, Sweat & Laughter: The Beauty Of The Build Engine</h4>
+<p>2.5D remembered.</p> </a>
+</li><li id="autofeature-6" class="widget-container AutoFeature">
+<a data-id="437049" class="widget-link " id="autofeature-437049" href="https://www.rockpapershotgun.com/2017/03/24/future-unfolding-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/futureunfolding1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Future Unfolding</h4>
+<p>A trip through nature</p> </a>
+</li><li id="autofeature-11" class="widget-container AutoFeature">
+<a data-id="436887" class="widget-link " id="autofeature-436887" href="https://www.rockpapershotgun.com/2017/03/24/kona-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/kon8.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Survival meets adventure in Kôna</h4>
+<p>Chilling</p> </a>
+</li><li id="autofeature-16" class="widget-container AutoFeature">
+<a data-id="347951" class="widget-link invert-widget" id="autofeature-347951" href="https://www.rockpapershotgun.com/2016/02/19/xcom-2-guide/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/feb/sectoid.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>XCOM 2 Guide To Strategy, Performance, Mods & More</h4>
+<p>Everything you need to know.</p> </a>
+</li><li id="autofeature-17" class="widget-container AutoFeature">
+<a data-id="435671" class="widget-link " id="autofeature-435671" href="https://www.rockpapershotgun.com/2017/03/24/warframe-bard-update/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/warframe1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Warframe: now a game of music-making as well as action</h4>
+<p>Digital Extremes explain Octavia's Anthem</p> </a>
+</li><li id="autofeature-18" class="widget-container AutoFeature">
+<a data-id="437087" class="widget-link " id="autofeature-437087" href="https://www.rockpapershotgun.com/2017/03/24/the-best-games-of-my-lifetime-year-by-year/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/lifegames.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of my lifetime, year by year</h4>
+<p>This is my life (in games)</p> </a>
+</li><li id="autofeature-19" class="widget-container AutoFeature">
+<a data-id="342317" class="widget-link invert-widget" id="autofeature-342317" href="https://www.rockpapershotgun.com/2016/01/21/best-fallout-4-mods-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jan/falloutsettlementanywhere.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best Fallout 4 Mods</h4>
+<p>For graphics, weapons, the UI and more.</p> </a>
+</li><li id="autofeature-20" class="widget-container AutoFeature">
+<a data-id="437013" class="widget-link " id="autofeature-437013" href="https://www.rockpapershotgun.com/2017/03/24/best-pc-gaming-deals-of-the-week-26/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/oct/12hitmanjapan.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best PC gaming deals of the week</h4>
+<p>Square and 2K go Humble</p> </a>
+</li><li id="autofeature-21" class="widget-container AutoFeature">
+<a data-id="436917" class="widget-link " id="autofeature-436917" href="https://www.rockpapershotgun.com/2017/03/23/making-dungeon-crawl-stone-soup-with-253-cooks-and-no-head-chef/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/crawl1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Making Dungeon Crawl Stone Soup with 253 cooks and no head chef</h4>
+<p>One of the best roguelikes, one of the strangest dev teams</p> </a>
+</li>
+</ul>
+</div>  
+<div id="skyscraper">
+ 
+<div class="ad-hd ad-halfpage" data-dfp-id="RPS_HP" data-dfp-sizes="160x600,300x600" id="div-ga-RPS_HP" data-ghost-zone="26"></div>
+ 
+</div>  
+</div>  
+</div>  
+<div id="footer">
+<div class="container">
+<div id="footer-content">
+<div class="footer-col">
+<h4>All our stuff <span>and things</span></h4>
+<ul>
+<li><a href="/">home</a></li>
+<li><a href="/about-pc-gaming-rps/">about</a></li>
+<li><a href="/advertise-pc-games/">advertise</a></li>
+<li><a href="/hey-prs-and-developers/">hey, developers!</a></li>
+<li><a href="/supportrps/">support RPS</a></li>
+<li><a href="/forums/">forums</a></li>
+</ul>
+<ul>
+<li><a href="http://steamcommunity.com/groups/rps">steam group</a></li>
+<li><a href="https://twitter.com/rockpapershot">twitter</a></li>
+<li><a href="https://www.facebook.com/rockpapershot">facebook</a></li>
+<li><a href="http://rps.libsyn.com/">podcast</a></li>
+<li><a href="http://feeds.feedburner.com/RockPaperShotgun">rss</a></li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Rock, Paper, Shotgun <span>was</span></h4>
+<ul style="width:180px;">
+<li>
+<a href="mailto:graham@rockpapershotgun.com">Graham Smith</a>
+<a href="https://twitter.com/gonnas" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alec@rockpapershotgun.com">Alec Meer</a>
+<a href="https://twitter.com/bonzrat" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://www.bonzrat.co.uk/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:john@rockpapershotgun.com">John Walker</a>
+<a href="https://twitter.com/botherer" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://botherer.org/blog/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:adam@rockpapershotgun.com">Adam Smith</a>
+<a href="https://twitter.com/noneconomical" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alice@rockpapershotgun.com">Alice O'Connor</a>
+</li>
+<li>
+<a href="mailto:pip@rockpapershotgun.com">Philippa Warr</a>
+<a href="https://twitter.com/philippawarr" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Info <span>and appendices</span></h4>
+<ul style="width:300px;">
+<li>&copy; 2007-2017 <a href="/">Rock Paper Shotgun</a> Ltd.</li>
+<li>Designed by Jonathan Sutcliffe.</a></li>
+<li>Hosted by <a href="http://www.positive-internet.com/">Positive Internet.</a></li>
+<li>Today's scotch egg consumption: 4378</li>
+<li>Hivemind Throbometer reading: 1.918%</li>
+<li class="write-to-rps">Write to RPS <a href="mailto:contact@rockpapershotgun.com">contact@rockpapershotgun.com</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<div id="eg-network" class="hidden-mobile">
+<div class="inner"></div>
+<div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+            jQuery(function(){
+                jQuery('#eg-network .inner').load('https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/eg-footer.php');
+            });
+        </script>
+</div>
+</div>
+ 
+<script type='text/javascript'>
+    
+        jQuery(document).ready(function() {
+
+            var custom_variables = {};
+            custom_variables['source'] = 'article';
+            custom_variables['url'] = document.location.pathname.substr(0, 40);
+            custom_variables['tags'] = "featured-articles,pc-game-reviews,feature,fireproof-games,review,the-room,wot-i-think";
+                            custom_variables['games'] = "the-room";
+                        
+            try {
+                jQuery('.ad-tablet .ad-desktop, .ad-mobile, .ad-hd').getDFPads({'custom_variables' : custom_variables});
+            } catch(e) {
+                                    yafaIt();
+                                }
+
+            var lazyloading = true;
+           
+            function lazyloadAds() {
+                lazy_mpus = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus.length == 0) {
+                    lazyloading = false; 
+                    clearInterval(lazyloadInterval);
+                } else {
+                    for ( var i = 0; i < lazy_mpus.length; i++ ) {
+                        mpu_pos = jQuery(lazy_mpus[i])[0].getBoundingClientRect();
+                        if(mpu_pos['top'] < 1300 && lazyloading == true){
+                            jQuery(lazy_mpus[i]).getDFPads({'custom_variables' : custom_variables});   
+                            jQuery(lazy_mpus[i]).removeClass('lazyload').addClass('lazyloaded');                 
+                        }
+                    }    
+                }            
+            }
+
+            if(custom_variables['source'] == 'article'){
+                lazy_mpus_check = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus_check.length > 0) {
+                    var lazyloadInterval = setInterval(lazyloadAds, 300);
+                }
+            }
+
+        });
+
+    </script>
+ 
+<script type="text/javascript" src="//s.skimresources.com/js/87431X1560958.skimlinks.js"></script>
+ 
+ 
+<script>
+        function yafaIt() {
+            var ads = document.querySelectorAll('[data-dfp-id]');
+            for(var i = 0;i < ads.length;i++)
+            {
+				var ad = ads[i];
+				if( ad.hasAttribute("data-yafa-img") ) {
+					var yafa_click = ad.getAttribute("data-yafa-click");
+					var yafa_img = ad.getAttribute("data-yafa-img");
+					var yafa_target = ad.getAttribute("data-yafa-target");
+					var yafa_style = ad.getAttribute("data-yafa-style");
+					var yafa_linktarget = ad.getAttribute("data-yafa-linktarget");
+					var yafa_linkheight = 0;
+					if( ad.hasAttribute("data-yafa-linkheight") ) {
+						yafa_linkheight = ad.getAttribute("data-yafa-linkheight");
+					}
+					var tgt = jQuery(yafa_target);
+					tgt.attr(
+						'style', 'background-image: url(' + yafa_img + ');' + yafa_style
+					);
+					jQuery('html').bind('mousemove', function(e) {
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							jQuery('html').css({ 'cursor' :'pointer' });
+						} else {
+							jQuery('html').css({ 'cursor' :'auto' });
+						}
+					});
+					jQuery('html').bind('click', function (e) { 
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							window.open(yafa_click,'_top');
+						}
+					});
+				}
+                jQuery(ad).hide();
+            }
+        }
+		</script>
+ 
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",opacity:0.8,loop:false,scrolling:false,top:false,right:false,bottom:false,left:false});
+});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ecd_params = {"cookie_message":"Rock Paper Shotgun uses cookies. For some reason we are now obliged to notify you of this fact. Not that you care. <a href=\"\/privacy-stuff\">More info here<\/a>.","cookies":{"0":{"name":"wp-settings-3","group":"WordPress","description":""},"1":{"name":"wp-settings-time-3","group":"WordPress","description":""},"2":{"name":"wordpress_test_cookie","group":"WordPress","description":""},"3":{"name":"__utma","group":"Google Analytics","description":""},"4":{"name":"__utmb","group":"Google Analytics","description":""},"5":{"name":"__utmc","group":"Google Analytics","description":""},"6":{"name":"__utmv","group":"Google Analytics","description":""},"7":{"name":"__utmz","group":"Google Analytics","description":""},"9":{"name":"","group":"","description":""}}};
+var ecd_cookies = [{"name":"wp-settings-3","description":"","group":"WordPress"},{"name":"wp-settings-time-3","description":"","group":"WordPress"},{"name":"wordpress_test_cookie","description":"","group":"WordPress"},{"name":"__utma","description":"","group":"Google Analytics"},{"name":"__utmb","description":"","group":"Google Analytics"},{"name":"__utmc","description":"","group":"Google Analytics"},{"name":"__utmv","description":"","group":"Google Analytics"},{"name":"__utmz","description":"","group":"Google Analytics"}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/script.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var infinite = {"ajax_url":"https:\/\/www.rockpapershotgun.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/rps-feature-stepper/infinite-features.js?ver=1.0'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201713'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type="text/javascript">
+			var bwpRecaptchaCallback = function() {
+				// render all collected recaptcha instances
+			};
+		</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=bwpRecaptchaCallback&#038;render=explicit" async defer></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc1fd178d1","applicationID":"26676767","transactionName":"MwBUZUZXWkpZAkMNCQpKd1JAX1tXFxJeCgEIAA==","queueTime":0,"applicationTime":1925,"atts":"H0dXEw5NSUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

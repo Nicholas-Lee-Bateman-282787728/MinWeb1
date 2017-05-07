@@ -1,0 +1,18 @@
+./html_data_bitcoins/virtual-currencies-included-amendments-eu-anti-money-laundering-directive.txt
+
+
+
+CryptoCoinsNews
+Amendments to the European Union anti-money laundering law places virtual currencies under the same obligations as other payment institutions, according to the European Parliament news service. The MEPs recently agreed to the amendments by a vote of 89 to 1.
+The amendments approved by the Economic and Monetary Affairs and Civil Liberties committees are designed to eliminate gaps in the EU’s laws to prevent money laundering and terrorism financing. The law would also include stricter rules to prevent tax evasion.
+EU citizens will be able to access beneficial ownership registers of companies without demonstrating a legitimate interest in the information. The law presently restricts access to journalists and lobbyists.
+Trusts and other legal arrangements similar to trusts will have to meet the same transparency rules as companies, including identifying beneficial owners.
+Judith Sargentini of the Greens/EFA, NL said shelf companies and complex structures have made it easy for people to conceal money. A public register for trusts and companies will provide transparency for such structures.
+Custodian wallet providers and virtual currency platforms are covered under the directive. While virtual currencies account for only a small amount of financial activity, there are about 70,000 such transactions per day, according to the European Central Bank. The European Banking Authority and some EU member states say virtual currencies pose a risk.
+Virtual currency platforms will have the same requirements as other payment institutions to scrutinize customers under the amendments. They will have to verify identity and monitor transactions to prevent being used to launder criminal proceeds.
+MEPS supported lowering the threshold for identification requirements from €250 to €150 in order to discourage the use of anonymous tools such as prepaid cards for sending proceeds from criminal activities.
+Also read: The European Union wants to identify bitcoin users
+Krisjanis Karins, EPP LV, said criminals still use anonymity to launder illicit proceeds and to finance terrorism, and rules regulating virtual currencies and anonymous prepaid cards must be stronger.
+The amendments also seek to streamline coordination among member states to fight money laundering and terrorism financing, in addition to streamlining the checks institutions make across the EU and improving information flow among states’ intelligence units.
+Parliament must now approve the measure in the March MEP plenary session to begin three-way talks with the EU Commission and Council.
+Image from Shutterstock.

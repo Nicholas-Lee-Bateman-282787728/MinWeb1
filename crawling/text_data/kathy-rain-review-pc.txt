@@ -1,0 +1,225 @@
+
+RPS Feature
+Drizzle or downpour? 
+By John Walker on May 9th, 2016 at 5:00 pm.
+
+Kathy Rain [official site] is the first adventure from Clifftop Games (Joel Staaf Hästö), the story of a journalism student investigating the strange circumstances of the last few years of her grandfather’s life. I previewed it last month and was really impressed. Will that continue for the full game? Here’s wot I think:
+
+I think possibly my favourite aspect of Kathy Rain – a traditional point-n-click adventure built in the pixelly AGS engine – is that for a really long time I couldn’t guess in which direction it was heading.
+Would the mid 90s-set tale be “Mysterious goings on turn out to have rational explanation”? Or “Ordinary world turns out to be invaded by science fiction?” Or something in between. Clearly I’m not going to tell you, and as such, am somewhat limited in sharing the full details of what makes the story so interesting with you. But let me take you as far as is safe…
+
+Kathy Rain is a journalism student, a disaffected and faux-rebellious 20-something, with the apparent roommate from hell – a diligent and pious Christian girl who attempts to bring order to Kathy’s days. Which appears to involve a good deal of intrusion into her private life, including learning that Kathy’s estranged grandfather has just died, with a funeral taking place the next day.
+Kathy, always fond of her grandfather but long separated from her family, decides to attend, and for the first time in many years talks to her widowed grandmother. A grandmother who reveals there was more to her granddad’s death, including recent years spent in an unexplained catatonic state. Kathy’s journalistic ambitions kick in, and she becomes determined to dig through the secrets of her small home town to learn exactly what had been going on.
+What follows is a pleasingly traditional adventure, complete with inventory, multiple options for interacting with many scenery items, and a good dose of in-context puzzles to solve, as well as lots and lots of conversation. Which makes it quite a relief that for the most part it’s very well written, and throughout superbly acted. Occasional florid writing does make a few scenes a little silly, and the local priest’s habit of saying, “My child” in every sentence is extremely embarrassing, but these are few and far between. There’s also the splendid inclusion of a “think about” option for lots of items, which is something I’d love to see more adventures copying.
+For a good long while this really holds itself together, with solutions to puzzles opening up options for the next (this sounds so obvious, but boy is it rare in adventure games these days, with the majority appearing to be constructed out of dead ends), and a broad cast of characters each offering snippets of the story you piece together. And the puzzles are fair, perhaps leaning toward the easier side, but still interesting.
+
+A little after the halfway mark, things get a touch looser. It reaches a point where rather than exploring new locations and finding new items, your task is really only to go from place to place putting new conversation options to old characters, trying to find the one who’ll unlock the next. It’s at this point that the game’s very slow movement speed can start to grate, and unfortunately there’s no slider to speed things up (nor any double-clicking to teleport to exits). Heading to a previous location just in case, and having to sit through the glacial arrival animations, only to discover there’s nothing new there, is galling.
+And very near the end there are a couple of puzzles that are… not ideal. One in particular involving a poem will have people reaching for walkthroughs and painkillers, primarily because it’s far too open to ambiguous interpretation.
+However, countering that are some puzzles that made me feel like Mr Clever Clogs for solving, lovely details where paying attention to one thing gives you a ‘click!’ moment elsewhere, and you pat yourself on the back for being so excellent. And as I’ve said earlier, the high quality of the characters and acting adds a great deal even through the leaner sections, making this quite a feat for a low budget, small team execution.
+The story touches on subjects that will be difficult for some, I imagine. There was one particular scene that had me gnaw on a knuckle for fear of what it might be about to say (which it then handled in a mature and interesting way), and there’s a rare gaming appearance for the word “cunt”, in a very aggressive manner. Which is to say, this is for adults. Good.
+
+Comparisons with Wadjet Eye games will be immediate, if only because this is a for-sale game made with AGS with gorgeous background art, strong writing, and pixel characters that look barely anything like their close-up profiles. Uncanny. And those comparisons are well earned! This is up there with the likes of Technobabylon and Shardlight, and Wadjet’s Dave Gilbert provided the splendid voice direction.
+I think the ending could have been better embellished, provided a little more closure and be a bit less rushed. And gosh does it desperately need speeding up a mite. But I had a splendid time with Kathy Rain, and thoroughly enjoyed a game where I couldn’t see where it might be heading. Kathy proves a complex and interesting character, and, well, I thoroughly enjoyed playing it. Which is the simplest recommendation of them all.
+Kathy Rain is out now (which someone might want to tell publishers Raw Fury, who still have it as a “pre-order” on their site), via Steam, GOG and Humble.
+
+
+09/05/2016 at 19:53
+
+Phasma Felis says: 
+
+
+09/05/2016 at 17:24
+
+daphne says:
+
+Was looking forward to your take on this. Probably won’t be buying it just now (due to a combination of Final Fantasy IX, Stellaris, Blood and Wine, and No Man’s Sky) but will, eventually. Thank you.
+
+14/05/2016 at 00:04
+
+LessThanNothing says:
+
+Thank you for documenting exactly why you won’t be playing the game, everyone was wondering
+
+09/05/2016 at 18:22
+
+Shazbut says:
+
+Does anyone have any strong opinions about which is most worth my time out of the following games? They all seem very good but is one of them actually very very very good?
+Kathy Rain
+Nelly Cootalot: The Fowl Fleet
+Technobabylon
+Shardlight
+Samarost 3
+
+09/05/2016 at 19:50
+
+John Walker says:
+
+Yes.
+
+09/05/2016 at 20:17
+
+megazver says:
+
+I’d say Technobabylon is probably the best of these, but they’re all good.
+
+10/05/2016 at 08:58
+
+polecat says:
+
+I’ve played Technobabylon, Shardlight and Kathy Rain and they’re all well worth your time. Differences too subjective to dwell on – if you want one to start with I’d just pick the one whose theme/aesthetic you click with most naturally.
+
+10/05/2016 at 12:12
+
+Capt. Bumchum McMerryweather says:
+
+Arharharharhar! Click! I see what you did there!
+
+10/05/2016 at 18:27
+
+polecat says:
+
+Argh! Stop making point-ed comments. Seriously, the first one wasn’t intentional :-)
+
+09/05/2016 at 18:38
+
+klops says:
+
+I liked the game and agree with this review. It was very easy compared to traditional point n’ click adventure games. Perhaps too easy, but nowadays I wouldn’t have the patience to get stuck for days or weeks or the willpower not to read walkthroughs from the internet, so most likely that’s a good thing. The lack of real puzzles and too much reliance on talking about different topics with different (the same old) characters was a part that I wish Kathy Rain 2 would do much better.
+I also found it pleasing that I was completely wrong about the plot that I thought was predictable, so I agree on Walker’s favourite part. Didn’t like the way things turned out to be that much but liked that I didn’t expect it.
+
+09/05/2016 at 19:53
+
+Phasma Felis says:
+
+This is a sequel to Heavy Rain, right? They really dialed back the system requirements.
+
+09/05/2016 at 20:05
+
+Risingson says:
+
+Frankly, I’m finding the puzzles pretty boring. If there is no challenge in them, it feels like Skyrim: just a matter of patience, not challenge.
+For the rest the heart is the right place. And the writing is never as embarrassing as in Gemini Rue (a game much better in challenge)
+
+09/05/2016 at 21:07
+
+Epicedion says:
+
+It’s.. decent? I ran through it in 4 hours, which seems really short for an adventure game, but the last time I played a good adventure game was probably in the 90s.
+The short version is: it’s no Gabriel Knight.
+Parts of the story are really childish. There are a few clever puzzles, and like John said, the ‘click!’ moments are really great, but the part of the game where the story goes from Lynch to Cronenberg is pretty goofy, especially since it starts sort of Lifetime. And then there are a couple parts where, out of the blue, the game gets really seriously ‘WARNING: ADULT THEMES’ like a slap in the face. Then there’s the part where you _____ your ____ in the ____ with a _______ and then two seconds later say, “Ooh, refrigerator magnets!”
+It’s rocky, it’s short, it’s got a lot going for it at times and will make your cringe at other times, and I enjoyed playing it when there was a mystery but I didn’t enjoy the complete package once I saw all the moving parts.
+
+09/05/2016 at 21:52
+
+Risingson says:
+
+Now, why do you all defend an challenge-less adventure as the way it should be? I miss more variety. It’s like all rpgs had only warriors to select.
+
+09/05/2016 at 21:55
+
+Risingson says:
+
+Crap, don’t listen to me. Comedown. Big one.
+
+10/05/2016 at 06:40
+
+Kala says:
+
+I suspect a combination of less time and patience when ageing up…but then, I’ve never had any patience for puzzles at any time of life, so I’m probably the wrong person to speculate ;p
+
+10/05/2016 at 00:04
+
+Michael Fogg says:
+
+I like the mid-2000s ‘scene girl’ heroine. Is that a shade of duckface in the portrait?
+
+10/05/2016 at 01:44
+
+April March says:
+
+Th… that’s clearly a smirk! How dare you ;_;
+
+10/05/2016 at 02:45
+
+manny says:
+
+Coloured hair, knee high boots, leather jacket, studying journalism. Could you get any more feminist rps? Stop getting penetrated.
+
+10/05/2016 at 06:39
+
+Kala says:
+
+Gosh. Aren’t we easily threatened.
+
+10/05/2016 at 07:04
+
+Aitrus says:
+
+Guessing s/he was joking?
+
+10/05/2016 at 07:32
+
+Kala says:
+
+Would be nice to think so. Apologies to manny if that was, in fact, a well-observed parody.
+
+11/05/2016 at 06:31
+
+manny says:
+
+Ok, didn’t know she rode a motorcycle, but studying journalism is stupid and narcissistic, so no excuses for that one.
+
+10/05/2016 at 07:38
+
+Harlander says:
+
+I like the hair. The red tint makes it look like it’s underlit, like a small-town boy racer’s car.
+
+10/05/2016 at 09:11
+
+polecat says:
+
+Did anyone else clock quite a few Full Throttle references e.g. Corley Motors, specific bits of the biker bar… I really enjoyed this overall, thought the writing and acting were great. The difficulty level is relatively low but in the right range and it helps the narrative along. Bear in mind I have a preference for relatively few locations going at any one time since I think it helps puzzle focus, and it’s kept relatively tight here. I really enjoyed the variety of puzzle types – the computer ones particularly unexpected and fun, and loved the attention to detail like the DOS era startups. Awesome effort from a very small studio!
+
+11/05/2016 at 20:53
+
+roseerblooming says:
+
+I really, really enjoyed this game – I beat it in around two sittings. The one criticism I’d make of it other than the obvious ones is how the game handled it’s Mature Themes (TM) – while I actually did think that it charitably and non-problematically dealt with just about everything it invoked, I never really felt like the story gave any one of those Themes (TM) the space they needed to really explore how it’s characters process them. While I was actually really pleasantly surprised that The Emotionally Fraught Thing mentioned in the review was handled with good taste, it also felt like a complete non-sequitur from just about everything else that was happening in the story – what was there felt like flashes of a larger subplot that was never explained to us, even in an ambiguous or subtle fashion.
+(Minor spoilers ahead)
+Another minor thing that I thought could have been done better was that I feel like the game really botched the most successful aspects of it’s tone in it’s last act. Much of the gut-punches throughout the story worked so well because they were in a very Lynchian setting that placed absurd horror within the idyllic; and then I feel that the final stretch squandered a lot of that by going full-on hellish dreamscape which squandered a lot of it’s potential. The most horrifying moment in the game for me (even though I wouldn’t consider it a horror game) was the reveal when PERSON coerced VULNERABLE PERSON to do BAD THING to them – and the reason that moment worked was because it was a twisted human tragedy that tainted the way you see what is normally a safe and iconic space by forcing you to imagine that crime taking place in it. Later bits of the story tried the same deal with that corruption of familiar space, but in a much more literal, hamfisted way.
+It’s still a wonderful game though. Play it if you can.
+
+07/06/2016 at 20:53
+
+magnotta43 says:
+
+Kathy Rain is excellent. It is fan service all the way. It was obviously made by people with a deep love for the genre, and it shows.
+If I had to compare it to an old graphic adventure, I’d probably say the first Gabriel Knight, even though KR is absolutely it’s own game through and through. I can’t wait to see what these developers do next.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+adventure, Clifftop Games, feature, Kathy Rain, review, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

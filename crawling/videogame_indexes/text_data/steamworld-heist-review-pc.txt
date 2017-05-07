@@ -1,0 +1,153 @@
+./html_data/steamworld-heist-review-pc.html
+
+RPS Feature
+Pistons or pissed on? 
+By John Walker on June 7th, 2016 at 5:00 pm.
+
+Turn-based combat? On my watch?! Hmmmm, but SteamWorld Heist [official site] is the follow-up to the wonderful SteamWorld Dig. Can it be that I can tolerate such a concept? Here’s wot I think:
+
+SteamWorld Heist has never been what I was expecting. At its announcement I was expecting a follow-up to the superb SteamWorld Dig, a Metroid-meets-Spelunky-but-easier tale of a drilling robot on a water-starved planet. But instead it was announced to be a turn-based combat game set in space!
+When I went to preview the game at GDC last year, I played what I was told was an element of the game, the ship boarding, where your robot space captain and her crew would take it in turns to shoot enemy bots and salvage equipment – it was good fun, and, I was told, just an element of what the game would offer.
+So playing the finished version and discovering that, no, that was all it was going to offer was a little unexpected too. There was much talk of space exploration, improving your ship, and perhaps most of all, the enhancements offered by hats. None of its there, although entirely inert changeable hats remain. Engineers that took advantage of enemy ship components haven’t materialised, even having crewmates die and need to be replaced by new recruits isn’t a part of it. 
+
+But we cannot judge games on what they might have been, but rather on what they are, and I’m rather delighted to say that SteamWorld Heist as it is is rather lovely.
+Here’s what you’ve actually got – Captain Piper Faraday is a lean, mean pirate robot space captain, flying her trusty rust-heap with long-time pilot Wonky. As you play through the prescribed order of levels, navigated through what’s essentially a menu presented as a space map, you take on enemy ships with pre-determined goals, perhaps gathering loot, destroying machinery, or killing a boss character.
+The combat is taken in turns, but in a splendidly user-friendly way. Forget about action points and the like – it’s all represented pictorially, with yellow and blue lines drawn across the 2D side-scrolling levels showing you how far you can reach. Yellow is the distance you can go and still fire a weapon when you’re there, blue goes further but will end your turn. You’re going to want to choose a distance on either that puts you in cover, as enemies can spring out from behind doors, or after countdown timers expire turrets can descend from above.
+
+Enemies are similarly restricted, each character or enemy type with different distances they can reach, different weapon types equipped, and different special skills to deploy. As your crew grows larger, you can pick the characters best suited to how you like to approach the randomly generated levels, and see how many of them can survive until you reach an exit.
+Weapons are the game’s best feature, mostly aimed by eye, as you attempt to judge where you should aim for the best effect. If you’ve a shotgun with bullet spray, you might want to guess at halfway between two enemies for maximum damage, or with an arcing grenade launcher you could ensure it bounces off a back wall to roll behind a shield-wielding enemy bot. My favourite is the sniper rifle, which I keep in the hands of Faraday, that draws a line of its multiple-bouncing trajectory on screen, letting you take outrageously daft shots that ricochet seven times before blowing the cogs out of a robo-head. Making this more interesting are the gentle swaying movements of your team, meaning you have to judge the timing of when you fire as their arm almost imperceptibly bobs up and down – it all adds up to a really satisfying experience.
+
+The better you perform, the more loot you gather, and the more of your crew that survives the encounter, the more stars you’re awarded for a level. Stars increase your reputation, opening up extra areas on the map (as well as cleverly preventing your going too far ahead into ships for which you’re not yet strong enough). Each level can be replayed, with a different version of the ship layout generated but the same goals, until you’ve perfected them for extra stars and loot.
+Loot isn’t as complicated as I’d expected. Rather than upgrading weapons and armour, you simply replace. In a recognisable but simplified ARPG way, you simply look to see if a new gun offers more damage, or fewer restrictions, than the one each crew member is currently using, and swap out appropriately. Armour is stripped down to just vests, and these offer negligible extras, such as one more health point, optional along with other bonus items taken on a mission like health packs, bombs, etc. The only complication is your very limited inventory space to store your pool of items from which each crew member chooses – this is expanded by expensive new slots bought with the game’s currency, water. Don’t have enough and you’re forced to sell off some of what you’ve got to make room for new drops. It’s a clever mechanic that forces you to move on from older items you’ve kept just in case.
+
+As you play, you chat to your crew to flesh out the game’s story. It’s a tale of multiple evil factions attempting to control the galaxy in which you pirate your ways. There are Scrappers, mean mercenaries whose origins you must solve, the Royalists who serve the horrid Red Queen, and a mysterious alien presence lurks somewhere in the distance. Again, I was a little surprised that this is all presented in order, a series of defined levels, rather than explored by your choice of direction in the region. There are forks you can take for bonus missions, occasional side quests, but this is in the end a far more traditional design.
+Which is no bad thing! But there certainly does come a point where you move on from forgetting ideas that had been suggested during development, and onto recognising when something could have been so much more at release. Just as most who played SteamWorld Dig wished for an endless mode, a way to keep exploring farther and deeper rather than being moved on to newer sections to progress through its story, I feel the same longing here for a broader, less prescribed game that otherwise plays the same.
+Had the games bars been hubs – rather than dots on a straight line – from which missions were given and then completed by exploring the region, it would have felt a bigger, more open game. As it is, while immensely enjoyable, it feels needlessly restrictive in a way that’s hard to stop noticing.
+
+That’s not to say it doesn’t evolve. As you recruit new crew members from bars (once your reputation is high enough to interest them), they bring different skills to your table. And levelling characters up (XP is shared amongst whichever robots you take on a mission (who survive it) provides them with new abilities that can also affect your tactics. Faraday, for instance, gets an Influence ability that makes other robots more powerful if stood close to her – it makes bunching up far more advantageous, although still very risky. Level her up more and she might unlock an improved version of this, letting influenced bots stand slightly farther away.
+It’s also very pretty. With similar graphics to Dig (much more so than what we saw a year ago, which was grimier and less appealing), it’s bright and gorgeously animated. Oh, and there are loads of songs! Songs in bars, songs when you successfully kill certain enemies – this is not to be underrated.
+
+I’m having a lovely time playing the game, keeping the difficulty at a level I find enjoyable. You can put it up or down for any mission, which is ace as it does become a little too easy on Regular after a bit. Pushing it up to Experienced means you need to play a little harder, and there’s still Veteran and Elite above that.
+But I also can’t help but think how much more the game could have been with a little more variety. Perhaps it’s something to do with its 3DS origins, but it really does seem that with randomly generated layouts all the ingredients are there to offer much more meandering and side-questing than is here.
+I thoroughly recommend it, for those looking for something erring much more toward the more casual end of the strategy world, the only region of the genre with which I’m comfortable. It’s bright, breezy, light and fun, and perhaps, after all, that’s enough.
+Steamworld Heist is out now on Windows, Mac and Linux.
+
+07/06/2016 at 17:15
+
+Author X says:
+
+I played this through on the 3DS when it released, and recently grabbed the first DLC (which they wanted to put out before new platforms) and started a new game plus, and still love the whole thing. It does feel like something that could have been bigger and was stripped down to the core experience, though.
+If nothing else, it’s incredibly satisfying to defeat a major boss and their entourage, while also stealing their entire set of hats (and putting them on, as ours were lost in the fray) while the background characters start singing your praises.
+
+07/06/2016 at 17:39
+
+Thulsa Hex says:
+
+Reading the first paragraph, I was worried that the review was going to miss the point but I was glad to see that it turned out to be very considered! I enjoyed this immensely on 3DS, and was pretty happy with the overall scope — but it is easy to see how a bigger, more satisfying adventure can be built from its foundation.
+I believe that the format of the final release must have be the result of time and budget considerations. If that’s the case, I have to applaud the developers for choosing their battles well. Distilling it down to its fundamentals seems to have allowed them to release a very polished game with no shonky elements. I really hope it does well because, as I’ve said, they have a real firm foundation to build from.
+
+07/06/2016 at 19:35
+
+vecordae says:
+
+Steam Powered Giraffe provides at least some of the sound track. Interesting group who’s stage shows already look like something you’d expect to see in this game. It’s a good fit.
+
+07/06/2016 at 21:29
+
+Author X says:
+
+Not only are they something you’d expect to see in this game, they are literally a thing you can see in this game, in several of the bars.
+
+07/06/2016 at 20:43
+
+wraithgr says:
+
+Man, I almost wish I hadn’t read this review–before knowing about all the features that might have been, I was quite happy playing through this on my 3ds just before bed. Now I have a feeling I’ll be looking at those hats and thinking ‘you could be giving me +1 damage but you aren’t, why???’
+One thing that I would call a major flaw,however, is that each new character feels hugely underpowered vs. the first couple you get, so there is very much a slippery slope of diminishing variety unless you are willing to commit to some heavy grinding…
+
+07/06/2016 at 21:12
+
+Thulsa Hex says:
+
+Heavy grinding is perhaps an exaggeration, but I agree that the lower level of new recruits can create a bit of a hurdle when it comes to experimenting with different teammate combinations. I tend to “three star” missions as I go, which often means replaying them, so I’ve used this as an opportunity to take newbies along for the ride. The nature of the game-play, combined with brief missions in procedurally-generated levels, encourages re-doing stuff anyway.
+Also! Heist does a decent job at making loot feel rewarding.
+
+07/06/2016 at 21:59
+
+instantcoffe says:
+
+So, is this a bit like Ronin, but less punishing?
+
+07/06/2016 at 23:41
+
+DelrueOfDetroit says:
+
+This is more like a side-scrolling XCOM.
+
+07/06/2016 at 23:53
+
+caff says:
+
+It’s bright, breezy, light and fun, and perhaps, after all, that’s enough.
+That’s enough to convince me!
+And some of those screenshots look lovely – they harken back to memories of Space Quest games.
+
+08/06/2016 at 01:49
+
+Mandrake42 says:
+
+I loved Steamworld Dig so I snapped this up straight away last night. I’ve enjoyed it so far, though I found the difficulty a little on the easy side for the first couple of missions. I upped it for the third mission and promptly had my arse handed to me. Duly humbled I went back to normal difficulty for the time being. I can’t wait to sink some more time into it :)
+
+09/06/2016 at 08:25
+
+BisonHero says:
+
+Normal is a little on the lenient side, but if you bump it up to the next level up (Experienced) is only slightly tougher but enemies still don’t do really cheap damage.
+The difficulty above that, every enemy has JUST too much health to die in one well-aimed crit, so basically every enemy takes 2 actions instead of 1, or 3 actions instead of 2. Then again, that’s like XCOM, so I guess fair enough.
+
+08/06/2016 at 10:14
+
+theapeofnaples says:
+
+I just, did. Funded $8754 selling one of my kidneys,, and if you think that’s cool, my ex-wife has twin adult sized men toddlers and made over 7 bucks her first month by selling the children to a scientist. It feels so good making so much money when other people have to work for so much less. 
+And I don’t even miss the kidney!
+========
+
+08/06/2016 at 11:23
+
+Rumpelstiltskin says:
+
+I just hope Valve doesn’t sue them.
+
+10/07/2016 at 11:28
+
+phl0w says:
+
+I really like 2D games, and the presentation, and gameplay of this Steamworld Heist HD are top notch. However, I have one huuuge problem with the way 2D is handled here: I cannot for the life of me seem to figure out, what tiles are “in the back”, so to speak, and which tiles are obstructing. More often than not my intended direct shot ricochets from the floor, ceiling or some item while shots I plan to bounce, go “through” tiles I thought were solid. Same with cover: I get now that you have to be right next to a barrell for it to become solid, thus granting you cover. I wish there was a mechanics manual but alas, the game doesn’t offer such, and I can’t find information on the web covering those mechanics at all. Is this a wanted self-teaching part of the game or am I just too stupid to figure out what apparently is quite obvious to the rest of its players?
+I’m thankful for a few pointers or maybe a link to a proper manual. I might add, that this is my first contact with Steamworld, so I’m likely to lack the knowledge of few mechanics that might be needed, as it is usually with those type of games.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Image & Form, review, SteamWorld Heist, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

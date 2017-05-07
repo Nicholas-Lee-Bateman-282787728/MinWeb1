@@ -1,0 +1,20 @@
+./html_data_bitcoins/bitpay-miner-fees-double-two-months-potential-bitcoin-scalability-solutions.txt
+
+
+
+CryptoCoinsNews
+On March 7, leading bitcoin payment processing company BitPay co-founder and CEO Stephen Pair released a blog post entitled “The Bitcoin Fee Market” to discuss the growing fee market within the bitcoin network and potential scalability solutions to address issues on bitcoin blockchain congestion.
+In Bitcoin, fee market refers to an ecosystem wherein users begin to pay higher fees in order to have transactions settled at a faster rate. This creates a market in which users compete by including higher fees each time for miners to prioritize certain transactions. Higher fees are often utilized by businesses or individuals processing urgent transactions that need to be confirmed in the fastest time possible.
+Since the beginning of 2016, the Bitcoin fee market intensified due to the 1 megabyte limit of the bitcoin blockchain. According to the world’s most popular bitcoin wallet Blockchain, the Bitcoin network is processing around 350,000 transactions a day. However, the 1 MB cap on the blocksize limits the network of settling 300,000 transactions a day. Thus, the other 50,000 transactions are often delayed or stuck in the bitcoin mempool, waiting for miner confirmations.
+
+As seen in the Blockchain chart above, the bitcoin mempool size increased significantly since the past year. The exponential expansion of mempool demonstrates the rising number of transactions being stuck or delayed due to the blocksize limit.
+Because of the growing fee market and mempool size, businesses like BitPay have been paying increased miner fees. The chart provided by Pair below demonstrates that the sum total of miner fees paid by BitPay increased from less than $3,000 a month to nearly $55,000 a month. 
+
+Miner fees paid by BitPay certainly could have seen drastic increase in miner fees because of BitPay’s increasing number of transactions. However, the major factor behind this abrupt increase in miner fees is attributable to increasing transactions of Bitcoin in general and the growing fee market.
+Still, Pair notes that this increase in miner fees isn’t a huge problem yet, because a few dollars for BitPay customers are irrelevant. Pair explained:
+“For these customers, miner fees of a few dollars are irrelevant. It appears that transactions for high value use cases will eventually crowd out smaller on-chain payments, and smaller payments will move off-chain.”
+If the Bitcoin community fails to implement some type of solution which eliminates transaction malleability and open doors for two-layer off-chain solutions however, the few dollars could become a problem. For large customers or businesses utilizing the bitcoin blockchain to process large sums of money, a few dollars of miner fees isn’t a problem.
+For customers processing less than a thousand dollars per transaction, the miner fee can get overly expensive.
+Currently, the only solution which allows off-chain solutions like Lightning to be activated is Segregated Witness (Segwit). When considering Segwit, miners, businesses, investors and uers must start seeing it as a technology which enables efficient and urgently needed off-chain solutions rather than as a scalability solution on its own.
+“As off-chain transactions in one form or another are increasingly adopted, market share growth will start to diminish for miners. With their considerable investments at stake, they will be under pressure to increase transaction throughput to compete with off-chain payment solutions. We estimate that Bitcoin needs to acheive an approximate 100 fold increase in throughput just to be viable as a savings and settlement medium,” said Pair.
+Image from BitPay’s offices from BitPay.

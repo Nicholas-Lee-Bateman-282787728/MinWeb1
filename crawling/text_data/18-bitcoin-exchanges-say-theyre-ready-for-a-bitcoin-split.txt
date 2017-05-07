@@ -1,0 +1,29 @@
+
+
+
+CryptoCoinsNews
+A group of 18 bitcoin exchanges has prepared for a possible split in the bitcoin network. The group released a statement which noted they intend to support a hardfork for practical reasons, designating it as an “incompatible protocol implementation.” The statement also said the group is not passing judgment on a hardfork.
+The 18 exchanges include Bitfinex, Bitso, Bitbank, Bitonic, Bitstamp, Bitsquare, Bittrex, Bitt, BTCC, Btcchina.com, Coincheck, Coinfloor, Kraken, QuadrigaCX, Ripio, ShapeShift, The Rock Trading Ltd. and 7Laif.
+Miners have the right to direct their hashing power to an alternative and “incompatible protocol implementation,” the statement noted.
+The group also believes that hardforks should occur through a consensus of miners that has not yet occurred.
+The hardfork is a possible solution to the backlog that the bitcoin network has experienced.
+It was reported in February that around 900,000 bitcoins, amounting to around a billion dollars at the time, were stuck, due to limited transaction capacity.
+Much of the bitcoin community is turning to Bitcoin Unlimited (BU) as a solution to solve the backlog issues. BU is an attempt to upgrade Bitcoin Core into a client that processes bitcoin transactions into blocks with a potential maximum size greater than the Core’s hard-coded limit of one megabyte, according to Wikipedia. BU, however, is highly controversial.
+Bitcoin could potentially face a hardfork, effectively splitting the currency into two.
+BU reached around 40 percent support over a 24-hour period last week, its highest ever. Miners such as Antpool, bitcoin’s biggest mining pool, have switched to BU.
+Exchanges are responsible for maintaining an orderly and coherent approach to a hardfork, the group noted. They cannot suspend operations before the winning party in the BU debate becomes evident. Exchanges require continuous operations.
+The group noted that its action has been taken for practical and operational reasons rather than philosophical or judgment considerations.
+A contentious fork event could be inevitable and could deliver an avenue for chain capacity, but the exchanges see an obligation to their customers to enable a consistent and clear plan to reduce confusion surrounding the event.
+The group of 18 exchanges has designated the BU fork as BTU or XBU. The Bitcoin Core deployment will trade as BTC or XBT, with all exchanges processing withdrawals and deposits in BTC even if the BTU chain acquires greater hashing power.
+Certain exchanges will list the BTU. All will attempt to enable access to customers’ BTU.
+None of the exchanges can list BTU unless they are able to run both chains independently and without incident.
+The exchanges will require BU or any consensus breaking deployment to contain robust two-way replay protection.
+For BU not to take this course of action will undermine the exchanges’ ability to maintain BTU for customers and will delay or not permit listing BTU.
+Should a hardfork transpire, the Bitcoin Core deployment will continue to list as BTC or XBT while the new fork will list as BTU or XBU. This will not be without adequate replay protection, however.
+The exchanges welcome all assistance the developers can provide in minimizing the risk that is inherent at this pivotal moment in bitcoin’s history.
+Also read: Bitcoin Core supporter threatens zero day exploit if Bitcoin Unlimited hardforks
+BU recently suffered a blow after attackers unleashed a new bug that crashed the system. Support for BU dropped to 32.6 percent following the attack, according to Coin.Dance, a website which tracks industry data.
+Information from the tracking site illustrated that following the attacks, the number of nodes hosting BU fell to 410 from 781. This was the lowest level it dropped to since October last year when it started to steadily increase. It has since crept back up to 690.
+Prior to the attack, some Bitcoin Core supporters threatened to attack the currency if the economic majority decides to increase transaction capacity through a hardfork.
+As blockchain’s transaction issues remain, a solution to fixing the congestion needs to be agreed on.
+Featured image from Shutterstock.

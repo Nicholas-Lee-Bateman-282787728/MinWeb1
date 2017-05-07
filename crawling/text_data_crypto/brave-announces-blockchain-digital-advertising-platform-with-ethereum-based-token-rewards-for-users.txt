@@ -1,0 +1,44 @@
+./html_data_bitcoins/brave-announces-blockchain-digital-advertising-platform-with-ethereum-based-token-rewards-for-users.txt
+
+
+
+CryptoCoinsNews
+Brave, a browser that improves browsing speed by eliminating unwanted ads, has announced a new blockchain-based digital advertising platform using an Ethereum-based unit of exchange called the Basic Attention Token (BAT) to support a more efficient, transparent and decentralized Internet advertising marketplace.
+BAT will allow publishers, advertisers, and users to connect in an online environment that reduces fraud, privacy violations and “malvertisements” while increasing publisher revenue.
+The Brave browser was developed as a solution for web users frustrated with the pervasive advertising that slows data connections and clogs web pages with tracking pixels, scripts and ads. Many users also appreciate the fact that the Brave browser does not track their online activity.
+BAT is positioned to reform the ad-tech ecosystem because it can privately monitor and anonymously confirm user intent at the browser level which allows for the development of rich metrics for user attention. The token will also enable users to be rewarded for their engagement.
+Speaking to CCN, Brendan Eich, founder, president and CEO of Brave said:
+The user deserves a share because their attention is being used up a little bit by ads . We’re working on better advertising that is truly private.
+BAT marks the newest stage in the Brave browser ecosystem. BAT values are based on user attention.
+“The BAT is the token for remonetizing the user’s attention, including the user in a fair play system,” said Eich. “That (BAT) is what denominates attention in the sense of user engagement in a way that is not likely to be abused and rewards the users.” Users will opt in to participate in the system.
+BAT is what Eich calls an “in-game currency,” a token on top of the Ethereum blockchain. “The game is user browsing Brave,” he said.
+
+Attention is measured as viewed for content and ads only in the browser’s active tab in real time. The attention value for the ad will be calculated based on incremental duration and pixels in view in proportion to relevant content, prior to any direct engagement with the ad.
+For placement, ads will be matched with user interests using local machine learning algorithms to judge the content to which the user is paying attention, in the context of tabs, viewability and other variables not available to remote trackers.
+The matching will be done privately, on the device only, without any signal out. This means fewer, but more relevant and valuable ads. Several scoring algorithms have been tried with the Brave donation ledger system, which automatically donates an amount proportional to the attention given to a website.
+When users opt-in to receive advertising, their attention will be privately monitored on-device in the Brave browser, without tracking.
+Publishers will be rewarded based on BATs. Users will also receive a share of BATs for participating.
+By keeping the data on the device, encrypting the data and shielding the identities of users, BAT validates the users’ data. Such value has been ignored and exploited by the middlemen in the existing industry model, according to Brave.
+BATs will be made available for crowdsale in the near future.
+The Internet advertising ecosystem has become overrun by “middleman” ad exchanges, complex behavioral and cross-device user tracking, and opaque cross-party sharing through data management platforms, according to Eich.
+“A host of third-party intermediaries evolved to help millions of publishers fill their ad spaces and make revenue to pay their journalists and writers,” Eich said. “Those intermediaries inevitably opened the door to too many hands taking a cut of the pie.”
+As a result, advertisers face poor reporting and targeting. Publishers lose revenue while fraud has increased.
+Users have lost their privacy, face growing malware risks, pay high charges to download trackers and ads, and suffer slow speeds. This has driven the adoption of ad blocking software, which is now on over 600 million mobile devices and desktops.
+Brave is using what Eich calls and “anti-cloud approach” in being able to trust their browsers. “We believe very strongly that there should be a company aligned with your interests and not operating against your interests,” he said.
+“Brave is trying to turn this whole surveillance system inside out,” Eich said. “Users can have their own private Google on their devices, firewalled, so that their data stays on their device.”
+The big commercial browsers are owned by companies that want to advertise directly or indirectly, Eich said. Hence, they have a conflict of interest with their users.
+“Brave wants to eliminate that conflict,” he said. “We want to tie our destiny entirely to our users’ happiness. With us as not only their ad watcher but possibly their personal data platform that gives them a revenue share.”
+Brave provided the following statistics:
+• Over the last 12 years, publishers have lost approximately 66% of their revenue.
+• In 2016, ad fraud created by Internet bots cost advertisers $7.2 billion, up from $6.3 billion in 2015.
+• Up to 50% of the average user’s mobile data is used for ads and trackers, costing up to $23 a month.
+• Users face slow page loads and as much as 21% less battery life.
+• Google and Facebook, which together claim 73% of digital ad revenue and 99% of all growth, are exacerbating the crisis.
+The BAT exchange will be rolled out in phases over the coming months.
+Brave already has an anonymized ledger system for making donations and payments to publishers based on user attention. The secure vault uses the ANONIZE algorithm to ensure customer privacy. Brave is already measuring user attention at the browser and distributing donations to the publishers using this system.
+A BAT wallet will be integrated with the Brave browser. Verification and transactions will be handled by Brave’s internal ledger system to protect individual user anonymity from advertisers, publishers and third parties. Ad inventory will be valued, and transactions will be calculated from reported data.
+The transfer and verification process will be entirely distributed on Ethereum using a state channel scheme with zero knowledge proof protocol for ensuring user privacy. Alternate metrics will be added based on advertiser feedback. This will allow for full user privacy as well as a decentralized audit trail for advertisers, users and publishers to ensure they received correct payments for the advertising delivered through the BAT network.
+There is no plan to make the BAT tokens fungible at the present time.
+As Brave moves to a fully decentralized micropayment system, other developers will use its free and open source infrastructure to develop their own use cases for BAT, according to Eich.
+Brave’s BAT whitepaper can be found here.
+Featured image from Brave.

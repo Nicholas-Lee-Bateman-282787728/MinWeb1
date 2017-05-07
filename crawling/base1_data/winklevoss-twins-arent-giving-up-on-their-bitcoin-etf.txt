@@ -1,0 +1,23 @@
+./html_data_bitcoins/winklevoss-twins-arent-giving-up-on-their-bitcoin-etf.txt
+
+
+
+CryptoCoinsNews
+Bitcoin didn’t have its best day yesterday when the Securities Exchange Commission (SEC) issued its first decision on a bitcoin exchange-traded fund (EFT) by rejecting the Winklevoss ETF. But the Winklevoss twins are hopeful that the commission will come around to working with them on bringing an EFT to market. An ETF would allow investors to invest in bitcoin the way they purchase funds that track tangible currencies.
+Tyler Winklevoss released a statement saying they look forward to working with the SEC, noting they are determined to continue the project they began four years ago. He said SEC oversight and regulation are critical to the health of the marketplace and the safety of investors.
+The application requested permission to trade on the Bats BZX stock exchange under the symbol, COIN.
+The commission said bitcoin exchanges are not regulated and are susceptible to “fraudulent or manipulative acts and practices.” The SEC also said there were concerns bitcoin exchanges are subject to price “volatility and instability.”
+Bitcoin’s price fell from $1,300 to $1,066 Friday when the decision was announced.
+While the decision dashed hopes for a surge in bitcoin’s price and investment that many believed an ETF approval would bring, pundits were quick to note the decision does not deny the possibility of a bitcoin ETF.
+“This doesn’t mean that there will not be a bitcoin ETF,” said Julie Hyman of Bloomberg following the announcement. “The fact that they’re not getting this approval is a big blow for this particular product.”
+“There are other endeavors out there trying to get bitcoin ETFs to market,” said Bloomberg’s Joe Weisenthal. “They have different structures in terms of how they’re going to secure the bitcoin.”
+Weisenthal noted that GLD, the first gold ETF, faced struggles. “Gold was a very hard asset class for people to invest in prior to there being an ETF that you click on your brokerage,” he said.
+Two other companies are vying to become the first bitcoin-focused ETF, but what might happen next is unclear, noted MarketWatch reporters Ryan Vlastelica and Joseph Adinolfi.
+The SEC has until Sept. 22 to issue a ruling on the Grayscale bitcoin trust to trade on the New York Stock Exchange. Barry Silbert, the chief executive officer of Grayscale’s parent company, the Digital Currency Group, declined to comment on the Winklevoss decision, Vlastelica and Adinolfi noted.
+Representatives of the SolidX Bitcoin Trust, which filed in July to list shares on the NYSE, could not be reached for comment.
+Both the Grayscale and SolidX proposals track bitcoin’s price based on the TradeBlock bitcoin index while the Winklevoss ETF proposed using pricing data from the Winklevoss Gemini Exchange.
+Also read: The SEC rejects the Winklevoss bitcoin ETF
+While many observers predicted a surge in bitcoin’s price if the ETF was approved, Fortune writer Jen Wieczner pointed out that investors in the Winklevoss ETF would not have captured the surge because the ETF was designed to calibrate the value of the invested bitcoin once a day, Monday through Friday, at 4 p.m. on the Winklevoss Gemini Exchange. The Winklevoss index averages the price across numerous bitcoin exchanges.
+Wieczner noted that the Winklevoss index, WinkDex, has the price up 23% this year compared to 30% for “raw” bitcoin. The bitcoin price would have continued to fluctuate after the ETF priced its bitcoin for the weekend.
+Even after the drop in bitcoin’s price following the SEC’s decision, bitcoin has returned 190% on an annual compound basis since early 2012.
+Image from Shutterstock.

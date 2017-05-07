@@ -1,0 +1,7 @@
+mkdir -p text_data
+shopt -s nullglob
+for f in ./base1_data/*;
+do
+	echo "Processing $f"
+	sed '1d' "$f" > ./text_data/$(basename $f)
+done

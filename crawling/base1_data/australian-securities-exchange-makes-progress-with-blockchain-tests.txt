@@ -1,0 +1,25 @@
+./html_data_bitcoins/australian-securities-exchange-makes-progress-with-blockchain-tests.txt
+
+
+
+CryptoCoinsNews
+The Australian Securities Exchange (ASX) has completed capacity tests of blockchain or distributed ledger technology (DLT) and will continue to explore using a DLT solution to replace its existing infrastructure for post-trade processes in the country’s cash equity market.
+Rick Holliday-Smith, ASX chairman, noted at the annual general meeting that the government last year clarified the medium market structure for clearing cash market equities, enabling ASX to invest an infrastructure to meet global industry standards, according to meeting notes posted on the website.
+This enabled the development of a DLT solution to replace Clearing House Electronic Subregister System (CHESS), the core system underpinning the post-trade processes in Australia’s cash equity market.
+There is nothing to indicate that CHESS will not continue to provide reliable service, ASX noted on its website. But ASX is evaluating whether replacing CHESS with more contemporary technology will yield a broader range of benefits to a wider cross section of the market.
+ASX last year selected Digital Asset Holdings LLC to develop, test and demonstrate a working prototype of a post-trade platform for the cash equity market using DLT.
+In mid-2016, ASX concluded DLT met initial capacity tests for scalability, security and performance needs for a replacement system when deployed in a permissioned private network. Further testing will be conducted.
+ASX also concluded DLT offers potential benefits for investors, issuers, regulators and intermediaries in operational processes.
+ASX has begun a process of industry consultation to inform the definition of the business requirements, including software demonstrations and workshops with stakeholders.
+ASX will deploy a DLT solution that is not public. Regulated markets require participants to be licensed and known to regulators so there are rights of reversal and error correction, in addition to privacy and security. The operational benefits of net settlement must also be retained in a system in which legal entities are responsible for financial assets.
+Private contractual information will be segregated and not shared with all participants. The shared and replicated aspect of the solution serves as a transaction notification and synchronization mechanism. It only includes hashes – one-way cryptographic functions.
+CEO Dominic Stevens said during the annual general meeting that DLT can improve the efficiency of clearing and settlement.
+“We have successfully completed the distributed ledger prototyping stage and have moved on to building an industrial strength solution that could be used to replace CHESS,” he said.
+The company will decide later in the year whether this will happen.
+In using DLT, the company will have a system operating on a private network with security parameters equal to or better than what they’re using, Stevens said.
+Also read: Australian Stock Exchange confirms upcoming block chain for settlements
+All participants will be licensed to participate, but customers will be able to verify trades and other data. They will have access to a single source of truth they can rely on.
+“It is this that creates the potential for significant efficiency for customers who are currently maintaining and reconciling their own individual books and records with ASX and each other,” Stevens said.
+Replacing CHESS will take time. ASX is consulting with customers, regulators and the broader industry.
+When ASX announced the project last year, it revealed that it paid AUD $14.9 million for a 5% equity interest in Digital Asset Holdings, a fee that will also fund the initial phase of development. ASX will also be allowed to purchase further equity from Digital Asset Holdings and appoint a director to its board.
+Image from Shutterstock.

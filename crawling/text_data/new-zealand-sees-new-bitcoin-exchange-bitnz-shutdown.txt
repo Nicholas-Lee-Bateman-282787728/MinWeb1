@@ -1,0 +1,14 @@
+
+
+
+CryptoCoinsNews
+Over a month after one of New Zealand’s oldest bitcoin exchanges were forced to shut their doors, a new bitcoin trading platform, BitPrime, launched this week, claiming to cater to “everyday New Zealanders.”
+In mid-February, New Zealand bitcoin exchange BitNZ revealed it was ‘impossible’ to continue operations claiming New Zealand banks’ refusal to offer banking services to the platform. BitNZ, which has been functional since 2011, claimed to have processed over 11,000 bank transactions
+As a centralized platform, BitPrime points to its third-party escrow partner, LocalBitcoins, to ensure assured transactions. When a transaction is initiated to purchase bitcoins, LocalBitcoins will hold the bitcoin in escrow until the payment, through bank transfer or cash deposit, is made. Users in Christchurch, a coastal city in the South Island of New Zealand will be able to make in-person transactions, according to a press release.
+“Bitcoin is a fairly new concept for most people, so we want to make it an accessible form of investment for everyday New Zealandars,” said Geoffrey Palmer, founder of BitPrime.
+The exchange claims to be first locally owned and operated bitcoin trading platform in New Zealand.
+For those looking to sell bitcoin, Palmer added:
+We will always pay a competitive price for a client’s Bitcoins and act with discretion at all times.
+BitPrime’s accompanying profile on LocalBitcoins reveals the account was created in January or late December, with options to buy bitcoin via cash deposits, bank transfers and offline cash transactions. Profile data laso reveals over a hundred confirmed trades with 236 different partners contributing to a trade volume of above 100 BTC.
+Much like any other country, bitcoin is gaining awareness in New Zealand for a number of reasons. In April 2014, bitcoin core developer Gavin Andresen helped publicize an environmental cause, calling for the preservation of the Red Bridge River Park in New Zealand. A number of donations followed from donors around the world contributing to the cause with bitcoin.
+Featured image of Christchurch from Shutterstock.

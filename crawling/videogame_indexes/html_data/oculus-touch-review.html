@@ -1,0 +1,1458 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta property="fb:pages" content="176784995741043"/>
+<meta name="Googlebot-News" content="noindex, nofollow"><title>Oculus Touch review | Rock, Paper, Shotgun</title>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/style.css?cb=acf3c73" type="text/css" media="screen"/>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/icon-fonts/css/fontello.css?cb=c8c7fe11" type="text/css" media="screen"/>
+<link rel="pingback" href="https://www.rockpapershotgun.com/xmlrpc.php"/>
+<link rel="shortcut icon" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/favicon-new.ico"/>
+<link rel="next" href=""/>
+ 
+ 
+ 
+<meta name="description" itemprop="description" content="Why the Rift's controllers beat the Vive's"/>
+<meta name="keywords" itemprop="keywords" content="feature,hardware,oculus rift,oculus touch,review,vr"/>
+<link rel="canonical" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Feed" href="https://www.rockpapershotgun.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Comments Feed" href="https://www.rockpapershotgun.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Oculus Touch is a superior motion controller to the Vive&#8217;s Comments Feed" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/feed/"/>
+<meta property="og:title" content="Oculus Touch is a superior motion controller to the Vive&#8217;s"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/"/>
+<meta property="og:site_name" content="Rock Paper Shotgun"/>
+<meta property="og:image" content="https://www.rockpapershotgun.com/images/16/nov/ot0.jpg"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.rockpapershotgun.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='eu-cookie-directive-css' href='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/style.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='bbspoiler-css' href='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='https://www.rockpapershotgun.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='rps_features-css' href='https://www.rockpapershotgun.com/wp-content/plugins/rps-features/rps-features.css?ver=1.10' type='text/css' media='all'/>
+<link rel='stylesheet' id='lightboxStyle-css' href='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/css/textframe/colorbox.css?ver=2.7' type='text/css' media='screen'/>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/wp-gfycat/js/gfycat_test_.js?ver=4.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var title = {"unfolded":"Expand","folded":"Collapse"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.5.3'></script>
+<link rel='https://api.w.org/' href='https://www.rockpapershotgun.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.rockpapershotgun.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.rockpapershotgun.com/wp-includes/wlwmanifest.xml"/>
+<link rel='prev' title='Paragon&#8217;s entire map is about to change: here&#8217;s why' href='https://www.rockpapershotgun.com/2016/12/05/paragons-entire-map-is-about-to-change-heres-why/'/>
+<link rel='next' title='Street Fighter 5 kicking off Season 2 with Akuma' href='https://www.rockpapershotgun.com/2016/12/05/street-fighter-5-akuma/'/>
+<meta name="generator" content="WordPress 4.5.3"/>
+<link rel='shortlink' href='https://wp.me/pkbbD-1K09'/>
+<link rel="alternate" type="application/json+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2016%2F12%2F05%2Foculus-touch-review%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2016%2F12%2F05%2Foculus-touch-review%2F&#038;format=xml"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity - Full Post Feed" href="https://www.rockpapershotgun.com/feed/?dualfeed=2"/>
+ 
+<meta property="fb:pages" content="176784995741043"/>
+<link type="text/css" rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/plugins/simple-pull-quote/css/simple-pull-quote.css"/>
+<style>.theiaPostSlider_nav.fontTheme ._title,.theiaPostSlider_nav.fontTheme ._text{line-height:16px;}.theiaPostSlider_nav.fontTheme ._button{color:#c1272c;}.theiaPostSlider_nav.fontTheme ._button ._2 span{font-size:16px;line-height:16px;}.theiaPostSlider_nav.fontTheme ._button:hover,.theiaPostSlider_nav.fontTheme ._button:focus{color:#db5357;}.theiaPostSlider_nav.fontTheme ._disabled{color:#727272!important;}</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel="amphtml" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/amp/"/> <script>
+                        function mormontLoaded () {
+                                mormont('set', 'section', 'article');
+                                mormont('set', 'language', 'en');
+                                mormont('set', 'platforms', ["pc"]);
+                                mormont('set', 'published', "2016-12-05T15:00:56+00:00");
+                                mormont('set', 'article_type', "news");
+                                                                mormont('set', 'tags', ['tag:feature','tag:hardware','tag:oculus-rift','tag:oculus-touch','tag:review','tag:vr']); 
+                                mormont('send', 'pageview');
+                            };
+                </script>
+<script src="//cdn.gamer-network.net/2015/scripts/mormont/v2/mormont.js" async onload="mormontLoaded()"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/plugins.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/application.js" type="text/javascript" charset="utf-8"></script>
+<script src="//cdn.gamer-network.net/plugins/dfp/async.dfp.1.1.16.js"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/ad-related.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/InlineAds.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('.entry img').each(function(){jQuery(this).attr('title',(jQuery(this).attr('alt')))});
+});
+</script>
+ 
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-2667859-1', 'auto');
+
+    ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
+
+    ga('send', 'pageview');
+
+            ga('set', 'dimension4', '0');
+    </script>
+ 
+<meta name="readability-verification" content="EDFS6HqfEsVJByL2MzxYRrype6cdTyPbjFaJAWj5"/>
+ 
+<script type='text/javascript'>
+    var OA_source = 'article';
+</script>
+ 
+<meta name="twitter:card" value="summary"/>
+<meta name="twitter:url" value="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/"/>
+<meta name="twitter:title" value="Oculus Touch is a superior motion controller to the Vive&#8217;s"/>
+<meta name="twitter:description" value="I&#8217;ve been playing with them there Oculus Touch controllers for the last few days &#8211; a pair of wireless, motion-tracking handheld devices that, in theory, bring the Oculus Rift more in line with the HTC Vive and its wavy, donut-ended pointers. Turns out they&#8217;re quite a bit better. Note: I&#8217;m going to focus specifically on [&hellip;]"/>
+<meta name="twitter:image" value="https://www.rockpapershotgun.com/images/16/nov/ot0.jpg"/>
+<meta name="twitter:site" value="@rockpapershot"/>
+<meta name="twitter:creator" value="@rockpapershot"/>
+ 
+ 
+</head>
+<body class="single single-post postid-415161 single-format-standard category-featured-articles category-hardware">
+<div id="header">
+<div id="header-content">
+<div class="logo">
+<a href="https://www.rockpapershotgun.com">Rock, Paper, Shotgun</a>
+</div>
+<div class="header-items">
+<a class="hidden-desktop mobile-link search-link" href="#header-search">Search</a>
+<div id="header-search" class="mobile-menu visible-desktop">
+<form method="get" action="/" id="search">
+<fieldset>
+<input type="text" name="s" id="search-site" placeholder="Search the site"/>
+<input type="submit" class="submit" value="Go"/>
+</fieldset>
+</form>
+</div>
+<div id="menu-header-links-container" class="hidden-mobile"><ul id="menu-header-links" class="menu"><li id="menu-item-260401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-260401"><a href="https://www.rockpapershotgun.com/2015/10/16/best-free-games-on-pc/">50 Best Free Games On PC</a></li>
+<li id="menu-item-419715" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-419715"><a href="https://www.rockpapershotgun.com/2016/12/01/best-games-of-the-year-2016/">Best PC Games of 2016</a></li>
+</ul></div>
+<a class="hidden-desktop mobile-link menu-link" href="#menus-wrapper">Menu</a>
+<div id="menus-wrapper" class="mobile-menu visible-desktop">
+<div id="menu-main-container"><ul id="menu-main-nav" class="menu"><li id="menu-item-168856" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168856"><a href="/category/featured-articles/">RPS Features</a></li>
+<li id="menu-item-168857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168857"><a href="/pc-game-reviews/">Reviews</a></li>
+<li id="menu-item-168858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168858"><a href="/category/pc-game-news/">News</a></li>
+<li id="menu-item-168859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168859"><a href="/category/free-pc-games">Free Games</a></li>
+<li id="menu-item-287901" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287901"><a href="https://www.rockpapershotgun.com/category/esports/">Esports</a></li>
+<li id="menu-item-168860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168860"><a href="/category/hardware/">Hardware</a></li>
+<li id="menu-item-281803" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-281803"><a href="https://www.rockpapershotgun.com/category/guides/">Guides</a></li>
+<li id="menu-item-168861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168861"><a href="/supportrps">Support RPS</a></li>
+<li id="menu-item-168862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168862"><a href="/forums/forum.php">Forum</a></li>
+</ul></div>
+<div id="menu-utility-container">
+<ul id="menu-utility" class="menu"><li id="menu-item-142626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142626"><a href="https://www.rockpapershotgun.com/about-pc-gaming-rps/">About Us</a></li>
+<li id="menu-item-168863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168863"><a href="https://www.rockpapershotgun.com/advertise-pc-games/">Advertise</a></li>
+<li id="menu-item-142627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142627"><a href="https://www.rockpapershotgun.com/hey-prs-and-developers/">Hey, developers!</a></li>
+<li id="menu-item-142628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142628"><a href="https://www.rockpapershotgun.com/privacy-stuff/">Privacy</a></li>
+<li id="menu-item-168865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168865"><a href="http://feeds.feedburner.com/RockPaperShotgun">RSS</a></li>
+<li id="menu-item-168864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168864"><a href="http://steamcommunity.com/groups/rps">Steam</a></li>
+<li id="menu-item-249683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249683"><a href="https://twitter.com/rockpapershot">Twitter</a></li>
+<li id="menu-item-266251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-266251"><a href="https://www.facebook.com/rockpapershot">Facebook</a></li>
+</ul> <ul>
+<li><a href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.rockpapershotgun.com%2F2016%2F12%2F05%2Foculus-touch-review%2F">Login</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page-wrapper">
+<div class="leaderboards hidden-mobile">
+ 
+<div class="ad-desktop ad-hd ad-leaderboard-top-desktop" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90,970x250,1260x110,1260x250" id="div-ga-RPS_LB_1" data-ghost-zone="25" data-yafa-name="qdxglqjw" data-yafa-img="https://images.eurogamer.net/2017/t7yh9t4b3y8v7o/98yn7tv34n978y3v4tvt43978ny43tvbn9y78.jpg/2017/78yb9479nyb4v3t78b9yo458b7/7hfhf7fhjf8.jpg" data-yafa-click="http://bit.ly/2o8OYcq" data-yafa-target="#page-wrapper" data-yafa-style="padding-top:200px; background-color: white; background-repeat: no-repeat; background-position: 50% 0;" data-yafa-linktarget="#page-wrapper, #inner-wrapper, .page" data-yafa-linkheight="1200"></div>
+ 
+ 
+<div class="ad-tablet ad-leaderboard-top-tablet" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90" id="div-ga-RPS_LB_1_TABLET" data-ghost-zone="25"></div>
+ 
+</div>
+<div id="page">
+<div id="content">
+<div class="content">
+<article id="post-415161" class="block featured-block">
+<p class="featured-block-title">
+<a class="featured-block__text  featured-block__text--feature" href="https://www.rockpapershotgun.com/category/featured-articles">RPS Feature</a>
+You've got the Touchus </p>
+<div class="post-inner">
+<nav>
+<ul class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com" rel="v:url" property="v:title">
+Home </a>
+</li>
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com/category/hardware" rel="v:url" property="v:title">
+Hardware </a>
+</li>
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com/tag/oculus-touch" rel="v:url" property="v:title">
+Oculus Touch </a>
+</li>
+</ul>
+</nav>
+<header>
+<h1>Oculus Touch is a superior motion controller to the Vive&#8217;s</h1>
+<aside class="byline">
+<p>By <a href="mailto:&#97;le&#99;&#64;ro&#99;&#107;&#112;&#97;p&#101;&#114;s&#104;&#111;&#116;&#103;u&#110;&#46;com">Alec Meer</a> on December 5th, 2016 at 3:00 pm.</p>
+</aside>
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Oculus Touch is a superior motion controller to the Vive&#8217;s https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</header>
+<div class="entry">
+<p><img src="https://www.rockpapershotgun.com/images/16/nov/ot0.jpg" alt=""/></p>
+<p>I&#8217;ve been playing with them there <a href="https://www.rockpapershotgun.com/tag/oculus-touch/">Oculus Touch</a> controllers for the last few days &#8211; a pair of wireless, motion-tracking handheld devices that, in theory, bring the Oculus Rift more in line with the HTC Vive and its wavy, donut-ended pointers. Turns out they&#8217;re quite a bit better.<span id="more-415161"></span></p>
+<p>Note: I&#8217;m going to focus specifically on the hardware for this piece. Two reasons for that, one being that it is important to separate them, given that software has its own highs and lows, and the other that, er, I don&#8217;t actually have much software at the time of writing. Some, but not much, so I&#8217;ll hold back on that side of things for a while. </p>
+<p><img src="https://www.rockpapershotgun.com/images/16/nov/ot1.jpg" alt=""/></p>
+<p>Here&#8217;s what you get in the large, luxury-looking cardboard box: two Oculus Touch controllers (FYI I shall henceforth refer to them as &#8216;Touchus&#8217;, one Oculus sensor (identical to the microphone-shaped unit that comes with the Rift itself), two AA batteries and a small black plastic hoop with &#8216;Rock Band VR&#8217; written on it. That last is an exciting prospect indeed, but with no actual use as yet.</p>
+<p>I hadn&#8217;t realised a second sensor would be required for these things, and wasn&#8217;t overjoyed to take up yet another USB 3.0 port and have yet another dangling cable but at least, unlike the Vive and its three power supplies, I still don&#8217;t need to connect anything to the wall. The Rift sensors remain relatively subtle and even vaguely attractive, although one either side of a monitor looks odder than just a single unit. Sinister, even.</p>
+<p><img src="https://www.rockpapershotgun.com/images/16/nov/ot2.jpg" alt=""/></p>
+<p>The extra sensor, as well as meaning that your system can track what the controls are up to, also expands the play area. The Rift has not gone room-scale yet, but it now asks for a 3 foot x 3 foot space, and can track you anywhere within it without any issue I&#8217;ve encountered as yet. This opens up a great deal of potential for Rift software &#8211; not the full bounding around that mansion-dwellers can achieve with the Vive, but perhaps something more realistic for more of us. A bit of physicality to support the experience, but not the full monty. Time and software will tell &#8211; again, more on that in a follow-up piece.</p>
+<p>The controllers themselves are fairly dainty &#8211; the hoop area is about the width of an orange, while the more familiar controller part is pretty much the same size as that element of a Playstation pad is. They&#8217;re light but not too light, and are comfortable in the hand, with the index and middle finger of each hand falling naturally onto a top- and side-mounted trigger respectively. </p>
+<p>The thumbstick and three face button arrangements on each controller isn&#8217;t quite so instinctive &#8211; the stick&#8217;s about half the diameter of those you&#8217;d find on a contemporary console pad, while the buttons are both small and close together. I suspect I&#8217;d often need to double-check what I&#8217;m pressing at the best of times, but that&#8217;s an impossibility whilst wearing a VR headset. </p>
+<p>It&#8217;s not too bad, and practice will help, but it doesn&#8217;t entirely feel that there&#8217;s been the best use of what is relatively generous space on the circular surface of each pad. </p>
+<p><img src="https://www.rockpapershotgun.com/images/16/nov/ot4.jpg" alt=""/></p>
+<p>A possible reason for that, beyond &#8216;we&#8217;re big fans of Philippe Starck&#8217;, is the Touchus&#8217; secret weapon &#8211; finger-tracking. Not a full five fingers, no sir, but the index finger and to a lesser extent the thumb. While it&#8217;s very impressive indeed &#8211; and useful for combating psychic dissonance &#8211; to see yourself do an in-game point or thumbs-up, this is as far as it goes. But nonetheless, the Touch is indeed tracking specific parts of the hand, and the right software may well do incredible things with that. </p>
+<p>I&#8217;ll come back to that side of things later on, but just to return the last point &#8211; the sensors to broadly track thumb position are probably why much of the &#8216;face&#8217; is effectively blank space with small, clustered controls in the centre.</p>
+<p>The same is true of those big, squashed-circle hoops on the end. While the Vive has similar, they jut out several inches beyond the end of your hands, while in this case your index finger and the knuckles of the adjacent couple of fingers sits inside it &#8211; with the bulk of the index finger protruding above the &#8216;surface&#8217; regardless of whether it&#8217;s pointing or held down. </p>
+<p><img src="https://www.rockpapershotgun.com/images/16/nov/ot6.jpg" alt=""/></p>
+<p>This sounds minor, but it&#8217;s quite a key physical difference from the Vive wands. At the end of your hands is your finger, not a piece of plastic. This means that, when you&#8217;re &#8216;touching&#8217; something inside a VR game, it is your finger &#8211; or at least a ghostly recreation of it &#8211; that touches that thing, not the plastic hoop. </p>
+<p>In the software I do have, this means the likes of holding out a finger for a butterfly to land on, and &#8216;pinching&#8217; to hold onto in-game items. Said items are not effectively magnetised onto a protrusion &#8211; they are inside your hand. The place where your hand is, as opposed to a place at the end of the 6&#8243; stick your hand is holding.</p>
+<p>Sure, the Touchus can&#8217;t do feel (though it has some decent gamepad-style haptic feedback buzzing into your palm), but your in-game hand is more or the less the size and position of your real hand, and that is a gently new sensation. </p>
+<p>If you&#8217;ve ever used a Vive, as wonderful as its motion controllers are, you surely know the bleak, hollow sound of the end of them tapping against your monitor, wall, cupboard or cat. With these, when you ram your hand into that cactus or pan full of boiling oil, the sensation will be fleshy-real.</p>
+<p><img src="https://www.rockpapershotgun.com/images/16/nov/ot5.jpg" alt=""/></p>
+<p>I should restate that these things are completely wireless, without even needing a USB cable or additional dongle for initial setup. Your hands are unfettered, bar the string mentioned below. The downside is that, yeah, no USB cable, because no built-in rechargeable battery. It takes double-As, one per controller, so stock up on batteries if you don&#8217;t want to find yourself with no way to keep playing when one runs out of juice. (By contrast, the Vive wands are USB-rechargeable, and continue to operate while wired up).</p>
+<p>The one concession to practicality over design is a small string hanging from the bottom of each, to slip over your wrist in order that they don&#8217;t crash to the floor or are hurled at your dog&#8217;s face when a VR bogeyman jumps out at you. Same as Vive, and Wii, and anything exploring handheld motion controls &#8211; health and safety, innit. (I often don&#8217;t put them on, for the same reason I don&#8217;t wear my bike helmet for short rides and sometimes freewheel when driving the car down a hill. Gotta make a stand somewhere, right?)</p>
+<p><img src="https://www.rockpapershotgun.com/images/16/nov/ot4.jpg" alt=""/></p>
+<p>All told, they&#8217;re a nice item. I really like just holding them, which may not be something I&#8217;ve ever said about a game controller before. The weight&#8217;s just right, they&#8217;re comfortable (if perhaps ever so slightly slippy), my hand just falls into place, the trigger and thumbstick movement is nice and, well I suppose it feels vaguely like wearing some kind of cyberpunk knuckleduster. </p>
+<p>My fear for these things was that I&#8217;d be getting either a differently-shaped Vive wand at best, or a glorified PS Move at worst. I&#8217;m glad to say it&#8217;s both much better than the latter and a more versatile prospect to the former, even if its baseline &#8216;where my hands at?&#8217; feature is effectively identical.</p>
+<p>As for the in-practice differences, and specifically how it uses its finger tracking &#8216;touch&#8217; element, I&#8217;ll be covering those in a separate piece once I&#8217;ve trialled a few more apps/games. </p>
+</div>
+<footer class="article-footer">
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Oculus Touch is a superior motion controller to the Vive&#8217;s https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</footer>
+ 
+<link rel="stylesheet" type="text/css" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/css/recommendations.css" media="screen"/>
+ 
+<div id="recommendations-wrapper">
+<div id="recommendations">
+<div id="rcjsload_gam148"></div>
+<script type="text/javascript">
+                            (function() {
+                            function ad_block_test(e,o){if("undefined"!=typeof document.body){var t="0.1.2-dev",o=o?o:"sponsorText",n=document.createElement("DIV");n.id=o,n.style.position="absolute",n.style.left="-999px",n.appendChild(document.createTextNode("&nbsp;")),document.body.appendChild(n),setTimeout(function(){if(n){var o=0==n.clientHeight;try{}catch(d){console&&console.log&&console.log("ad-block-test error",d)}e(o,t),document.body.removeChild(n)}},175)}}
+                            ad_block_test(function(is_blocked){
+                            var widget_id =48030;
+                            if (is_blocked === true) {
+                            widget_id =48136;
+                            }
+                            var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+                            var rcel = document.createElement("script");
+                            rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+                            rcel.type = 'text/javascript';
+                            rcel.src = "//trends.revcontent.com/serve.js.php?w="+widget_id+"&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth) +"&referer="+referer + '&is_blocked=' + is_blocked;
+                            rcel.async = true;
+                            var rcds = document.getElementById("rcjsload_gam148"); rcds.appendChild(rcel);
+                            });
+                            })();
+                            </script>
+</div>
+</div>
+</div>
+<div id="rps-article-carousel" class="rps-carousel-container">
+<header>
+<h4>From this site</h4>
+</header>
+<div class="rps-carousel">
+<a class="prev navigation"><span class="icon-angle-left"></span></a>
+<section>
+<article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/overwatchcharacterguide.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/23/overwatch-character-guide-abilities-and-strategy-tips/"><div class="text"><h5 class="title">Overwatch Character Guide</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/snapmapbest.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/24/best-doom-snapmaps/"><div class="text"><h5 class="title">DOOM’s Best SnapMaps</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/civho1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/"><div class="text"><h5 class="title">Civilization VI Is Exciting & Aggressive</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/oct/warcraft1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/26/warcraft-the-beginning-review/"><div class="text"><h5 class="title">Warcraft: The Beginning review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/bw_6.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/the-witcher-3-blood-and-wine-review/"><div class="text"><h5 class="title">The Witcher 3: Blood And Wine review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/OW1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/27/overwatch-review/"><div class="text"><h5 class="title">Overwatch review</h5></div></a></article>
+</section>
+<a class="next navigation"><span class="icon-angle-right"></span></a>
+</div>
+</div>
+</article>
+<div id="mobile-ads" style="display:none;">
+<div id="mobile-leaderboard-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-leaderboard-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-leaderboard-mobile" data-dfp-id="RPS_LB_MOB" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_LB_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile" data-dfp-id="RPS_MPU_MOB" data-dfp-sizes="300x250,320x400,300x600, 320x100, 320x50" id="div-ga-RPS_MPU_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-2-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-2" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-2" data-dfp-id="RPS_MPU_MOB_2" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_2"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-3-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-3" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-3" data-dfp-id="RPS_MPU_MOB_3" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_3"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-4-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-4" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-4" data-dfp-id="RPS_MPU_MOB_4" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_4"></div>
+ 
+</div>
+</div>
+</div>
+<script>
+                var inline_ads = new InlineAds({ container: jQuery("#content .post-inner > .entry").first(), mpu_ads: jQuery("#mobile-ads .mpu") });
+
+                ga('set', 'dimension1', "featured-articles,hardware");
+                ga('set', 'dimension2', "feature,hardware,oculus-rift,oculus-touch,review,vr");
+                ga('set', 'dimension3', "Alec Meer");
+
+                </script>
+<div id="comments">
+<div class="block" style="padding-bottom: 0;">
+<h3 class="comments">44 Comments</h3>
+</div>
+<div class="block no-back no-border" id="all-comments">
+ 
+ 
+<div class="pagination">
+</div>
+<ol class="commentlist">
+<li class="comment byuser comment-author-x1501 even thread-even depth-1 comment-role-subscriber" id="li-comment-2354581">
+<div id="comment-2354581">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/795dcc88a0f6632866fb8b164e823c52?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/795dcc88a0f6632866fb8b164e823c52?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354581">05/12/2016 at 15:18</a>
+</span>
+<cite class="fn">x1501</cite> <span class="says">says:</span></span>
+</p>
+<p>Not sure how everybody else feels about it, but having to deal with removable AA batteries—rechargeable or not—is a major turn off for me. I used to have two battery-powered wireless Xbox controllers, and it was so annoyingly cumbersome that I just switched back to the wired version and never looked back.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-phuzz odd alt depth-2 comment-role-premium_user" id="li-comment-2354601">
+<div id="comment-2354601">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d6112662bb0d00c71e378b50d7382cac?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d6112662bb0d00c71e378b50d7382cac?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354601">05/12/2016 at 15:43</a>
+</span>
+<cite class="fn">phuzz</cite> <span class="says">says:</span></span>
+</p>
+<p>At least rechargable batteries aren&#8217;t so rubbish any more, and you can even get USB rechargeable AAs now.<br/>
+Gone (mostly) are the days of toys that would burn through all their batteries in under an hour (Atari Lynx I&#8217;m glowering at you).</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-addie even depth-3 comment-role-premium_user" id="li-comment-2354613">
+<div id="comment-2354613">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/8fb0575ade71a6baadd1e5e675747e03?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/8fb0575ade71a6baadd1e5e675747e03?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354613">05/12/2016 at 16:00</a>
+</span>
+<cite class="fn">Addie</cite> <span class="says">says:</span></span>
+</p>
+<p>Atari Lynx was an amateur battery eater compared to the mighty Sega Game Gear. One of my mates (as a lad) was left playing his on the in-car adapter while his parents went for lunch at some motorway services, and when they got back the car wouldn&#8217;t start. Fun times. Used to eat through 8x brand new AAs in less than fifteen minutes, those things.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-kefren odd alt depth-2 comment-role-subscriber" id="li-comment-2354605">
+<div id="comment-2354605">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d0124abd141c4615d9a80abc88e8e8b6?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d0124abd141c4615d9a80abc88e8e8b6?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354605">05/12/2016 at 15:47</a>
+</span>
+<cite class="fn"><a href='http://karldrinkwater.uk' rel='external nofollow' class='url'>Kefren</a></cite> <span class="says">says:</span></span>
+</p>
+<p>I&#8217;ve always used wired controllers with my Xbox and Xbox 360. I preferred the wired guitar for Rock Band too.</p>
+<p>I think a built-in (but user-replaceable) rechargeable battery is best in this case, but for it to work while charging a la Vive if you want. But since even most phones don&#8217;t let you change the battery nowadays (and there seems to be hardly any fuss about their inbuilt obsolescence) I can&#8217;t see it happening.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-sakkura even depth-2 comment-role-subscriber" id="li-comment-2354607">
+<div id="comment-2354607">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354607">05/12/2016 at 15:49</a>
+</span>
+<cite class="fn">Sakkura</cite> <span class="says">says:</span></span>
+</p>
+<p>Having removable batteries is a major advantage. If you run out of power in the middle of playing, you can just quickly pop out the dead battery and put in a fresh one.</p>
+<p>With a non-removable battery, you have to put the controller in a charging dock (or use a charging cable, ugh) and give it some time to charge.</p>
+<p>In any case, the battery life on these controllers is supposedly very long.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-retne odd alt depth-3 comment-role-subscriber" id="li-comment-2354637">
+<div id="comment-2354637">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/63a2bbaab31cf450d047efe69ee9a968?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/63a2bbaab31cf450d047efe69ee9a968?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354637">05/12/2016 at 16:35</a>
+</span>
+<cite class="fn">Retne</cite> <span class="says">says:</span></span>
+</p>
+<p>I agree that personally, at least, I&#8217;d rather just pop in a new AA battery and keep going.</p>
+<p>Plus, one hugely important things that beats other arguments on the pros / cons list for me is that baked-in-batteries are a form of planned obsolescence that mean the product (e.g. controllers, as here) has a limited life.</p>
+<p>Eventually the batteries will have a charged life of approx five minutes.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-frightlever even depth-2 comment-role-subscriber" id="li-comment-2354763">
+<div id="comment-2354763">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5b57c39498cdfdfc6ff51870e0abd197?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5b57c39498cdfdfc6ff51870e0abd197?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354763">05/12/2016 at 19:22</a>
+</span>
+<cite class="fn">frightlever</cite> <span class="says">says:</span></span>
+</p>
+<p>Buy some Sanyo Eneloop batteries or the Amazon clones and you&#8217;ll never look back. Unlike old rechargeables these things hold a charge. You can use them straight out of the pack and they&#8217;ll probably still have 90% charge even if they were sitting on a shelf for six months. </p>
+<p>I use them in my remote controls, which is just something you couldn&#8217;t do with the older batteries unless you wanted to replace and recharge them every week.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-inu odd alt depth-2 comment-role-subscriber" id="li-comment-2354797">
+<div id="comment-2354797">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/574192d8f1848af39272f2a419e26528?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/574192d8f1848af39272f2a419e26528?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354797">05/12/2016 at 20:32</a>
+</span>
+<cite class="fn">Inu</cite> <span class="says">says:</span></span>
+</p>
+<p>I actually prefer my own rechargeable battery options. Generally they cut corners in the quality of internal batteries AND they&#8217;re not replaceable.</p>
+<p>Get some Eneloop rechargeables and never look back.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-don-reba even depth-3 comment-role-premium_user" id="li-comment-2355053">
+<div id="comment-2355053">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/cd991227ac34793b8bae42972cbb03d6?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/cd991227ac34793b8bae42972cbb03d6?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2355053">06/12/2016 at 12:59</a>
+</span>
+<cite class="fn">Don Reba</cite> <span class="says">says:</span></span>
+</p>
+<p>What&#8217;s with everyone who advertises Eneloop using the &#8220;never look back&#8221; metaphor?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-malkara odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2354595">
+<div id="comment-2354595">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/ce12c80d4f1b1a15977b24dbb983be01?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/ce12c80d4f1b1a15977b24dbb983be01?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354595">05/12/2016 at 15:36</a>
+</span>
+<cite class="fn">Malkara</cite> <span class="says">says:</span></span>
+</p>
+<p>The prototypes of new controllers that HTC had at Steam Dev Days look fantastic: <a href="http://www.theverge.com/2016/10/12/13264950/valve-vive-vr-controllers-new-prototype" rel="nofollow">link to theverge.com</a></p>
+<p>Hopefully they&#8217;re able to put something out that takes some of the cool stuff about Oculus&#8217; touch controllers. I&#8217;ll agree that at the moment the weakest part of the experience is the Vive controllers.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-tonicer even thread-even depth-1 comment-role-subscriber" id="li-comment-2354599">
+<div id="comment-2354599">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6df5f08d4cff47c4cde60c231fb35b49?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6df5f08d4cff47c4cde60c231fb35b49?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354599">05/12/2016 at 15:42</a>
+</span>
+<cite class="fn">tonicer</cite> <span class="says">says:</span></span>
+</p>
+<p>Meh the entire VR thing is lame anyway. I would only consider buying a VR headset if they have a precision input device for it that comes close to the perfect input device &#8230; the mouse.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-sakkura odd alt depth-2 comment-role-subscriber" id="li-comment-2354603">
+<div id="comment-2354603">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354603">05/12/2016 at 15:46</a>
+</span>
+<cite class="fn">Sakkura</cite> <span class="says">says:</span></span>
+</p>
+<p>Sorry, but you&#8217;re wrong.</p>
+<p>Not just because you can use a mouse in VR just fine, but also because there are lots of things for which a mouse is not perfect. People spend lots of money on HOTAS for flight sims, wheels for racing&#8230; well motion controllers can be all those things and hundreds more.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-bertiedugger even depth-2 comment-role-premium_user" id="li-comment-2354885">
+<div id="comment-2354885">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c1ab9b07557398423d63c50c7eacffca?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c1ab9b07557398423d63c50c7eacffca?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354885">06/12/2016 at 00:59</a>
+</span>
+<cite class="fn">BertieDugger</cite> <span class="says">says:</span></span>
+</p>
+<p>If the mouse is the perfect input device, why do people use graphics tablets? Why don&#8217;t we use mice to drive cars and fly planes? (IRL, not in driving/flying sims).</p>
+<p>When I&#8217;m using a VR headset I don&#8217;t want my hand to be stuck to a horizontal 2D surface in front of me. That&#8217;s an artefact of how we use desktop computers and fixed, flat screens.</p>
+<p>Sounds like you&#8217;ve already made your mind up anyway, but if not, <a href="http://doc-ok.org/?p=1478" rel="nofollow">link to doc-ok.org</a> has some numbers about the precision of the Vive controllers (tldr; &#8220;it is therefore possible to use a Lighthouse controller with an attached and calibrated probe tip as a large-area 3D digitizer, with an expected accuracy of about 2mm&#8221;).</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-jpracer77qc odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2354615">
+<div id="comment-2354615">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e8c26d9cffbc15b0dd12e9ca8f1bdeb0?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e8c26d9cffbc15b0dd12e9ca8f1bdeb0?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354615">05/12/2016 at 16:00</a>
+</span>
+<cite class="fn">JPRacer77Qc</cite> <span class="says">says:</span></span>
+</p>
+<p>Is it possible to use the controller without having a Rift?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-sakkura even depth-2 comment-role-subscriber" id="li-comment-2354623">
+<div id="comment-2354623">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354623">05/12/2016 at 16:09</a>
+</span>
+<cite class="fn">Sakkura</cite> <span class="says">says:</span></span>
+</p>
+<p>Nope.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-sakkura odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2354625">
+<div id="comment-2354625">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354625">05/12/2016 at 16:10</a>
+</span>
+<cite class="fn">Sakkura</cite> <span class="says">says:</span></span>
+</p>
+<p>Doublechecking what you&#8217;re pressing is not impossible in VR. In fact, during the initial setup I checked which button was the A button by putting my hand in front of my face and reading the A on the virtual picture of the controller. Things get almost spookily intuitive sometimes with these controllers.</p>
+<p>Also the finger tracking is a little more extensive than you&#8217;re saying. It&#8217;s not just tracking the thumb and index finger, but also the middle finger. The middle finger then acts as a proxy for the ring and pinky fingers.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-ericusson even thread-odd thread-alt depth-1 comment-role-premium_user" id="li-comment-2354631">
+<div id="comment-2354631">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/cbac6def9c79de99441b1f642f5740d7?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/cbac6def9c79de99441b1f642f5740d7?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354631">05/12/2016 at 16:12</a>
+</span>
+<cite class="fn">Ericusson</cite> <span class="says">says:</span></span>
+</p>
+<p>Didn&#8217;t I read somewhere last week than Oculus chief engineer said the future of VR is not necessarily gaming or something like that ?<br/>
+Quite something to say in public to say the least.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-marr odd alt depth-2 comment-role-subscriber" id="li-comment-2354883">
+<div id="comment-2354883">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c0f0bb104d451874ab5c8b0b0edfaca7?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c0f0bb104d451874ab5c8b0b0edfaca7?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354883">06/12/2016 at 00:56</a>
+</span>
+<cite class="fn">Marr</cite> <span class="says">says:</span></span>
+</p>
+<p>Well, he&#8217;s right. VR and AR will become the standard user interface for everything when the hardware reaches the right combination of cheap, accurate and unobtrusive. Gaming isn&#8217;t VR&#8217;s future any more than it was Windows 3.1&#8217;s future.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-cerzi even depth-2 comment-role-subscriber" id="li-comment-2355055">
+<div id="comment-2355055">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/eba4af4e49644cd45640665ff84aa1e0?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/eba4af4e49644cd45640665ff84aa1e0?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2355055">06/12/2016 at 13:00</a>
+</span>
+<cite class="fn">Cerzi</cite> <span class="says">says:</span></span>
+</p>
+<p>Similar to saying the future of PCs isn&#8217;t gaming a few decades ago. Of course we love our PC games but games are only a part of what they&#8217;re used for, not their sole purpose.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-moonracer odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2354633">
+<div id="comment-2354633">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1e9838b73d630ba15c5b6e00678ea94e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1e9838b73d630ba15c5b6e00678ea94e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354633">05/12/2016 at 16:15</a>
+</span>
+<cite class="fn">Moonracer</cite> <span class="says">says:</span></span>
+</p>
+<p>As a Vive owner who hasn&#8217;t tried the Oculus, this article didn&#8217;t make me feel jealous. I am happy for Oculus owners that their controller is well designed.</p>
+<p>personally I&#8217;m still convinced that roomscale is the experience that makes or breaks VR (with a few exceptions). While I&#8217;m looking forward to better hand controls, I&#8217;m more excited for leg tracking and what that will open up for game development.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-thepuzzler even depth-2 comment-role-subscriber" id="li-comment-2354639">
+<div id="comment-2354639">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/da83b862ed323d96338120d77f2928cc?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/da83b862ed323d96338120d77f2928cc?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354639">05/12/2016 at 16:38</a>
+</span>
+<cite class="fn">ThePuzzler</cite> <span class="says">says:</span></span>
+</p>
+<p>I don&#8217;t see walking around as being a major thing in VR &#8211; at least, not home VR, because no-one wants to be writing software that is dependent on the shape of people&#8217;s computer rooms.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-resonancecascade odd alt depth-3 comment-role-subscriber" id="li-comment-2354673">
+<div id="comment-2354673">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1f23e13632c51f3d87937a13d3489397?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1f23e13632c51f3d87937a13d3489397?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354673">05/12/2016 at 17:40</a>
+</span>
+<cite class="fn">ResonanceCascade</cite> <span class="says">says:</span></span>
+</p>
+<p>Roomscale is amazing, I just can&#8217;t imagine many people have enough room to use it. I have my PC set up in the largest room in my house, but I still have to move my furniture around to make enough space to really take advantage of it.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-marblecake even depth-3 comment-role-subscriber" id="li-comment-2354697">
+<div id="comment-2354697">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/56f4e7b31f9f58324bf747984f1da601?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/56f4e7b31f9f58324bf747984f1da601?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354697">05/12/2016 at 18:04</a>
+</span>
+<cite class="fn">Marblecake</cite> <span class="says">says:</span></span>
+</p>
+<p>I gotta be honest, I don&#8217;t really see the appeal of an Oculus Rift as compared to a Vive.<br/>
+I own neither, but after having been lucky enough to try out a Vive I can say that at least for me personally, it&#8217; room-scale or nothing. The immersion is mind-boggling and the holodeck-like feeling is simply amazing. I literally do not understand why I would get a Rift at roughly similar price and half the features.<br/>
+Or am I missing something? Honestly curious.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-sakkura odd alt depth-4 comment-role-subscriber" id="li-comment-2354733">
+<div id="comment-2354733">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354733">05/12/2016 at 18:40</a>
+</span>
+<cite class="fn">Sakkura</cite> <span class="says">says:</span></span>
+</p>
+<p>The Rift can do the exact same room scale things. It&#8217;s just better designed hardware and more advanced software.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-jiblet even depth-4 comment-role-premium_user" id="li-comment-2355659">
+<div id="comment-2355659">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/87c636c01b415d9c6b592b01de193f9d?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/87c636c01b415d9c6b592b01de193f9d?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2355659">07/12/2016 at 12:06</a>
+</span>
+<cite class="fn">Jiblet</cite> <span class="says">says:</span></span>
+</p>
+<p>What do you mean half the features? I&#8217;m perfectly happy sat on my arse playing flightsims in the Rift rather than whizzing around the room in with my arms out making propeller noises in a Vive. The &#8220;office&#8221; in my house, where my PC is, is a box-room thats about 8ft square. So with a bookcase, a desk and a chair in it, there&#8217;s no room for roomscale.</p>
+<p>As far as I understand, both have the same resolution screens, but the Vive&#8217;s field of view is larger, meaning the Rift has denser pixels. Which make&#8217;s spotting Commie assholes easier in DCS for example.</p>
+<p>While I&#8217;d like to try a Vive, I&#8217;m happy with my Rift. And speaking of which, there&#8217;s a couple of Touchuses in a box here waiting for my delicate ministrations&#8230; Lets have a looksee.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-marblecake odd alt depth-5 comment-role-subscriber" id="li-comment-2356033">
+<div id="comment-2356033">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/56f4e7b31f9f58324bf747984f1da601?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/56f4e7b31f9f58324bf747984f1da601?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2356033">08/12/2016 at 00:07</a>
+</span>
+<cite class="fn">Marblecake</cite> <span class="says">says:</span></span>
+</p>
+<p>Okay, since when can the Rift do room scale? Can you give me a source for that?</p>
+<p>And if it can&#8217;t, of course it only has half the features. With a Vive you can sit down just as well as with a Rift, but you can also go walk around like a moron while having immense amounts of fun. It&#8217;s not about what you&#8217;re happy with but what the sets can deliver and so far, in my experience, Vive seems to be ahead of the Rift.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-klumhru even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2354651">
+<div id="comment-2354651">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/da2be1fb3842d8fdcccdb58f06ede150?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/da2be1fb3842d8fdcccdb58f06ede150?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354651">05/12/2016 at 17:11</a>
+</span>
+<cite class="fn"><a href='http://klumhru.wordpress.com/' rel='external nofollow' class='url'>klumhru</a></cite> <span class="says">says:</span></span>
+</p>
+<p>I own a Vive and Rift, and have access to Rift controllers.</p>
+<p>My pros/cons vs Vive controllers.<br/>
+Pros: Far better balance, finger sensing.<br/>
+Cons: Separate sensor, lack of USB charging, lack of room scale. Minor issue but somewhat understandable is the lack of cross compatibility.</p>
+<p>Not sure what is meant by 3 power supplies unless you&#8217;re referring to the USB chargers for the Vive controllers. Any phone charger will do for those, so I read that as an incorrect evaluation. I agree with all other major points.</p>
+<p>I would still advise everyone interested in VR to wait for the next generation. I&#8217;ve extensively used DK1, DK2, Vive, Rift and PSVR. The leaps being made in tech between generations in input devices and displays warrant the delay in purchase.</p>
+<p>If you absolutely must have a VR set, I&#8217;d recommend the Vive for reasons of software availability rather than any hardware superiority.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-sakkura odd alt depth-2 comment-role-subscriber" id="li-comment-2354681">
+<div id="comment-2354681">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354681">05/12/2016 at 17:50</a>
+</span>
+<cite class="fn">Sakkura</cite> <span class="says">says:</span></span>
+</p>
+<p>The Vive base stations and IIRC breakout box all need to be plugged into power outlets.</p>
+<p>As for your list of pros/cons for the Touch controllers, lack of USB charging is a pro, not a con. Being able to quickly swap out a battery instead of being forced to wait for an internal battery to charge is a clear advantage.</p>
+<p>As for software availability, the Rift is ahead of the Vive. It also has other advantages on the software side, such as the ASW feature that means the Rift can run on PCs with much lower specs.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-dritz even depth-3 comment-role-subscriber" id="li-comment-2354747">
+<div id="comment-2354747">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/f46ea222ecc8dcb4f4dd7c7b650eda10?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/f46ea222ecc8dcb4f4dd7c7b650eda10?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354747">05/12/2016 at 18:56</a>
+</span>
+<cite class="fn">Dritz</cite> <span class="says">says:</span></span>
+</p>
+<p>Yes, it&#8217;s correct that the Vive takes three power outlets in total, one for each Lighthouse and one for the breakout box to power the headset. However, those would typically be outlets spread out in the roomscale play area, not at your computer, unless you&#8217;re only setting up for a Standing area.</p>
+<p>As far as ASW goes, Valve recently added asynchronous reprojection to SteamVR (only been out of beta for a few weeks), which similarly allows games running at 45fps to feel smooth. It&#8217;s very similar to ASW in concept, and also manages to allow PCs with lower specs to play games comfortably. That said, before then, Valve&#8217;s position on the matter was games need to be implementing dynamic quality solutions, such as what they did in The Lab, to achieve target framerates and ensure a comfortable experience, but unfortunately almost no one else has been doing that, despite Valve open sourcing their methods for it.</p>
+<p>Software availability&#8230; Now that&#8217;s a messy subject. Everything on the Vive is technically available for the Rift, because OpenVR/SteamVR supports both natively. Everything developed for the Rift specifically, however, is locked to the Rift hardware. There&#8217;s no technical reason for this; Oculus has been enforcing DRM for what headset you have plugged in ever since someone created a translation layer for their SDK (which has also since bypassed the DRM, incidentally; most Oculus Store games can currently run on a Vive through it now). They&#8217;ve also been throwing money at developers to get exclusivity on some titles people have been waiting for, even some that were initially demonstrated running on a Vive. The VR community has largely been disappointed or outraged about those tactics, and many have boycotted Oculus as a result. Not sure I&#8217;d mark that as a &#8216;pro&#8217; in their column, personally.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-chaz odd alt depth-4 comment-role-subscriber" id="li-comment-2354771">
+<div id="comment-2354771">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/15be2ddf77f7772b447c1132db355eb5?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/15be2ddf77f7772b447c1132db355eb5?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354771">05/12/2016 at 19:33</a>
+</span>
+<cite class="fn">Chaz</cite> <span class="says">says:</span></span>
+</p>
+<p>I dunno, my mate has been playing some of the Touch demo&#8217;s on his Vive and has been telling me about them. Meanwhile I&#8217;m still waiting for Oculus to ship my bloody Touch controllers. I think he&#8217;s using the Revive software which is supporting Touch now, although he thinks it still needs a bit of tweaking.</p>
+<p>I think it&#8217;s good the Touch controllers have finally come out as I&#8217;m seeing quite a few of the Vive games now updated for Touch on the Oculus store. Just means that for VR developers they&#8217;re no longer going to be stuck with the old which one do I support conundrum when developing new titles, as they can now do both.</p>
+<p>As for room scale, well the Rift still has that capability, just not over as much of a large area as the Vive does. I&#8217;ll be honest though, having played many games on my mates Vive, I can&#8217;t actually think of that many titles that utilise room scale to it&#8217;s proper extent anyway, with most games offering just a standing experience that&#8217;s no different from the Rift&#8217;s. It&#8217;s understandable, as I&#8217;d wager very few VR owners actually have that kind of space where their PC is setup. After about 10 minutes of room scale anyway, I usual default to being lazy and just teleporting even if it&#8217;s to move one step away. There is a practical aspect to that too mind, where if you walk to the edge of your room space, you just end up having to back peddle and teleport forwards anyway. So after a while it just seems more practical to remain where you are and teleport, only taking a step forward here and there to reach out for stuff.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-sakkura even depth-4 comment-role-subscriber" id="li-comment-2354881">
+<div id="comment-2354881">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354881">06/12/2016 at 00:47</a>
+</span>
+<cite class="fn">Sakkura</cite> <span class="says">says:</span></span>
+</p>
+<p>The Async reprojection Valve added is analogous to ATW, which Oculus has had since launch. ASW is much more advanced.</p>
+<p>Also, Valve has an inferior implementation of ATW that runs on a smaller selection of graphics cards (where Oculus&#8217; version runs on basically anything).</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-estel odd alt depth-4 comment-role-premium_user" id="li-comment-2354897">
+<div id="comment-2354897">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6f2c024b218fdde413b4d9d437913d6c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6f2c024b218fdde413b4d9d437913d6c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354897">06/12/2016 at 02:18</a>
+</span>
+<cite class="fn"><a href='http://www.nathanwong.co.uk' rel='external nofollow' class='url'>Nathan</a></cite> <span class="says">says:</span></span>
+</p>
+<p>&gt; Oculus has been enforcing DRM for what headset you have plugged in ever since someone created a translation layer for their SDK (which has also since bypassed the DRM, incidentally; most Oculus Store games can currently run on a Vive through it now).</p>
+<p>They removed the hardware lock within a week or two of enabling it. Revive had made a change that circumvented the hardware lock but in doing so also removed the other DRM stuff and allowed the games to be freely pirated. For one reason or t&#8217;other the hardware lock was removed soon afterwards.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-dahools even thread-even depth-1 comment-role-subscriber" id="li-comment-2354731">
+<div id="comment-2354731">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/eb0b794d53239ef4c6eeccf74f251595?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/eb0b794d53239ef4c6eeccf74f251595?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354731">05/12/2016 at 18:39</a>
+</span>
+<cite class="fn">dahools</cite> <span class="says">says:</span></span>
+</p>
+<p>Didn&#8217;t say how much they were did we?</p>
+<p>Seems an expensive way to play Darth Vader choking innocents with your index finger and thumb.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-sakkura odd alt depth-2 comment-role-subscriber" id="li-comment-2354735">
+<div id="comment-2354735">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1aafc65ac0ffc1259552c1ce667c28a3?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354735">05/12/2016 at 18:42</a>
+</span>
+<cite class="fn">Sakkura</cite> <span class="says">says:</span></span>
+</p>
+<p>$199/€199. Not sure how much in Brexitanian Rupees.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-dahools even depth-3 comment-role-subscriber" id="li-comment-2354829">
+<div id="comment-2354829">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/eb0b794d53239ef4c6eeccf74f251595?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/eb0b794d53239ef4c6eeccf74f251595?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354829">05/12/2016 at 21:36</a>
+</span>
+<cite class="fn">dahools</cite> <span class="says">says:</span></span>
+</p>
+<p>Cheers still a bit pricy once converted to our world dominating British empire credits..</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-therealhankhill odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2354781">
+<div id="comment-2354781">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/143183825861a20c59771dbe5abc8104?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/143183825861a20c59771dbe5abc8104?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354781">05/12/2016 at 20:08</a>
+</span>
+<cite class="fn">TheRealHankHill</cite> <span class="says">says:</span></span>
+</p>
+<p>Cool, Palmer Luckey is still a piece of human garbage who funds hate campaigns. Never touching his product.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-whydidyoumakemeregister even depth-2 comment-role-subscriber" id="li-comment-2355109">
+<div id="comment-2355109">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d1bf7a0e19cb1df2ef2a60c97f0b4b76?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d1bf7a0e19cb1df2ef2a60c97f0b4b76?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2355109">06/12/2016 at 14:26</a>
+</span>
+<cite class="fn">myhandleonrps</cite> <span class="says">says:</span></span>
+</p>
+<p>Hear, hear! I thank him for it, too. Sometimes deciding what product to buy can be a tough decision, but with CEOs like that it&#8217;s just a simple binary switch to &#8216;never ever buying that&#8217;.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-singularityparadigm odd alt depth-3 comment-role-subscriber" id="li-comment-2356023">
+<div id="comment-2356023">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/3e84ce1c4d27fff4a72e935eeb4883f1?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/3e84ce1c4d27fff4a72e935eeb4883f1?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2356023">07/12/2016 at 23:51</a>
+</span>
+<cite class="fn">SingularityParadigm</cite> <span class="says">says:</span></span>
+</p>
+<p>Palmer Luckey was never CEO, he was a co-founder. Brendan Iribe is CEO. After his little Nimble fiasco Palmer is just a deposed figurehead.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-hedgeclipper even thread-even depth-1 comment-role-subscriber" id="li-comment-2354891">
+<div id="comment-2354891">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6e10e618ae2f31b67066734f20d02013?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6e10e618ae2f31b67066734f20d02013?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354891">06/12/2016 at 01:48</a>
+</span>
+<cite class="fn">Hedgeclipper</cite> <span class="says">says:</span></span>
+</p>
+<p>&#8220;luxury-looking cardboard box&#8221; Made me lol</p>
+<p>More curiously RPS has written a lot about VR but I haven&#8217;t seem much comment on how thoroughly the Vive has stomped the Oculas &#8211; at least this gen &#8211; its been comfortably sitting at 60% share for months dispute being more expensive and avoiding nasty exclusives.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-estel odd alt depth-2 comment-role-premium_user" id="li-comment-2354899">
+<div id="comment-2354899">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6f2c024b218fdde413b4d9d437913d6c?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6f2c024b218fdde413b4d9d437913d6c?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354899">06/12/2016 at 02:19</a>
+</span>
+<cite class="fn"><a href='http://www.nathanwong.co.uk' rel='external nofollow' class='url'>Nathan</a></cite> <span class="says">says:</span></span>
+</p>
+<p>&#8220;thoroughly the Vive has stomped the Oculas&#8221; &#8211; because who gives a shit?</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-singularityparadigm even depth-2 comment-role-subscriber" id="li-comment-2354901">
+<div id="comment-2354901">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/3e84ce1c4d27fff4a72e935eeb4883f1?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/3e84ce1c4d27fff4a72e935eeb4883f1?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354901">06/12/2016 at 02:37</a>
+</span>
+<cite class="fn">SingularityParadigm</cite> <span class="says">says:</span></span>
+</p>
+<p>&gt;its been comfortably sitting at 60% share for months</p>
+<p>You mean in the misleading Steam Hardware Survey? There are no published numbers on Rift sales, and at the very least a plurality more likely majority of Rift owners do not use SteamVR and only use Oculus Home, thus would not be included in the Steam survey. Also, for the Steam Hardware Survey to detect the presence of a Rift it doesn&#8217;t just need to be plugged in, Oculus Home has to also be running at the time. The Steam Hardware Survey may be the best numbers we currently have, but they are far from definitive.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-dlfreporter odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2354953">
+<div id="comment-2354953">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/0b6f9630998771e684a63ed23fef36b8?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/0b6f9630998771e684a63ed23fef36b8?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2354953">06/12/2016 at 08:44</a>
+</span>
+<cite class="fn">DLFReporter</cite> <span class="says">says:</span></span>
+</p>
+<p>For me, Oculus always wins in Terms of haptic and comfort. As has been said, the boxes alone make you feel like you are getting something for your money. Also the design of the headset is just spot on. Integrating high quality earphones is a Godsend, cudos to the dev who pushed that point!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-sunjammer even thread-even depth-1 comment-role-subscriber" id="li-comment-2355135">
+<div id="comment-2355135">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/b60764f0d87b2ee091b3a4cc56879b24?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/b60764f0d87b2ee091b3a4cc56879b24?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2355135">06/12/2016 at 14:57</a>
+</span>
+<cite class="fn">Sunjammer</cite> <span class="says">says:</span></span>
+</p>
+<p>I don&#8217;t even care about VR and these things feel good enough to hold that I wish I could just replace all gamepads with them in general. Really, really impressive ergonomics IMO.</p>
+<p>Sidenote: When are we going to get a sign-in here that doesn&#8217;t take us to the profile page and force us to back out to the article we wanted to comment on and trigger a refresh? It&#8217;s been like this forever and it suuuuucks.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-harlander odd alt thread-odd thread-alt depth-1 comment-role-premium_user" id="li-comment-2356847">
+<div id="comment-2356847">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/3a0f52e803208a2b1bbb5690bcc6b13d?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/3a0f52e803208a2b1bbb5690bcc6b13d?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2016/12/05/oculus-touch-review/#comment-2356847">09/12/2016 at 07:27</a>
+</span>
+<cite class="fn">Harlander</cite> <span class="says">says:</span></span>
+</p>
+<p>Ironically, seeing the advances of this over the Vive controllers in such a short time makes me even more inclined to wait for the next generation &#8211; because if they can do a couple of fingers now, it won&#8217;t be too long before they can do a whole hand.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ol>
+<div class="pagination">
+</div>
+</div>
+</div>
+</div>  
+<ul id="sidebar" class="hidden-mobile hidden-tablet">
+<li id="rpstagsearch-2" class="widget-container RPSTagSearch"> <div id="affiliate-disclaimer">
+<h4>Disclaimer</h4>
+<div class="disclaimer"><p><small>If you click our links to online stores and make a purchase we may receive a few pennies. Find more information <a href="/affiliate-linking-policy/">here</a>.</small></p></div>
+</div>
+<h4>Tags</h4>
+<p class="tags"><a href="https://www.rockpapershotgun.com/tag/feature/" rel="tag">feature</a>, <a href="https://www.rockpapershotgun.com/tag/hardware/" rel="tag">Hardware</a>, <a href="https://www.rockpapershotgun.com/tag/oculus-rift/" rel="tag">Oculus Rift</a>, <a href="https://www.rockpapershotgun.com/tag/oculus-touch/" rel="tag">Oculus Touch</a>, <a href="https://www.rockpapershotgun.com/tag/review/" rel="tag">review</a>, <a href="https://www.rockpapershotgun.com/tag/vr/" rel="tag">VR</a>.</p>
+<h4 class="widget-title">Search <span>for clues</span></h4>
+<form method="get" action="/" id="tagsearch">
+<fieldset>
+<input type="hidden" name="valuesUrl" id="valuesUrl" value="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/values.php"/>
+<input type="text" name="tagsearchtext" id="tagsearchtext" placeholder="Search for a tag" style="width:230px"/>
+<input type="submit" class="submit primary" value="Go"/>
+</fieldset>
+</form>
+</li><li id="rpsadblock-2" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<style>*{margin:0;padding:0;border:0;}</style>
+ 
+<style>.home.infinite-scroll #sidebar #div-ga-RPS_MPU_MOB{display:none!important;}</style>
+ 
+<style>.rps-carousel article .text{right:0;}.entry a{font-weight:bold;text-decoration:none;}div.content div.block p.featured-block-title,div.content div.block p.premium-block-title,div.content div.block p.giveaway-block-title{min-height:32px;}p.giveaway-block-title span{background-image:url(/wp-content/themes/rockpapershotgun2013/images/giveaway-title-bg.png);background-size:77px 15px;padding-left:0;}div.content div.block p.giveaway-block-title{padding-right:15px;}</style>
+ 
+ 
+<style type="text/css">#rps-article-carousel .navigation:after{background-image:url(/wp-content/plugins/rps-article-carousel/carousel-arrows.png);}@media screen and (max-width: 665px) {#header .logo a{background-image:url(/wp-content/themes/rockpapershotgun2013/images/logo-single-line.png);}}</style>
+ 
+<style type="text/css">.infinite-wrap .rps-carousel-container{display:none;}</style>
+<script>
+jQuery(document).ready(function () {
+    jQuery('a[href="https://twitter.com/asponge"]').remove();
+});
+</script>
+ 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_1" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_1"></div>
+ 
+</div>
+</li><li id="rpsnews-2" class="widget-container RPSNews"><h4 class="widget-title">News <span>and things</span></h4>
+<ul class="no-bullets thumbs">
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/01/nvidia-1080-ti-release-date/" rel="bookmark" title="Nvidia&#8217;s new $700 1080 Ti in theory beats $1200 Titan X"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/1080ti.jpg&w=50&h=50&cc=#000" alt="Nvidia&#8217;s new $700 1080 Ti in theory beats $1200 Titan X"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/01/nvidia-1080-ti-release-date/" rel="bookmark" title="Nvidia&#8217;s new $700 1080 Ti in theory beats $1200 Titan X">
+Nvidia&#8217;s new $700 1080 Ti in theory beats $1200 Titan X </a></h5>
+<p>35% faster than a 1080</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/02/27/zenimax-oculus-rift-sdk-injunction/" rel="bookmark" title="ZeniMax seek injunction shutting down Oculus SDK"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/aug/23murdershewrotevr.jpg&w=50&h=50&cc=#000" alt="ZeniMax seek injunction shutting down Oculus SDK"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/02/27/zenimax-oculus-rift-sdk-injunction/" rel="bookmark" title="ZeniMax seek injunction shutting down Oculus SDK">
+ZeniMax seek injunction shutting down Oculus SDK </a></h5>
+<p>Oh gosh!</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/02/10/valve-vr-games/" rel="bookmark" title="&#8220;We&#8217;re building 3 full VR games, not experiments&#8221;- Valve"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/apr/vive1.jpg&w=50&h=50&cc=#000" alt="&#8220;We&#8217;re building 3 full VR games, not experiments&#8221;- Valve"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/02/10/valve-vr-games/" rel="bookmark" title="&#8220;We&#8217;re building 3 full VR games, not experiments&#8221;- Valve">
+&#8220;We&#8217;re building 3 full VR games, not experiments&#8221;- Valve </a></h5>
+<p>Believes huge tech improvements incoming</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/02/01/bitter-rift-oculus-has-to-pay-500-million-to-zenimax-over-vr-headset-rules-court/" rel="bookmark" title="Bitter Rift: Oculus has to pay $500 million to ZeniMax over VR headset, rules court"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/aug/23johnnymnemonic.jpg&w=50&h=50&cc=#000" alt="Bitter Rift: Oculus has to pay $500 million to ZeniMax over VR headset, rules court"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/02/01/bitter-rift-oculus-has-to-pay-500-million-to-zenimax-over-vr-headset-rules-court/" rel="bookmark" title="Bitter Rift: Oculus has to pay $500 million to ZeniMax over VR headset, rules court">
+Bitter Rift: Oculus has to pay $500 million to ZeniMax over VR headset, rules court </a></h5>
+<p>A bitter Rift</p> </li>
+<li class="more"><a href="https://www.rockpapershotgun.com/category//"><strong>And much more&hellip;</strong></a></li>
+</ul>
+<div class="clear"></div>
+</li><li id="autofeature-2" class="widget-container AutoFeature">
+<a data-id="422987" class="widget-link invert-widget" id="autofeature-422987" href="https://www.rockpapershotgun.com/2017/01/13/the-50-best-fps-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/may/wasd3header3.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best FPS On PC</h4>
+<p>The Worthiest Reticules Of All Time</p> </a>
+</li><li id="autofeature-3" class="widget-container AutoFeature">
+<a data-id="437667" class="widget-link " id="autofeature-437667" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/rainworld_wit_1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Rain World</h4>
+<p>The 5175th series of Planet Earth </p> </a>
+</li><li id="rpstagaz-2" class="widget-container RPSTagAZ"><h4 class="widget-title">Browse <span>our tags</span></h4>
+<ul class="tag-list tag-list--alphabet">
+<li><a href="/tags?letter=a">A</a></li>
+<li><a href="/tags?letter=b">B</a></li>
+<li><a href="/tags?letter=c">C</a></li>
+<li><a href="/tags?letter=d">D</a></li>
+<li><a href="/tags?letter=e">E</a></li>
+<li><a href="/tags?letter=f">F</a></li>
+<li><a href="/tags?letter=g">G</a></li>
+<li><a href="/tags?letter=h">H</a></li>
+<li><a href="/tags?letter=i">I</a></li>
+<li><a href="/tags?letter=j">J</a></li>
+<li><a href="/tags?letter=k">K</a></li>
+<li><a href="/tags?letter=l">L</a></li>
+<li><a href="/tags?letter=m">M</a></li>
+<li><a href="/tags?letter=n">N</a></li>
+<li><a href="/tags?letter=o">O</a></li>
+<li><a href="/tags?letter=p">P</a></li>
+<li><a href="/tags?letter=q">Q</a></li>
+<li><a href="/tags?letter=r">R</a></li>
+<li><a href="/tags?letter=s">S</a></li>
+<li><a href="/tags?letter=t">T</a></li>
+<li><a href="/tags?letter=u">U</a></li>
+<li><a href="/tags?letter=v">V</a></li>
+<li><a href="/tags?letter=w">W</a></li>
+<li><a href="/tags?letter=x">X</a></li>
+<li><a href="/tags?letter=y">Y</a></li>
+<li><a href="/tags?letter=z">Z</a></li>
+<li><a href="/tags?letter=0-9">#</a></li>
+</ul>
+</li><li id="bdp-comments" class="widget-container widget_bdp_comments"><h4 class="widget-title">Respond <span>to our gibber</span></h4><ul id="widget_bdp_comments_ul">
+<li>CAMN</a> : &ldquo;"the final expansion for the final Dark Souls game." Wait, so they are NOT going ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/dark-souls-3-the-ringed-city-dlc-released/#comment-2409221'>Dark Souls 3 now concluded in The Ringed City</a></li>
+<li>anon459</a> : &ldquo;Most games do this to some degree. Take Battlefield's helicopters, for an obvious example. They ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409219'>Wot I Think: Rain World</a></li>
+<li>Hieronymusgoa</a> : &ldquo;Totally with you on that one. I play indie games 90% of the time, apart ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/17/have-you-played-dragon-age-inquisition/#comment-2409217'>Have You Played… Dragon Age: Inquisition?</a></li>
+<li>SuicideKing</a> : &ldquo;I wish you'd talk to Eugen too, about Steel Division, being published by Paradox, etc. ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/#comment-2409215'>Come see developer sessions this week at EGX Rezzed</a></li>
+<li>ZX k1cka55 48K</a> : &ldquo;Just read the Changelog in disgust without realizing that it's just a joke, because it ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/#comment-2409213'>The RPG Scrollbars: Predicting Planescape</a></li>
+</ul>
+</li><li id="rpsadblock-3" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_2" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_2" data-ghost-zone="59"></div>
+ 
+</div>
+</li><li id="autofeature-14" class="widget-container AutoFeature">
+<a data-id="413239" class="widget-link invert-widget" id="autofeature-413239" href="https://www.rockpapershotgun.com/2016/11/18/the-50-best-strategy-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/apr/stratheader.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 best strategy games on PC</h4>
+<p>Hit Parade</p> </a>
+</li><li id="autofeature-15" class="widget-container AutoFeature">
+<a data-id="432371" class="widget-link " id="autofeature-432371" href="https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/feb/plane1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The RPG Scrollbars: Predicting Planescape</h4>
+<p>The long awaited follow-up to Forgotten Realms: Baldur's Gate</p> </a>
+</li><li id="autofeature-4" class="widget-container AutoFeature">
+<a data-id="437233" class="widget-link " id="autofeature-437233" href="https://www.rockpapershotgun.com/2017/03/27/the-best-games-of-my-lifetime-year-by-year-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/chartists.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of *my* lifetime, year by year</h4>
+<p>A list, probably wrong</p> </a>
+</li><li id="autofeature-13" class="widget-container AutoFeature">
+<a data-id="408185" class="widget-link invert-widget" id="autofeature-408185" href="https://www.rockpapershotgun.com/2016/10/31/the-50-best-free-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/dec/awardsheader_small.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best Free Games On PC</h4>
+<p>No free-to-play, just free.</p> </a>
+</li><li id="autofeature-12" class="widget-container AutoFeature">
+<a data-id="437071" class="widget-link " id="autofeature-437071" href="https://www.rockpapershotgun.com/2017/03/26/the-sunday-papers-443/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/sep/papers2.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The Sunday Papers</h4>
+<p>Read more</p> </a>
+</li><li id="autofeature-10" class="widget-container AutoFeature">
+<a data-id="437303" class="widget-link " id="autofeature-437303" href="https://www.rockpapershotgun.com/2017/03/25/best-free-games-of-the-week-46/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/mar/gabey.png&w=280&h=112&zc=11" alt=""/>
+<h4>Gabe Newell to write, direct and star in Half-Life movie</h4>
+<p>NEWS ALERT. NEWS ALERT</p> </a>
+</li><li id="autofeature-9" class="widget-container AutoFeature">
+<a data-id="373643" class="widget-link invert-widget" id="autofeature-373643" href="https://www.rockpapershotgun.com/2016/06/15/if-only-text-adventures-for-people-who-hate-guessing-the-verb/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jun/superluminalvagrant.jpeg&w=280&h=112&zc=11" alt=""/>
+<h4>IF Only: Text Adventures For People Who Hate Guessing The Verb</h4>
+<p>Parsers Verbed</p> </a>
+</li><li id="autofeature-8" class="widget-container AutoFeature">
+<a data-id="436299" class="widget-link " id="autofeature-436299" href="https://www.rockpapershotgun.com/2017/03/25/whats-wrong-with-mass-effect-andromeda/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/mea.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Everything else that's wrong with Mass Effect Andromeda</h4>
+<p>A Galaxy Of Errors</p> </a>
+</li><li id="autofeature-7" class="widget-container AutoFeature">
+<a data-id="437299" class="widget-link " id="autofeature-437299" href="https://www.rockpapershotgun.com/2017/03/25/what-to-play-this-weekend-28/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/nov/wypalice.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>What are we all playing this weekend?</h4>
+<p>WELL?</p> </a>
+</li><li id="autofeature-5" class="widget-container AutoFeature">
+<a data-id="359811" class="widget-link invert-widget" id="autofeature-359811" href="https://www.rockpapershotgun.com/2016/04/13/build-engine-duke-nukem-blood-shadow-warrior/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/apr/build1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Blood, Sweat & Laughter: The Beauty Of The Build Engine</h4>
+<p>2.5D remembered.</p> </a>
+</li><li id="autofeature-6" class="widget-container AutoFeature">
+<a data-id="437049" class="widget-link " id="autofeature-437049" href="https://www.rockpapershotgun.com/2017/03/24/future-unfolding-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/futureunfolding1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Future Unfolding</h4>
+<p>A trip through nature</p> </a>
+</li><li id="autofeature-11" class="widget-container AutoFeature">
+<a data-id="436887" class="widget-link " id="autofeature-436887" href="https://www.rockpapershotgun.com/2017/03/24/kona-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/kon8.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Survival meets adventure in Kôna</h4>
+<p>Chilling</p> </a>
+</li><li id="autofeature-16" class="widget-container AutoFeature">
+<a data-id="347951" class="widget-link invert-widget" id="autofeature-347951" href="https://www.rockpapershotgun.com/2016/02/19/xcom-2-guide/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/feb/sectoid.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>XCOM 2 Guide To Strategy, Performance, Mods & More</h4>
+<p>Everything you need to know.</p> </a>
+</li><li id="autofeature-17" class="widget-container AutoFeature">
+<a data-id="435671" class="widget-link " id="autofeature-435671" href="https://www.rockpapershotgun.com/2017/03/24/warframe-bard-update/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/warframe1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Warframe: now a game of music-making as well as action</h4>
+<p>Digital Extremes explain Octavia's Anthem</p> </a>
+</li><li id="autofeature-18" class="widget-container AutoFeature">
+<a data-id="437087" class="widget-link " id="autofeature-437087" href="https://www.rockpapershotgun.com/2017/03/24/the-best-games-of-my-lifetime-year-by-year/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/lifegames.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of my lifetime, year by year</h4>
+<p>This is my life (in games)</p> </a>
+</li><li id="autofeature-19" class="widget-container AutoFeature">
+<a data-id="342317" class="widget-link invert-widget" id="autofeature-342317" href="https://www.rockpapershotgun.com/2016/01/21/best-fallout-4-mods-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jan/falloutsettlementanywhere.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best Fallout 4 Mods</h4>
+<p>For graphics, weapons, the UI and more.</p> </a>
+</li><li id="autofeature-20" class="widget-container AutoFeature">
+<a data-id="437013" class="widget-link " id="autofeature-437013" href="https://www.rockpapershotgun.com/2017/03/24/best-pc-gaming-deals-of-the-week-26/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/oct/12hitmanjapan.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best PC gaming deals of the week</h4>
+<p>Square and 2K go Humble</p> </a>
+</li><li id="autofeature-21" class="widget-container AutoFeature">
+<a data-id="436917" class="widget-link " id="autofeature-436917" href="https://www.rockpapershotgun.com/2017/03/23/making-dungeon-crawl-stone-soup-with-253-cooks-and-no-head-chef/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/crawl1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Making Dungeon Crawl Stone Soup with 253 cooks and no head chef</h4>
+<p>One of the best roguelikes, one of the strangest dev teams</p> </a>
+</li>
+</ul>
+</div>  
+<div id="skyscraper">
+ 
+<div class="ad-hd ad-halfpage" data-dfp-id="RPS_HP" data-dfp-sizes="160x600,300x600" id="div-ga-RPS_HP" data-ghost-zone="26"></div>
+ 
+</div>  
+</div>  
+</div>  
+<div id="footer">
+<div class="container">
+<div id="footer-content">
+<div class="footer-col">
+<h4>All our stuff <span>and things</span></h4>
+<ul>
+<li><a href="/">home</a></li>
+<li><a href="/about-pc-gaming-rps/">about</a></li>
+<li><a href="/advertise-pc-games/">advertise</a></li>
+<li><a href="/hey-prs-and-developers/">hey, developers!</a></li>
+<li><a href="/supportrps/">support RPS</a></li>
+<li><a href="/forums/">forums</a></li>
+</ul>
+<ul>
+<li><a href="http://steamcommunity.com/groups/rps">steam group</a></li>
+<li><a href="https://twitter.com/rockpapershot">twitter</a></li>
+<li><a href="https://www.facebook.com/rockpapershot">facebook</a></li>
+<li><a href="http://rps.libsyn.com/">podcast</a></li>
+<li><a href="http://feeds.feedburner.com/RockPaperShotgun">rss</a></li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Rock, Paper, Shotgun <span>was</span></h4>
+<ul style="width:180px;">
+<li>
+<a href="mailto:graham@rockpapershotgun.com">Graham Smith</a>
+<a href="https://twitter.com/gonnas" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alec@rockpapershotgun.com">Alec Meer</a>
+<a href="https://twitter.com/bonzrat" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://www.bonzrat.co.uk/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:john@rockpapershotgun.com">John Walker</a>
+<a href="https://twitter.com/botherer" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://botherer.org/blog/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:adam@rockpapershotgun.com">Adam Smith</a>
+<a href="https://twitter.com/noneconomical" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alice@rockpapershotgun.com">Alice O'Connor</a>
+</li>
+<li>
+<a href="mailto:pip@rockpapershotgun.com">Philippa Warr</a>
+<a href="https://twitter.com/philippawarr" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Info <span>and appendices</span></h4>
+<ul style="width:300px;">
+<li>&copy; 2007-2017 <a href="/">Rock Paper Shotgun</a> Ltd.</li>
+<li>Designed by Jonathan Sutcliffe.</a></li>
+<li>Hosted by <a href="http://www.positive-internet.com/">Positive Internet.</a></li>
+<li>Today's scotch egg consumption: 2301</li>
+<li>Hivemind Throbometer reading: 1.315%</li>
+<li class="write-to-rps">Write to RPS <a href="mailto:contact@rockpapershotgun.com">contact@rockpapershotgun.com</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<div id="eg-network" class="hidden-mobile">
+<div class="inner"></div>
+<div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+            jQuery(function(){
+                jQuery('#eg-network .inner').load('https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/eg-footer.php');
+            });
+        </script>
+</div>
+</div>
+ 
+<script type='text/javascript'>
+    
+        jQuery(document).ready(function() {
+
+            var custom_variables = {};
+            custom_variables['source'] = 'article';
+            custom_variables['url'] = document.location.pathname.substr(0, 40);
+            custom_variables['tags'] = "horror,featured-articles,hardware,feature,hardware,oculus-rift,oculus-touch,review,vr,long-article";
+                            custom_variables['games'] = "oculus-touch";
+                        
+            try {
+                jQuery('.ad-tablet .ad-desktop, .ad-mobile, .ad-hd').getDFPads({'custom_variables' : custom_variables});
+            } catch(e) {
+                                    yafaIt();
+                                }
+
+            var lazyloading = true;
+           
+            function lazyloadAds() {
+                lazy_mpus = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus.length == 0) {
+                    lazyloading = false; 
+                    clearInterval(lazyloadInterval);
+                } else {
+                    for ( var i = 0; i < lazy_mpus.length; i++ ) {
+                        mpu_pos = jQuery(lazy_mpus[i])[0].getBoundingClientRect();
+                        if(mpu_pos['top'] < 1300 && lazyloading == true){
+                            jQuery(lazy_mpus[i]).getDFPads({'custom_variables' : custom_variables});   
+                            jQuery(lazy_mpus[i]).removeClass('lazyload').addClass('lazyloaded');                 
+                        }
+                    }    
+                }            
+            }
+
+            if(custom_variables['source'] == 'article'){
+                lazy_mpus_check = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus_check.length > 0) {
+                    var lazyloadInterval = setInterval(lazyloadAds, 300);
+                }
+            }
+
+        });
+
+    </script>
+ 
+<script type="text/javascript" src="//s.skimresources.com/js/87431X1560958.skimlinks.js"></script>
+ 
+ 
+<script>
+        function yafaIt() {
+            var ads = document.querySelectorAll('[data-dfp-id]');
+            for(var i = 0;i < ads.length;i++)
+            {
+				var ad = ads[i];
+				if( ad.hasAttribute("data-yafa-img") ) {
+					var yafa_click = ad.getAttribute("data-yafa-click");
+					var yafa_img = ad.getAttribute("data-yafa-img");
+					var yafa_target = ad.getAttribute("data-yafa-target");
+					var yafa_style = ad.getAttribute("data-yafa-style");
+					var yafa_linktarget = ad.getAttribute("data-yafa-linktarget");
+					var yafa_linkheight = 0;
+					if( ad.hasAttribute("data-yafa-linkheight") ) {
+						yafa_linkheight = ad.getAttribute("data-yafa-linkheight");
+					}
+					var tgt = jQuery(yafa_target);
+					tgt.attr(
+						'style', 'background-image: url(' + yafa_img + ');' + yafa_style
+					);
+					jQuery('html').bind('mousemove', function(e) {
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							jQuery('html').css({ 'cursor' :'pointer' });
+						} else {
+							jQuery('html').css({ 'cursor' :'auto' });
+						}
+					});
+					jQuery('html').bind('click', function (e) { 
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							window.open(yafa_click,'_top');
+						}
+					});
+				}
+                jQuery(ad).hide();
+            }
+        }
+		</script>
+ 
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",opacity:0.8,loop:false,scrolling:false,top:false,right:false,bottom:false,left:false});
+});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ecd_params = {"cookie_message":"Rock Paper Shotgun uses cookies. For some reason we are now obliged to notify you of this fact. Not that you care. <a href=\"\/privacy-stuff\">More info here<\/a>.","cookies":{"0":{"name":"wp-settings-3","group":"WordPress","description":""},"1":{"name":"wp-settings-time-3","group":"WordPress","description":""},"2":{"name":"wordpress_test_cookie","group":"WordPress","description":""},"3":{"name":"__utma","group":"Google Analytics","description":""},"4":{"name":"__utmb","group":"Google Analytics","description":""},"5":{"name":"__utmc","group":"Google Analytics","description":""},"6":{"name":"__utmv","group":"Google Analytics","description":""},"7":{"name":"__utmz","group":"Google Analytics","description":""},"9":{"name":"","group":"","description":""}}};
+var ecd_cookies = [{"name":"wp-settings-3","description":"","group":"WordPress"},{"name":"wp-settings-time-3","description":"","group":"WordPress"},{"name":"wordpress_test_cookie","description":"","group":"WordPress"},{"name":"__utma","description":"","group":"Google Analytics"},{"name":"__utmb","description":"","group":"Google Analytics"},{"name":"__utmc","description":"","group":"Google Analytics"},{"name":"__utmv","description":"","group":"Google Analytics"},{"name":"__utmz","description":"","group":"Google Analytics"}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/script.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var infinite = {"ajax_url":"https:\/\/www.rockpapershotgun.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/rps-feature-stepper/infinite-features.js?ver=1.0'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201713'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type="text/javascript">
+			var bwpRecaptchaCallback = function() {
+				// render all collected recaptcha instances
+			};
+		</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=bwpRecaptchaCallback&#038;render=explicit" async defer></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc1fd178d1","applicationID":"26676767","transactionName":"MwBUZUZXWkpZAkMNCQpKd1JAX1tXFxJeCgEIAA==","queueTime":0,"applicationTime":1334,"atts":"H0dXEw5NSUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

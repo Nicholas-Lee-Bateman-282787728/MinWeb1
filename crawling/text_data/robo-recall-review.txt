@@ -1,0 +1,202 @@
+
+RPS Feature
+Kill robots with other robots 
+By Alec Meer on March 15th, 2017 at 5:00 pm.
+
+Invent an exciting new games technology. Imagine all the possibilities. New worlds, new forms of interaction, new creativity mediums, maybe even new ways of humans interacting with each other. 
+Let’s be honest. It’s going to end up being all about guns, isn’t it?
+And so it is that Unreal/Gears of War studio Epic’s Oculus Rift-exclusive first-person shooter Robo Recall [official site] joins Serious Sam VR and SUPERHOT VR in the so-far short roster of virtual reality titles I can see myself revisiting relatively often. What these have in common is, of course, face-shooting. I’m not proud, but I did have a bloody good time.
+
+There’s a lot that’s familiar about Robo Recall, in that many VR shooters seem to be broadly singing from the same hymn sheet despite early speculation that the technology would allow for hitherto undreamed-of ways of interacting with a videogame. This means that Robo Recall, like Serious Sam and to a lesser extent SUPERHOT before it, has a little more in common with an arcade lightgun shooter than it does a first-person shooter. 
+
+Player-character movement remains a problem that hasn’t quite been solved, and so once again we end up with a hybrid approach that involves often staying in more or less the same spot, with a bit of ducking and diving and maybe a few short hops to either side of that fixed position. In this case, we get the point-to-teleport movement system too, which can be rather awkward but has one of the slicker implementations I’ve seen here, in that you can additional twitch a thumbstick in a given direction to specify which direction you want to be facing when you arrive. 
+It’s not quite second nature to do – every time the ‘port finishes I spin around like a Muppet, trying to work out where the enemy I was trying to get within range of has gone to – but it is fast.
+I suppose that, in theory, the requirement for Oculus Touch controllers and their attendant second motion controller means this could seek a quasi-room scale approach, but given its levels involve streets and rooftops, making its spaces adapt to your own space might be an impossibly tall order. Anyway: my point is that this is a game in which the top half of my body is moving constantly, but my legs are those of a shy 14-year-old dancing at his first high school ball. There’s a fair whack of cognitive dissonance, but it’s a bit of a workout, in weird sort of way.
+
+I should say what I’m doing, which is shooting lots and lots of robots – or ‘recalling’ them, as the sinister robot-making corporation which has tasked me with resolving a mass malfunction/rebellion puts it. I say ‘shooting’, but it is more physical than that – though in the main I’m trying to score headshots with my hands, I can also pull bullets out of mid-air and hurl them back at the bots who fired them, or grab a bot bodily then use my other hand to rip its head or a limb off. And then hurl said head or limb at the next robot. 
+Robo Recall makes me a frantic cyclone of destruction, the force of my mechanical slaughter matched only by my sheer ineptitude whenever I try to teleport. It’s a party, basically, mixing the accuracy of lightgun shooting with the physicality of Wii gaming. 
+
+Now, SUPERHOT did something similar, in terms of pairing shooting with furious arm-waving, but where that turned every encounter into a murderous logic puzzle (in what order and with what objects will you kill everyone in order to avoid being killed yourself?), this is more of a wave-based affair in which doing well enough gradually unlocks new weapon options, thus taking it closer to VR FPS norms. 
+It’s lavish with it though – robots dropping from the sky, mantling onto ledges, leaping over cars. There’s no escaping that you’re essentially playing arena-based score attack, but quite clearly a shit-ton of money and expertise has been gone into this, and it looks and feels some distance ahead of the VR shooter pack. 
+
+I think I personally prefer Serious Sam, because of its cackling straightforwardness, but this is both better-presented and a whole lot more flexible, and as such probably sells VR better than Croteam’s simpler prospect. It doesn’t have the cool or ingenuity of SUPERHOT though, with the latter very much a VR essential in my book and this more of a ‘probably.’ It’s a good time and makes particularly excellent use of the lightweight Touch controllers, with their pinch’n’grab suited to gun-catching and limb-ripping in a way that the sticky-out Vive wands simply are not.
+Of course, the thing to know there is that, at the time of writing, you get Robo Recall for ‘free’ if you buy the £100 Oculus Touch controllers, or £600 Rift+Touch bundle. If you’ve got a Rift but not the Touch, this is a strong, relatively substantial and ultra-polished freebie that’ll make the cost of entry far more palatable. Though you’ll need to go right ahead and buy SUPERHOT separately afterwards. 
+Robo Recall  is available now for Oculus Rift on PC, via the Oculus Store. It’s free if you own or buy Oculus Touch, or £23/30 if you don’t. (And yet it requires Oculus Touch to play. Hmm).
+
+15/03/2017 at 17:21
+
+Sakkura says:
+
+ROBO RECALL! *guitar riff*
+I love this game.
+It has modding so you can get different locomotion styles and such (there will also be an official fix to the turn-around confusion you experienced when teleporting). Eventually we’ll likely be shooting cheese wheels at naked elf ladies.
+Superhot is excellent, but I find this just more fun. Dumb fun maybe, but it works for me.
+
+15/03/2017 at 18:38
+
+Eleven says:
+
+I’m glad to here there’s a fix in the works. I couldn’t quite get over the post-teleport disorientation enough to enjoy it as much as everyone else seems to be. 
+I absolutely love the variable always-on bullet-time though. It makes juggling robots in mid-air so much fun!
+
+15/03/2017 at 17:31
+
+Flopdong says:
+
+I haven’t tried Robo Recall yet, but Superhot VR is amazing. The feeling of dodging slow-mo attacks and delivering counterattacks is awesome. In most games, a dodge is executed by pressing a button at the right time. In VR, its about moving your body which opens up so many new possibilities. Why dodge a bullet when you can cut it in half in mid-air with a knife?
+My only complaint is that I have accidentally punched my desk several times in the middle of an epic fight. Im going to be bummed if my controllers get broken because I keep punching things with them. Totally worth it though
+
+15/03/2017 at 17:44
+
+Sakkura says:
+
+They’re pretty sturdy, luckily. I think everyone has that CLUNK moment.
+I changed my guardian boundaries so it shouldn’t happen again though, you might want to consider that too.
+PS: Robo Recall has slow-mo dodging of bullets too, and you can grab the bullets out of the air and toss them back, swipe them aside with a gun, or if they’re firing energy beams at you, you can reflect them jedi-style. It’s glorious.
+
+16/03/2017 at 11:56
+
+MajorLag says:
+
+“In most games, a dodge is executed by pressing a button at the right time. In VR, its about moving your body which opens up so many new possibilities.”
+Yes. When I did finally get around to trying out a Vive, this is what made me accept that non-toy VR games might actually work. I was engaged in Space Pirate Trainer in a way that even Valve’s otherwise great Bow and Arrow demo couldn’t manage.
+Of course, there are still a lot of problems with that. I mean, the whole room-scale thing in general only kinda works, the movement is very constricted and no one has yet come up with a good way to deal with that, but there’s some solid potential.
+
+15/03/2017 at 17:38
+
+mrentropy5 says:
+
+There’s something satisfying about ripping off a robot’s arm and then beating it to death(?) with it. Today I should try ripping off an arm and a head and see if I can play baseball.
+
+15/03/2017 at 18:11
+
+Daymare says:
+
+And in the game?!
+
+15/03/2017 at 17:41
+
+Shazbut says:
+
+Such a good trailer
+
+15/03/2017 at 17:41
+
+kael13 says:
+
+Can confirm regarding possible accidents, have punched door.
+This game is one to sell the system with; it’s simply amazing. Polished to a diamond shine.
+
+15/03/2017 at 17:46
+
+Clavus says:
+
+Had a blast with this game. Finished all the missions but I’ll probably go back to do some of the challenges. 
+This is the kind of game kids 30 years ago imagined we’d have in the future, it’s pretty much a direct descendant of the arcade cabinet shooter.
+
+15/03/2017 at 18:44
+
+Herring says:
+
+“or £23/30 if you don’t. (And yet it requires Oculus Touch to play. Hmm)”
+It’s almost like they’re hoping to make money off of Vive users playing it via ReVive.
+
+15/03/2017 at 18:46
+
+WaRxXxPiG says:
+
+I read “hitherto” as hit herto… Posting this to memorialize my shame.
+
+16/03/2017 at 00:13
+
+Nibblet says:
+
+I am surprised no one has tried making a VR-fps in which you are piloting a mech, and view the world from a sitting position inside the cockpit.
+One would think that could allow for standard fps movement/controls without the nausea inducing disconnect that a standard fps usually gives in VR.
+
+16/03/2017 at 00:54
+
+Hastur says:
+
+Exactly. Cockpit-based games seem like the sweet spot for VR. Give me VR X-wing, VR racing, VR mechs, VR B17 gunner….
+
+16/03/2017 at 02:35
+
+Daemoroth says:
+
+A VR mod/update to Mechwarrior Online would be epic (Or upcoming Mechwarrior 5, which would be even better, being single-player and all)!!
+
+16/03/2017 at 09:54
+
+ZippyLemon says:
+
+EA are just biding their time, right? They’re definitely going to release the best X-Wing game ever once the VR dev scene is more mature. There’s no way they’re going to ignore the opportunity for fear of it cannibalising Battlefront sales. No, they wouldn’t do that. That would be greedy and short sighted. I’m sure of it: EA will give us a fleshed out, fine-tuned, well written cracker of a space arcade game that won’t even get a speck of shit on our rose-tinted nostalgia goggles. For certain.
+
+16/03/2017 at 06:42
+
+Henke says:
+
+Vox Machinae (link to voxmachinae.com) is doing just that! I played the DK2 demo a while back and it was really good. :)
+
+16/03/2017 at 12:37
+
+Drib says:
+
+So once again headset-exclusivity spoils a title. The Vive does the room-scale thing better than the Rift, but the Rift has better controllers, and some exclusive games, and blah blah blah.
+I mostly game on PC, and there’s STILL a console war going. Ugh.
+
+16/03/2017 at 17:29
+
+Sakkura says:
+
+The Rift does the roomscale thing just fine unless you live in a mansion.
+And the game is not exclusive, it can be played on a Vive via Revive.
+
+16/03/2017 at 14:25
+
+pH101 says:
+
+But.. where is the SUPERHOT VR review? It was hinted at, teased, I looked out for it, word is that it is amazing, but no full review. None at all. Mentioned again heavily here too. But no review on any major gaming site that I have seen. Weird!
+
+16/03/2017 at 22:10
+
+cosmitz says:
+
+Having played both.. Superhot VR is really not that great of an experience when compared to the fun you can have in Robo Recall.
+
+16/03/2017 at 15:25
+
+9of9 says:
+
+Would also love to see reviews of Vive multiplayer shooters like Onward or Pavlov, which are much more traditional shooter fare transposed into VR: link to youtube.com
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+Epic Games, feature, Oculus Rift, Oculus Touch, review, Robo Recall, VR, VR games, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

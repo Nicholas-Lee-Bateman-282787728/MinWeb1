@@ -1,0 +1,18 @@
+./html_data_bitcoins/newsflash-resurgent-bitcoin-price-tops-1050-amid-hard-fork-talk.txt
+
+
+
+CryptoCoinsNews
+Bitcoin price began the week riding a swell that began during the late hours of Sunday evening, registering a high of $1,063 on the Bitstamp Price Index (BPI).
+The uncertainty and ongoing debate surrounding bitcoin’s scalability solutions with Segregated Witness or SegWit and Bitcoin Unlimited has contributed to significant volatility in the price of the cryptocurrency in recent days.
+A hardfork statement toward the end of last week by 18 major bitcoin exchange revealed a contingency plan of listing Bitcoin Unlimited as an alternative cryptocurrency, with its own token. In the immediate aftermath of the collective stance, bitcoin sunk to a 30-day low, losing nearly a fifth of its value as price struck a low of $938 on Saturday.
+Bitcoin prices largely lingered below $1,000 till Sunday afternoon, before signs of a recovery. BPI data shows bitcoin price reaching $998 at 15::30 on Sunday, before gaining $30 over the next hour. The swell stuck, rising to a high of $1063 at 20:00. While it’s still too early to tell if $1,000 is the new support level, price tailed off briefly toward $1,010 in the early hours of Monday.
+At 09:00, bitcoin price stood at $1,011.72 before a busy period of trading helped price reach a high of $,1053 at 13:15 on Monday. At the time of publishing, trading has remained steady with price hovering at $1,047.
+
+March continues bitcoin’s dramatic year in 2017, beginning the month with a then all-time high of $1,230 and surpassing parity with gold. By the end of the first week this month, bitcoin exceeded $20 billion in market cap, before briefly taking a dip to $1,150 after Chinese exchanges postponed the halt of bitcoin withdrawals indefinitely.
+Chart from TradeBlock.
+On March 10, bitcoin rose to an unsustainable all-time high of $1,350 in the lead-up to the SEC’s bitcoin ETF decision, before crashing below $1,000 in the aftermath of the rejection.
+At press time, bitcoin is just below $1,050 on average at the major exchanges but the recent volatility is expected to continue as the hardfork debate about scaling solutions between SegWit and Bitcoin Unlimited rumbles on.
+For a live Bitcoin Price chart, click here.
+All time references are in Coordinated Universal Time (UTC).
+Swamp waters image from Shutterstock. Chart from Bitcoin Wisdom.

@@ -1,0 +1,239 @@
+./html_data/owlboy-review.html
+
+RPS Feature
+A real hoot 
+By John Walker on November 1st, 2016 at 4:00 pm.
+
+Oh gosh, it is a splendid thing when a game like Owlboy [official site] comes around. Big, smart, involved, silly, gorgeous, aurally stunning, and with a compelling story. It’s got flaws, a couple of big ones, but it also has the wit of a Mario & Luigi game, and the professional delivery of a classic 90s big-studio platforming production, despite coming from a five-man indie team. This is something very lovely. Here’s wot I think:
+
+Drawn in utterly beautiful hi-res pixel graphics, Owlboy is a platformer-cum-Metroidvania about a young mute – well – owl boy, Otus, attempting to defend his homeland from invading robo-pirates. Controlling him, and latterly controlling other character’s weapon powers by carrying them, you explore an ever-expanding and broad, sprawling 2D world (but in no sense an “open world” as their marketing rather spuriously claims) in your pursuit of the enemies who threaten your very existence.
+
+A very smart tutorial introduces some of the basics, but really exists to beat you down, to see you fail, such that you learn Otus’s status in this community of a few remaining owl people and their human townsfellows. He’s young, green, and an apparent meekness suggested by his muteness means he is without the respect of his peers, but for a couple of friendly folks who feel similarly sidelined.
+Then, as events unfurl, your rag-tag crew (that eventually grows to include other surprise characters which I shall not spoil) attempts to help out alongside the more official efforts. And, without giving a single thing away, I want to make clear they’re smart people doing good work, not interfering idiots making things worse – something that’s ludicrously rare in such games, and a real pleasure.
+
+Otus can fly, so while it looks like a platformer, leaping from surface to surface is rarely (although sometimes) how you play. It’s much more about negotiating paths, working out how to open doors via environmental puzzles, and engaging in what is essentially twin-stick combat. (It can be played without, but I strongly recommend playing this with a controller.) And the flight is lovely, feels fluid and free, allowing you to swoop about without tiresome restrictions.
+In fact, that captures something that keeps impressing me about Owlboy – it seems to know how people want to play, and provides short-cuts where other similar games have only repeated frustrations. Otus has only mild attacks of his own, but picking up one of his chums lets you control their weapons – but rather than having to laboriously find them and put one down to pick up another, by means the game only jokes about rather than wastes time explaining, you can instantly teleport any of them into your claws. Perfect. You gather coins as you play, but rather than having to spend and save, instead you unlock new extras by passing a certain coin “score” – again, it removes the tedium of having to faff around getting money for vital aspects, instead it’s just optional extras for thorough collecting.
+
+Almost ten years of development hasn’t gone to waste here – this feels so exquisitely well put together, the combat a real pleasure to play, the boss fights easily finished with a second or third go (that’ll disappoint some, I realise, but you get more than enough games that meet your disturbing fetish, and for once this one’s for everyone else to enjoy), and oh my goodness, it looks so lovely. And I don’t mean in a faux-ironic, ‘look at me liking crude pixels’ way – this is artwork, sublime cartoon creations using a restrictive palette to drive creativity. There are intricate locations, beautiful backdrops and detailed foregrounds, that exist in the game only for a few seconds, then gone forever. The degree of effort and talent on display is to be cherished.
+
+Which of course means, where it does make mistakes, they really stand out. The biggest, most common frustration, is the utterly ridiculous frequency with which it takes controls away from you to have characters exchange meagre conversations. The writing is, for the most part, great, and the larger plot beats are utterly brilliant and it’s infuriating that I can’t sell you on the game with them, as they’d ruin it for you. But when you’re only given control back to walk off a screen, and then the same thirteen seconds of play after the next chat, and then again because you walked past a building, bloody hell it gets annoying. I’ve shouted at the screen a good few times, “JUST LET ME PLAY!” In a game as completely lovely as this one, it’s forgiven, but boy it would have been completely lovelier if they’d been a little more sensible about the interruptions to flow.
+A more egregious single scene is a very ill-advised stealth sequence that so strangely seems to fundamentally misunderstand how the game itself is played. You’re not allowed to fly for this section, only jump, but flying is triggered by pressing a direction button after jump, so it endlessly misfires the wings while trying to jump diagonally between platforms. Pressing the jump button a second time also releases your wings, so jump a picosecond too early in these manic jumps and you’ll also lose. God, I repeated that boring sequence so many damned times. Not fun.
+
+I want to tell you about this big plot point in the middle of the game, because blimey, oh I can’t even say which emotion it triggered! I can’t remember the last time I gasped out loud at a turn a game took like that. But I can’t – you’d kill me. So instead, trust me, get this game and then email me when you get there and we can share that moment, belatedly for me. But see, it’s a game that has a moment I wish I could now talk to someone else about – I love such things.
+
+That Mario & Luigi comparison I made at the start deserves a little expansion, I think. The first couple of those games (Superstar Saga and Partners In Time) are two of the best platform adventures ever made, and two of the funniest games ever made. So this isn’t a comparison I make lightly. While Owlboy doesn’t feature the RPG elements of those games, and certainly isn’t as extraordinarily involved as AlphaDream’s Nintendo-funded creations, the comparison is earned. Not just in the nature of the banter between characters, but more importantly, with the stunning cohesion of the delivery. A level of competence and coherence that feels so rare, especially when it’s delivered in a carefully opaque way as it is here. I keep thinking I’m getting frustrated by being given two directions to head in, each so long and splitting themselves that I have that “Oh I’m missing out on the other path!” anxiety, and then being blown away by how cleverly it had manipulated me, or had things loop around so I knew I’d not lost out. There’s some excellent level crafting on display here.
+
+What a treat. And a surprisingly deep one, with compelling moments you’ll want to talk about. It’s a pleasure to control, it has impeccable difficulty balancing to keep you moving forward while always feeling like you’re being skillful, and all in the prettiest of pretty pixel graphics. Triumphant.
+Owlboy is out now for Windows on Steam, GOG, Indiebox and Humble, for around $30.
+
+01/11/2016 at 16:30
+
+disgust says:
+
+This game will unlock in approximately less than an hour
+Can’t wait!
+
+01/11/2016 at 17:02
+
+dreadguacamole says:
+
+Well, you’ve absolutely sold me a copy. Great review.
+ Also, because this is the internet and I haven’t had my dose of willful misunderstanding yet: pixel art doesn’t limit the palette.
+ Oh, wait, even if you could choose pretty much any color you wanted, the fact that there are only so fewer pixels to use them on kind of limits the palette as a side effect. Hmm.
+
+01/11/2016 at 20:46
+
+noodlecake says:
+
+Pixel art doesn’t technically limit the palette but working with a limited palette forces you to use a lot of traditional pixel art techniques which give the work a certain feel. There are a lot of purists who have the whole “That’s not true pixel art” mentality towards certain work. The graphics in Hyper Light Drifter wouldn’t be true pixel art to them because the art style combines lots of colour gradients and other elements over the top of the original pixel work.
+
+02/11/2016 at 07:38
+
+particlese says:
+
+To add to that, there used to be hardware limitations on the palette. I don’t know all the technical reasons for it in-depth, but I believe it boils down to rendering/processing speed optimizations and using one 8-bit value to strategically pick from 2^8=256 of the 2^8^3=16 million colors typically available. (Potentially 2^16=65536 on 16-bit systems, so it’s harder to notice the palettes. The full palette is essentially always 16 million thanks to the usual 8-bit RGB formats and/or display hardware (minus weirdo reserved colors), but that’s very slowly expanding to 10-, 12-, or 16-bit or whatever.) Systems like the NES and Gameboy Color could display the whole range of colors their 8-bit processing would lead you to believe they can (or at least a large chunk of those colors), but each sprite or background layer could only contain a certain number of colors in any one frame thanks to that 8-bits-for-all thing, and the layers would have to switch palettes to get other colors. Even a lot of modern-ish games like Quake used limited palettes, and I’d guess that’s also for render speed considerations.
+Nowadays, palette restriction is mostly done to replicate that old esthetic, and it takes certain skills to pull it off as well as some of those older games used to. I, for one, love it when it’s well done.
+Well, that ended up longer than expected. Hopefully it’s interesting to someone and glaring errors are corrected before someone gets hurt…
+
+04/11/2016 at 06:09
+
+AnthonyF says:
+
+“Hopefully it’s interesting to someone and glaring errors are corrected before someone gets hurt…”
+Yup, ok.
+Quake and Doom used 8 bit colour modes for speed reasons, and because that was actually considered to be good at the time. Older systems, 8 and 16 bit computers and game machines, had much greater restrictions than that. Typically two or four bit sprite and tile planes, from a palette that was definitely much smaller than 16 bit RGB. The Amiga had a 4096 colour palette and that was considered impressive at the time. The NES had a 54 colour palette. Most 8 bit computers had 8 or 16 colour palettes.
+Kids these days don’t know they’re born etc.
+
+07/11/2016 at 07:36
+
+particlese says:
+
+Ah, thanks! Just did a bit more looking and found something very apt on Wikipedia. Much more interesting stuff going on there than I thought. (See also the list of just console palettes for more detailed descriptions of those.)
+
+01/11/2016 at 17:11
+
+Ansob says:
+
+I still can’t believe we live in a world where Owlboy actually released.
+
+01/11/2016 at 17:49
+
+caff says:
+
+10 years in development? Wow that’s amazing – and I’d only heard of this in passing. Great to see they got it right.
+Will def pick this up.
+
+02/11/2016 at 07:06
+
+particlese says:
+
+I’d also barely been following the development of this game — just watching as RPS people fawned over it the past few months — but now I’m eager to play it.
+
+01/11/2016 at 18:06
+
+Laurentius says:
+
+Can it be played with keyboard ?
+
+01/11/2016 at 18:49
+
+Catterbatter says:
+
+There’s a review on GOG complaining about having to remap controls on a Dvorak layout, so I would guess it works fine!
+
+01/11/2016 at 20:49
+
+John Walker says:
+
+*cries*
+
+01/11/2016 at 22:35
+
+DelrueOfDetroit says:
+
+*gives John an apple juice and puts The Clangers on TV*
+
+01/11/2016 at 22:37
+
+Laurentius says:
+
+Huh?
+You’ve written one unclear sentence about controls, so I asked if maybe someone can shed more light on that. And I don’t even want to hear about gamepads, Ori and the Blind Forest proved that you can make fairly difficult platformer with fine keyboard controls.
+
+03/11/2016 at 03:17
+
+Ragnar says:
+
+I think the point he’s trying to make is that gaming on PC frees us to use any controller we like, and to choose the best input device for each game, so it pains him to see people stubbornly refusing to get a controller to play games that play best with a controller.
+As someone who’s owned a PC controller ever since the original Microsoft Sidewinder – that had to be plugged into the joystick port on your sound card – I completely agree.
+
+03/11/2016 at 13:56
+
+sneetch says:
+
+You got all that from “*cries*”?
+
+30/11/2016 at 19:09
+
+someoneelse84 says:
+
+Perfectly playable with KB and mouse.
+
+01/11/2016 at 18:53
+
+seroto9 says:
+
+That fight scene in the corridor – done all in one take – was my favourite bit.
+
+01/11/2016 at 19:21
+
+wdeezy says:
+
+Well played. Very well played.
+
+01/11/2016 at 22:07
+
+Urthman says:
+
+This is a joke about how that Daredevil show has a character named “The Owl,” right?
+
+02/11/2016 at 10:04
+
+Jackablade says:
+
+There’s a Korean movie called “Oldboy” that I’d wager the similar sequence in Daredevil was inspired by.
+
+02/11/2016 at 10:09
+
+mllory says:
+
+I enjoyed the backwards-talking dwarf, personally.
+
+01/11/2016 at 19:29
+
+A Gentleman and a Taffer says:
+
+“God John, why are all your reviews so negative” etc and so on. Needs to be tagged in the ‘Ahem, what about all these positive reviews’ pile. I’m sold.
+
+01/11/2016 at 20:47
+
+noodlecake says:
+
+I was surprised at the positive review here after Hyper Light Drifter, although he did reference the main thing that pissed him off about it here too. :D Ludicrously hard boss fights! Which is fair enough.
+
+01/11/2016 at 22:27
+
+elnicky says:
+
+Only come across one of those stealthy no-flying bits and it wasn’t anywhere near as bad as stated. You only need to hold left or right while jumping, neither of which seems to automatically make you fly. There’s some other no-flying bits that have seemed decent enough too.
+Anyway, enjoying the game a lot so far. Not entirely what I was expecting, but that seems to mostly be a good thing.
+
+01/11/2016 at 22:37
+
+DelrueOfDetroit says:
+
+Any idea what kind of length to expect out of it?
+
+02/11/2016 at 01:53
+
+draglikepull says:
+
+12 cm
+
+02/11/2016 at 09:37
+
+sleepisthebrotherofdeath says:
+
+I’m not sure I’ve got enough space free on my harddrive to fit that on
+
+05/11/2016 at 20:55
+
+ersetzen says:
+
+I finished it in 7 hours without hurrying so I’d guess 6-8, maybe 10-12 when getting literally every collectible.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+action platform, D-Pad Studio, feature, Owlboy, review, RPS Recommends, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

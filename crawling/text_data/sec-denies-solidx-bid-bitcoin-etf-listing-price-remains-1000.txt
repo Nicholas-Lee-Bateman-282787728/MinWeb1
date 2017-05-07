@@ -1,0 +1,19 @@
+
+
+
+CryptoCoinsNews
+The U.S. Securities and Exchange Commission (SEC) has officially disapproved a proposal by SolidX to list its bitcoin ETF (electronic traded fund) on the New York Stock Exchange.
+Published today, this is the second disapproval by the SEC toward a bitcoin-based ETF this month.
+The decision nearly mirrors the reasons given by the SEC earlier this month when the federal agency denied the Winklevoss brothers’ proposal to list a bitcoin ETF on the Bats BZX Exchange. Last week, the exchange revealed its plan to contest the SEC’s decision with an appeal.
+Excerpts from the decision revealed in the SEC’s public notice [PDF] explaining its reasons to deny the latest bitcoin ETF proposal reads:
+[The] Commission is disapproving this proposed rule change because it does not find the proposal to be consistent with Section 6(b)(5) of the Exchange Act, which requires, among other things, that the rules of a national securities exchange be designed to prevent fraudulent and manipulative acts and practices and to protect investors and the public interest.
+The Commission believes that, in order to meet this standard, an exchange that lists and trades shares of commodity-trust exchange-traded products (“ETPs”) must, in addition to other applicable requirements, satisfy two requirements that are dispositive in this matter.  First, the exchange must have surveillance-sharing agreements with significant markets for trading the underlying commodity or derivatives on that commodity. And second, those markets must be regulated.
+Based on the record before it, the Commission believes that the significant markets for bitcoin are unregulated. Therefore, as the Exchange has not entered into, and would currently be unable to enter into, the type of surveillance-sharing agreement that has been in place with respect to all previously approved commodity-trust ETPs—agreements that help address concerns about the potential for fraudulent or manipulative acts and practices in this market—the Commission does not find the proposed rule change to be consistent with the Exchange Act.
+As it stands, the likelihood of a bitcoin ETF’s approval by the agency in the near future remains slim, at best.
+In the lead-up to the SEC’s previous bitcoin ETF-related decision on March 10, bitcoin reached an all-time high of $1,350 as trading flourished in the hopes of an approval. In the immediate aftermath of the rejection, bitcoin prices plummeted, losing nearly 25% of its value in a 10-minute period that saw frenzied selling by investors as price crashed to $975.
+The impact of today’s rejection on prices have been far less dramatic when compared to the previous ruling. Data from the Bitstamp Price Index (BPI) shows price falling from $1,055 approaching 18:00 UTC down to a low of $1,014.9 for the day. Earlier today, bitcoin price scaled a high of $1,066, having gained over $35 from the start of Tuesday.
+At the time of publishing, bitcoin is trading to the dollar at $1,024 on the BPI.
+
+For a live BTC Price chart, click here.
+All time references are in Coordinated Universal Time (UTC).
+Featured image from Shutterstock. Chart from BitcoinWisdom.

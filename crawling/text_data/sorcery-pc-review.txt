@@ -1,0 +1,196 @@
+
+RPS Feature
+A real page-turner 
+By Richard Cobbett on February 2nd, 2016 at 6:00 pm.
+
+Steve Jackson’s Sorcery! [official site] has been showing the mobile world what modern gamebooks can be since 2013, and now they’re following 80 Days onto the PC. The first two chapters come as a bundle, with two more on the way. If you’ve played them on iOS, they’re exactly the same games, only you can finally click on things instead of using your filthy sausage-fingers. If not, here’s Wot I Think.
+
+I confess, I never played Sorcery! back in the day. A lot of other gamebooks. Lone Wolf, sure. Choose Your Own Adventure. Knightmare. Pretty much whatever my local library had, occasionally without even cheating. Sorcery! slipped past me, yet somehow I don’t think I need to worry about saying that Inkle’s take on it is everything that fans could want, unless they want ice-cream while they play. Ice-cream is not provided.
+The central story is pretty simple. You’re a hero on a quest for the Crown of Kings, stolen from the land of Analand by the Archmage of Mampang Fortress who wants to conquer the land of Kakhabad and do all sorts of other evil things to fantasy places whose names were invented by randomly hitting keyboard buttons. Like most gamebooks, it’s a journey at heart, represented here by a map that slowly unfolds as you travel to reveal new stories, new characters and new opportunities, with your basic goal being to a) survive and b) gather equipment, allies, magic and more that will help later on in the quest. You can start any chapter with a pre-made character, but the intended route is to start from the beginning and take one character through the whole thing, accumulating damage and decisions and managing food and money.
+This is not a nice world. This is not a friendly world. This is an 80s gamebook world down to the core, and it’s lost none of its teeth over the last couple of decades.
+Though it has evolved a very time-handy rewind mechanic.
+
+I’m glad that the first two chapters are bundled, because while the first, The Shamutanti Hills, is a respectable game in its own right, it’s only after that, in Khare, the Cityport of Traps and the hunt for the Seven Serpents, that you really get to see Inkle embrace the possibilities of Sorcery! instead of just the text. I’m certainly not saying it’s a bad game, it’s an excellent conversion. Even so, the text, the characters, the encounters and the general style of it wear their source material’s age like the yellowing of old paper. It’s very old fashioned adventuring, especially going back to it after the later games and 80 Days. There’s lots of Stuff, sure. Not much of it is particularly memorable.
+Again though, I’m mostly talking in comparison to what follows. Next to most of the classic gamebooks on Steam, it’s already top-tier, and does a lot to modernise the experience. The interface, the map, the orchestral music, the aforementioned time-rewinding all help hugely, as does it simply keeping track of inventory, clues and so on in a more modern fashion, and bolting on its own bits where necessary, like the gambling game Swindlestones (Liar’s Dice, basically) and combat system. I’m not a big fan of the latter, but it works to make the battles part turn-based strategy and part puzzle, especially with the option to rig things with spells or sabotage. 
+Essentially, you face off against whatever monster thought it was a good idea to get in your face, with a stack of energy points to spend. The goal is to use intuition (though ultimately guesswork and repeatedly doing the same battle is closer to how you’ll succeed) to figure out when to go with a quick jab versus a heavy slash versus a block, and get out of things without losing any more Stamina points than you have to. They can be difficult to get back, especially when you’re stumbling around starving to death and unable to even buy food. On the plus side – time rewinding! Did I mention that?
+
+The basic interface has a pleasant tactility to it, with you drawing your hero back and forth to set their strength in combat, and dragging them around the map from place to place. As with 80 Days though, I wouldn’t have minded seeing a bit of an update for the PC version. It’s clean, but it’s often very clumsy, with things like the inventory split into multiple screens and a spellcasting system that’s irked me for three games now.
+Spells in Sorcery are limited by three things – the game giving you the option you cast them in the first place, though it’s pretty good about doing that; the current stars in the sky, from which you create the letters that form them; and having specific reagants to cast the more useful ones. “DUM” for instance will make an enemy uncoordinated, while “DOP” will open doors not sealed by magic. If the stars are with you, and you have the spare Stamina, you can cast them at will. To cast ROK though, turning an enemy into stone, you need some Stone Dust, while the invisibility spell “YAZ” can only hide you (from intelligent creatures) if you’ve found a pearl ring somewhere on your travels. As with the inventory though, casting a spell involves a bit too much bopping between screens – first to the starfield screen to see what letters are available, then back to the map to click out of the current storylet, then into the Spellbook to look up what you can do, then back to the heavens screen to input it…
+Gah! (Which somehow is not the spell for ’cause minor but irksome annoyance’.) Why can’t there be one-click access to the spellbook on the casting screen? It’s not like there isn’t much call to use them. There’s a reason the game’s called Sorcery!
+
+Those are however the only real issues with an otherwise fine and very attractive UI, wrapped around an undeniably traditional but well written and designed game. Each part’s map is a sprawling mass of possibilities, encouraging you to explore but balancing your ability to with your rations and health. You can always rewind after a wild-goose chase, but then you won’t necessarily know if that unprofitable assistance you gave the peasant on the road will somehow come back in your favour later on, or if the time spent gathering the fancy sword far from the beaten track will turn out to be a booby-trap with a very long-fuse. The Shamutanti Hills offer a dense world of possibilities and surprises, some good, some bad, but all spread casually before you to savour or ignore or approach or run away from encounters however you like. And all without having to stick a finger in any pages, as the King sternly told Sir Spicious.
+
+The big goal of Part 1 is to get to the city of Khare, though any sane player character would follow the river for literally any other way across. Khare marks the point of the game where Inkle stops simply remaking Sorcery! (more or less – even the first part has more than its book ever offered) and begins making it their own in terms of fiction and encounters and ambitious new game mechanics to layer on. Like-
+No. To go into too many details would be a spoiler. Suffice it to say that Khare is the city where naughty adventurers go when they die – a truly foul place full of thieves, trolls (of the non-fantasy variety), deathtraps and so many gotchas that the sign outside the should be “Welcome to Khare – Go Fuck Yourself”. I’m not entirely sure it isn’t. Simply approaching is enough to have the guards toss you in jail, and that’s more of a welcome than you get in most of the rest of it. Ask a villager to show you the sights for instance and you’re likely to end up being unceremoniously dumped into the sewers. Spot that trap coming? The same person will demonstrate a monster designed to attack thieves who go for its treasure by pressing one of the gold pieces it protects into your hand and running off with the rest while it tries to murder you into paste.
+Depending on your choices, Khare may not survive the adventure.
+I’ve never been as pleased to imagine a city burning.
+
+As I said though, it’s not as harsh as it might sound, given that you have full time-rewind capabilities. They’re a bit of a design crutch at times, in that while you could complete something like, say, Prince of Persia: The Sands of Time purely with skill, there’s usually no way to see the traps coming or evade them. Once you’ve gotten past that though, and firmly into the habit of trusting nobody, Khare presents a much more interesting environment to explore – a dense, interconnected maze of scum that you’re meant to run through a couple of times before finishing business and moving on.
+Heck, even at that point it’s often fun to do the blatantly stupid thing or ignore advice, secure in the knowledge that with a couple of clicks it never happened. Think hunting for deaths in old Sierra On-Line adventure games. Failure is often more entertaining than success, especially if you distance yourself enough from your character to enjoy the slapstick factor instead of feeling personally hard done-by all the time.
+Playing properly, there’s also a definite feeling of advancing from complete rube to flint-eyed adventurer that has nothing to do with raw items and stats, and a mechanical element I won’t go into that justifies being able to take a run through previous encounters with fairly earned knowledge instead of the magic time-rewinder. Mix in a lot of routes and ways around, up to and including storming right through the place and forcing your way out early, and you’ve got a really tight, clever adventure that heavily rewards replay value. Especially knowing that Part 3 is even better, with its open world. That’s a great reason to go back at least once more to be as ready as you can be for fighting the Seven Serpents, and beyond them, looting the Crown of Kings.
+
+Sorcery! pulls off that most impressive trick, working as both a nostalgia trip and a modern series. It takes a while for it to come into its own, admittedly, and the old-fashioned focus on text won’t necessarily appeal to everyone. Illiterates and fools, for instance. To sink into its world though is to quickly get lost in its invisible pathways of tricks and traps and hidden secrets, the adventure evolving along with both your increasing power and Inkle’s mastery of the gamebook format. Neither part takes long to complete, if completion is all you care about, but that first playthrough will barely scratch the surface of what their maps offer – never mind show you all the best stuff.
+Part 3 certainly doesn’t let the side down over on iOS, and it’s hard to imagine that Part 4 will when it comes along. Much like 80 Days, Sorcery stands as a great example of what text can do, the more fun bits of gamebooks between the bullshit bits, and an excellent classic adventure that soon becomes a fascinating modern RPG in its own right. No dice, scribbled margin notes, or agonising little paper-cuts required.
+Sorcery! Parts 1 and 2 are out now for Windows and MacOSX from Steam.
+
+02/02/2016 at 19:31
+
+Edgewise says:
+
+I just got through part 3 on my phone last weekend. The first time a mobile game has been able to pull me in like that. I consider the original gamebooks to be best-in-class, and the digital adaptation manages to be groundbreaking (especially for part three), so this is such an excellent game. I can’t wait for part four, and I’m also now looking forward to whatever else Inkle brings to IF.
+
+02/02/2016 at 21:56
+
+rexx.sabotage says:
+
+HEY! I wash my sausage-fingers, mister!
+
+02/02/2016 at 23:00
+
+caff says:
+
+Bought this tonight and very pleased with it so far. Playing on a 4K screen, it really looks great – the scaling and graphics fidelity is excellent – they’ve adapted it well. I haven’t had the same gripes as Richard with the interface, but maybe I’m more tolerant. My old android tablet struggled to play this smoothly, so it’ll be a nice chance to enjoy the story and game this time.
+
+02/02/2016 at 23:03
+
+anHorse says:
+
+I’m not very far in but I’m already utterly in love with it just because I can resolve situations by making stuff dance.
+For me this is the ideal way to play the format, as a kid I never got far in The Warlock of Firetop Mountain before cheating in as many ways as possible. Too many dice and stats for something I primarily read in bed
+
+02/02/2016 at 23:54
+
+syllopsium says:
+
+The reason the game doesn’t provide access to the spellbook from the casting screen may be to do with the original books. In the originals, you were supposed to read the book once, memorise it, then never refer to it again (there is the opportunity to read it again at one particular point in book three).
+Every time a spell was cast you had to remember/guess what each set of letters meant, and if you got it wrong, you lost stamina.
+Of course it’s not possible to choose random letters in the computer implementation, and in reality no-one except the most nerdy either kept to the memorisation rule, or didn’t put a finger between pages in a book so they could rewind to a particular point..
+Part three is especially outstanding and extends far beyond the offerings of the book. I need to replay it again to try and find features I know exist, but haven’t yet located.
+
+03/02/2016 at 00:39
+
+malkav11 says:
+
+I’m pretty sure the memorization thing is exactly it. And is frankly the main reason I remember the Sorcery! gamebooks to begin with. Mind you, they didn’t include the spellbook. It was a separate book. If you didn’t have it, you just played as a fighter instead and skipped all the spellcasting nonsense in favor of hitting things with sharp implements, making it pretty much Fighting Fantasy except with a generally higher standard of writing and gamebook design. (It was a Fighting Fantasy spinoff, so I’m not reaching here.)
+
+03/02/2016 at 21:40
+
+thekelvingreen says:
+
+Yes, that’s it. You’re not supposed to look them up, you’re supposed to remember them. That’s why they all have three letter names.
+The spellbook was sold separately, but it was also included in the back of the individual books too. One reason to get the separate spellbook was that each spell was accompanied by an original John Blanche illustration.
+
+03/02/2016 at 11:42
+
+Zunt says:
+
+I memorised all the spells. I can still remember them, and the required ingredients.
+
+03/02/2016 at 09:37
+
+Neutrino says:
+
+While I’m sure the game is great and all, what really pisses me off to no end is that you can’t actually buy the real books for reasonable money anymore as they have been out of print for donkey’s years.
+How in God’s name can the best adventure books ever made be out of print! Has our society really become so screen obsessed that there is no longer a market for quality like this?
+
+03/02/2016 at 12:07
+
+Allenomura says:
+
+A cursory search of Amazon brings up multiple listings for all 4 books for pennies each, and as far as “donkey’s years” is concerned…Can the term truly be applied to a little over a decade? (2003 printing of the series)
+
+03/02/2016 at 12:57
+
+Neutrino says:
+
+15 Used from £0.37
+3 New from £73.80
+
+03/02/2016 at 11:40
+
+Jaeja says:
+
+I had the same frustration about the spellbook, until I twigged that it’s far more efficient to just go through all the combinations in the magic screen – it’ll only highlight letters at each stage that are a valid next step from what you’ve already got, and it’ll tell you the spell (along with missing reagents etc) once you have all three selected.
+
+03/02/2016 at 12:09
+
+anHorse says:
+
+That’s how I do it
+I’m gradually learning them all
+
+03/02/2016 at 12:20
+
+Allenomura says:
+
+I never finished this series as a child, as Shamutanti Hills, the third part, was usually out with another reader and the 4th book if they ever had it to lend held a mythical degree of rarity to my mind. I’ve never seen it, leave alone quested through its pages.) 
+Anyway, I think I’ll try these new releases, and see if I can get anywhere. Hopefully they’ll continue issuing these gamebook stories, if this is successful for them.
+
+03/02/2016 at 15:48
+
+CurseYouAll says:
+
+I am surprised people praise 80 Days so much and consider it better overall than Sorcery!. I think the adaptation of Sorcery! is brilliant, it kept me interested in the game, while I was bored with 80 Days half-way through – too much repetition and one-dimensional gameplay. 
+In Sorcery! besides the exploration you have more interesting and meaningful choices, combat with swords and magic, dice gambling, and the brilliant time travel mechanic of Part 3. 80 Days for me was just looking at the same screen all the time and clicking through piles of text that often was just for flavor. I don’t consider this deep.
+
+04/02/2016 at 08:43
+
+sbrn10 says:
+
+Depends on what you’re looking for. I myself am enjoying Sorcery! (I’m a couple hours into Khare at this point) but I’m not invested in the game the way I was in 80 Days. I enjoy the game-y bits of Sorcery! like the battles or exploring mines or what have you, but it’s with almost no emotional attachment and no impulse to further explore. For instance, right after leaving the gate in Part 1, I had a choice to go towards some village or towards a river. I went to the village. There were people. Some stuff happened. I wandered down the road and met a character who gave me an item. It was well-written and I had fun, but it didn’t inspire a burning desire to find out what happens if I go towards the river. I liked it the way I like, say, a Mission Impossible film. 
+Whereas with 80 Days, the first time I finished a trip around the world, I couldn’t wait to do it again on a different route to explore more of the world, and I’ve definitely visited every city at this point. What you consider text that is “just for flavor” is entirely what makes 80 Days such a joy for me. I mean, I admit that at some point, visiting Paris for the 50th time isn’t particularly exciting, but a couple months removed from playing 80 Days I can still vividly remember the emotional impact of any number of events in 80 Days (war, travelling north instead of east, seemingly sentient automata, walking the ocean floor, a walking island, a floating city, airship pirates, murder at sea, etc., etc., not to get too spoiler-y), and I couldn’t tell you the name of the random character I met that almost killed me in Sorcery! yesterday.
+Which is not, again, to discredit your opinion, since it’s really a matter of taste. And perhaps it will ramp up further as I get into Khare more. But well, last year 80 Days was, if not my GOTY then at least a legitimate candidate, so, that’s wot I think.
+
+04/02/2016 at 10:05
+
+CurseYouAll says:
+
+Fair enough, to each their own.
+
+03/02/2016 at 21:41
+
+thekelvingreen says:
+
+I confess, I never played Sorcery! back in the day. A lot of other gamebooks. Lone Wolf, sure. Choose Your Own Adventure. Knightmare.
+Knightmare? Knightmare? What? They weren’t even proper gamebooks, just some grotesque half-novel, half-gamebook chimera (SKILL 12 STAMINA 20)!
+I’ll let you have Lone Wolf though.
+
+05/02/2016 at 16:10
+
+blinky_b says:
+
+The OG books instructed you to memorize spells before venturing forth.
+You’re not supposed to look them up later, you big cheater.
+Perhaps it’s less bad UI design and more a case of rtfm.
+
+18/02/2016 at 03:39
+
+Freedom's Flame says:
+
+If you remember at the beginning of the Shamutanti Hills they explained that they can’t risk the spellbook falling into the hands of evil outside of the kingdom. There’s a legitimate story reason for why you can’t check your spellbook, it’s not just some arbitrary limitation or design oversight. However, the rewind function kinda takes out the suspense of trying to use an unfamiliar spell, as many of the spells only have a single time where they’re appropriate to use, but they reward your memorization of the spellbook quite handsomely. These are, in my opinion, the refinement of the gamebook genre. They take the best of Wizards, Warriors, and You and Steve Jackson’s earlier series Fighting Fantasy Gamebooks and combine them.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Inkle Studios, review, Steve Jackson's Sorcery!, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

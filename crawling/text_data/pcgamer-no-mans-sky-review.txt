@@ -1,0 +1,73 @@
+
+
+ 
+ 
+ 
+
+
+By
+Christopher Livingston
+ 
+
+Relaxing exploration and some lovely scenery coupled with repetitive systems, frustrating menus, and a lack of real discovery.
+What is it? A vast procedural generated space and planetary exploration and survival gameExpect to pay:  $60/£40Developer: Hello GamesPublisher: Hello GamesReviewed on: Intel i5-6600K @ 3.50 GHz, 8 GB RAM, Nvidia GeForce GTX 980Multiplayer: Not as far as we've seenLink: Official Site
+After 45 hours in No Man’s Sky, I’ve warped through hundreds of solar systems, landed on almost 200 planets, and I’ve cataloged over 500 different alien species. Yet oddly for an open-world game—perhaps the biggest open-world game ever made—I don’t have many stories to tell. My experience has been at times enjoyable and relaxing, at other times awkward and frustrating, but unfortunately it’s not something our favorite Vulcan space traveler would call “fascinating.” I’ve touched an infinite universe and walked away with some nice vacation photos.
+No Man’s Sky, the first-person space exploration and survival game developed by Hello Games, presents us a universe filled with some 18 quintillion procedurally generated planets. You begin standing on a single one, gazing at the hull of your broken starship. Within minutes, the core of the game is revealed: slowly wander the planet on foot (and awkwardly fly using a jetpack) looking for resources: plutonium for powering your ship, iron and carbon for crafting technology, and more exotic minerals for building better tech or selling on the galactic market. You’re armed with a multi-tool that can be used as both a mining laser and a blaster to fend off each planet’s robotic guardians, who attack if you harvest endangered resources or get too ambitious with your mining. Having repaired your ship and added a warp drive, you’re then free to explore the galaxy, either by visiting random stars, following a path toward the galactic core, or investigating a mysterious ancient alien race.
+
+The solar systems of No Man’s Sky aren’t really systems, but rather a handful of planets and moons bunched shoulder to shoulder, which provides some lovely views and vistas straight off the cover of pulp sci-fi novels. I’ve seen some very pretty planets on my travels: fields of pink grass, vast purple oceans, amber skies, alien trees with slowly writhing branches, and plenty of cool rock formations. Playing space photographer is fun: I enjoy positioning my ship on the top of a hill against a crimson sunset, or taking screenshots of alien plant life and stone spires with nearby planets and moons hanging in the background. Not every planet is a postcard, naturally, but many inspire a few pleasant moments of appreciation before getting down the the business of murdering rocks for fuel.
+But even the most heavenly bodies ultimately feel very uniform. There are caves but no massive gorges, trees but no dense forests, hills and cliffs but no looming mountain ranges. There are hazards: extreme heat and cold, acid rain, and radiation, but they exist only as a slowly depleting protection meter and verbal warnings from your exosuit’s speaker system. I’ve been in storms yet have never seen a lightning bolt or a volcanic eruption, and I’ve never experienced an asteroid strike or planetquake. Some planets may be dangerous, but they certainly never feel deadly or truly alien. 
+
+I no longer diligently hunt down every icon on the screen: I already know what I’ll find. 
+This isn’t to say these planets can’t be wonderful to spend time on. My second day playing, I spent a full three hours exploring a single moon. I drifted over the planet looking for alien artifacts and crashed starships. I visited alien outposts to trade goods and inspect visiting spacecraft, and I broke into manufacturing facilities to steal new tech blueprints for upgrading my exosuit and multi-tool. I scanned alien creatures until I’d discovered every species on the entire moon. I landed anywhere that looked interesting, took long extended walks away from my ship, dug my way into caves with grenades then blasted my way back to the surface. Then I took off again and landed somewhere else. 
+It was a relaxing and soothing experience, the best time I’ve had with No Man’s Sky, yet one I’ve never completely repeated, mainly because these places I visited—outposts, monoliths, facilities—are present on every other planet and are essentially the same. I still wander a bit when I find a nice-looking planet, but I no longer diligently hunt down every icon on the screen: I already know what I’ll find. 
+
+Most of what you do on these planets is mine resources, and almost immediately inventory management becomes an issue. Your starting inventory on both your person and ship are small, and while it can slowly be increased by finding or buying new ships and slots, it remains cramped through most of the game. It’s also frustrating to navigate and use: the system is unintuitive and clumsy, and feels as if it was designed for consoles and not PCs.
+Your various systems need to be charged with the resources you gather, everything from your ship’s booster rockets to weapon systems to warp drives. Even the beam you mine plutonium with needs plutonium to function. This is the survival portion of the game, and it’s clumsily handled. If you’re in a firefight that depletes your shields, you may die in the time it takes to open the menu, navigate to the correct screen, find the shield icon, and hold down the mouse to recharge it. There are, annoyingly, no hotkeys. It’s all done manually, and it’s clunky as hell.
+Interaction menus, too, are a drag. You’ll trade with alien NPCs in space stations hundreds of times, and each time the game makes you wait as the camera swivels into position, then slowly brings up the conversational options, one by one, even though the options for trading (buy or sell) are always identical. The same way Skyrim thinks you want to have a little conversation every time you buy something, No Man’s Sky thinks you want a five-second delay before you can sell something. Just let me get on with it. I’ve got an infinite universe to explore. Nearly all games have repetitive tasks, and repetition isn’t necessarily bad, but these are the systems that need the most attention from developers to ensure they don’t get irritating. Repetitive tasks need to at least be efficient, and here they are anything but. 
+
+I’ve seen a couple of nice creatures, but nothing jaw-dropping or particularly memorable.
+The biggest disappointments are the collections of alien creatures clumsily flapping and stumping around the surface of most planets. Like the planets, they’re cobbled together procedurally, made from parts and pieces that may as well have been shook up in a cup and dumped onto the landscape like a handful of dice. Occasionally a creature might make me chuckle, as in the case of a bear-sized armadillo with thick elephant legs drifting through the air by slowly flapping a pair of tiny butterfly wings. 
+A couple have been cute, like a wolf with a tortoise's shell or a grinning badger covered in lime green spots. Mostly, though, they’re just not that interesting. Large creatures are briefly exciting due to their size, but a few moments of inspection reveal they’re just like everything else, only bigger. I’ve seen a couple of nice creatures, but nothing jaw-dropping or particularly memorable. The parts and pieces quickly become recognizable when you seen them glued together in different combinations a few times. 
+
+In addition to scanning, naming, and uploading the species data for a cash bonus (and a hefty one if you scan every species on a planet), you can feed them, after which they’ll lead you to a few small nuggets of valuable resources, but other than the occasional hostile creature that attacks you (by running up and touching you), there’s no real animal behavior to speak of. Creatures don’t seem to stalk or hunt one another, interact with or even notice each other, or do much besides mill around and scurry away if you draw too close. There’s no grace to the animations, they’re awkward and clumsy, and I’ve experienced no Dr. Grant moment of staggering wonder, even when gazing at alien dinosaurs. 
+More interesting, at least, are the intelligent alien NPCs. There are three factions, the bug-eyed and beaked Gek, the scaly and imposing Vy’keen, a warrior race (because there is always a warrior race), and the Korvax, a technological species. You’ll find them in space stations and planetary outposts where you can interact with them in a limited but enjoyable fashion. Initially you know nothing of their languages, though as you explore planets you begin to learn them, a word at a time, by visiting alien shrines dotted around the landscape.
+Conversations with the NPCs are a test of sorts, a situation described to you in text and requiring the correct response for a reward and higher standing with the factions. For instance, a Vy’keen on a space station spat a few sentences worth of alien words at me while showing me a sword and a shield, then waited for me to choose one. I had only learned a few words in Vy’keen, which were translated for me on-screen, but one word I did know was ‘defense.’ So, I chose the shield, and was rewarded with some new tech. It’s a clever and fun conversational system, and it provides good motivation to seek out language stones and learn more words.
+No Man’s Sky’s writers did an excellent job here, considering they were limited with only a paragraph or two for every encounter, and it almost makes up for the fact that the NPCs are essentially Disney World-like animatronic figures, rooted in place, unable to walk cross a room or even climb out of their spaceships.
+ 
+
+There’s some weirdness in the very premise of No Man’s Sky. You’re discovering planets that are peppered with crates of supplies, alien outposts and facilities, crashed starships and ancient artifacts—if anything, you’re the last damn person in the galaxy to arrive, but you’re still considered an explorer. And I don’t really feel like one. Nothing has given me a pioneer feeling of wide-eyed wonder, and yet I’m somehow still finding the exploration compelling. My problems with the game can be forgotten for a bit when I find a nice, gentle, lush planet and have a pleasant little wander, or when I land on a planet covered with exotic treasures I can snatch up and sell for a quick profit. 
+And, despite my disappointment with most of the creatures I’ve seen, there’s still something tantalizing about the scores of more planets waiting to be discovered and the chance, perhaps very small chance, that I might find still find something amazing. 
+
+On my PC (Intel i5-6600K @ 3.50 GHz, 8 GB RAM, Nvidia GeForce GTX 980) I’ve gotten solid performance from No Man’s Sky, with framerates typically in the 65-75 FPS range (I initially experienced occasional drops down to 20-30, but a recent patch seems to have solved that issue). Which isn’t to stay there aren’t still issues. I played NMS for a couple days on PlayStation 4 before the PC release, and I thought for sure the late texture pop-in wouldn’t be so bad on PC. But it’s constant, on every planet I fly over and land on. Not only when rocketing at top speed over hills and caves but also when drifting slowly and landing, and even when walking and sometimes just standing still and turning around—the slow materialization of landscape features is ever-present. Flying from the surface of one planet and landing on another with no loading screens may technically be seamless, but watching half a mountain slowly form itself in front of my visor doesn’t make it feel that way.
+The sound design, at least, is wonderful, in everything from your own footsteps to the sounds of wind and rain and the distant bleats and calls of alien creatures. As someone who typically tires quickly of music in games, first turning it down and eventually shutting it off completely, I’m pleased that the soundtrack is so good, and fitting for extended space travel. I’ve never so much as touched the music slider.
+I’m still playing No Man’s Sky, still restlessly rocketing from star to star, still burning through the atmosphere of new planets, touching down, and popping out of my ship as if on a spring to have a look around. I don’t know what I’m looking for, exactly. I just know I haven’t found it yet. 
+
+Learn just enough alien words to pass the test.
+
+Part turtle, part wolf. Not sure where the tail is from, though.
+
+I'll hand it to aliens: they know where to build their weird shrines.
+
+I haven't done much swimming. This game needs a submarine.
+
+Pretty. Probably toxic, but pretty.
+
+One of the many dino-ish things.
+
+There's nothing like a good, satisfying poop.
+
+Sure is green out tonight.
+
+A multi-tool that looks like a monster? Yes, please.
+
+Space fights are initially nice to look at, but not much fun.
+Relaxing exploration and some lovely scenery coupled with repetitive systems, frustrating menus, and a lack of real discovery.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

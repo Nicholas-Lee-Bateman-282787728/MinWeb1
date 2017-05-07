@@ -1,0 +1,18 @@
+./html_data_bitcoins/wells-fargo-tried-start-bitcoin-exchange-2013.txt
+
+
+
+CryptoCoinsNews
+Wells Fargo, the $294 billion US bank, engaged in a meeting with major global investment management firm Fortress Investment Group and Xapo CEO Wences Casares to potentially start a bitcoin exchange for their clients.
+In his book “Digital Gold,” NY Times finance journalist Nathaniel Popper introduced an anecdote in regard to Wells Fargo and Fortress’ joint bitcoin project, which was discussed in 2013 in the New York headquarters of Fortress.
+Prior to the demise of Mt Gox, previously the world’s largest bitcoin exchange, bitcoin price was surging at an exponential rate. The market cap of bitcoin continued to set all-time highs, as its price reached $1,120. Mainstream media outlets and analysts created intense hype around bitcoin, which led multi-billion dollar banks and financial institutions to consider bitcoin as a game-changing technology within the realm of finance.
+To target younger clients who were interested in investing their money into bitcoin at the time, Wells Fargo and Fortress sat down with prominent investors and finance experts such as Casares to discuss the viability of a business model based on a global bitcoin exchange.
+Xapo was yet to be launched during the time executives from Wells Fargo and Fortress were discussing the possibility of launching a bitcoin exchange as a collaborative project. Xapo was launched almost a year later by Casares.
+The idea of the Fortress team, which was already looking into potential business models around bitcoin due to the company’s interest in the rapid growth of bitcoin, was to create a regulated bitcoin exchange for US-based customers. With a regulated market, Fortress believed that bitcoin mainstream adoption will spur and the general public will be able to invest in bitcoin with ease, without running in conflict with lawmakers.
+An excerpt from Popper’s book read:
+“Pete stood up and made his basic pitch to the Wells Fargo team. He explained why the Fortress team was so intrigued by the technology and pointed at the smart people around the table, such as Wences, who had thrown themselves into it. He hinted that Wells Fargo should be keeping up with bitcoin, given the potential for the new network to challenge some of the basic services, like payment networks, that the bank was providing. Pete closed by talking about the lack of an American-based regulated exchange for bitcoin–something that Fortress and wells Fargo could provide together.”
+In 2013, the global bitcoin exchange market wasn’t well established and structured. Most traders purchased bitcoin in over-the-counter (OTC) markets or in direct purchases, as regulated bitcoin exchanges weren’t around during the time.
+If Wells Fargo and Fotress introduced a fully regulated bitcoin exchange, it would have been the first of its kind. Such infrastructure built by one of the largest banks and financial service providers within the US would have formed a completely different image of bitcoin.
+Ultimately, the plan of Wells Fargo and Fotress to introduce a regulated bitcoin exchange fell out, most likely because of the Mt Gox fiasco which crashed the value of bitcoin and led to a long recovery period for bitcoin.
+Currently, banks including Wells Fargo are looking into private blockchain technology-based platforms, inspired by Bitcoin. However, blockchain projects are struggling to demonstrate any success or progress. In the future, if blockchain development comes to a halt, there will be a possibility of Wells Fargo pursuing business models around bitcoin.
+Image from Shutterstock.

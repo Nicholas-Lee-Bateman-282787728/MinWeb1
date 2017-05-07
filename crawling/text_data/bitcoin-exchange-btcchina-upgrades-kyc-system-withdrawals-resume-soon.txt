@@ -1,0 +1,16 @@
+
+
+
+CryptoCoinsNews
+BTCChina, a Shanghai-based bitcoin and digital currency exchange has announced the upgrade of its know-your-customer (KYC) identification verification system amid the ongoing withdrawal ban on Bitcoin and Litecoin deposits.
+As one of the so-called ‘big three’ Chinese exchanges, BTCChina enforced the suspension of BTC and LTC withdrawals in mid-February, following regulatory pressure to comply with KYC norms by the People’s Bank of China, the country’s’ central bank. The exchange followed suit after OkCoin and Huobi, two of the other major exchanges, who suspended withdrawals a week prior to BTCChina.
+BTCChina revealed that it would upgrade its customer verification system to adhere to anti-money laundering norms enforced by Chinese authorities upon the bitcoin trading industry. The temporary suspension on withdrawals would last a month, BTCChina said at the time. More pertinently, the exchange added that the suspension would be lifted if its systems are upgraded before the 30-day period.
+All three exchanges released a statement on March 8, confirming that bitcoin withdrawals were postponed indefinitely, only to resume after regulatory approval.
+On Friday, however, BTCChina revealed the upgrade of its customer identification system that adhered to KYC guidelines. The exchange is now urging all of its users to complete verification procedures.
+The new KYC requirements seek existing users’ names, identity card number, bank card number and mobile phone number.
+“All users need to re-complete [fill] the above information before [resuming] normal recharge, cash withdrawals and other activities,” the notice read.
+Notably, however, the notice added:
+Bitcoin and Litecoin [withdrawals] are still paused.
+Source: BTCChina
+While undoubtedly frustrating for Chinese users with bitcoin deposits in centralized exchanges, the implementation of upgraded KYC systems are looking a likely step toward resuming withdrawals in the near future. Traders and investors haven’t been dissuaded in the meantime, turning to alternative decentralized peer-to-peer trading platforms like LocalBitcoins that have seen record trading volumes in China following the withdrawal freeze.
+Featured image from Shutterstock.

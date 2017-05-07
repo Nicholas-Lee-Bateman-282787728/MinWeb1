@@ -1,0 +1,19 @@
+./html_data_bitcoins/chinese-bitcoin-exchanges-seek-details-funds-withdrawals-resume.txt
+
+
+
+CryptoCoinsNews
+In what is perhaps the first notable step toward resuming bitcoin withdrawals for Chinese users after February’s freeze, at least one of China’s ‘big 3’ exchanges, Huobi, is now requiring details of users’ fiat funds used to buy bitcoins or digital currencies.
+With this step, we expect #bitcoin withdraws from major exchanges become available soon.
+— cnLedger (@cnLedger) March 21, 2017
+
+As revealed by regional industry news resource cnLedger, Huobi explains that the information sought is in accordance with AML regulations by the People’s Bank of China, the country’s central bank. Specifically, the exchange is soliciting emailed responses from users to provide explanations for the sources of the (fiat) funds transferred to the exchange and the destination account to which they wish to withdraw their digital currencies.
+The step could come as a relief to users left in limbo after Huobi announced it would pause bitcoin and litecoin withdrawals over a month ago. Withdrawals were expected to resume earlier this month. However, Huobi and a number of exchanges postponed account withdrawals a day before the 30-day freeze ran its course, stating withdrawals would only resume after regulatory approval. No timelines were provided.
+Translated by the news resource, Huobi’s notice, which cnLedger stresses as unconfirmed, reads:
+According to AML regulations by government departments including the Central Bank and China Banking Regulatory Commission, you are required to provide explanations of the sources of your funds, and the destinations of the crypto-coins you withdraw.
+Aside from seeking its users’ account details from Huobi, the requirements turn invasive when seeking explanations for the sources of funds transferred to Huobi and the proof for it.
+For instance, if customers transferred money borrowed from acquaintances or friends, they are required to provide screenshots of the communication WeChat, a popular Chinese messaging platform, if IOU documents are unavailable.
+Further, users are also required to explain the use to their bitcoins or litecoins acquired or stored on Huobi.
+“The documents and materials you provide will be sent to national departments [to be] archived as proof,” states a reminder toward the end of the notice, urging users not to fabricate any details.
+Hat tip to cnLedger.
+Featured image from Shutterstock.

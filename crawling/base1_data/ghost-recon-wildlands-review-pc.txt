@@ -1,0 +1,626 @@
+./html_data/ghost-recon-wildlands-review-pc.html
+
+RPS Feature
+"They'll never know we were here" 
+By Brendan Caldwell on March 10th, 2017 at 6:09 pm.
+
+Ghost Recon Wildlands [official site] is Ubisoft’s latest open-world co-op narco war. I played some of it during the beta, along with Graham, and I came out of it feeling like a tub of old bath water. Lukewarm and slightly dirty. I only knew for certain that I actively disliked it when I was stricken down by one of its insta-fail stealth missions. Cast away from my carefully selected sniping spot on a sandy ridge because of a single stray bullet and dumped on the other side of the mission area, where I would have to repeat the cautious approach, the enemy spotting and the multiple silent kills all over again. It is 2017 and insta-fail stealth missions still exist. Why?
+The answer of course is: Ubisoft. A publisher who have baked the same cake dozens of times but insists that they are following a new recipe because they’ve changed the colour of the icing. In Wildlands, you are one of an elite squad of US soldiers who has come to Bolivia to save it from a pseudo-religious drug kingpin called El Sueño and his vast cartel. They’ve taken over the entire country and turned it into a narco state (I summarised this plot to a Bolivian friend, whose response was an emphatic “what the fuck?”). Anyway, you need to drive around the mountain roads and bumpy farmlands of the South American country, collecting intel that will lead to the killing or capture of buchons and underbosses. Get enough of these lower-level perps and the final mission to take on the big bossman becomes open to you.
+
+The gimmick here is that you can take on the underbosses in whatever order you want. Zoom out from the map far enough and you’re presented with a web of pictures and names, more of which get revealed with each piece of intel and each successful operation. And though it is true you can go about destablising this spider’s web by whatever silky strands you want, the next jefe may be in an area of much higher difficulty – tougher guards, more enemies, alarms, tanks, and so on. In reality, this web doesn’t add much to the game at all and is more for show – a method of keeping track. It isn’t reactive in any way and although power struggles between bosses occur as part of individual plotlines the characters don’t move around to fill power vacuums or fight amongst themselves in a dynamic way. Shadow of Mordor this certainly ain’t.
+
+What it is is something you’ll have seen before. A Far Cry in third-person set in a real country and using a realistic crisis as the springboard. Four-player co-op has been heavily marketed as the main attraction. Sneak into a cocaine factory with your friends under cover of darkness, silently take down a few guards, grab the cook, retreat to the road and put the perp in the trunk, escape without anyone even knowing you were there. And if things do go wrong, it’s suppressors off – explosion time! One friend might be setting some C4 on a ground-to-air missile battery, to make the airspace clear for another friend piloting a helicopter, while the other two hold off a wave of gunmen as they await extraction. It’s an exciting prospect and one that does occasionally come to pass. In those moments, I could see a glimmer of the game it could be. Mostly though, you’ll just be shooting heads and holding ‘E’ over supply crates.
+
+This is because it goes to supreme lengths to have you collect things, following Ubi’s icon plastered formula. You need to collect skill points to unlock new equipment or upgrade your current gadgets. You need to collect oil, technical parts, food and so on – which you also need to spend on unlocking skills. You’ll collect gun parts, new weapons and intel that unlock story missions. You’ll even collect intel that shows you were the other collectible things are. Ubi may have gotten rid of “climb the tower, reveal the map” but the spirit of the tower remains, physically invisible and yet always there. A checklist of housekeeping chores that you’ll need to perform between story missions to keep your character up to speed with the enemy. Only this time, there’s four of you sweeping the floor and the pocket money you get in return is not very motivating. An extra grenade you say? Okay, thanks! A better battery for my drone? All right, I guess so.
+
+Because of this, many of the surrounding firefights and car chases feel hollow and pointless. But the story here is also to blame. A part of me wants simply to say that it is a stupid tire fire of a storyline and talk no more about it. But the profundity of its naffness is so compelling that I am forced to stare and type into the abyss.
+A big problem (putting aside the hackneyed bro-banter dialogue and soulless, dull characters) is the setting and the conceit. As I’ve said before, I have no issue with games tackling the problems of the real world, or occupying the countries of the real world, so long as they tackle any such problem with deftness and candour, so long as they portray any such country with depth, if not honesty. Wildlands doesn’t get half way to achieving this. When the government of Bolivia recently complained about the country’s depiction in this latest Clancyromp, Ubisoft responded by insisting that they had recreated much of the country’s geographical and cultural splendour. And to be fair, that does sometimes feel true – you can see it in the flamingoes circling the lakes, the llamas that spit at you from the side of the road, the children in traditional dress eating ice cream and dancing in the dusty calles. This world is huge and a thought should be spared for all those who painstakingly mapped it. All those details along with the sheer scale of the world map created a land which often made me stop doing my checklist chores and shout to my team mates: “look at that!”
+
+But then the creators also filled those same calles with hordes of narcoterrorists and their helpless victims, strung up on makeshift gallows, corpses torn into parts, burned to cinders, or left in lazy disarray after an ad hoc massacre. Ubisoft can’t fairly say that just because the landscape is true to form, with snowy peaks and stony hills, that they have created a tasteful Bolivia, full of respect and admiration for the country of reality. There are spines at the side of the road.
+
+What Ubi really want here is to have their quinceañera cake and to eat it. To fill their game with wise-looking women in traditional dress shovelling hay come rain or shine, but also to have their over-the-top ridiculous action game as well. They are welcome to try this, of course. Contrast is a great atmospheric technique and such a project definitely could be achieved with a little thoughtfulness and characterisation. But there’s none of that here. The end result is a half-game, determined to provide you with a “realistic” enemy from a contemporary crisis yet too afraid to say anything of political significance about that crisis, apart from the static US government platitude: “these narcos are some bad hombres, eh?” The lead soldierman of Wildlands, for example, is a customisable drawler called Nomad who has achieved with gusto what has long been the goal of the jingoistic shooter – to give the audience an avatar with enough tough guy blandness through whom they can freely channel all the heroism and notoriety of Chris Kyle with absolutely none of the trauma or disgrace. He is one-dimensional, if he has any dimensions at all. Thank god you can change his appearance.
+
+But this is an action game, you say, Ubi are constrained by both the genre and the large TOM CLANCY’S plastered over the top of it. And yet no such fetters stopped The Division from combining a real location with a ludicrous international emergency. It still had bland characters and rubbish voice acting and grinding collectionism but there were at least some things about the world to admire beyond the physical depiction of a rotten and frozen New York. The point is that even by the standards of ‘dumb action’ this lacks the most essential element of that genre: self-awareness.
+I’m not really asking for manshoots to always be set in wacky fake countries, or set in real locales distorted with bizarro alternate realities. Again, a real place and a real crisis is fine. But crucially, the portrayal here is not interesting. It is trite, peppered with eye-rolling amounts of “we got company”, saddled with antagonists who sometimes try to be more than a single over-arching criminal Latino stereotype but in the end are always depicted as such: violent, unhinged, ultimately cowardly when faced down by a gringo with a gun.
+
+All this and I still have not mentioned how broken it is. There are bugs lurking in every corner, waiting to bite you on the ankles, like vicious bullet ants. I’m not just talking about performance issues some of which, for me, were simply the result of a graphics card too long in the tooth (I’m slumming it with a GeForce GTX 750 Ti – that’s why all my textures look like muddy water, sorry) but many of which were simply native to the game. Here’s some fun ones.
+
+
+
+This last bug could be interpreted as a rare example of the AI’s skill, since they were more often floundering in useless positions, telling me about food trucks I had already captured, or shouting loud warnings about helicopters that had blown up thirty seconds previously and which were no longer a threat. Sometimes my AI mates liked to become frozen on the spot where they would ignore all commands to regroup or change place. Sometimes they liked to commit to lines of dialogue that were bizarrely irrelevant. “The radio antenna is taking damage!” they shouted, as we snuck around an insta-fail stealth area, miles from the nearest radio antenna.
+All this and more reveals Wildlands to be a shooter that has been released messy and unfinished, a practice that Ubi is doing with increased proficiency with each passing game, seemingly using their beta tests as demos and marketing opportunities instead of using them to actually test and repair their game to an acceptable level.
+Despite all my complaints, the rallying cry for its defenders will always be: it’s improved with three friends. And although this is true, what lacklustre manshoot wouldn’t be improved with your mate Tom in the place of a broken AI? If a sandbox shooter demands a basic level of human closeness to make it in any way enjoyable, this raises the question: is the game itself good, or do you just like humans? I like humans and I did notice a huge improvement when playing with friends.
+
+Likewise, shooting drugmen alongside random folks via the in-game matchmaking made for some unexpected silliness. I was at my happiest when playing chauffeur in a helicopter to three strangers and ignoring everything else. My squadmates would mark a spot on the map where they wanted to pick up a new weapon/perform a massacre and I would fly them there, drop them off, then take off again and circle around until they needed to be picked up again. I felt like I was inhabiting a role here, the steadfast pilot that the team just can’t operate without, and it felt good that the other players silently accepted this as my role and always allowed me to fly before anyone else.
+
+In other words, I’m sure if you have the three pals and a determination to make small roles for yourselves (“Let me drive!” – “Okay, I’ll snipe from the hill” – “And I’ll be the spotter”) you’ll find that nugget of enjoyability that the game is selling itself on. The lark of pretending you’re all competent and likeable human beings. But I guarantee that before long it will become clear to you what’s really going on below the surface level of shooting Latinos in the head – you are all simply doing a checklist together in an open world with none of the madness of the Far Cry series, and certainly none of the inventiveness of MGSV, a game which already perfected the genre of open-world political interference a whole year and a half ago. Imagine if that game had co-op. Herein lies the fatal flaw – previous Far Crys introduced your own friends for extraneous chaos. Wildlands uses your own friends as a crutch.
+
+After years of seeing the same thing, it has become clear that Ubi games cannot function on the strength of their formula alone. And they certainly can’t rely on the strength of your mate Greg. They need some hook and less bait. At the very least they need decent story-telling or likeable characters. However, the principal problem that will forever plague this developer is that the transparency and rigidity of their formula will always hinder them. You can always see it skulking over the surface of the game, like a man in stars and stripes facepaint trying to sneak into a cocaine warehouse. It has been detected: insta-fail.
+You can get Ghost Recon Wildlands on Steam for £39.99/$59.99 or on Uplay for the same price
+
+10/03/2017 at 18:27
+
+voodoofox says:
+
+Great, I’ll just move to next coop, open world, non pvp throat shoving game then….
+
+10/03/2017 at 18:33
+
+Der Zeitgeist says:
+
+Oh well, back to Arma 3, then.
+
+10/03/2017 at 18:34
+
+Chaoslord AJ says:
+
+Great, do they have useless collectibles with all icons on the minimap again?
+Breath of the wild shows how it’s done: large world with actually interesting secrets which are not spoiled by climbing a tower (they actually have Ubisoft com towers, too).
+
+10/03/2017 at 18:36
+
+dagnamit says:
+
+Good review, but one thing. Technically, the 750 ti is below the minimum recommendation for GPU by Ubisoft, which is a GTX 660. The 660 has much more under the hood than a 750 ti. Consider that your system may have been a factor here. Benchmarks below.
+link to anandtech.com
+
+10/03/2017 at 18:42
+
+municipalis says:
+
+A factor in what? I don’t see Brendan complaining about graphical performance. By my reading, the issues he raises are all more substantive: plot, characters, AI, and bugs.
+
+10/03/2017 at 19:28
+
+Hyena Grin says:
+
+That’s the thing, a lot of the graphical bugs he mentioned, I literally have not experienced any of those in 30 hours of the game, or any of the time I spent in open beta.
+Not that there aren’t bugs, but as I was reading his list I kept thinking ‘this sounds like your hardware can’t keep up.’
+I don’t think a reviewer ought to include graphical-related bugs in a review using hardware that doesn’t even meet the minimum specs. Even if they are genuine bugs, you can’t be sure it’s not your shoddy hardware causing problems so why invite skepticism?
+
+12/03/2017 at 13:41
+
+mawaru says:
+
+I’m playing on a high end (probably even over the top) rig and I experienced everything he mentions except the texture bugs. Fair enough, let’s attribute that to the weak graphic card he is sporting. What about the rest of the bugs? I have them all documented as well if anyone is interested. But that is all beside the point. Stop nitpicking, all that doesn’t invalidate the rest of the point’s his making, which are pretty solid claims. I’m saying that from a perspective of a player who was very hyped for the game and preordered the gold edition. After exactly 35 hours in to the game and killing two bosses (I got hooked on collecting and upgrading..) I’m just burned out, i somehow force myself to continue based on my investment so far but im disgusted by the unfinished state of the game. At first you dont notice or ignore the issues, being blinded by the visual splendor, but the glitches and bugs and “features” or the lack of them, keep piling up and eventually blow up in your face with a big disappointment bomb! BOOM
+
+10/03/2017 at 23:16
+
+MrLoque says:
+
+Some bugs can be related to the old card, yes. I’ve been playing The Division with an old card and it was a pain in the ass with annoying bugs here and there. When I switched to a new card … blamm, things went perfectly fine.
+My personal opinion is that you can’t review a game when you don’t even meet the minimum required specs, sorry. Some of the listed problems really seem to be hardware-related.
+Also, playing with these graphical settings will have an impact because the game looks like crap and that honestly drives away any interest.
+
+11/03/2017 at 01:49
+
+Raoul Duke says:
+
+You can’t see how a card below the minimum specs might influence problems like texture pop in?
+
+11/03/2017 at 15:21
+
+Shaileen says:
+
+A game journalist who complains about graphical bugs (what else would slow texture loading be?) while playing below the minimum speccs – now I’ve seen everything. But maybe it is just a silent cry for help because he doesn’t get payed enough to be able to afford the bare minimum of tools he needs to fulfill his job?
+I’m quite sceptical of the whole review for this reason. I played GTA V while having a 3 year old card and with a nvidia 960. It was basically like a completely new game. The sun was glaring into my eyes, the cars where shiny, the water had reflections and I had consistent 60fps. And especially shooter games aren’t known for their lore or character story, but for their graphics. I know that my own enjoyment of such a game would be severely diminished if everything would look ‘muddy’. It doesn’t feel fair to me if a game is reviewed in this way.
+
+14/03/2017 at 05:59
+
+AtomicPenguin says:
+
+The same things happen to me on a GTX 1070. It’s not unusual to travel to a new area, and have things take minutes to actually appear; you can move around areas where there are supposed to be items or enemies, and none of them show up until much later. I haven’t had the texture issue since the last patch, but I did have it maybe 1 in 3 times I started the game. All the other issues are still present. 
+It’s not a video card or just texture issues, it’s a problem with how the game is loading assets. I was hit by a train in my last play session, since it wasn’t there until after it’d run me over. I’ve been shot by enemies who appeared in the same room I was in long after I’d entered it as well. There’s guns that sometimes don’t shoot, AI that doesn’t trigger, long pauses in the game that’ll guarantee a death in the wrong situation (usually car chases, while it’s loading as you go), and so on. 
+Everything he mentions in the review I’ve seen on an i7-3770k, 8gb of RAM, and a GTX 1070 (with the latest driver post-Wildlands release). The game runs fairly well, at ~50fps at 1440p… except when it just decides that it doesn’t, which isn’t constant but isn’t uncommon. The review is accurate and his results aren’t because of his system specs.
+
+10/03/2017 at 18:39
+
+varangian says:
+
+Ho hum, looks like the ‘free’ game that came with the graphics card for the shiny new PC I’ve been putting together won’t be this one then. The alternative is ‘For Honor’ which also seems to have its problems but is at least very silly. Time to get my Viking on.
+
+11/03/2017 at 07:36
+
+ColonelFlanders says:
+
+It’s difficult to recommend For Honor, because it really does have so many problems. Out of the 10-15 hours ive played so far, not one of my sessions has been problem-free, and it can be a tremendously frustrating experience. BUT: it is also impossible to convey just how satisfying the combat is. Labding a hit on someone is difficult, so when I do get through a block, land a guard break, or manage a throw, it just makes me ever so happy. Plus there seems to just be this weight to all of it; big dudes feel large as opposed to fat, and weapons feel heavy as opposed to cumbersome.
+If you think you can live with having to shout at it all the time, then get it. Once you cut through all the shit there really is some superb gameplay in there. I hope Ubi pull a rabbit out their asses and fix this game, because it’s the best one they’ve made in ages.
+
+10/03/2017 at 18:46
+
+RuySan says:
+
+Now it’s feels like far cry 3 had a great plot, right?
+(BTW, I actually liked far cry plot, for fps standards, that is)
+
+10/03/2017 at 21:29
+
+jonahcutter says:
+
+A new bad thing does not make an old bad thing good.
+
+11/03/2017 at 02:38
+
+Raoul Duke says:
+
+Reminds me of my favourite movie review line: “Taken 3 makes Taken 2 look like Taken.” (Or wtte).
+
+11/03/2017 at 07:38
+
+ColonelFlanders says:
+
+I don’t know, I’ve found myself wishing for the Bush days again recently.
+
+12/03/2017 at 16:31
+
+poliovaccine says:
+
+Yeah see if I could have back any president from the past, I sure wouldnt pick the last shitty one. So long as you’re wishing, wish for something worthwhile, whyncha..
+
+10/03/2017 at 18:51
+
+Warlokk says:
+
+Huh, maybe I should give MGSV another try… this game looked intriguing to me but if MGSV does the same stuff better, I should dive back into that instead. I didn’t dislike it the first time around, I just got distracted by something else shiny and forgot about it.
+
+10/03/2017 at 19:29
+
+baseless_drivel says:
+
+Why would you want to do that when you can buy something NEW for the affordable price of 60+40 fiat credits?
+MGS5 is OLD, and old is BAD.
+This also has Tom Clancy’s name on it, so you know it must be good.
+
+11/03/2017 at 01:02
+
+Lieutenant_Scrotes says:
+
+MGS5 is far better as a single-player open world stealth game; I’ve actually postponed my second playthrough of MGS5 until I’m done with Ghost Recon as I know it will ruin my experience. 
+Ghost Recon should only be played as a co-op game, for me it’s a totally different experience to the single-player and I thoroughly enjoy it when playing with friends.
+
+11/03/2017 at 02:40
+
+Raoul Duke says:
+
+You should definitely play MGSV over this because MGSV is one of the best game made in recent times and this game (based on this review) is average at best.
+
+10/03/2017 at 18:54
+
+haldolium says:
+
+While there is not much to disagree with in your review, it comes off a bit too negative overall imo. The game itself (except for certain A.I. and spawn bugs)is fun in coop and to an extend even in SP. 
+Basically it’s a mix of FarCry and Just Cause, with a disturbingly horrible, yet expectable, ‘murica storyline&people. The letter though can be avoided, turning off voice audio and skipping every cutscene (it seems Ubisoft is well aware of their storytelling, WD2 already offerd the relief of skipping through every daft dialogues and cutscenes. Thats at least something)
+In coop, trying out different things and just exploring and exploiting, is quite the fun for a while and much more so if you’re 4 people instead of just 2.
+On the bug side, since you gave them a prominet space here: Most bugs I have encountered (and I got all of yours, plus a few more) are non-gamebreaking and are rather entertainertaing if you play with the right people. The only thing that really is annoying is the akward spawning of enemies in the middle of your squad.
+Hardcore stealth gameplay can therefore be very annoying, but the overall arcade mechanics of Wildands don’t really fit into that kind of gameplay anyways (f.e. random Unidad helicopters or idiotic rebel troups starting a firefight in the middle of your stealth approach). I didn’t expect it to be that kind of simulation, so it didn’t surprise me in either way. 
+I’d also say that, as with all Ubi-AAA games, the visuals are a point of enjoyment and a sales as well. Playing this, WD2 or The Division on a 750 sure rips off every visual achievement from the recent graphics development and should be avoided.
+All in all, it’s a solid game. Could be much more and much better, but that would mean it can’t come from Ubisoft. Maybe its because of my approach there that I enjoy Wildlands, because I usually expect the worst of every Ubi game.
+/oh and MGSV wasn’t really that great. Putting MMO grinding into a lifeless offline world with forced online connection for being invaded but never be able to actually play properly together was far away from an “inventive” game world. It been different and sure had way better open-world stealth and quite a few nice mechanics, but on the long term it wasn’t great and screwed up much more in terms of online issues as Wildlands.
+
+10/03/2017 at 19:08
+
+Blackcompany says:
+
+The game itself is an offensive, bug ridden, formulaic turd. Try and polish it all you want; it’s just another retexturing of the Ubi game they make once or twice per year.
+
+11/03/2017 at 07:44
+
+ColonelFlanders says:
+
+Gove Ubi a little credit. They made Watch Dogs 2, which was miles better than the first, self aware and really just generally fun. Yes ok there was a lot of map-janitor, but still really good gameplay in there. For Honor is also great (yes it’s buggy as fuck but arguably great). Then finally we have RAYMAN FUCKING LEGENDS, which I personally think is the greatest platform runner of all time and will not be told otherwise.
+Ubi have a lot of room to improve as a company, abd they do need to let go of their iconathon mentality, but they still have some great talent hiding in their ranks, making some brilliant games.
+
+12/03/2017 at 13:58
+
+mawaru says:
+
+Of course they have talented artists in there but what’s of that if the management is a bunch of greedy fucks, only interested in milking their customers. You can’t justify this “lets release a beta (even alpha sometimes) state game and charge for it!” approach. It’s disgusting. So all that artistic effort and occasional – things done right – get squandered.
+
+12/03/2017 at 16:51
+
+poliovaccine says:
+
+I dont believe this dumbassed jingoistic “murica” narrative *is* acceptable, actually. The premise of this game is literally that, from what the average young white male knows about Bolivia – which can be summed up in the word “cocaine” – the idea that a drug cartel could just take over and enslave the entire country is actually fucken plausible. I mean, nobody would imagine that happening in *America,* but *Bolivia,* well, theyre a bunch of primitives, right? And like most foreigners they lack in will and self-determination and routinely want and need rescuing from themselves. So yeah – that all copies with me – that’s “acceptable.” Right?
+If this is “acceptable” it’s only within the context of other, even worse precedent already set. But Tom Clancy material was already ethnocentric and tone-deaf enough without outright plunking the DOOM guy into the protagonist’s seat.
+Anyway, I’ve run aground of some action plots (talking games and movies here) which are truly impressive in their shallow badness.. but, “Bolivia gets taken over by cocaine lords because they want to make a whole country’s worth of cocaine, and America needs to stop them,” that’s roughly near the top. I mean, it would be even if it were a Just Cause game, but at least that game somewhat explains itself in the title. Games like this latest Tom Clancy, though, do nothing but strike me as being made by a Just Cause fan who thought that game was a documentary. The level of modern UI and serious-pants militaristic posturing draped over the absurdity is just jarring and funny – less funny, though, when you realize a whole team of grown-ups at Ubisoft found this totally “acceptable.” Like, it would be just as insane if it were a made up nation called Cocainia, but at least then it would rise to meet itself at its meta-absurdity levels. At least then it wouldnt indicate that this is probably how the bulk of the western world actually envisions Bolivia.
+
+14/03/2017 at 11:58
+
+brgillespie says:
+
+So, the plotline is that past American intervention (i.e. “Operation Dignity”) destabilized and destroyed the peaceful coca harvesting (coca is legal to possess in Bolivia), allowing a Mexican drug cartel to move in and “restore” the coca culture.
+It’s an entirely plausible premise, based on Pablo Escobar’s Medellin cartel, which was earning about $25 million a day in cocaine shipments, had the favor of the common people, and essentially ruled Columbia.
+
+10/03/2017 at 19:08
+
+subdog says:
+
+I only played the beta, but the stealth was completely broken. More often than not, if your teammate was seen, then the enemies psychically know where the other 3 teammates are. 
+Essentially any kind of diversionary or distraction tactic instantly falls apart. This especially sucks because I remember them highlighting using planted C4 explosions to draw the enemy away. Instead, as soon as you trigger that explosion, the enemy goes straight for you, even if the explosion was on the other side of the compound.
+Without good (and reliable) stealth mechanics, there’s really not much reason to play this.
+
+10/03/2017 at 19:54
+
+Hyena Grin says:
+
+I’d love a game that could somehow make AI that is roughly as smart as humans when it comes to hunting and shooting mans, and behaves in realistic ways, but it’s kind of a bad criticism to blame a game for failing to do something that basically no game has ever pulled off well.
+The game would be stupid easy and boring if it didn’t have some help. 
+Just remember that they only know where you ‘were.’ When the AI is in Hunting mode they go to your last known position. So you can be mad that they know where you were when you triggered the explosion, or you could move and remain undetected because the AI in Hunting mode doesn’t know your location.
+It’s actually a pretty good system that balances realism with the needs of gameplay. If you could just blow shit up and the AI just scrambled around aimlessly people would complain the AI was unresponsive. Or at least, more unresponsive.
+I’m not defending the AI in general because it’s kinda not great. But the stealth system isn’t nearly as bad as some people are making it out to be. It’s active, rather than passive. It forces you to maneuver to avoid patrols and search parties, rather than hide. Which is a lot more in-theme for a game like this.
+
+12/03/2017 at 14:05
+
+mawaru says:
+
+How come the enemy know where you are if you didnt even made a line of sight to them? I mean, It’s middle of the night, I’m on top of a stony shelf, high on a ridge 100 maybe 150 meters away from the fence, i detonate a C4 that i previously planted on a fuel cistern. right? I made NO CONTACT with the enemy AT ALL. Upon explosion they slowly make my way toward me anyway. Why?? Why would they always know what actually happen? and that i was the cause of it and that i’m right there?? Thats grade A immersion breaking bullshit.
+
+12/03/2017 at 21:02
+
+Hyena Grin says:
+
+Because the game would be boring if all you had to do was sit far away and snipe people to empty out a base because you gamed the AI.
+I dunno why you’d want a game where the AI just runs around in circles waiting for you to shoot them.
+For the sake of interesting gameplay, the AI has to engage you. The AI gives you the tools to deal with it. You can remain undetected, but it requires you to maneuver, reposition, etc. You can’t just lay on a rock far enough away and use that as an invincibility cloak.
+
+10/03/2017 at 19:32
+
+Bill Pepper says:
+
+I’ve been enjoying this game a lot for the first dozen hours, though Ubi could do some more work in future updates.
+
+10/03/2017 at 19:41
+
+Mud says:
+
+Oh, man. Don’t hit me with those negative waves
+
+10/03/2017 at 19:42
+
+Hyena Grin says:
+
+I am ambivalent about this game, and also ambivalent about this review.
+The thing is, I knew this review was going to be negative before it was posted, and if I’m going to be honest, I think a reviewer would be frankly negligent to not point out how flawed the game is. It does feel unfinished, it does feel like a technical prototype more than an artistic or even just well-engineered project. Its AI is not great. Its physics are not great. It needs like 6 months of polish to even be the best version of itself, and a total rewrite to approach being a great game.
+And looking at that paragraph, I have to laugh. It sounds pretty dire, doesn’t it?
+And yet, I’ve somehow managed to already play 30 hours of this game, not including open beta time. I rarely invest so much time into a game so rapidly after release. And even as I write this I am thinking about getting back into the game.
+I don’t think I have bad taste in games? Am I wrong? I am having fun, I am playing with friends in some of the most engaging coop I’ve played that doesn’t require entire clans in Arma 3. 
+I can’t even say it’s ‘mindless fun’ because honestly we put a lot more thought and planning into our play in GRW than we do with something like Borderlands, which feels a lot more mindless, however much better the art direction is.
+This is definitely one of those games that seems to break the game review process a bit. There’s so little good to say about this game when you break it down into its parts, and yet through some miracle, like a house made entirely out of ill-fitting parts, it just somehow stands and works despite itself.
+And I don’t know how to respond to that. Am I wrong? It’s a genuinely fun game.
+I wish that Brendan had felt that and captured that frustrating reaction in this review, because I find it utterly fascinating.
+
+10/03/2017 at 19:51
+
+Brendan Caldwell says:
+
+If you’re having fun that’s all that matters!
+
+11/03/2017 at 10:20
+
+ShadyGuy says:
+
+I had some fun with Wildlands in the beta together with a friend. One of the most fun moments I had was when we had to protect a radio tower from incoming sicarios. I told my mate i was going up on a ridge and set up a sniping spot so he should wait before pulling the switch. To which he answered he just pulled the switch. Then it was a mad dashing between different positons as sicarios were swarming in from all sides. It wasn’t much of an ambush, but the plan falling apart and the chaos that ensued was fun to deal with.
+
+10/03/2017 at 19:56
+
+CitizenX3639 says:
+
+I want to like it but its that hand holding that drives me crazy. And why is it after 5 years now, Bordelands 2 showed how tto do a perfect co op loot drven shooter and no one can seem to copy at least some of the parts. Really? Showing what weapon is in the loot box, that is just a joke IMO. I for one will say it has ran flawless with no issues and if I did I wouldn’t cry because I’m a PC gamer I know day one things will not be right if you are crying go find another hobby.
+
+13/03/2017 at 14:55
+
+zoog85 says:
+
+I absolutely love how you can view, after collecting intel, which loot is in the box. Saves me from grinding 21 regions for loot and instead allows me to specifically pick up the stuff I actually need/want. Saves me a lot of mindless and useless game time :)
+
+10/03/2017 at 19:42
+
+Danda says:
+
+“You’ll even collect intel that shows you were the other collectible things are.”
+Yeah, the moment in the beta/demo thing when I realized that instead of cleaning up icons in the map I was actually unlocking more unlockables (WTF?) I was like “Seriously, Ubisoft, SERIOUSLY?!”.
+I wish they didn’t release “the same game but worse” every year. It’s getting stale now.
+
+10/03/2017 at 19:52
+
+Bull0 says:
+
+I quite like the intel conceit, it feels like one of the game’s handful of original ideas. The unlockables are there to be found anyway, but finding intel adds them to your map. Makes it feel a bit less like a map hoovering exercise.
+
+10/03/2017 at 20:18
+
+Hyena Grin says:
+
+Yeah, I agree. The framing actually fits the game. Gathering intel, snapping pictures of documents, interrogating people, hacking computers – to find out where stuff is, I think that’s one of the better ways Ubi has fit their icon hunt into a game. It feels less arcadey than anything they’ve done in Assassin’s Creed.
+
+12/03/2017 at 11:52
+
+Buuurr says:
+
+You literally have to collect nothing. Yeah, you have to find the yellow folders for the story to progress but the extra guns and whatnot are just that. I find myself still using the first sniper rifle and the mp5. Mostly because I love the mp5 and would be very happy to shoot one some day.
+
+10/03/2017 at 19:51
+
+CitizenX3639 says:
+
+The biggest problem, like the division is while it bills itself as 4 player co op but for it to be fun and challenging 2 is the max. The other problem is difficulty, it is so easy with 3 of us. I don’t know how it scales with difficulty but I’m playing with no hud and icons and extreme difficulty, but my friends are playing casual so it really bores me to death. And finally the skill points like in the division are just worthless. I’m hording like 40 skill points right now because you don’t need anything but a gun and ammo.
+
+10/03/2017 at 20:14
+
+HillDweller says:
+
+“like a man in stars and stripes facepaint trying to sneak into a cocaine warehouse. It has been detected: insta-fail.”
+Best punchline EVER
+
+10/03/2017 at 20:38
+
+Silent_Thunder says:
+
+I played the beta and was thoroughly underwhelemed. Was hoping I’d at least snag some cosmetics for R6 Siege from it like with the Future Soldier beta, but didn’t even get that consolation prize.
+
+10/03/2017 at 21:34
+
+sege says:
+
+That strikes me as a brave review Brendan? Are you guys not worried about being blacklisted by Ubisoft in the future? It was pretty unrelentingly negative lol! Also, taking your words at face value, it did seem at times a lot of words to waste on something as dire as this game sounds. Although perhaps when writing a negative view there is a lot of pressure to justify those views?
+I’ve hated the Ubisoft formula since Far Cry 3. I bought most of the assassins creed games when they were on sale for near nothing too, and dislike them also.
+I think the problems with the Ubisoft formula is not so much that they work to a formula in the first place, its more just that it usually feels like that is all there is to the games; every other aspect is really really crap or unimaginative i.e. having a story that isn’t really fit to be called a story isn’t a formula is it? It’s more a lack of recognition that a story is important.
+The other thing I think we sometimes forget with the repetitiveness of games from one to the next is that there is always a new generation coming through that haven’t played the earlier games, that that this will actually be a new experience for them! e.g. I watch my 9 y/o nephew playing the latest Battlefront game and he thinks its the greatest thing ever! I think marketers have cottoned on the that fact and exploit it. I’m not saying it shouldn’t be pointed out, more that it isn’t always the huge negative it is made out to be. I guess, as long as it is pointed out to those old foggies like me so we can save our monies.
+
+10/03/2017 at 23:18
+
+berowe says:
+
+This review smells of hipsterish Ubi-hate rather than being an unbiased attempt to describe the game. I read RPS to be exposed to something other than the typical AAA-friendly circle-jerks, but I think that you drifted a little too far towards the indie angst on this one. This game is a casual-friendly ARMA or a Coop MGSV (without the overt sexism). It has great gunplay, beautiful and diverse environments, decent AI (amazing AI for an open-world game), and entertaining set-piece/random battles–all with drop-in coop. It’s freakin great.
+Your AI arguments make me wonder what games you’ve actually been playing lately… There’s a reason why most open-world games are focused on restricted short range encounters–because AI really hasn’t improved as much as we’re led to hope or believe. We’ve become used to heavily massaged AI in corridor shooters and RPGs (or open worlds that cleverly hide the fact that they really are no more than corridor shooters–e.g. Witcher3/Farcry). Wildlands’ enemy AI is surprisingly good, especially in the areas that typically mar large-scale shooters–that being long range counter-sniper tactics. Even ARMA 3 struggles with this scenario, with developers always trying to find the middle ground between superhuman AI awareness and balance. Wildlands rewards your intelligent sniping, but punishes failure with enemies taking cover, calling in mortars, and sending mobile reserves and helicopters to your position. Combine this with a higher difficulty level and a failure to plan an escape route and I’ve seen 4 players dead on their backs within minutes. While some situations can still leave you with a line of dim-witted NPCs charging into your sights, more often you’ll be too busy taking cover or helping your buddies to take them down.
+As for the anti-Clancyism–this world is no stranger or more shallow than anything else out there. The world feels dead, but no more so than any other similar game. Ubi wasted time and money trying to make it authentic, but this fact doesn’t negatively impact the gameplay at all. If anything, the stilted voiceovers of the Ghosts reminds me of the stupid crap my real comrades have said while outside the wire (which is nothing like the philosophical gems that Hollywood usually puts in our mouths).
+I normally wouldn’t comment or care, but this review seemed to be written before the game was experienced. For those still interested in Wildlands–if you’re looking for a casual place to blow up a beautiful countryside with your friends, this is your game. If you’re an ARMA lover who can’t always bring yourself to load into a complex scenario or match, this is your game. If you enjoyed MGSV but want easily accessible locations filled with dozens of snappable necks and fewer konami-isms, this is your game. It’s casual and it continues some of the things we dislike about AAA games, but it’s also fun as hell.
+Also get a new graphics card if you want to be paid to write game reviews in 2017. Are you serious?
+
+11/03/2017 at 00:21
+
+ThornRage says:
+
+berowe is right.
+A good friend and I have been having tons of fun.
+
+11/03/2017 at 17:01
+
+Aldehyde says:
+
+I wanted to like this game but it is just not finished.
+If the game got another 6 months of polish it’d have been great.
+It’s super easy, even on extreme difficulty without a HUD.
+We experienced severe desync quite often, repeatedly having to rejoin just to make sure we could all actually see each other. (Though I suppose this could have been on our end as I don’t see it mentioned ever.)
+Laughable physics along with some of the worst helicopter controls I’ve ever seen.
+The fact that every player has to go and get all the collectibles individually got old really fast. Like, come on, the whole point of the game is co-op, how could you miss a simple thing like that?
+Along with a bunch of consistency errors as well as bugs we just could not enjoy the time we spent on it even if we wanted to.
+I’ll keep waiting for an actually finished co-op game, I guess.
+
+13/03/2017 at 15:03
+
+zoog85 says:
+
+Well said, 100% agree!
+
+10/03/2017 at 23:47
+
+Marclev says:
+
+
+insta-fail stealth missions
+
+Oh for crying out loud. That wasn’t funny in Far Cry 3, nor Far Cry 4, and certainly isn’t funny here.
+Why is it that Ubisoft insists on doing this? It’s horrible.
+If I’m going to fail a stealth mission, then let me fail in a glorious fire fight with the entire base after I’ve triggered the alarm, like any other game ever, and not by being told off for not playing the game “The Right Way”.
+
+11/03/2017 at 10:29
+
+ansionnach says:
+
+Castle Wolfenstein on the Apple II let you shoot it out if you were detected all the way back in 1981. It was tricky to survive alerts and if you died you went all the way back to the start, so the stakes couldn’t have been higher. Funny that so many newer games get wrong what one of the first got right.
+
+11/03/2017 at 00:27
+
+HigoChumbo says:
+
+“Ubi games […] need some hook and less bait.”
+Article summarized in one perfect sentence. That’s all you need to know. Moving on.
+
+11/03/2017 at 22:42
+
+Marclev says:
+
+The original Ghost Recon games were some of my favourite squad based tactical shooters ever.
+This does indeed sound like “Ubisoft Open World Game Engine + Military Skin”, and it’s depressing.
+
+11/03/2017 at 01:54
+
+WhiskeyDog says:
+
+Coop can’t hide the awful AI, NPCs and enemies are just as bad as your singleplayer teammates.
+All vehicle handling is atrocious.
+I miss the old GR games so much…
+I have had fun playing with my friends, but it probably will not last long.
+Another wasted opportunity by Ubisoft IMHO.
+
+11/03/2017 at 02:28
+
+raizen3 says:
+
+Was enjoying the game till a get to the next point before the timer expires mission came up! 
+WTH this kinda crap missions in 2017. And every vehicle in this games handles awful.
+Ill finish the story and probably never pick it up again.
+
+11/03/2017 at 09:41
+
+LennyLeonardo says:
+
+Bolivia is an absolutely gorgeous country, and I hope it gets a more tasteful treatment in gaming some time.
+
+11/03/2017 at 12:20
+
+ColonelFlanders says:
+
+Plus the coke is amazing.
+
+11/03/2017 at 16:35
+
+LennyLeonardo says:
+
+Wouldn’t know about that. However the mate de coca, which is totally not drugs at all, is pretty good for altitude sickness.
+
+11/03/2017 at 14:31
+
+Synesthesia says:
+
+Damn, what a closing paragraph! Great write-up. Gonna stick with ARMA3, then.
+
+12/03/2017 at 07:07
+
+matthew22502 says:
+
+So, there is a mission called ‘Bad Publicity’ where you have to steal a truck without being detected. Once you’ve got the truck you drive about 800 meters then drop it off and talk to an npc then get a new truck rigged with c4. My problem was, the npc that I was supposed to talk to didn’t spawn untill there was 30 seconds left. That was the only time I was able to steal the truck. The other times, I was ‘Detected’ Even though I was quite far away using the drone and binos. Each time I failed I had to start over, once again.
+
+12/03/2017 at 07:11
+
+Ham Solo says:
+
+This is a Ghost Recon game in name only. Kinda sad… oh well, back to Arma3…
+
+12/03/2017 at 07:18
+
+Buuurr says:
+
+Nice rant. I mean review (more opinion over review). I’m playing this on a 1070 most settings on ultra or very high on a 2K monitor. I am not having any issues at all. Well, that isn’t true. The issue I am having is when I am on a dirt bike driving through the mountains of a canyon vista I usually end up over a cliff because I was distracted by the pretty. 
+Truthfully it seems like the reviewer has a beef with UBI and honestly what is written does not give a fair whack at the game that is offered. RPS has frankly given far more slack to games far more shiddy then Wildlands. 
+I think this was a blowout of a review considering the other sites and what they had to say about it. Seems like everyone wanted pretty without throwing out the change for the hardware to run it. 
+I’m loving this game. Call me insensitive but I don’t give a fuck about the political reasons you hate it or the setting. I hate Resident Evil. It’s a game. Shit gets said. Oh, well. Move on.
+Also: upgrade your potato, Bro.
+
+12/03/2017 at 10:08
+
+LennyLeonardo says:
+
+Your opinion is more like an opinion than an opinion. Seems like you like this game and that is clouding your judgement of the game and whether or not you like it. Short. Sentences. I like. Scrambled. Eggs.
+
+12/03/2017 at 11:39
+
+Buuurr says:
+
+“LennyLeonardo says:
+Your opinion is more like an opinion than an opinion.”
+Accept that there are a lot of other posters on here saying the same thing…
+Not to mention the other game review sites that have given the game far more ‘game based’ critique with more favorable reviews. Instead the OP decided to be a little too edgy and not quite honest about the game as a whole. I’ve seen little to none of the issues with glitching and the drawing of textures. All I have seen is a pretty sweet looking game.
+The open world concept is not for everyone and it for sure will not provide that Ghost Recon feel, that’s for sure.
+What it does provide is good gun play, awesome physics and a huge, beautiful sandbox for friends to shoot bad guys in. 
+Also the coke and coffee in Bolivia are second to none. 
+ I do like the game. It does have it’s flaws. It just isn’t as flawed as the reviewer would have you think. The world of gaming is clouded when looking through the eye of a potato.
+
+13/03/2017 at 09:52
+
+Marclev says:
+
+The reviewer doesn’t like the game. Judging by the review neither would I, and it seems quite a few others (pretty much everybody that’s fed up of Ubisoft recycled Open World games by the sounds of it).
+You like the game. Good for you, but no need to get defensive because someone else doesn’t have the same opinion as you.
+
+14/03/2017 at 06:48
+
+Buuurr says:
+
+“Marclev says: 
+“The reviewer doesn’t like the game. Judging by the review neither would I.”
+Yeah, this is the problem. The review isn’t an accurate and complete review of the game. Not at all. And you have just taken this guys word for it when he isn’t even running the recommended systems reqs.
+If anyone takes an hour to play this and let’s the group you fight with stand around and talk you quickly realize that the narrative is actually about the futility of a drug war, the brutal methods of cartels (can anyone argue against that?), and what a waste it is that such a beautiful place and its people are having to go through this. It isn’t anti-Bolivian at all. It is a setting. A fictional setting in a beautiful place.
+The OP is going on like there is a major flaw with the game’s environment and story. From the onset you could see that he was overtly mocking the title. No fair shakes here. Its all bad and there is no coming back. Right from the get go. 
+“(pretty much everybody that’s fed up of Ubisoft recycled Open World games by the sounds of it).”
+Except it’s not. Not in the way being portrayed. Frankly you could go through the whole game with just the starter guns if you wanted and not be hindered a bit. There are side missions. Collecting. Standard nowadays in most any title. Yeah, it is similar to previous titles but those have been working for UBI as far as I can tell. The Rainbow Six series did the same thing. Same old Rainbow, even the characters right on through. Ghost Recon made it a little more modern and did the same thing. These are some of the most loved and played games made. Why would a dev move away from a working formula? I get that some don’t like that, and that is okay. 
+“You like the game. Good for you, but no need to get defensive because someone else doesn’t have the same opinion as you.”
+Well, you’re wrong here. I am not defensive of the game. I am annoyed by complete BS and calling it out. The dude had a beef with the game from the start and it just concentrated into a stew as the review went on. 
+I know the game isn’t perfect and has it’s issues (my annoyance is the detection missions – hate ‘em) but it just isn’t the game portrayed in this review. And again, I will add, RPS has given far more slack to far more undeserving titles. It is that this one is a AAA from UBI is my thinking.
+
+12/03/2017 at 12:09
+
+Kong says:
+
+Bolivia? The worst thing I can say about the country would be that the locals eat chicken in the morning, chicken midday and chicken in the evening.
+Also La Paz policemen seemed to be the nicest law enforcers I ever met.
+Ubisoft, I am expecting Who’d Thought It TX as your next title. Plot: the usual. With the obvious twist that reptile people rule the country and declared independence in 2018. US-neonazis all relocated to Texas and the player…the usual just with a more realistic setting.
+
+13/03/2017 at 02:15
+
+adrunkenredneck says:
+
+Ai is broken but not making in uplayable. I’ve logged 36hrs in and the teammates are useless. It is an Ubi game so yeah its old code with new paint and new shrubs. I do however try to play as sneakily as possible, main weapon I use is my pistol, because why not be a ninja. I’d happily use a knife but there aren’t any except for the cosmetic ones found on the gear you can wear.
+
+13/03/2017 at 20:07
+
+Hyena Grin says:
+
+I just want to point out that if you go into a game making a character that you intend to use to mock the game, that it may indicate you are going in with an intended bias.
+I mean, I get that you played it during the open beta and maybe you gave it a fair shake at the time.
+But it does seem like there’s a framing problem going on here. A certain expectation of what an Ubisoft Tom Clancy game is going to be like. Which might be understandable, but after consideration, I feel like it means that the review – in an effort to justify a negative predisposition – has failed to accurately judge the game.
+As an example, I actually didn’t get the ra-ra-America vibe from the game that is strongly implied in the article – a lot of the banter between the squad members actually questions the nature of the mission and is sympathetic to the people and the problems they face. There’s even comments about the futility of the war on drugs and how it can create more chaos than the stability it promises. 
+Amongst the squaddies at least, there’s largely a sense of ‘well this our job, and these are definitely bad people who are doing truly horrible things to other human beings, so I guess we’re gonna do this thing.’ They even comment from time to time on how their CIA spook handler is kind of a cruel hawk on a revenge mission.
+It’s not an overt or particularly nuanced subversion of Tom Clancy’s ra-ra-America narrative, but it is a subversion more than it’s a reiteration of the same unapologetic, obliviously pro-America, pro-world-police, pro-hawkish story that we have come to expect from Tom Clancy games.
+I really hate to say that this review strikes me as a bit of a grudge against Ubi’s formula, because hey. That’s a valid criticism. But it does start to feel a bit like going to a waterpark to complain about the lack of a rollercoaster. 
+It’s fairly obvious by now that some people enjoy the formula that Ubi has come up with for its open-world games. They keep selling titles and doing quite well.
+I share the criticism that this can result in some pretty shallow games. But games don’t by definition have to be deep. I can play Ghost Recon or Assassin’s Creed and get a totally different kind of enjoyment out of those games than I do from Life is Strange and Night in the Woods. I think the latter games are superior in a number of ways that mean a lot to me, intellectually and emotionally.
+But sometimes a game just exists to have fun with. And I feel like this review has completely forgotten that, in favor of going after Ubi’s formula which the reviewer obviously had decided he didn’t like before he ever played GRW. I know there are members of the RPS staff who don’t have a problem with the icon-hunt formula that Ubi has built a successful business on, so I kind of feel like maybe that would have been the metric to go on;
+If you enjoy this formula of game, is GRW a fun game?
+
+14/03/2017 at 12:05
+
+brgillespie says:
+
+Indeed. The plotline is that past American intervention (i.e. “Operation Dignity”) destabilized and destroyed the peaceful coca harvesting (coca is legal to possess in Bolivia), allowing a Mexican drug cartel to move in and “restore” the coca culture.
+It’s an entirely plausible premise, seemingly based on Pablo Escobar’s Medellin cartel, which was earning about $25 million a day in cocaine shipments, had the favor of the common people, and essentially ruled Columbia for a time.
+As you said, the game makes multiple critiques and pragmatic assessments about the futility of the war on drugs. I’ve heard the AI teammates express empathy over people fighting against losing their culture (the CIA burning down the coca fields) and comment on how when Santa Blanca is destroyed, someone else will just come in and pick up the pieces of the massive cocaine infrastructure they’ve built.
+
+15/03/2017 at 14:53
+
+Zecko says:
+
+I pretty much just made this account to agree with you. I think the framing issue you bring up (but I’m sure many people will deny) is affecting a lot of people right now, judging by the user scores on sites like metacritic. People need to judge something based on what it’s trying to do, not what they think it should do. I normally really like this site and was rather disappointed to see that overly negative, fickle gamer mentality all over this review. Even the tone is condescending “The lark of pretending you’re all competent and likeable human beings.” like damn, can I just play a game with my friends and not have it be a judgement of my character?
+And then the comparisons to MGS5, ignoring that it was criticized for having shallower stealth than previous entries, an even emptier world and tons of narrative and political issues of its own. It’s more polished than Wildlands, but it’s not perfect.
+I also don’t understand the argument against the defense that it’s better with friends. Some things are more than the sum of their parts, and not all games need to be this mindblowing experience with a brilliant narrative and innovative gameplay. I don’t really feel like the story or gameplay is any worse than numerous other shooters on the market. Your point about a game needing to be fun is important. Games are also like toys in a way. That’s what Wildlands is. It’s like everyone has forgotten the purpose of a sandbox game. I think about it as being like DnD in a way, an opportunity to go on random adventures with your friends, but replace the swords and sorcery with guns and grenades. Or maybe a literal sandbox with some action figures is a better comparison (it’s just the group mechanic and spontaneity that makes me think of DnD). People keep expecting the game to be perfectly crafted for them, but it’s okay to just have something to mess around with.
+
+19/03/2017 at 08:09
+
+DarkTrooper says:
+
+To keep it simple – me and my three buddys havent had so much fun in a long time – just great! 
+Sure it has its downfalls, but it is a great game – best mix of a action kind of ARMA 3 Tom Clancy style of thing.
+And yes, If you play on the hardest level – the AI will keep you more than busy – I wonder if any tester has run the game on that level an tried doing the hole thing at that level.
+Just as a last remark – I actually planed on not buying this game because its Ubisoft – now I am glad I did buy it.
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, review, Tom Clancy's Ghost Recon Wildlands, Ubisoft, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

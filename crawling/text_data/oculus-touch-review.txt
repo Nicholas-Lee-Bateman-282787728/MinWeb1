@@ -1,0 +1,359 @@
+
+RPS Feature
+You've got the Touchus 
+By Alec Meer on December 5th, 2016 at 3:00 pm.
+
+I’ve been playing with them there Oculus Touch controllers for the last few days – a pair of wireless, motion-tracking handheld devices that, in theory, bring the Oculus Rift more in line with the HTC Vive and its wavy, donut-ended pointers. Turns out they’re quite a bit better.
+Note: I’m going to focus specifically on the hardware for this piece. Two reasons for that, one being that it is important to separate them, given that software has its own highs and lows, and the other that, er, I don’t actually have much software at the time of writing. Some, but not much, so I’ll hold back on that side of things for a while. 
+
+Here’s what you get in the large, luxury-looking cardboard box: two Oculus Touch controllers (FYI I shall henceforth refer to them as ‘Touchus’, one Oculus sensor (identical to the microphone-shaped unit that comes with the Rift itself), two AA batteries and a small black plastic hoop with ‘Rock Band VR’ written on it. That last is an exciting prospect indeed, but with no actual use as yet.
+I hadn’t realised a second sensor would be required for these things, and wasn’t overjoyed to take up yet another USB 3.0 port and have yet another dangling cable but at least, unlike the Vive and its three power supplies, I still don’t need to connect anything to the wall. The Rift sensors remain relatively subtle and even vaguely attractive, although one either side of a monitor looks odder than just a single unit. Sinister, even.
+
+The extra sensor, as well as meaning that your system can track what the controls are up to, also expands the play area. The Rift has not gone room-scale yet, but it now asks for a 3 foot x 3 foot space, and can track you anywhere within it without any issue I’ve encountered as yet. This opens up a great deal of potential for Rift software – not the full bounding around that mansion-dwellers can achieve with the Vive, but perhaps something more realistic for more of us. A bit of physicality to support the experience, but not the full monty. Time and software will tell – again, more on that in a follow-up piece.
+The controllers themselves are fairly dainty – the hoop area is about the width of an orange, while the more familiar controller part is pretty much the same size as that element of a Playstation pad is. They’re light but not too light, and are comfortable in the hand, with the index and middle finger of each hand falling naturally onto a top- and side-mounted trigger respectively. 
+The thumbstick and three face button arrangements on each controller isn’t quite so instinctive – the stick’s about half the diameter of those you’d find on a contemporary console pad, while the buttons are both small and close together. I suspect I’d often need to double-check what I’m pressing at the best of times, but that’s an impossibility whilst wearing a VR headset. 
+It’s not too bad, and practice will help, but it doesn’t entirely feel that there’s been the best use of what is relatively generous space on the circular surface of each pad. 
+
+A possible reason for that, beyond ‘we’re big fans of Philippe Starck’, is the Touchus’ secret weapon – finger-tracking. Not a full five fingers, no sir, but the index finger and to a lesser extent the thumb. While it’s very impressive indeed – and useful for combating psychic dissonance – to see yourself do an in-game point or thumbs-up, this is as far as it goes. But nonetheless, the Touch is indeed tracking specific parts of the hand, and the right software may well do incredible things with that. 
+I’ll come back to that side of things later on, but just to return the last point – the sensors to broadly track thumb position are probably why much of the ‘face’ is effectively blank space with small, clustered controls in the centre.
+The same is true of those big, squashed-circle hoops on the end. While the Vive has similar, they jut out several inches beyond the end of your hands, while in this case your index finger and the knuckles of the adjacent couple of fingers sits inside it – with the bulk of the index finger protruding above the ‘surface’ regardless of whether it’s pointing or held down. 
+
+This sounds minor, but it’s quite a key physical difference from the Vive wands. At the end of your hands is your finger, not a piece of plastic. This means that, when you’re ‘touching’ something inside a VR game, it is your finger – or at least a ghostly recreation of it – that touches that thing, not the plastic hoop. 
+In the software I do have, this means the likes of holding out a finger for a butterfly to land on, and ‘pinching’ to hold onto in-game items. Said items are not effectively magnetised onto a protrusion – they are inside your hand. The place where your hand is, as opposed to a place at the end of the 6″ stick your hand is holding.
+Sure, the Touchus can’t do feel (though it has some decent gamepad-style haptic feedback buzzing into your palm), but your in-game hand is more or the less the size and position of your real hand, and that is a gently new sensation. 
+If you’ve ever used a Vive, as wonderful as its motion controllers are, you surely know the bleak, hollow sound of the end of them tapping against your monitor, wall, cupboard or cat. With these, when you ram your hand into that cactus or pan full of boiling oil, the sensation will be fleshy-real.
+
+I should restate that these things are completely wireless, without even needing a USB cable or additional dongle for initial setup. Your hands are unfettered, bar the string mentioned below. The downside is that, yeah, no USB cable, because no built-in rechargeable battery. It takes double-As, one per controller, so stock up on batteries if you don’t want to find yourself with no way to keep playing when one runs out of juice. (By contrast, the Vive wands are USB-rechargeable, and continue to operate while wired up).
+The one concession to practicality over design is a small string hanging from the bottom of each, to slip over your wrist in order that they don’t crash to the floor or are hurled at your dog’s face when a VR bogeyman jumps out at you. Same as Vive, and Wii, and anything exploring handheld motion controls – health and safety, innit. (I often don’t put them on, for the same reason I don’t wear my bike helmet for short rides and sometimes freewheel when driving the car down a hill. Gotta make a stand somewhere, right?)
+
+All told, they’re a nice item. I really like just holding them, which may not be something I’ve ever said about a game controller before. The weight’s just right, they’re comfortable (if perhaps ever so slightly slippy), my hand just falls into place, the trigger and thumbstick movement is nice and, well I suppose it feels vaguely like wearing some kind of cyberpunk knuckleduster. 
+My fear for these things was that I’d be getting either a differently-shaped Vive wand at best, or a glorified PS Move at worst. I’m glad to say it’s both much better than the latter and a more versatile prospect to the former, even if its baseline ‘where my hands at?’ feature is effectively identical.
+As for the in-practice differences, and specifically how it uses its finger tracking ‘touch’ element, I’ll be covering those in a separate piece once I’ve trialled a few more apps/games. 
+
+05/12/2016 at 15:18
+
+x1501 says:
+
+Not sure how everybody else feels about it, but having to deal with removable AA batteries—rechargeable or not—is a major turn off for me. I used to have two battery-powered wireless Xbox controllers, and it was so annoyingly cumbersome that I just switched back to the wired version and never looked back.
+
+05/12/2016 at 15:43
+
+phuzz says:
+
+At least rechargable batteries aren’t so rubbish any more, and you can even get USB rechargeable AAs now.
+Gone (mostly) are the days of toys that would burn through all their batteries in under an hour (Atari Lynx I’m glowering at you).
+
+05/12/2016 at 16:00
+
+Addie says:
+
+Atari Lynx was an amateur battery eater compared to the mighty Sega Game Gear. One of my mates (as a lad) was left playing his on the in-car adapter while his parents went for lunch at some motorway services, and when they got back the car wouldn’t start. Fun times. Used to eat through 8x brand new AAs in less than fifteen minutes, those things.
+
+05/12/2016 at 15:47
+
+Kefren says:
+
+I’ve always used wired controllers with my Xbox and Xbox 360. I preferred the wired guitar for Rock Band too.
+I think a built-in (but user-replaceable) rechargeable battery is best in this case, but for it to work while charging a la Vive if you want. But since even most phones don’t let you change the battery nowadays (and there seems to be hardly any fuss about their inbuilt obsolescence) I can’t see it happening.
+
+05/12/2016 at 15:49
+
+Sakkura says:
+
+Having removable batteries is a major advantage. If you run out of power in the middle of playing, you can just quickly pop out the dead battery and put in a fresh one.
+With a non-removable battery, you have to put the controller in a charging dock (or use a charging cable, ugh) and give it some time to charge.
+In any case, the battery life on these controllers is supposedly very long.
+
+05/12/2016 at 16:35
+
+Retne says:
+
+I agree that personally, at least, I’d rather just pop in a new AA battery and keep going.
+Plus, one hugely important things that beats other arguments on the pros / cons list for me is that baked-in-batteries are a form of planned obsolescence that mean the product (e.g. controllers, as here) has a limited life.
+Eventually the batteries will have a charged life of approx five minutes.
+
+05/12/2016 at 19:22
+
+frightlever says:
+
+Buy some Sanyo Eneloop batteries or the Amazon clones and you’ll never look back. Unlike old rechargeables these things hold a charge. You can use them straight out of the pack and they’ll probably still have 90% charge even if they were sitting on a shelf for six months. 
+I use them in my remote controls, which is just something you couldn’t do with the older batteries unless you wanted to replace and recharge them every week.
+
+05/12/2016 at 20:32
+
+Inu says:
+
+I actually prefer my own rechargeable battery options. Generally they cut corners in the quality of internal batteries AND they’re not replaceable.
+Get some Eneloop rechargeables and never look back.
+
+06/12/2016 at 12:59
+
+Don Reba says:
+
+What’s with everyone who advertises Eneloop using the “never look back” metaphor?
+
+05/12/2016 at 15:36
+
+Malkara says:
+
+The prototypes of new controllers that HTC had at Steam Dev Days look fantastic: link to theverge.com
+Hopefully they’re able to put something out that takes some of the cool stuff about Oculus’ touch controllers. I’ll agree that at the moment the weakest part of the experience is the Vive controllers.
+
+05/12/2016 at 15:42
+
+tonicer says:
+
+Meh the entire VR thing is lame anyway. I would only consider buying a VR headset if they have a precision input device for it that comes close to the perfect input device … the mouse.
+
+05/12/2016 at 15:46
+
+Sakkura says:
+
+Sorry, but you’re wrong.
+Not just because you can use a mouse in VR just fine, but also because there are lots of things for which a mouse is not perfect. People spend lots of money on HOTAS for flight sims, wheels for racing… well motion controllers can be all those things and hundreds more.
+
+06/12/2016 at 00:59
+
+BertieDugger says:
+
+If the mouse is the perfect input device, why do people use graphics tablets? Why don’t we use mice to drive cars and fly planes? (IRL, not in driving/flying sims).
+When I’m using a VR headset I don’t want my hand to be stuck to a horizontal 2D surface in front of me. That’s an artefact of how we use desktop computers and fixed, flat screens.
+Sounds like you’ve already made your mind up anyway, but if not, link to doc-ok.org has some numbers about the precision of the Vive controllers (tldr; “it is therefore possible to use a Lighthouse controller with an attached and calibrated probe tip as a large-area 3D digitizer, with an expected accuracy of about 2mm”).
+
+05/12/2016 at 16:00
+
+JPRacer77Qc says:
+
+Is it possible to use the controller without having a Rift?
+
+05/12/2016 at 16:09
+
+Sakkura says:
+
+Nope.
+
+05/12/2016 at 16:10
+
+Sakkura says:
+
+Doublechecking what you’re pressing is not impossible in VR. In fact, during the initial setup I checked which button was the A button by putting my hand in front of my face and reading the A on the virtual picture of the controller. Things get almost spookily intuitive sometimes with these controllers.
+Also the finger tracking is a little more extensive than you’re saying. It’s not just tracking the thumb and index finger, but also the middle finger. The middle finger then acts as a proxy for the ring and pinky fingers.
+
+05/12/2016 at 16:12
+
+Ericusson says:
+
+Didn’t I read somewhere last week than Oculus chief engineer said the future of VR is not necessarily gaming or something like that ?
+Quite something to say in public to say the least.
+
+06/12/2016 at 00:56
+
+Marr says:
+
+Well, he’s right. VR and AR will become the standard user interface for everything when the hardware reaches the right combination of cheap, accurate and unobtrusive. Gaming isn’t VR’s future any more than it was Windows 3.1’s future.
+
+06/12/2016 at 13:00
+
+Cerzi says:
+
+Similar to saying the future of PCs isn’t gaming a few decades ago. Of course we love our PC games but games are only a part of what they’re used for, not their sole purpose.
+
+05/12/2016 at 16:15
+
+Moonracer says:
+
+As a Vive owner who hasn’t tried the Oculus, this article didn’t make me feel jealous. I am happy for Oculus owners that their controller is well designed.
+personally I’m still convinced that roomscale is the experience that makes or breaks VR (with a few exceptions). While I’m looking forward to better hand controls, I’m more excited for leg tracking and what that will open up for game development.
+
+05/12/2016 at 16:38
+
+ThePuzzler says:
+
+I don’t see walking around as being a major thing in VR – at least, not home VR, because no-one wants to be writing software that is dependent on the shape of people’s computer rooms.
+
+05/12/2016 at 17:40
+
+ResonanceCascade says:
+
+Roomscale is amazing, I just can’t imagine many people have enough room to use it. I have my PC set up in the largest room in my house, but I still have to move my furniture around to make enough space to really take advantage of it.
+
+05/12/2016 at 18:04
+
+Marblecake says:
+
+I gotta be honest, I don’t really see the appeal of an Oculus Rift as compared to a Vive.
+I own neither, but after having been lucky enough to try out a Vive I can say that at least for me personally, it’ room-scale or nothing. The immersion is mind-boggling and the holodeck-like feeling is simply amazing. I literally do not understand why I would get a Rift at roughly similar price and half the features.
+Or am I missing something? Honestly curious.
+
+05/12/2016 at 18:40
+
+Sakkura says:
+
+The Rift can do the exact same room scale things. It’s just better designed hardware and more advanced software.
+
+07/12/2016 at 12:06
+
+Jiblet says:
+
+What do you mean half the features? I’m perfectly happy sat on my arse playing flightsims in the Rift rather than whizzing around the room in with my arms out making propeller noises in a Vive. The “office” in my house, where my PC is, is a box-room thats about 8ft square. So with a bookcase, a desk and a chair in it, there’s no room for roomscale.
+As far as I understand, both have the same resolution screens, but the Vive’s field of view is larger, meaning the Rift has denser pixels. Which make’s spotting Commie assholes easier in DCS for example.
+While I’d like to try a Vive, I’m happy with my Rift. And speaking of which, there’s a couple of Touchuses in a box here waiting for my delicate ministrations… Lets have a looksee.
+
+08/12/2016 at 00:07
+
+Marblecake says:
+
+Okay, since when can the Rift do room scale? Can you give me a source for that?
+And if it can’t, of course it only has half the features. With a Vive you can sit down just as well as with a Rift, but you can also go walk around like a moron while having immense amounts of fun. It’s not about what you’re happy with but what the sets can deliver and so far, in my experience, Vive seems to be ahead of the Rift.
+
+05/12/2016 at 17:11
+
+klumhru says:
+
+I own a Vive and Rift, and have access to Rift controllers.
+My pros/cons vs Vive controllers.
+Pros: Far better balance, finger sensing.
+Cons: Separate sensor, lack of USB charging, lack of room scale. Minor issue but somewhat understandable is the lack of cross compatibility.
+Not sure what is meant by 3 power supplies unless you’re referring to the USB chargers for the Vive controllers. Any phone charger will do for those, so I read that as an incorrect evaluation. I agree with all other major points.
+I would still advise everyone interested in VR to wait for the next generation. I’ve extensively used DK1, DK2, Vive, Rift and PSVR. The leaps being made in tech between generations in input devices and displays warrant the delay in purchase.
+If you absolutely must have a VR set, I’d recommend the Vive for reasons of software availability rather than any hardware superiority.
+
+05/12/2016 at 17:50
+
+Sakkura says:
+
+The Vive base stations and IIRC breakout box all need to be plugged into power outlets.
+As for your list of pros/cons for the Touch controllers, lack of USB charging is a pro, not a con. Being able to quickly swap out a battery instead of being forced to wait for an internal battery to charge is a clear advantage.
+As for software availability, the Rift is ahead of the Vive. It also has other advantages on the software side, such as the ASW feature that means the Rift can run on PCs with much lower specs.
+
+05/12/2016 at 18:56
+
+Dritz says:
+
+Yes, it’s correct that the Vive takes three power outlets in total, one for each Lighthouse and one for the breakout box to power the headset. However, those would typically be outlets spread out in the roomscale play area, not at your computer, unless you’re only setting up for a Standing area.
+As far as ASW goes, Valve recently added asynchronous reprojection to SteamVR (only been out of beta for a few weeks), which similarly allows games running at 45fps to feel smooth. It’s very similar to ASW in concept, and also manages to allow PCs with lower specs to play games comfortably. That said, before then, Valve’s position on the matter was games need to be implementing dynamic quality solutions, such as what they did in The Lab, to achieve target framerates and ensure a comfortable experience, but unfortunately almost no one else has been doing that, despite Valve open sourcing their methods for it.
+Software availability… Now that’s a messy subject. Everything on the Vive is technically available for the Rift, because OpenVR/SteamVR supports both natively. Everything developed for the Rift specifically, however, is locked to the Rift hardware. There’s no technical reason for this; Oculus has been enforcing DRM for what headset you have plugged in ever since someone created a translation layer for their SDK (which has also since bypassed the DRM, incidentally; most Oculus Store games can currently run on a Vive through it now). They’ve also been throwing money at developers to get exclusivity on some titles people have been waiting for, even some that were initially demonstrated running on a Vive. The VR community has largely been disappointed or outraged about those tactics, and many have boycotted Oculus as a result. Not sure I’d mark that as a ‘pro’ in their column, personally.
+
+05/12/2016 at 19:33
+
+Chaz says:
+
+I dunno, my mate has been playing some of the Touch demo’s on his Vive and has been telling me about them. Meanwhile I’m still waiting for Oculus to ship my bloody Touch controllers. I think he’s using the Revive software which is supporting Touch now, although he thinks it still needs a bit of tweaking.
+I think it’s good the Touch controllers have finally come out as I’m seeing quite a few of the Vive games now updated for Touch on the Oculus store. Just means that for VR developers they’re no longer going to be stuck with the old which one do I support conundrum when developing new titles, as they can now do both.
+As for room scale, well the Rift still has that capability, just not over as much of a large area as the Vive does. I’ll be honest though, having played many games on my mates Vive, I can’t actually think of that many titles that utilise room scale to it’s proper extent anyway, with most games offering just a standing experience that’s no different from the Rift’s. It’s understandable, as I’d wager very few VR owners actually have that kind of space where their PC is setup. After about 10 minutes of room scale anyway, I usual default to being lazy and just teleporting even if it’s to move one step away. There is a practical aspect to that too mind, where if you walk to the edge of your room space, you just end up having to back peddle and teleport forwards anyway. So after a while it just seems more practical to remain where you are and teleport, only taking a step forward here and there to reach out for stuff.
+
+06/12/2016 at 00:47
+
+Sakkura says:
+
+The Async reprojection Valve added is analogous to ATW, which Oculus has had since launch. ASW is much more advanced.
+Also, Valve has an inferior implementation of ATW that runs on a smaller selection of graphics cards (where Oculus’ version runs on basically anything).
+
+06/12/2016 at 02:18
+
+Nathan says:
+
+> Oculus has been enforcing DRM for what headset you have plugged in ever since someone created a translation layer for their SDK (which has also since bypassed the DRM, incidentally; most Oculus Store games can currently run on a Vive through it now).
+They removed the hardware lock within a week or two of enabling it. Revive had made a change that circumvented the hardware lock but in doing so also removed the other DRM stuff and allowed the games to be freely pirated. For one reason or t’other the hardware lock was removed soon afterwards.
+
+05/12/2016 at 18:39
+
+dahools says:
+
+Didn’t say how much they were did we?
+Seems an expensive way to play Darth Vader choking innocents with your index finger and thumb.
+
+05/12/2016 at 18:42
+
+Sakkura says:
+
+$199/€199. Not sure how much in Brexitanian Rupees.
+
+05/12/2016 at 21:36
+
+dahools says:
+
+Cheers still a bit pricy once converted to our world dominating British empire credits..
+
+05/12/2016 at 20:08
+
+TheRealHankHill says:
+
+Cool, Palmer Luckey is still a piece of human garbage who funds hate campaigns. Never touching his product.
+
+06/12/2016 at 14:26
+
+myhandleonrps says:
+
+Hear, hear! I thank him for it, too. Sometimes deciding what product to buy can be a tough decision, but with CEOs like that it’s just a simple binary switch to ‘never ever buying that’.
+
+07/12/2016 at 23:51
+
+SingularityParadigm says:
+
+Palmer Luckey was never CEO, he was a co-founder. Brendan Iribe is CEO. After his little Nimble fiasco Palmer is just a deposed figurehead.
+
+06/12/2016 at 01:48
+
+Hedgeclipper says:
+
+“luxury-looking cardboard box” Made me lol
+More curiously RPS has written a lot about VR but I haven’t seem much comment on how thoroughly the Vive has stomped the Oculas – at least this gen – its been comfortably sitting at 60% share for months dispute being more expensive and avoiding nasty exclusives.
+
+06/12/2016 at 02:19
+
+Nathan says:
+
+“thoroughly the Vive has stomped the Oculas” – because who gives a shit?
+
+06/12/2016 at 02:37
+
+SingularityParadigm says:
+
+>its been comfortably sitting at 60% share for months
+You mean in the misleading Steam Hardware Survey? There are no published numbers on Rift sales, and at the very least a plurality more likely majority of Rift owners do not use SteamVR and only use Oculus Home, thus would not be included in the Steam survey. Also, for the Steam Hardware Survey to detect the presence of a Rift it doesn’t just need to be plugged in, Oculus Home has to also be running at the time. The Steam Hardware Survey may be the best numbers we currently have, but they are far from definitive.
+
+06/12/2016 at 08:44
+
+DLFReporter says:
+
+For me, Oculus always wins in Terms of haptic and comfort. As has been said, the boxes alone make you feel like you are getting something for your money. Also the design of the headset is just spot on. Integrating high quality earphones is a Godsend, cudos to the dev who pushed that point!
+
+06/12/2016 at 14:57
+
+Sunjammer says:
+
+I don’t even care about VR and these things feel good enough to hold that I wish I could just replace all gamepads with them in general. Really, really impressive ergonomics IMO.
+Sidenote: When are we going to get a sign-in here that doesn’t take us to the profile page and force us to back out to the article we wanted to comment on and trigger a refresh? It’s been like this forever and it suuuuucks.
+
+09/12/2016 at 07:27
+
+Harlander says:
+
+Ironically, seeing the advances of this over the Vive controllers in such a short time makes me even more inclined to wait for the next generation – because if they can do a couple of fingers now, it won’t be too long before they can do a whole hand.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Hardware, Oculus Rift, Oculus Touch, review, VR.
+35% faster than a 1080
+Oh gosh!
+Believes huge tech improvements incoming
+A bitter Rift
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

@@ -1,0 +1,31 @@
+./html_data_bitcoins/humanitarian-blockchain-and-its-liberating-technologies-for-refugees.txt
+
+
+
+CryptoCoinsNews
+Last October, dozens of refugees remained stranded in Calais after authorities announced the closure of Calais’ ‘Jungle’. In a report from the Guardian, over 1,000 refugees remained, including more than 100 children, with many facing the prospect of having nowhere safe to sleep.
+Yet, with French and U.K. officials accusing each other of not doing more to sort the situation out, the ‘Jungle’ became a poignant representation of Europe’s failure to tackle the migrant crisis.
+One organization is stepping forward with blockchain ideas and solutions designed to address some of the barriers that they perceive to be standing in the way of social, political, and economic freedom, not only for refugees but for other disenfranchised populations.
+Launched in February 2016 by founder and CEO Julio Alejandro, London-based Humanitarian Blockchain is the world’s first DIY e-governance consultancy project that is attempting to tackle social and global problems using blockchain technology.
+Speaking to CCN, Alejandro, a U.S. and U.K. foreign correspondent for Mexican-based newspaper, Excélsior, said:
+[Our goal is to] provide financial, communicational, and organizational independence to refugees and the organizations that help them with decentralized, accessible, and non-jurisdictional blockchain technologies.
+The organization is attempting to achieve this goal through its four liberating technologies: bitcoin Visa debit cards, Estonia e-residences for high-skilled immigrants, a DAO model for HR NGOs, and non-biometric, reputation-based, digital identities.
+Out of the 30 blockchain-for-good use cases Humanitarian Blockchain has mapped, they have identified 30 organizations, mainly startups, that use a combination of these technologies. Furthermore, Alejandro states that costs are reduced by not developing in-house solutions, but by outsourcing actualizations and improvements with cheap implementation.
+The cost of the e-residences and a bitcoin Visa debit card is €120 while the cost of implementing a DAO no-managers model and automated Smart Contracts for a small HR NGO is €1,000. Humanitarian Blockchain is planning on using BitNation’s Pangea identity system, which is free, once it’s ready this year.
+In consultation with organizations and governments within Europe, Alejandro is examining and promoting the benefits of blockchain technology, analyzing the local ecosystem, and looking at its needs and opportunities for future development.
+Last September and October, Students for Liberty asked Alejandro to give lectures and talks in ten countries. In November, he debated on anonymity, untraceability, and decentralization for the European Commission legislation body in Prague before taking his discussion to Tel Aviv and Beirut at the beginning of the year.
+By focusing on people that they’ve identified as oppressed, Humanitarian Blockchain aims to serve as contractors and consultants, teaching and implementing pilot projects for social good in complex ecosystems; to match blockchain developers, who might be living in London or New York, with organizations that request their help; and to participate in social competitions that promote humanitarian, social, and political uses of blockchain technology.
+Even though the Calais camp disappeared last October, back in June, Mexican-born Alejandro undertook a social experiment pilot when he went to Calais.
+At the end, there were two things that he noticed.
+Firstly, posing as a Syrian refugee living in The Jungle, Alejandro found it difficult to pay in a coffee shop with a bitcoin debit card. He said that the issue of having no fixed addressed or job meant that merchants were more likely to ask questions, suspicious of where a refugee may have received the card and how money was put on it for a refugee to use.
+He said:
+As a brown, heavily bearded, Muslim-looking male, I was denied service and was asked to leave [places of business].
+Secondly, they discovered that the inhabitants of the Jungle were often African and Asian economic immigrants hoping to remain anonymous and underground, rather than the highly-publicized refugees from Syria.
+He added:
+With limited capacities to teach or implement this project in mass scale we decided to re-adapt our strategy into a smaller group: young, anonymous immigrants with risk of radicalization.
+As such, the organization identified three types of people that it is aiming to help: political dissidents, victimless crimes, and rehabilitating those who have committed serious crimes, but can’t reinsert into society or the job market, forcing them underground or being radicalized into violent activities.
+Alejandro believes that digital identities will help oppressed communities regain their dignity. As they won’t be government sanctioned, he says that reputation-based identities will eliminate violence in case of wrong doing.
+He states:
+In a post-nation world, if you commit a crime you would get your reputation downgraded. ID and reputation systems are the preventive method towards crime and punitive behavior.
+He concludes by adding, that with the use of digital identities, businesses, audiences and stores can ban or limit access for a person into a place, instead of having them sent to prison.
+Featured image from Shutterstock.

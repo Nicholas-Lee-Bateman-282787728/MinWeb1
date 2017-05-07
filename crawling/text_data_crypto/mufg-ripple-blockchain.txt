@@ -1,0 +1,20 @@
+./html_data_bitcoins/mufg-ripple-blockchain.txt
+
+
+
+CryptoCoinsNews
+The Bank of Tokyo-Mitsubishi UFJ (BTMU), the banking arm of the Mitsubishi UFJ Financial Group (MUFG) has joined Ripple in its endeavor to establish an international blockchain payments network of global banks.
+MUFG has today announced [PDF] its membership in Ripple’s ‘Global Payments Steering Group’ (GPSG). CCN reported on the GPSG in September 2016, set up to create a ‘rules-based blockchain payments network’ as Ripple describes it. The goal of the Ripple-led banking collective is to create uniform policies and governance to facilitate the transfer of money, globally, over a blockchain.
+“Today, people expect money to move at the speed of the Internet. That’s why we’re working with these top banks to address the need for faster cross-border payments,” stated Ripple co-founder and then-CEO Chris Larsen, at the time.
+The steering group was founded with six banks from three continents, namely: Bank of America Merill Lynch and Royal Bank of Canada from North America; European banks Santander, UniCredit and Standard Chartered; and Australian banking institution Westpac Banking Corp.
+MUFG’s entry into the group makes it the first Asian bank to participate in the interbank group where members will oversee the creation and maintenance of payment transaction rules and formalized standards for money transfers using the Ripple blockchain.
+Ripple adds that MUFG ‘chose’ to partner with the FinTech startup to address the drawbacks of existing banking systems and hurdles of cross-border payments such as cost, delays and the lack of transparency.
+Ripple CEO Brad Garlinghouse stated:
+We welcome MUFG, one of the largest and most advanced banks in the world, to the growing number of Ripple customers moving actual money across borders, instantly. While many others continue to play in the sandbox, we’re thrilled MUFG has joined us in our mission to revolutionize payments globally.
+Ripple claims that up to 90 banks around the world could participate in the international payment network.
+The BMTU is convinced that blockchain technology presents the path forward for remittance in banking, after successfully wiring money internally to New York in a blockchain trial in late 2016. Existing international transfers at BTMU currently cost between 3,000 yen and 5,500 yen (approx. $27 and $50). Over a blockchain, costs are saved by eliminating the need for an intermediary bank on the SWIFT network.
+On a common blockchain ledger where participants are verified, immediate fund transfers and settlements are a reality with cryptographic encryption that makes data immutable and hard to alter. A days-long process which would see multiple banks channeling the funds and charging fees for them, would be rendered unnecessary. While banks are certain to lose a revenue stream from service charges levied on users, there are significant savings gained from investments in systems infrastructure and cybersecurity costs.
+Ripple has overseen a breakthrough in the banking industry’s adoption of blockchain technology after completing a blockchain money transfer pilot with 47 participating Japanese banks this year.
+Meanwhile, MUFG has notably pushed blockchain research, going so far as to plausibly become the first major bank in the world to launch its own digital currency this year. MUFG also has a stake in Japan’s largest bitcoin exchange bitFlyer, through its investment arm. MUFG, along with Mizuho and SMBC – Japan’s so-called 3 megabanks – have already tested domestic money transfers over a blockchain platform developed by bitFlyer, with successful results that fared better than the existing wire transfer system.
+According to Nikkei, MUFG is expected to rollout its blockchain service to individual users in early 2018 commercially, before offering the service to corporate clients.
+Featured image from Shutterstock.

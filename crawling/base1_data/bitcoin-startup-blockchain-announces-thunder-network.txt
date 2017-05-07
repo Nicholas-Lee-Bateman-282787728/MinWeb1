@@ -1,0 +1,16 @@
+./html_data_bitcoins/bitcoin-startup-blockchain-announces-thunder-network.txt
+
+
+
+CryptoCoinsNews
+Bitcoin-centric startup Blockchain has announced and released the alpha version of its Thunder Network – a payments channel that it claims will prove to be the first usable implementation of the Lightning network for off chain bitcoin payments that settles back to the main bitcoin blockchain.
+Bitcoin startup Blockchain has announced the first version of the Thunder Network, with an alpha release of the code. The payment technology prototype is described by Blockchain as a “way to send money ‘off-chain’ to other parties in a trustless manner based on the lightning network.”
+In its announcement, the startup revealed it followed up on its interest in using smart contracts to build “super-charged payment networks”. The idea was outlined in a white paper by the lightning network team.
+It added:
+Thunder has the potential to facilitate secure, trustless, and instant payments. It has the ability to unleash the power of micro-transactions, to allow the bitcoin network to handle heavy loads, and to increase user privacy.
+The alpha version already contains both a node and a GUI wallet. Furthermore, tests revealed that the Thunder Network was able to achieve a better-than-Visa scale at 100,000 TPS.
+Among its other features, all communication between nodes and wallets are enabled via AES-CTR encryption.  A basic gossip protocol similar to the one used in the bitcoin network will help enable complex routes over multiple hops. Blockchain adds that each hop will renegotiate a new status with the next hop cryptographically in order to prevent fraud.
+Privacy will be a priority as the Thunder Network will relay payments across multiple nodes within the network automatically with encrypted routing. Payments will be settled instantly with no manual intervention. As proof of payment, the settlement will ripple back through the network.
+Notably, transactions aren’t enforceable at the bitcoin protocol stage yet. For Thunder transactions to settle against the bitcoin blockchain, CheckSequenceVerify (CSV) and Segregated Witness (SegWit) will have to be implemented to the blockchain first.
+Blockchain adds that the Thunder Network is still in its alpha state and doesn’t recommend using it for real payments. Additional information about the Thunder Network can be found here.
+Featured image from Shutterstock.

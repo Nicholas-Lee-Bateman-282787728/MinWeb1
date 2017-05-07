@@ -1,0 +1,204 @@
+./html_data/orwell-review.html
+
+RPS Feature
+Down And Out In Bonton And Parges 
+By John Walker on December 6th, 2016 at 4:00 pm.
+
+With the Snooper’s Charter having very quietly been accepted into law in the UK at the end of last month with nary a bleat, thoughts of government surveillance have rarely been more topical. Orwell [official site] is a take on what such a system might look like in practice, with you the person given access to everyone’s information. Think of it as a Papers Please for the digital age, with all the accompanying ethical dilemmas. Here’s wot I think.
+Orwell is the very on-the-nose name for a game about surveillance, government snooping, and the pitfalls of such systems. Set in a fictional country (The Nation), with a fictional government (The Party), surrounded by other fictional nations (Parges, Ustvakia, Gentria), (making it slightly peculiar that it then features actual Germany), terrorism is afoot, and you’re tasked with using snoopy tech to investigate potential suspects, and perhaps even influence the findings to your own end.
+And I’ve loved playing this. It’s an enticing thriller, a deep, broad investigative journey into the private lives of a small collection of people, and most entertaining to pursue, despite a tissue-thin veneer of reality. I have so much to criticise about how this has been put together, because it’s ridiculously flawed, completely daft, and vulnerable to even the most casual of analysis. But the key thing is: I enjoyed it! Remember that.
+
+When it comes to games where a new player is supposed to have an established role, developers seem to have the option of two problematic approaches. The more common is the completely daft situation where a long-established pro has to have the basics of their job and circumstances explained to them. The other, as is the case with Orwell, is for someone new to the role to suddenly be thrown into the deep end. This is usually the more narratively convincing approach, but it does require some hurdles of disbelief. Ones that Orwell certainly doesn’t clear.
+You are a volunteer given access to the government’s new Orwell system, an ironically named surveillance tool that allows users to access personal information about citizens, collating from both their public social media accounts and snooped details from their private communications. The peculiarity – and pretty insurmountable conceit for the game – is that you have full access to all the details about a suspect, but your supervisor is (legally?) only allowed to look at the snippets you send him. It’s to prevent the government from being too powerful, see? By, um, giving all the information about people’s privacy to some person. And it’s through this conceit that the nature of how you can potentially manipulate the data is made possible
+It then gets even more odd as you’re the first “test case” investigator for this new system, and yet despite that, you’re given work related to a terrorist attack that’s literally just taken place. Blimey – I’d save that up for someone who’d been on the job for at least a week.
+
+But we must suspend our disbelief, no matter how precariously, if potential fun is on the line. And, it should be said, that as silly as the conceit may be, the effects of sharing information out of context are profound, and of course largely the game’s point. It’s very, very easy, when playing, to quite forget how information could be misconstrued. Early on you are spying on the text message chat of a suspect who jokes to her partner that she’s “stolen” his credit card, and plans to go on a spree. Share that snippet (and you can only share that which has been pre-selected by the developers), and your handler will take the matter quite seriously, and report the theft. Then of course, after realising how easily you forget that the context isn’t being seen by him, you can of course manipulate the delivery of information deliberately. Or indeed just choose to not share it at all. Quickly it becomes apparent how easily you can shape perception by what you choose to divulge. (Although I should add, the game does quite frequently forget its own fiction, with your handler having impossible insight into the details you’ve shared. Ah well.)
+This all makes for an interesting and useful commentary on surveillance culture. Or at least it would if it weren’t so farcical as to have you playing as some applicant fresh off the street, rather than a long-in-the-tooth member of this government organisation. The idea that such an arrangement would be even considered is beyond credulity – even if the game does (unconvincingly) eventually try to address this. Never mind that it keeps piling on the ridiculous in the name of its own conceits, with such silliness as refusing to let you update information on the Orwell database that further research proves to be inaccurate. Why? Because the mechanics require it. It doesn’t even try to justify this one – it just says, “it can’t”.
+
+But despite this, despite how eye-wateringly silly the whole concept is, you can suspend it all. I know, because I did. I slipped into its farcical groove, and then embraced it. I started collating, worrying, suspecting, excepting, making wrong guesses about where it was all going (one of which would have been an excellent alternative ending, if I do say so myself), and then piecing together the truth of the matter. It became apparent as I played that I could have a significant impact – so much so that I felt compelled to start the game again as soon as it finished to share information differently, to see what else might happen, and wanting to start a game again as soon as it’s over is a pretty good sign.
+And rewarding it is to do so! I was surprised by how much I could change, making knowing decisions about what I did and didn’t share, skewing the results to surprising effects, even life or death results. I think, if anything, I spoiled my first playthrough by being right about everything (I stress, with luck as well as design), and not seeing the consequences of putting together a more inaccurate portrait. This is to a degree, of course. The game doesn’t offer infinite variety, and there are certain times when the only way to advance the story is to share some information that you might have wanted not to to maintain your own narrative.
+
+Yet, I wish it asked more of me. For the most part your role is to drag across pertinent-looking pieces of information to the right profile, while not dragging across the clearly irrelevant ones. The actual research is severely limited. When you discover someone is a temp, instead of then being asked to go find a site relevant to that from a database, find a way to hack their account, etc, it just instantaneously links you to the logged in profile of that person. It takes a significant bite out of the thrill of the snoop. Find a suspect’s patient number, and you don’t get to explore a hospital’s database to find her in the logs – you just get magically logged into her medical records. And with this, the sense of achievement is mightily diminished. Getting to these records may get you the suspect’s accurate date of birth, but it’s very apparent that you really had no choice about the matter. It certainly wasn’t dependent upon your skill. Weirdly, early on, it does actually do this better, having your scour through some university teaching schedules, but sadly this is never repeated again.
+The result is, as I’ve said, silly but affecting. Don’t think about it for as long as you can, and there’s lots of entertainment to be drawn out. While it laudably avoids taking an overt moral stance on the matter, this doesn’t mean it employs subtlety in its delivery of the subject matter. There is no deep understanding here, you won’t have your mind changed, and it certainly doesn’t have any of the emotional impact of Papers Please. But within its own barmy universe, it works! It’s a good chunk of fun, and easily survives at least a second play to see how much you can mess with people’s lives.
+Orwell is out now on Steam for £7/$10/€10. You can pick up a demo of the first chunk from Steam or IndieDB.
+
+06/12/2016 at 17:24
+
+cpt_freakout says:
+
+Good review, thanks John! The name should be a giveaway: this game is not smart and it’s utterly heavy-handed, but that’s OK, it offers sheer entertainment instead! I’ve been having a lot of fun with it, particularly after realizing that it’s quite funny to feed your supervisor with inane data that’s only useful to marketers (‘this person likes strawberries’ and the like).
+The only thing that bothered me is that every once in a while you need to upload an exact piece of data to unlock the next part of the story. Sure, the “objectives” panel gives you an idea of what that is, but sometimes it’s not altogether clear what is going to further the story and what isn’t. I mean, you’re crafting images of people with data, and it’s disappointing that every now and then some piece you thought you could hide turns out to be the only thing that can unlock whatever’s next; when you’re not uploading everything, sometimes it turns out you have like 7 pieces of data of which ONE is the key… so you end up giving out more than what you wanted. Other than that, I’m having a blast!
+
+06/12/2016 at 23:14
+
+DelrueOfDetroit says:
+
+Is the game entertaining because it is trying to be smart but failed or because it knows it is not smart to begin with?
+
+07/12/2016 at 07:35
+
+John Walker says:
+
+Neither. It’s entertaining, despite being a bit stupid.
+
+06/12/2016 at 17:46
+
+Harlander says:
+
+A database of information that it turns out you can’t update?
+Sounds like a government IT project to me.
+
+06/12/2016 at 18:21
+
+Sin Vega says:
+
+Germany
+Ha ha! Where do they come up with these wacky names?
+
+06/12/2016 at 18:39
+
+Sin Vega says:
+
+Boo, I got that edit in before the timer. Cynical hat on: having worked with more databases than I can ever remember in an interview, the concept of a government (or any, really. The myth that the private sector is innately better at anything at all is laughable) database whose entries can’t be corrected isn’t so far-fetched. 
+One place I worked, I spent two days walking around the organisation talking to everyone I could in an effort to find out where the hell our data actually came from. After taking some of my own personal time to visit another site, I found out that a completely different department had coincidentally been gathering the exact information I’d been recommending we collect – and shoving it in a drawer, never to be seen again. Meanwhile, every time someone noticed that a member’s phone number had changed, they’d “update” their record, unknowingly creating a duplicate which would only appear if you knew about it. And even then, it could be the duplicate you created, or one of the three or four other ones created by someone else. And even then… okay you know what, I need to just play this, don’t I?
+Oh! Then there was the place where I found a systematic flaw that was costing us hundreds of thousands of pounds a year and potentially getting people in serious legal trouble for no reason, found a solution, recommended it with the utmost urgency… and well, I ended up quitting before it happened again the next year because there’s only so much a person can take.
+No amount of open idiocy and blatantly counter-productive procedure or design in a work of fiction will ever be worse than what really happens in a real life bureaucracy somewhere. Probably in the UK, and probably under the guidance of someone who makes ten times what any of us do while being several thousand times more stupid.
+
+06/12/2016 at 21:06
+
+thekelvingreen says:
+
+I have to submit a digital absence review for my team every week. Even if there have been no absences. Most weeks of the year I send an empty file.
+We had a meeting/training day last summer in which the theme was tackling pointless bureaucracy. I mentioned the blank absence reviews, got an enthusiastic response, but at the end of the day the organisation decided that the best way to tackle bureaucracy was to “tidy the shared drive”.
+Brilliant.
+
+07/12/2016 at 01:30
+
+Sin Vega says:
+
+I was hired for a role nobody had done before. I was, by definition, the expert at that job, and half the point of it was for me to gauge what was needed.
+So when I repeatedly said the workload was impossible (21 in trays. Twenty. One. In trays. And that was just the routine stuff, never mind the complicated shit only I even knew needed to be done), the solution They came up with was: write a daily report detailing everything I did that day.
+In 96% of parallel universes, my ensuing killing spree continues to this day.
+
+07/12/2016 at 06:52
+
+wwwhhattt says:
+
+After this article all this suffering is very reassuring – I do hope nothing changes on the Government’s side.
+
+06/12/2016 at 18:28
+
+subdog says:
+
+“For the most part your role is to drag across pertinent-looking pieces of information to the right profile, while not dragging across the clearly irrelevant ones.”
+I think you’re underselling the most important mechanic of this game. You’re very rarely presented with “clearly irrelevant” information- more often you’re given degrees of relevance, and it’s your judgment that determines whether that information (or its omission) gets to drive the plot forward. 
+Sure, you could get through the game just processing every blue line you see except for the clearly wrong stuff- but that is almost certainly going to end up with people getting killed. Choice and consequence touches just about every action you take, and it is remarkable.
+Another thing missing in this review is how the characters are all nuanced and well written. While the mechanics of the research are straightforward, the stories you uncover are engrossing. Games that rely on investigation and discovery are rare, but Orwell absolutely nails it.
+This is definitely my game of the year, and I hope this review didn’t come too late to influence the advent calendar.
+
+07/12/2016 at 07:38
+
+John Walker says:
+
+I’m a little at a loss as to how you consider this review to have skipped over the game being engrossing.
+
+06/12/2016 at 19:22
+
+Aquablad says:
+
+I played the first episode and I was enjoying it but felt like it was lacking compared to the Mr.Robot phone game. I’m hoping we get more games like this in the future with more interaction, research and snooping :)
+
+06/12/2016 at 20:20
+
+subdog says:
+
+The first episode doesn’t do a great job of showing of this game’s potential. I highly recommend giving the second episode a try, the gameplay and plot both open up a lot more.
+
+06/12/2016 at 19:56
+
+thehollowman says:
+
+Man, did I play a different game to everyone else? It seems that people value originality and “Mature” settings over games being actually good. This had a trite and boring story, with mechanic that boils down to “drag stuff and try to choose the obviously correct option”. It’s a story about a group of people who opposed the government and their surveillance, but each and everyone of them seem surprised to learn that the government is watching. What the fuck did they think they were protesting?
+Perhaps the problem is that I went in thinking this game would be like papers please – it’s not. There is no game here at all, none. Instead, it’s about dragging blue text onto peoples records, and then your supervisor, who speaks less with the tone of a long time bureaucrat that is spying on people, and more like a wet blanket that instantly talks with you extremely casually. Worst still, it makes government surveillance severely underpowered compared to reality. 
+Basically, if you have the money and all you care about is “Original experiences” – this games greatest strength is telling a narrative which you have some control over, through a unique lens of spying.
+But if you want a fun game, where you actually play, and make more interesting decisions than if someone is still in a relationship, or if you think this game is anything like papers please – it is not.
+
+06/12/2016 at 20:25
+
+subdog says:
+
+Isn’t it great when people show up in narrative games to tell us what is and isn’t a game? This post reads like copypasta from a Her Story steam review.
+
+06/12/2016 at 23:49
+
+MD says:
+
+I didn’t get that feeling at all. thehollowman criticised both the mechanics and the story, clearly distinguished between each set of criticisms, and offered a warning for those who might have gone into the game with the same faulty expectations as he did. That’s a reasonable and helpful comment in my book.
+
+07/12/2016 at 07:40
+
+John Walker says:
+
+I’m pretty certain you read a different *review* to everyone else.
+
+06/12/2016 at 22:32
+
+croucrouic says:
+
+“Think of it as a Papers Please for the digital age”
+I disagree. Paper please is more gamey.
+Still I really liked Orwell experience. But imagine it with more minigames like in uplink. Or some code to type. It may make it more immersive.
+
+06/12/2016 at 23:52
+
+Person of Interest says:
+
+Compared to Her Story, is it more or less easy to suspend disbelief and enjoy the game despite its gamey mechanics? I was able to look past the silly rule of “only five search results at a time”, but just barely.
+
+07/12/2016 at 03:08
+
+Michael Fogg says:
+
+You can’t make an omelet without breaking a few eggs – Lenin
+Where is the omelet, then? – Orwell
+
+07/12/2016 at 09:40
+
+manny says:
+
+The premise is not that farfetched. It just follows the philosophy of democracy/christianity, where all people are equal before the eyes of the law/god, and you’ll be judged in a court of law by a jury of your peers.
+So the jury duty would be extended to pretty much everyone. Like voting. And in this case the police surveillance apparatus.
+
+13/12/2016 at 11:53
+
+Bury The Hammer says:
+
+Completed this last night. It’s quite excellent, but should be emphasised that it’s more a interactive narrative experience rather than a game. I also feel that it gets much more interesting towards the end – not in narrative necessarily, but in using the format.
+Minor spoiler – the amount of datachunks you can upload becomes limited. That means you spend more time agonising over what kind of data you should or shouldn’t upload. Which is great! You can only explore certain paths. It felt way too on rails before this point. Putting other constraints like time, far more bad data (maybe having to input data yourself rather than just highlighting and dragging it?) – in essence, ‘allowing for failure’ could drastically improve it. What spoils it for me is realising that I was never going to fail, I could just scroll through each highlighted source and pick everything out. Her Story had none of the same problems, you were free to explore each narrative in any order you wanted.
+Anyway – enjoyed it a lot. Felt more could be done with the format though. I look forward to a detective game or something that picks up on the same style.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Orwell, Osmotic Studios, recommended, review, Surprise Attack Games, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

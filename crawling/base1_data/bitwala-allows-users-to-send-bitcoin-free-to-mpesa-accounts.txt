@@ -1,0 +1,20 @@
+./html_data_bitcoins/bitwala-allows-users-to-send-bitcoin-free-to-mpesa-accounts.txt
+
+
+
+CryptoCoinsNews
+Bitwala, a blockchain-based a crypto-to-SEPA service that allows fiat currency transfers towards settlements from users who pay in cryptocurrency, now allows users to send bitcoin to any MPesa account for free using company’s new service, according to an announcement on the Bitwala website. The service will remain free forever, according to the post.
+Bitwala users can send money to MPesa holders in Kenya, Tanzania, Uganda and Nigeria.
+Users open their Bitwala account and click “send money.” They choose “mobile money” and select the payout currency of choice. They enter recipient details and the amount of money to be sent.
+A Bitwala invoice appears at checkout where the sender can pay in bitcoins. They can check “payment status” on the dashboard once the invoice is paid.
+“We want to be a part of the mobile money revolution, and we’re stepping it up a notch by enabling anyone to send money to any MPesa account using bitcoins,” according to Jörg von Minckwitz, CEO of Bitwala, in a statement on the website.
+The website noted that fast, inexpensive and secure money transfers are still not widely available to many people. As a result, much of the unbanked population has to physically carry money, which can carry risks.
+Bitwala claims it is on a mission to provide everyone with the safest, fastest and most affordable way to send and receive money.
+Safaricom, a mobile network operator in Kenya, in partnership with Vodafone, a global telecom, introduced MPesa in Kenya in 2007.
+Safaricom recently released its MPesa API after upgrading its MPesa platform. The old system, which the company described as G1, could only handle payments through what is known as Instant Payment Notification or IPN. To enable IPN, the system had to create a number of workarounds to automate the payments. However, with the new system known as G2, they have solved this issue.
+MPesa was designed to allow foreign workers to send remittances back home. It was also designed to provide the unbanked an easier and more affordable payment system.
+More than 96% of households outside of Nairobi, Kenya have at least one MPesa account, according to Bitwala.
+Also read: Safaricom releases the MPesa API — Possibilities for bitcoin?
+In 2015, at least 25 million Kenyans transacted $28 billion through MPesa. This is equivalent to 44% of Kenya’s GDP for that time period.
+Bitwala launched as Europe’s first bill payment service that allows users to pay bills with bitcoin. The service makes it possible to use bitcoin for paying for anything from credit card bills to utilities.
+Featured image from Shutterstock.

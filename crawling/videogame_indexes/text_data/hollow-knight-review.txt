@@ -1,0 +1,430 @@
+./html_data/hollow-knight-review.html
+
+RPS Feature
+Rings a little 
+By John Walker on March 2nd, 2017 at 5:00 pm.
+
+Hollow Knight [official site] presents a peculiar issue. What do you do with a game that is genuinely good, but rather unoriginal? A game that is so, so similar to others that have come recently before it, but is still a beautifully drawn, solidly built metroidvania? Do you say, “Get this one, because it’s the most recent?” That’s not a coherent argument. Unfortunately for Hollow Knight, I think the design decisions that narrowly define it are really its core weaknesses.
+I love these sorts of games. I can wile away many hours jumping around their labyrinthine caves, eeking out new abilities to reach new areas, incrementally improving my health, jump, attacks and skills so that what was once a challenge becomes a corridor on the way to the new challenge. It’s a wonderful model, and it’s been done wonderfully many times before. So Hollow’s choices to make what are stalwarts of the genre into its most frustrating features is a disappointing decision. I have played for a good few hours, but am only a fraction of the way into the game. Keep that in mind as you read.
+
+We’re not short of competition. This year has already offered us the utterly splendid Alwa’s Awakening, then just a few months back we had the triumphant release of Owlboy. 2016 also saw the competent (but extraordinarily familiar) Song Of The Deep, and the sublime Ori & The Blind Forest’s definitive edition. Then there’s Aquaria, Axiom Verge, Environmental Station Alpha, The Swapper, VVVVVV, Cave Story+, Guacamelee, and the dozen others you’re annoyed I’ve not listed. And of that list, most problematic for Hollow Knight is Ori & The Blind Forest.
+The two games have a great deal in common, but Ori is just better in every element. And sure, that’s an awkward critical path (“this game isn’t as good as the best example of this genre”), but it starts to become a more imposing issue when the game in question appears to bring nothing new to the table.
+
+In Hollow Knight, you play a bug-like creature exploring (wait for this) a formerly rich and vibrant underground world that is now grey and ruined. Goodness me, how did they think of this?! At the start you’re limited to a melee attack and a basic jump, and as you progress through its caves you gain new skills and buy others from a growing number of above-ground merchants. Out of reach areas become in reach when you gain, say, a dash move, which leads you to new zones and their fresh crop of currently impassable obstacles. It is, to put it more briefly, a stock metroidvania.
+From this foundation most games listed a couple of paragraphs above bring their own new details. Owlboy has your character able to carry another in his talons, bringing in their unique abilities as you fly through its world. The Swapper has its key mechanic to make it stand out. Ori has a tale of deep emotion, breathtaking art and… well, here’s the rub. Ori is actually not especially original – it just messed things up for those that come after it by taking the core foundations and delivering them with something close to perfection. So when Hollow Knight steps onto the battlefield with no unique weapon of its own, Ori just squishes it.
+
+I began by alluding to its weaknesses and perhaps now I name them you’ll take umbrage. Hollow Knight takes core features of the genre and then tries to tell you they’re special. Like, perhaps at its most egregious, your position on a map. Maps are tricky enough here, with new zones not possible to even map as you explore them – you have to buy or find a pre-created map to even bring up the map screen for an area, and then fill in the dotted lines of where you’ve yet to explore. Quite why your character can’t know that they just walked down a path and went left I’m not sure, but that’s how it is. You can spend long stretches aimlessly stumbling around until you find your way out. But on top of this, to see where your character is on a map when you have one is considered a feature, a special ability gained by purchasing it from a shop and then using one of your precious ability slots to implement it. A basic standard of the genre, locked up behind a purchase and a skill use. So, so weird.
+So rather than enjoying a burgeoning pool of abilities, you’re restricted to however many ability slots you have, and choosing between them. I’d love to use the skill I paid a small fortune for that makes drops magnetically attracted toward me, but I really can’t live without the extra soul gathering from attacked enemies (used for both healing and crucial ranged attacks), and knowing where the hell I am on the near-identical monochrome section of a level at any point. Any other game in the genre lets me have all three without a fuss, and doesn’t even consider one of them a special feature.
+
+My other big issue here is again something that might have you cry, “At last! What I’ve always wanted!”, and all power to you. The game feels way too loose and sprawling to me. With a real lack of direction about why you’re there, what you’re trying to achieve, and why you should want to go anywhere beyond ‘because it’s there’, the openness of the multiple zones ends up leaving me feeling agoraphobic rather than freed. You know that eventually you’ll hit an ability wall, perhaps a chimney of rock with alternating spikes on either side, and you’ll think, “Oh, I’m going to be able to bounce off walls at some point then,” but there’s no notion of how, or where, or when, or why. There are so many dead ends to go in at once! I’m left wishing for some allusion toward direction, or at least a more meaningful motivation for such rambling. 
+All this said, it delivers on what it delivers. The movement is fast but sturdy, the combat nifty, and the artwork is really lovely. Its choice of greys and muted greens and blues doesn’t do it enormous favours, and each area is pretty monotone. Animations are great, and the world is pleasingly detailed, but it also feels flat and dulled. Again, the comparison with Ori is a heavy blow, and if you were choosing between the two it’d be another strike against.
+
+But perhaps you’re not. Perhaps you just want to plough through another metroidvania (if only we had a better name than that), and then this is a fine game for you. It ticks most of the boxes, completely with difficulty spike bosses that make me want to carve my hate for the experience in the sides of mountains, but apparently people love those. It’s a pretty, competent, if needlessly frustrated standard of the standard. That might be just what you need.
+If you’re looking for something like this, then get yourself Ori & The Blind Forest, which is truly tremendous.
+Hollow Knight is out now on Windows for £11/$15/€15 via Steam, Humble and GOG.
+
+02/03/2017 at 17:38
+
+Atog says:
+
+Well, for what might be the fist time I strongly disagree with a RPS review. I feel like your choice to measure it as a reprentative of a genre harms it, but then, as I’m not too familiar with the genre, it might be justified. 
+In any case, this is a wonderful game and as long as the mechanics are solid I don’t mind that it’s not really innovative on that front, because it has so much going for itself apart from that. It’s one of those games, with Dark Souls, that gets both ruins and world right : you’re to master and inhabitate a world where you don’t -at first- know your place, occupied by remnants of a former splendid civilization, marked by melancholy and mystery, and this is done by playing the game, i.e. both by getting better at it and unlocking abilities and access to different zones. I feel that it does a great job at laying out this vast semi-open map of forgotten places and people before you and saying “Go and explore it, tame its dangers and in the process accomplish you destiny, whatever it might be.”
+The numerous NPCs are solid and serve to establish the setting and the lore while remaining suitably vague and with their own preoccupations, there are several endings and a lot of hidden secrets, you can combine charms for quite unexpected results and very often, a lot of “builds” just might work, there isn’t really an obligatory path to take on bosses. And all in all, I think it’s a game that really profits from the ability, for the player, to gradually master it, learn its subtetlies and discover the many secrets it holds. And this might take place through several playthroughs. In some cases you can even bypass some abilities related checkpoints by exploiting the mechanics -like bouncing of enemies instead of using a double jump.
+To keep it short, if you like Dark Souls and metroidvanias, you can’t go wrong with this, just play it. Of course, to each its own, but I feel that this review is a bit on the shallow side, and you say it yourself : “I have played for a good few hours, but am only a fraction of the way into the game.” Why not take a deeper look at it ?
+
+02/03/2017 at 18:05
+
+LazyAssMF says:
+
+I agree. :)
+This game is basically Metroidvania Souls and i really love it for it. Dark Souls elements make it a really unique, interesting and fun game-same elements that make Dark Souls so fun and “magical”.
+In core it is similar to Ori but also pretty different so it’s not just an Ori with a twist. They’re both really fun-each on their own way.
+
+04/03/2017 at 18:54
+
+GingerSeniorcitizenStepchild says:
+
+I feel the same way as many others here, this was not on my radar and turned out to be one of the best games I’ve played in many years. I feel it is kinda unnecessary to attack the writer, he does point out that things that he does not like others may.However, I’d strongly recommend that you give it a bit more playing time. The real magic isn’t revealed until a bit later and then it keeps on giving.
+When it comes to comparing this to Souls games, the biggest factor here is the way the story and lore are handled, you slowly piece together the mysteries and one can easily miss parts if you don’t search far and wide. Also, the one of the NPC’s in the town does provide you with hints on where to go if you don’t want to explore yourself.
+I’d most likely rate this game as the best Metroidvania I’ve ever played, sure if you’d asked me how I felt a few hours in I’d probably have had a similar opinion to the writer of the article.
+It is very rare that a game captures me with such allure these days and even though the game is plenty long I want wonting.
+
+02/03/2017 at 17:41
+
+welverin says:
+
+As I was reading this I was thinking it would get added to the 7/10 games article, but the end left me thinking it might fall short of that hallowed list.
+
+02/03/2017 at 17:45
+
+Naum says:
+
+Allow me to add some observations to this article which I think may be helpful. I’m around 10 hours in, but I’m a scrub, so probably haven’t seen that much of the game.
+Beyond Ori (which I’ll address shortly), the other obvious comparison is Dark Souls. Not because Hollow Knight is fairly difficult at times, but because it copies some core mechanics outright: You can only save at predefined locations and respawn at the last not-a-bonfire upon death. You lose all your currency when dying, but have a chance to get it back by traveling to where you perished. There are some environmental hazards and traps, but they can be predicted with careful observation. Non-boss enemies respawn when resting, and so you have to dodge or fight them repeatedly when traveling to a boss room for the umpteenth time.
+All of this leads to a style of play that is quite different from Ori. In the latter, I enjoyed the elegant and fluid movement above all else, but the associated risk-taking was only made possible by allowing you to set a save point every five steps. Hollow Knight, on the other hand, rewards patience, persistence and consistency: It’s not enough to be able to best any section of the game once; you have to hone your ability as a player until you can do it repeatedly. Hence, the two games ‘feel’ quite different.
+Atmospherically, Hollow Knight also borrows heavily from the Souls series. There are a number of characters with distinct personalities which you encounter repeatedly during your journey, and their more or less cryptic remarks probably tell some sort of story if you puzzle really hard. While I appreciate the general atmosphere this creates — in conjunction with beautiful imagery invoking a fallen civilization –, I’m not very much into piecing together all these random clues, so won’t comment further on this aspect.
+Since this comment is already on the long side, I’ll not go into some problems I have with the game (pacing, skill acquisition, occasional ‘unfair’ mechanics), but I hope I’ve at least made it clear why one might consider Hollow Knight more than just an inferior version of Ori and the Blind Forest.
+
+02/03/2017 at 20:44
+
+sillythings says:
+
+Wonderfully put!
+I do enjoy the risk of having to defeat your shadow self (and making your way there again) if you want whatever money back that you had at the point of your death. It actually makes death in the game feel significant without it being too punishing! And even though the little ghostie feels really inconsequential at this point in the game, I do like the concept of it growing stronger as it mirrors more advance abilities you pick up and becoming a bigger threat. I’ll see how that actually plays out.
+I feel similarly in regards to the NPCs and lore. I’m not gonna bother making a huge effort to piece it all together, but meeting all these unique little characters with their own personalities makes the game feel very alive and charming. The writing on the inscriptions you come across may not be something I haven’t seen before, but it’s well written and really adds to the atmosphere and mystery of the place. I love it.
+
+02/03/2017 at 17:54
+
+DinoSteak says:
+
+You’re only a few hours in John! Quick, stop while the stoppin’ is good! I hit about the 6 hour mark the other day and the backtracking just gets worse and worse you will come to loath it. You start to vehemently hate every death simply because you know it requires BORING backtracking, not anything like DS. They really screwed up the experience with TERRIBLE design decisions when it comes to respecting the player’s time. I had so much free time jamming R2 dash 10 mins for every 45 mins of actual gameplay I started singing old songs to myself and checking my phone. That’s baaaadd. Actually threw in the towel yesterday, and I’m not going to bother finishing it. I haven’t done that with a game I’ve played for more than a few hours in a LONG time.
+
+02/03/2017 at 18:04
+
+eLBlaise says:
+
+I’d really have liked a more liberal availability of save rooms. The game seems to cluster save rooms together and leave huge areas without saves.
+
+02/03/2017 at 23:21
+
+Viral Frog says:
+
+“You start to vehemently hate every death simply because you know it requires BORING backtracking, not anything like DS.”
+The following response to the above quote is purely subjective, but I found the backtracking in DS to be horrendously boring, repetitive, and altogether one of the largest reasons I disliked DS as a whole. I found absolutely no joy in wasting so much time slogging through the same obstacles over and over again all because of a silly mistake that caused me an untimely death.
+Needless to say, it sounds like Hollow Knight is definitely not a game for me. Very few games with such repetition have ever managed to hold my interest. I can think of only a few.
+
+02/03/2017 at 18:02
+
+eLBlaise says:
+
+Before I go in let me say that thus far I’ve enjoyed Hollow Knight more than Ori and Owlboy by a fair bit, although I do agree with some of your points John. The map system features some definite asinine aspects to be sure. I don’t mind having to map the map, in fact I actually like that aspect. What I don’t like is the inability to do it without buying a map first. Strangely dying seems to fill in the map for you if you die in a section that was previously unmapped allowing you to circumvent this problem. Having to use a special item to know where you are on the map is a ridiculous design choice in my opinion. Many in-game items are handled poorly as well, many of them have really vague descriptions that aren’t all that helpful in enticing a purchase and the game does have a large degree of vagueness overall that can be both alluring and annoying. However, less than wandering the map, my complaint is with the lack of direction towards upgrades like the nail gain or gated off areas such as the train station. The game makes too many assumptions about its own ability to entertain. As entertaining as Hollow Knight is wandering around aimlessly in pursuit of vague hints is only fun for so long.
+
+02/03/2017 at 18:15
+
+tslog says:
+
+I haven’t played hollow knight yet, but the combat looks far superior there then it does in Ori, from what I’ve seen from HK early on.
+ORI has very limited combat abilities and enemies that repeat a lot of 1 note patterns.
+And there seems to be a lot of combat in both, so that part is a very important aspect to both games that doesn’t deserve a casual mitigation that it got.
+
+02/03/2017 at 19:50
+
+Jokerme says:
+
+If it’s good, it’s good. Being “unoriginal” means nothing to me. If it did, I wouldn’t play any JRPGs.
+
+02/03/2017 at 20:33
+
+sillythings says:
+
+5 hours into Hollow Knight and I love it. Favourite game I played this year so far (and I first played Dishonored 2 this year).
+I respect John’s critiques about the map system and the open-endedness (though I personally really appreciate the thought behind the former and so far haven’t felt frustrated or lost with the latter), but I think to decide not to recommend the game simply because there’s other, similar games out there, is nonsense.
+First of all, in its presentation (the gorgeous artwork that straight up looks like a comic book; the beautiful and haunting soundtrack) Hollow Knight already sets itself apart from the other games mentioned in the review. Ori is a painting, while Hollow Knight is a drawing. Maybe you prefer one over the other, but it’s a significant enough difference to create a unique, new world with its own ambience to wander through and discover.
+And the gameplay feels different too.
+Ori took a modern approach to a health system by basically letting you quicksave and reload in-game (bringing back memories of playing Metroid and Castlevania games on VisualBoy Advance for me). Hollow Knight instead lets you regenerate health at your own pace, once you defeat enough enemies. The twist is, special attacks use up the same pool of energy, and I really, really enjoy the strategy and risk/reward system that brings to the table.
+Ori focused on quick navigation in favor of combat – there weren’t even boss battles. They’re a thing John doesn’t like anyway, so yeah, if you feel similarily, Ori might be more up your alley. But maybe you do! Then Hollow Knight is really fantastic. The first boss encounter made me laugh because of the wonderful character design, the second one just was very enjoyable (bosses your own size and with similar abilites to you always are so much fun to me). It can also get pretty tough even with normal, non-boss enemies you encounter. I’ve seen a bunch so far that all required a very different approach. And yeah, Cave Story and Axiom Verge have a combat focus too, but it’s ranged. Guacamelee is also melee, but (I haven’t played it yet) from what I’ve seen seems more of a brawler along the lines of Dust: An Elysian Tail rather than the more strategic, slow approach of Hollow Knight. So I do feel that Hollow Knight carves out its own niche amongst its counterparts.
+And maybe Hollow Knight doesn’t offer a unique twist as immediately recognizable as The Swapper’s mechanic or Antichamber’s general mindfuckery, but I find the system of the charm notches to still be a fun way of switching things up. It keeps your character from feeling too overpowered too soon. I appreciate that.
+Anyway, TL;DR: Hollow Knight does plenty to set itself apart from other Metroidvanias and if you think you might enjoy its stronger focus on combat compared to Ori’s focus on navigation, you should not hesitate to get it. It’s brilliant.
+
+02/03/2017 at 21:40
+
+John Walker says:
+
+“I think to decide not to recommend the game simply because there’s other, similar games out there, is nonsense.”
+It’s a good job I did no such thing then, eh?!
+
+03/03/2017 at 06:41
+
+sillythings says:
+
+You finished your article by recommending to get Ori instead if people are looking for something like this. Doesn’t exactly make it feel like you endorse the game, no matter what positive things you do point out about it beforehand. But fair enough, it’s on me that I read that final statement as having a stronger emphasis than you may have intended.
+Thank you for your reviews. I always enjoy your writing and appreciate your opinions, even if this time I found myself having a vastly different experience of the game than you.
+
+13/03/2017 at 15:18
+
+MrBombsti says:
+
+I can’t agree more, I love Ori and Hollow Knight equal, they both have similarities but are very different, while Ori has more of a Sad to Nice athmosphere, Hollow Knight has more of an Eh to Sad athmosphere, Hollow Knight is way more combat based and is waaay longer than Ori, i played Ori on 100% and got 6 hours out of it, i played Hollow Knight 100% and got 28 hours. Hollow Knight is very dark and sad and i honestly felt kinda depressed after seeing all the people that i’ve known just die one by one while also reanimating the village, I love both games to death and they are both some of my favorites and i can see myself comming back to them in a few years time
+
+02/03/2017 at 20:34
+
+Nevard says:
+
+I can’t disagree with your criticisms, I can see why they are things that some people would find frustrating or wouldn’t enjoy, I can only say that despite everything you listed I have played this game for (according to steam) upwards of 30 hours and would rank it amongst the best titles I have ever played.
+It’s a tightly crafted, incredibly interconnected, atmospheric world with beautiful artwork and soundtrack and I am sorely going to miss it now that I am closing in on 100% completion and the “true” ending. 
+As much as these comparisons are truly cliche, I can only say that it is the best part of dark souls mixed with the best parts of metroid, and while it is not perfect (though the parts about it that “bug” me are largely not the same issues that you had) it absolutely hits the all of the right notes for me.
+
+02/03/2017 at 20:44
+
+ProfessorElsaesser says:
+
+I made an account just to make this comment (P.S) Your login system is severely bugged. Anyway..
+I personally think it’s one of the ‘freshest’ Metroidvania titles I’ve played since Axiom Verge. I hope the author realizes that Metroidvania titles have to adhere to certain formulaic elements, so of course it will feel familiar.. Honestly this game make Ori and the Blind Forest look like a joke if you really know how to play a platformer. Maybe you should get someone who actually likes to play Metroidvania and platformer games to review this title. I think it’s a masterpiece right next to Symphony of the Night and Axiom Verge.
+
+02/03/2017 at 21:06
+
+ButteringSundays says:
+
+The login system has always been unusually buggy for a basic WordPress website – you will grow to accept it. At least now the human checker actually does something, rather than being a completely ignored input!
+
+02/03/2017 at 21:36
+
+John Walker says:
+
+No game “has” to adhere to anything! Goodness me, what an odd assertion.
+Also, do you think the bit where I wrote about how much I love playing MV games, and wrote a big long list of ones I’ve played and loved, might perhaps suggest that I *am* someone who enjoys this sort of game? Do think a bit more.
+
+02/03/2017 at 21:58
+
+ProfessorElsaesser says:
+
+I think you and I both know that these types of games do you have to adhere to certain formulaic elements. Map tracking, Power ups, boss battles, Hidden walls in secret areaa. Artistically know there is no limitations to what a game has to be and I just want to make sure you know that’s what I meant . If you’ve played a lot of MVs then I guess we just have different tastes because in my mind this is one of the best to ever come out. I would like to see this game sell well and I just thought that your headline and review didn’t give the game the credibility it truly deserves. Thanks for reaching out and chatting with me.
+
+02/03/2017 at 22:16
+
+ProfessorElsaesser says:
+
+Sorry for the typos. I was doing speech to text on my phone.
+
+03/03/2017 at 01:07
+
+Dare_Wreck says:
+
+I think you and I both know that these types of games do you have to adhere to certain formulaic elements. Map tracking, Power ups, boss battles, Hidden walls in secret areaa. 
+No way is that true. What gave you the idea that these have to be in a Metroidvania type of game? You didn’t address John’s rebuttal to your point at all.
+Now, yes, these types of games do tend to have those elements, which makes them formulaic, but there’s nothing about these games that absolutely requires them.
+
+03/03/2017 at 03:30
+
+ProfessorElsaesser says:
+
+Metroidvanias “tend to” have those elements, sure. I’m aware they don’t have to, but it really works in every game that chooses to. All of the best games of the genre have those things in common. Does that make them all the same? Too familiar? I don’t think so. I think they can all speak for themselves and be unique within themselves. At the end of the day I don’t agree with the author. I personally thought Ori was a complete bore after 5 hours and stopped. This author absolutely loved it. But would I play Ori and the blind forest and say to myself, “This seems familiar… too familiar” No. it’s Kind of like all those other Metroidvania titles I chose to play because I knew what I was getting into. I hold them to their own accord. Ori isn’t a bad game because this is a good one and vice versa.
+
+03/03/2017 at 05:19
+
+Dare_Wreck says:
+
+Metroidvanias “tend to” have those elements, sure. I’m aware they don’t have to…
+Are you, though? That’s not what you said above. I’m glad you’re really enjoying the game – we’re not trying to take that away from you. John and I are just both unsure why you claimed that this genre has to adhere to certain conventions. Granted, it was a small part of your original comment, but it stood out to both of us as odd.
+
+02/03/2017 at 21:21
+
+Kyir says:
+
+I don’t usually find myself strongly disagreeing with reviews on RPS, but I’ll have to make an exception for this one. That’s fine, I’m not going to agree with everything written, but this entire review strikes me as Mr. Walker barely scratching the surface and then complaining that the game isn’t deep enough (or maybe more accurately, that the game is too deep in unnecessary ways.) I apologize if I’m misinterpreting and that comes off as a personal attack, but I can’t possibly think of a justification for recommending Ori over this game. That’s not to say that Ori is bad, but I found Hollow Knight to be a singularly positive experience that I plan on coming back to repeatedly despite having 100%ed it already. While many of the mechanics are not particularly original, it to exceed my expectations on every other axis of measurement, and my expectations were pretty high going in. The art and music are spectacular, the movement and controls themselves are tight and responsive, the characters don’t overstay their welcome, there’s a wide array of challenges available, etc. etc. You do recognize these to some degree near the end of your post, but only as part of a throwaway comparison to Ori. You must have a particular fondness for that game, because I would rather play Hollow Knight three or four more times than go back to Ori once.
+I recognize a lot of that seems like fanboyism, but I truly think this game is spectacular, and it hurts a little to see a review that seems to mostly be an advertisement for another game.
+
+02/03/2017 at 21:46
+
+John Walker says:
+
+I’m really pleased people are loving this game. As I said about 347 times in this article, I was sure that what annoyed me about it would be reasons others would love it all the more.
+I’m not convinced by the Dark Souls comparisons – I think this is more a result of Dark Souls having used so many MV standards as part of its own design, rather than the other way around. Most of those features people have listed as DS elements are pretty standard parts of many MV games going back long before. (I mean, having to go back to the spot where you died to collect your goodies is as old as gaming itself – that you have to nonchalantly swipe at your ghostie twice doesn’t really distinguish it from picking up a brown sack.)
+I began and finished stressing that this is a solid, well made game, that’s a fine example of the standard of the genre. For those cross that I, um, didn’t write that, it’s – er – yeah.
+As for the bits in between, I was writing my particular thoughts of the experience, which was one that in its first few hours offered me nothing (beyond the beautiful creature design) to hook me in. (I feel like the fast travel creature deserves a whole article of his own for being so bloody lovely.) That’s why I wrote this more as a meandering opinion piece rather than a “Wot I Think”.
+
+02/03/2017 at 22:03
+
+Kyir says:
+
+I recognize that you weren’t calling it a bad game by any means, and I realize (of course) that it’s your opinion first and foremost and not an attempt at objective rating or something like that. I’m sorry if my reply ended up being too aggressive. I would just be sad if someone had already played Ori, read this, and decided they didn’t need to play it based on the comparison, since I found both games to be fairly distinct despite some similarities in mechanics (and it’s somewhat obvious which I prefer, though that’s another thing entirely.)
+
+02/03/2017 at 23:17
+
+macaronies says:
+
+You do in fact say it’s competent and well made a lot, but it’s always on the way to “…but here’s something bad about it.” It’s a bit disingenuous to bring up how many times you said it was well made. Sure, it’s there, but the overall thrust of the piece is that Hollow Knight isn’t particularly interesting and the flaws were a deal breaker for you. That’s fine, it’s an incorrect opinion (kidding), but that’s fine.
+Personally, I love this game. Coincidentally, Ori fell pretty flat for me. It had a heavy 90’s Disney movie feeling, and you even play as Lilo’s friend Stitch’s skinny white cousin. The world wasn’t that interesting, the plot was basically: jerk bird ruined the forest and killed my mom/buddy, but it turns out the bird isn’t really so bad, and then the glowing thing went back to the something place and everyone is alive again. Other than that, I remember a lot of hopping and an underwhelming and slightly annoying attack mechanic.
+My favorite thing about Hollow Knight (besides the bugs, I happen to be an entomologist) are the Souls elements, which I’m a little amazed you dismissed as common metroidvania elements. The world, the implied lore, and the strange and sparse NPC dialogue are pretty on-the-nose inspired by DS1. The heal system is awfully Estus-flasky. The refill mechanic is different, but the way you use it, especially in boss fights, feels pretty familiar to hiding behind a pillar to gulp some estus and getting punished for it half the time. The bosses themselves are more frenetic than Dark Souls bosses, but pattern recognition and patience and a long walk from the save spot are all there.
+I also really like the charm system. At first it was frustrating because I couldn’t use everything at once, but once I got more slots (I think you can get 10 notches total), I fell into a set of charms for exploring and a set of charms for bosses, which is flexible for different bosses. It makes finding a boss by accident and beating it without backtracking and speccing for a boss fight really satisfying. The compass charm is more interesting the further in you get. You usually leave it off when you spec for a boss fight, but boss fights usually open access to new areas. After beating a boss you have to decide whether it’s worth backtracking to respec for exploration, or going ahead into a new area and risk getting lost. I haven’t played a metroidvania that I can remember where the risk of getting lost was as much of a design element.
+
+02/03/2017 at 23:47
+
+Nevard says:
+
+The charm system seems to possibly have roots in Paper Mario’s badge system, although I can forgive a PC gaming website for not making the connection :P
+
+02/03/2017 at 23:45
+
+Nevard says:
+
+I think the comparisons to Dark Souls are not simply due to the mechanics, but also the setting. They both have a very similar atmosphere, a similar sort of gloominess, and treat NPCs in basically the same way (many of which even have pretty familiar story arcs).
+A lot of the time people do just compare games to Dark Souls because it is popular but this is one of the games where while playing it, I frequently thought to myself “alright the person who made this game definitely played Dark Souls”.
+
+03/03/2017 at 07:02
+
+SuddenSight says:
+
+Big fan of yours, John! Please keep writing your opinion truthfully! I don’t always agree with you, but videogames aren’t objective anyway.
+
+12/03/2017 at 10:00
+
+blightor says:
+
+What is really annoying, is that you cannot stop talking about another game – suggesting things like.
+“The two games have a great deal in common, but Ori is just better in every element. ”
+“So when Hollow Knight steps onto the battlefield with no unique weapon of its own, Ori just squishes it.”
+“If you’re looking for something like this, then get yourself Ori & The Blind Forest, which is truly tremendous.”
+This is really lazy reviewing. And going by the love for the title in the comments, not anywhere near the mark. 
+This article comes under Hollow Knight review, regardless about how you frame this to us, this is RPS review, and its poor. IMH of course.
+
+03/03/2017 at 01:15
+
+oWn4g3 says:
+
+Hollow Knight is really one of those games that I have been wanting to tell people about because I think it is in fact very special. I haven’t felt this for quite a while. I’m a big metroidvania fan and at the start I was making a lot of comparisons to Ori in my head. But over the many hours I have sunk into this game it has become much more (Ori is still a great accomplishment). 
+I feel that for me it is because some of the more heavily critized elements are exactly the ones that make the game special for me. For example entering an unknown area without mapping capabilites that you might not yet feel “ready” for. You take the risk though and until the point you find your map making friend or a bench it is some of the most intense spelunking you will do (especially if you run around with way too much Geo for your own good). It really gave me that Dark Souls feeling of balancing the risk and reward between further exploration and going back to safety to spend your currency. Finding that map maker hiding in a little cave or finally reaching that quick travel station with a low amount of health is a very rewarding feeling and gave me a true sense of risky exploration.
+Other random things I love about the game that come to mind: The suspense when the music volume goes low when you get close to a (mini)boss room.
+The various NPCs that are remnants of a world long gone. They might not all provide helpful hints but instead just tell you a story of how it has been when in the past or what they think about you and your struggle.
+The wonderful soundtrack. Resting Grounds gives me goose bumps everytime, it is the perfect fit for a very moody and melancholic area (link to christopherlarkin.bandcamp.com).
+The incredibly cute grubs waiting for you to rescue them. Please do.
+My few gripes with the game are technical ones. I have had more than one death due to frame skipping lag during the very precise and demanding fights. Additionaly one time my remnants spawned way behind the spot I died in a challenging jumping passage that I inevitably died again and lost a lot of Geo in.
+I’m looking forward to spending more time with the game and hope that everyone interested in atmospheric games gives this one a chance.
+
+03/03/2017 at 05:35
+
+Shiri says:
+
+I rarely post here but I felt I had to on this one. Hollow Knight is the best Metroidvania I’ve ever played, and I have played no shortage of them. Ori is pretty good too, but it’s not quite on the same level. Don’t be dissuaded by the article.
+One thing that strikes me about the article (and I don’t mean this as a criticism) is that John cites many complaints with anti-convenience features like the map or the respawning. This mirrors arguments I’ve had with people over Dark Souls in an interesting way. One person I know hates that series for its refusal to explain itself, basically, but while I can see where he’s coming from – and I see where John is coming from too – that issue just doesn’t matter that much to me compared to all the things it does right, better than any other game in the genre*. Fortunately it seems the commentariat is largely as surprised as I am by the overall impression given here.
+*I may be downgrading Axiom Verge a little unfairly for giving me a headache with its music though.
+
+03/03/2017 at 06:26
+
+Amplituhedron says:
+
+Reads like John is upset Ori isn’t the best MV anymore.
+
+03/03/2017 at 06:57
+
+SuddenSight says:
+
+I also disagree with this review, but I think it is just different taste.
+I haven’t bought any maps in the game at all! I really enjoy the exploration aspect, and the game has helpful signposts for finding the big areas. Finding those secret side areas is a little tricky, but as you mention in the article there is a good deal of backtracking so I find it is nice to have something to do while wandering back and forth.
+As for the art, I actually skipped Ori in part because of the art (and because the combat looked uninteresting). I much prefer this game’s muted palette (which is nevertheless well differentiated). It allows for some colors to really pop (like the green in Green Path or the pink of that plot relevant pink person). Plus the bold-lined art style is used well with a lot of area-specific props (like machinery and windows for the city, and chariots and shells elsewhere).
+I only watched videos, but it seemed like Ori leaned too much on glow-effects to make the important things pop, which made it look a little silly to me. I doin’t want to make too big a point of this, though, as Ori is quite lovely looking too.
+Plus the combat and platforming feel really good. The downslash especially is a nice touch – a little like Shovel Knight, but you have to time it.
+
+03/03/2017 at 07:18
+
+oluap says:
+
+I played ori for 2-3 hours and didn’t like it much, especially because the combat was essentially button mashing with auto aim.
+I like hollow knight much better, even though the “story” is somewhat absent.
+
+03/03/2017 at 08:25
+
+Fus Ro Tom says:
+
+I understand this is ultimately just one man’s opinion. However,to write such a disparaging article about a small indie studio’s first game after having played it only A FEW HOURS just seems irresponsible and like a real **** move to me.
+
+03/03/2017 at 11:31
+
+Wowbagger says:
+
+See’s that Hollow Knight has a review finally on RPS.
+See’s that it was John.
+Sighs.
+
+03/03/2017 at 11:40
+
+Grobzoula says:
+
+Good lord, I don’t think I could disagree more here.
+Hollow Knight is vastly better to Ori in almost every aspect. It has great boss (compared to none in Ori), better gameplay (compared to the press X to win in Ori), and better world and level design (might be the best in the genre actually).
+And then there’s things like mentionning Owlboy or Cave Story when they’re not even metroidvanias but I’ll end up sounding like a grumpy old nerd.
+
+03/03/2017 at 22:35
+
+Kodaemon says:
+
+This is why browser scripts actually exist to hide John Walker entries on RPS.
+Hollow Knight is probably the best Souls game since Dark Souls 1. And it succeeds precisely because taking Souls and metroidvania influence while also being its own thing.
+
+04/03/2017 at 00:23
+
+jimboton says:
+
+Ridiculous treatment of the best metroidvania since, well, Super Metroid, in this here ‘review’. But hey, Subjectivity, right?
+Oh wait, same guy once said Spelunky could be improved by mouse aiming… that kind of gives some perspective ;)
+
+05/03/2017 at 07:49
+
+grinnings says:
+
+This game barely gets any coverage anywhere and the one site that posts a ‘review’ hasn’t even played it past six hours and yet feels fit to make a direct comparison to Ori, a game that’s barely related to this game in terms of the feelings and experiences it’s trying to elicit. Hey, this might not be the game for you, but perhaps finish it before whipping out the comparisons. It has so much more to offer than the first six hours. GOTY for me, playtime is split pretty equally between this and Zelda.
+
+06/03/2017 at 18:23
+
+ShawnMcCool says:
+
+Wow, this review missed the mark totally. I know that you have a job to do… But.. ouch.
+
+07/03/2017 at 16:55
+
+TΛPETRVE says:
+
+The art style alone is enough to set this game apart. Even if was just another generic Metroidvania platformer, it would still be one that looks like The Binding of Isaac meets Closure, so even at its worst it would nonetheless qualify for your slightly pretentious list of 7/10 games :-3 .
+
+07/03/2017 at 18:41
+
+Amplituhedron says:
+
+Just the words of a sad Ori fanboy, cry it out John. 
+If you’re looking Ori fanboy tears, then get yourself John Walker, who is truly tremendous.
+
+07/03/2017 at 18:58
+
+Amplituhedron says:
+
+also i think it is so good that it broke his brain a little, reads that way at least to me. Even though I disagree with John I think this first impression is still tremendously informative. I’ll look for similar negative reviews in the future in order to find games so good they break his brain :).
+
+12/03/2017 at 01:50
+
+rgk says:
+
+I’m with John here, the level design seems set on wasting my time with relentless backtracking. I would very much enjoy a condensed version of this with more frequent fast-travel and smaller areas that are more interesting to navigate. As it is, the game is dull, flat and… hollow.
+The little good moments do not make up for all the wasted time getting there and back-tracking, exploring, back-tracking, exploring, back-tracking (and all of this without a proper real-time map, sigh).
+
+15/03/2017 at 16:40
+
+The Dignitary says:
+
+I’m sorry Mr. Walker, but I disagree with you on this one. First things first, please stop comparing this game to another game. Metroidvania’s as a genre are games that to me are best judged individually. Not by being compared to similar games. Especially egregious is the fact that you list all positives with the notion “but Ori does it better” or “when choosing between Ori & Hollow Knight, Ori is better”. You don’t review games like that. 
+I don’t read a review to see which of these two pies is the best, I read the review to see how well the pie tasted. 
+Secondly, the fact that you just dismiss the matter of a “rich world to explore” particularly stings. A key bit to a metroidvania (which was likely imported to the genre by Dark Souls) is figuring out the lore and what makes the world what it is today. You dismiss this as a matter of “every metroidvania does that”. And while that is true, it’s the execution in which I personally see the difference between Metroidvania’s. See for example Axiom Verge (a game worth comparing this one to). It has a lore, but it’s told through notes and various hidden clues in the game. Unfortunately AV suffers from a lack of decisive lore for a good interpretation, but it executes it in it’s own way. In a similar vein does Hollow Knight reveal it’s lore to the player, by NPC interactions and tablets scattered throughout the world. It’s a good “not in your face way” of explaining the lore of the world to the player. 
+Thirdly, the compass thing is kinda stupid I can agree. But despite your constant railing on the map “having to be bought first”, it’s not nearly that horrible. It’s just another matter in which the game handles things. I don’t criticize the original two Metroids for lacking a map, so why should I be criticizing Hollow Knight for making me work for the feature? (As in: finding and then buying the map.)
+Finally, your comment on choice of colors strikes me as odd. I’ve Googled some screenshots of Ori, and as far as I can see, it looks like the artist wanted to show off with how vibrant they could make the colors and wound up overdoing it. Ori’s coloring looks like it would give me a headache if I were to actually play it. In contrast, Hollow Knights slightly duller, more grayish, colors give it the impression that you are exploring a world left behind by those that dwelled in it.
+And just to note, RPS is one of the few media outlets I genuinley trust to deliver honest and good reviews, but with this review all I think is “the reviewer wanted to discuss his fanboy-boner for Ori instead of reviewing Hollow Knight”.
+Finally, you might have noticed I drew some comparisons myself with other Metroidvanias. I did so but in such a way thay I do not come across as needlessly comparing the game I’m comparing to favorably to satisfy my fanboyism for the game I’m comparing it to. I compare them in a way to show that “this game did it alright, but Hollow Knight does it so and so, which I personally didn’t enjoy/did enjoy”. And I didn’t stick the comparisons on one game. Think about that for a second.
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Hollow Knight, impressions, metroidvania, review, Team Cherry.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

@@ -1,0 +1,52 @@
+./html_data/pcgamer-hitman-intro-pack-review.html
+
+
+ 
+ 
+ 
+
+
+By
+Phil Savage
+ 
+
+Despite being a smart progression of Blood Money's ideas, Hitman feels unrefined and unfinished in lots of small but important ways.
+Viktor Novikov and Dalia Margolis are having a bad day. Already they've been shot, stabbed, poisoned, drowned and bludgeoned. Each time, their killer gains more information – more knowledge of his environment, and the tools he can turn against his targets. It's a bit like Groundhog Day, if Bill Murray were a cold, unfeeling killer with no Andie MacDowell to warm his heart. This time, I think, I'll try explosions.
+What is it: Hitman's first episode, available as a standalone purchase.  Expect to pay: £11 / $15  Developer: IO Interactive  Publisher: Square Enix  Reviewed on: Windows 10, 8GB RAM, i5-3570k, GeForce GTX 970  Multiplayer: None  Link: www.hitman.com
+The new Hitman is frustrating for me, because in many ways it's exactly what I—someone who loved Blood Money and disliked Absolution—wanted the series to do next. This first episode, available as a standalone Intro Pack, contains a couple of smaller tutorial levels and one full-size mission. That might not seem like much, but Hitman is back in Blood Money territory. The full level—Showstopper, set in a Parisian palace—is a huge, intricate sandbox filled with possibilities.
+As Agent 47, you're free to take down your targets in any way you please. As in Blood Money, part of the joy is that you're given the space to stop and observe. 47 has an invite to the fashion show his targets are running, and so has some limited freedom to wander. From there, access is layered. Disguise as palace staff and you can roam the ground floor and basement, but access to the upper levels remains restricted. Other disguises have other restrictions – NPCs reacting to each costume based on perceived status, and what you, as its wearer, are trying to do.
+A disguise isn't a free pass, though. Dress as a bodyguard, and a few of the other bodyguards within the level will recognise that you aren't one of them. This is clearly highlighted through a UI indicator. Disguises, and the suspicion 47 raises while wearing them, is something the Hitman series sometimes struggles with. In this Hitman, it's more transparent and feels more consistent than ever before. The new system is a success, and, like so much of the game's UI, the indicators can be disabled in the options to create a purer, more challenging experience.
+
+The social stealth does feel more forgiving than past Hitman games. I don't mind that, even when disguised, I can now sprint without raising suspicion—it's an understandable concession to convenience that does little to chip away at immersion. But NPCs won't raise an eyebrow even if you're sneaking around, or scaling and clambering across buildings, as long as you're in the right. I don't care what clothes you're wearing. If I saw you shimmying across the exterior of a building, I'd probably tell someone.
+Getting close to a target is just half the challenge. The act of killing is just as open to experimentation. Hitman supports a variety of playstyles, from clean, professional hit to destructive murder spree. The end-of-mission rating screen clearly prefers the former, but the episodic format encourages replayability. I've spent nearly 15 hours in Hitman, much of it in Paris, and I'm still finding new ways to dispatch my targets.
+I've spent 15 hours in Hitman, and I'm still finding new ways to dispatch my targets.
+If you need a little direction, a new Opportunities system guides you towards some unique solutions. It works like an expanded version of Blood Money's setpiece accidents, and points you at some of Paris's most satisfying kills. Fully enabled, Opportunities are a bit too hand-holdy, telling you how and where to complete each action—removing the puzzle element entirely. But you can select a cut down version that removes objective markers, or disable the UI entirely—instead letting you discover Opportunities naturally through overheard snippets of conversation or notes left around the level.
+Ultimately the success of Hitman is in its broad appeal. It takes Absolution's accessibility—a slick third-person control scheme, and 'Instinct' mode, which highlights targets, weapons and other key information—and applies it to Blood Money's broad, sandbox design. There are snippets of story, but they're seeded into incidental conversations and cutscenes that take place after each mission. This does not feel like a Hitman game that would ever take away control mid-mission.
+
+It's easy to be sniffy about accessibility, but if done well—as it is here—it fits within the series' philosophy. It's rare that any level in any Hitman game is difficult to complete in the most basic sense of the word. The difficulty is instead defined by each player, and the level of finesse and skill they want to achieve. I'd personally recommend turning off Opportunities, at least for your first few attempts. Nevertheless, it's good that the option exists for those who want it. Hitman's sandbox isn't just about how you approach each level, but how you approach the systems. That feels right.
+My GTX 970 initially struggled with Hitman, but, since Nvidia's driver update, it's held reasonably steady with all settings on 'High'. I've noticed some dips in performance in areas with lots of NPCs, but nothing too serious. As with all Nixxes-supported Square Enix games, Hitman is extremely tweakable, offering full customisation of graphics and control settings.Things run slightly smoother under DirectX 12, although the fact that Fraps doesn't support DX12 games means I've largely avoided using it. I've also experienced a few crashes to desktop, in both DX11 and DX12 modes.
+Why, then, does Hitman frustrate me so much? It's because in its systems and design, it's so close to being what I wanted after Blood Money and failed to get from Absolution. But the problems exist around that, on a technical and infrastructural level. For one thing, it's a little buggy. I've not experienced anything too major, but getting a big "Body Found" message when I'm alone in a bathroom with the level's only dead guy chips away at my confidence in the simulation. As does the ease with which you can upset NPC scripting—to the point one crucial conversation ended because 47 moved slightly too far from a character's peripheral vision.I've also experienced a few crashes-to-desktop, on both DX11 and DX12 versions. That's not a huge problem when you're playing the game proper thanks to regular autosaves, but neither of the extra modes—Contracts nor Escalation—allow you to save.
+By far Hitman's biggest problem is that, if you drop an internet connection while playing, you're kicked out of the mission and back to the main menu. Hitman doesn't have always-on DRM—an offline mode is available—but challenges, and the post-mission unlocks that you receive for completing them, are all tied to online mode. Worse, the game uses different saves for offline and online, so, if you can't reconnect, you won't be able to reload your existing run.
+I'd be less bothered if the existing online functionality justified such extreme measures. The user-created Contracts mode is back, but the implementation still feels limited. You can pick targets, and an optional disguise or weapon for 47 to use, but more complex deaths are ignored. I spent time setting up a series of elaborate accident kills, only for the game to interpret that as a freeform, any weapon contract. Not that it would have mattered much: you can't search contracts by name, or even filter for those created by the people on your friends list. If you do publish a contract, it gets dumped into the 'Latest Contracts' list, where, unless it's featured by IO, it quickly disappears.
+
+This lack of online features also applies to leaderboards. This is a major release in the year 2016, and I can't press a button to see a list of my friends' scores. It's one thing that Hitman is episodic—and I think it's a series that suits a monthly release schedule, especially given the variety within this first level—but the lack of polish and basic options makes this initial release feel like a beta.
+The current highpoint of Hitman's "live component" is Escalation. It's a new type of mission—a repeating contract, created by IO, that gets more complex each time you replay. Currently, there's only one escalation series, set in one of the training levels, but more are planned between now and the release of the next episode. I'm hoping this first example is representative of what's to come, because it's brilliant. Each new complication is a smart wrinkle in your established plan, challenging you to tweak and refine your methodology in new and interesting ways.
+It's a great game, but a poor user experience.
+At some point in the future, elusive targets will also appear. These are time-limited targets that the player has a single chance to take down. If they escape, they're gone for good. It sounds like an excellent use of Hitman's as-a-service release plan, but also a huge risk given the aforementioned problems. What happens if a bug renders it unfinishable, or you drop disconnection halfway through? Hitman doesn't currently feel like it's in a stable enough place to support such an idea.
+All of which brings me back to why this release is so frustrating. Hitman is an excellent progression of the series, and full of smart ideas. It's a great sandbox, and I've already wrung plenty out of it. But it's all built within a framework that feels unrefined and full of compromises. It's a great game, but a poor user experience. Hopefully, at the end of Hitman's release schedule, when we put a final score on the finished game, IO will have listened to feedback, and bolstered and tweaked where needed. Right now, this Intro Pack shows a lot of promise, but falls short of an unconditional recommendation.
+
+
+
+
+
+
+Despite being a smart progression of Blood Money's ideas, Hitman feels unrefined and unfinished in lots of small but important ways.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

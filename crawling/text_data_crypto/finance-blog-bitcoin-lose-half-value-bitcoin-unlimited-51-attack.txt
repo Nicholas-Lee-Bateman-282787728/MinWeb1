@@ -1,0 +1,24 @@
+./html_data_bitcoins/finance-blog-bitcoin-lose-half-value-bitcoin-unlimited-51-attack.txt
+
+
+
+CryptoCoinsNews
+An investor blog is suggesting that Bitcoin Unlimited (BU) is planning a 51 percent attack, which could, effectively, cut the price of bitcoin by 50 percent.
+On Wednesday, Personal Finance Hub said:
+Speculation that the Bitcoin Unlimited (BU) Project is planning something big; possibly a 51 percent attack, [maybe] becoming a reality.
+It further added:
+Investors should pay close attention to this because it might result in a hard fork, or a coin split that has the potential to cut the price of bitcoin by 50%. Such an event would be huge, a hard fork would effectively cut the price of bitcoin in half.
+At the time of publishing, the price of one bitcoin is valued at $1,022, according to CoinMarketCap. Its price could drop down as far as $511, prices which haven’t been seen since late May last year when the price of bitcoin was valued around $529.
+BU, which is one fork option of the Bitcoin Core reference client, currently has 37.6 percent support from the community. SegWit, which is touted as a second potential fork option, is currently showing 28.8 percent, according to Coin.Dance.
+However, while BU has, so far, received the most support, reports state that it is controversial, splitting the community in two for and against it. It’s claimed that those in favor of BU would see an increase in transaction capacity, with delays and fees addressed. Yet, those behind SegWit state that it would boost capacity through layer two protocols.
+Nevertheless, even though BU has the most support, its progress has been thwarted due to previous attacks on it.
+Earlier this month, it was reported that BU had suffered a blow after attackers unleashed a new bug that crashed the system, dropping the number of nodes hosting BU down to 410 from a high of 781. At present, the number of nodes on BU are at 797.
+One BU developer spoke to CCN to explain the cause of the crash.
+After the discovery, support for the software dropped, while Charlie Lee, creator of Litecoin, tweeted that ‘users cannot trust Bitcoin’s $20 billion network in the hands of BU developers.’
+In the past Bitcoin Core developer Gavin Andresen tweeted ‘run Bitcoin Unlimited. It is a viable, practical solution to destructive transaction congestion.’
+However, the Personal Finance Hub website states that it appears that Andresen is supporting a planned attacked.
+Even though Andresen apparently is not involved in Bitcoin anymore he seems to be promoting a plan to crash some of the bigger wallets and exchanges.
+With the debate circulating around a potential hard fork, more platform operators are turning their back on BU, claiming outright that they will not support it. While eighteen exchanges released a statement saying they’re ready for a bitcoin split.
+It remains to be seen whether BU will actually initiate a 51 percent attack, and, more importantly, if it will be accepted.
+Just a few of those rejecting BU include Bitonic, the largest bitcoin broker in the Netherlands and BitGo, a multi-signature bitcoin wallet, which has advised its customers that it won’t support BU.
+Featured image from Shutterstock.

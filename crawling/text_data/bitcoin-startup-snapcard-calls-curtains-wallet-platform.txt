@@ -1,0 +1,15 @@
+
+
+
+CryptoCoinsNews
+Snapcard, a bitcoin startup that launched in 2013 will shut down its wallet service at the beginning of May this year.
+San Francisco-based bitcoin startup Snapcard began as service allowing bitcoiners to make purchases on websites like eBay and Amazon with the cryptocurrency in 2013. The startup soon diversified its services, launching a bitcoin payment processor and raising $1.5 million in a seed round led by prolific industry investor Tim Draper.
+However, an announcement from the company this week has confirmed that it will cease operations of its wallet services platform. Users will no longer be able to access their accounts come May 1st, 2017. The company is urging users to migrate funds to other platforms.
+The startup will shift its focus squarely on Masspay, a service that enables businesses and large organizations to send payments over the bitcoin blockchain, without assuming price volatility.
+“Recently, our Masspay business has taken off and a significant amount of our team’s time has been focused on building features for that product,” Snapcard said in its FAQ.
+An excerpt from its announcement offers an explanation behind the call to end its wallet offering. It reads:
+We’ve come to a point where we need to make some decisions on our current product offering and what we’re able to manage. Our Masspay product has been aligned with the value that we bring to the community and that is something in which we will be investing heavily.
+Buying and selling of bitcoin along with transfers to and from linked bank accounts will be disabled on March 20. Snapcard will also stop accepting wire transfers the same day.
+The soon-to-be defunct web w0allet platform has forged partnerships to enable bitcoin reward programs from large companies in the past, using Masspay. A notable agreement from late 20115 saw Snapcard partnering UniPAY, a major payment service provider in Georgia to enable bitcoin as a payment option.
+“We genuinely mean it when we say, it’s been a hilarious rollercoaster being part of this space as we’ve seen the price reach record highs,” the Snapcard team stated, ending with “We’ll see you all at the moon!”.
+Image from Shutterstock.

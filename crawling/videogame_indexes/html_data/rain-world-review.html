@@ -1,0 +1,1666 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if gt IE 9]>  <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta property="fb:pages" content="176784995741043"/>
+<meta name="Googlebot-News" content="noindex, nofollow"><title>Rain World review | Rock, Paper, Shotgun</title>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/style.css?cb=acf3c73" type="text/css" media="screen"/>
+<link rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/icon-fonts/css/fontello.css?cb=c8c7fe11" type="text/css" media="screen"/>
+<link rel="pingback" href="https://www.rockpapershotgun.com/xmlrpc.php"/>
+<link rel="shortcut icon" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/favicon-new.ico"/>
+<link rel="next" href=""/>
+ 
+ 
+ 
+<meta name="description" itemprop="description" content="The slugcat of Rain World is adorable and his home is bewitching, but there's no escaping this platformer's stubborn and over-punishing nature"/>
+<meta name="keywords" itemprop="keywords" content="adult swim games,feature,rain world,review,videocult,wot i think"/>
+<link rel="canonical" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Feed" href="https://www.rockpapershotgun.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Comments Feed" href="https://www.rockpapershotgun.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity &raquo; Wot I Think: Rain World Comments Feed" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/feed/"/>
+<meta property="og:title" content="Wot I Think: Rain World"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/"/>
+<meta property="og:site_name" content="Rock Paper Shotgun"/>
+<meta property="og:image" content="https://www.rockpapershotgun.com/images/17/mar/rainworld_wit_1.jpg"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.rockpapershotgun.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='eu-cookie-directive-css' href='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/style.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='bbspoiler-css' href='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.css?ver=4.5.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='https://www.rockpapershotgun.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='rps_features-css' href='https://www.rockpapershotgun.com/wp-content/plugins/rps-features/rps-features.css?ver=1.10' type='text/css' media='all'/>
+<link rel='stylesheet' id='lightboxStyle-css' href='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/css/textframe/colorbox.css?ver=2.7' type='text/css' media='screen'/>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/wp-gfycat/js/gfycat_test_.js?ver=4.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var title = {"unfolded":"Expand","folded":"Collapse"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/bbspoiler/inc/bbspoiler.js?ver=4.5.3'></script>
+<link rel='https://api.w.org/' href='https://www.rockpapershotgun.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.rockpapershotgun.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.rockpapershotgun.com/wp-includes/wlwmanifest.xml"/>
+<link rel='prev' title='Absolver&#8217;s multiplayer melee combat looks ace' href='https://www.rockpapershotgun.com/2017/03/27/absolver-pvp-gameplay-video/'/>
+<link rel='next' title='Destiny 2 announced, but why do we care?' href='https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/'/>
+<meta name="generator" content="WordPress 4.5.3"/>
+<link rel='shortlink' href='https://wp.me/pkbbD-1PR9'/>
+<link rel="alternate" type="application/json+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.rockpapershotgun.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F&#038;format=xml"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Rock, Paper, Shotgun - PC Game Reviews, Previews, Subjectivity - Full Post Feed" href="https://www.rockpapershotgun.com/feed/?dualfeed=2"/>
+ 
+<meta property="fb:pages" content="176784995741043"/>
+<link type="text/css" rel="stylesheet" href="https://www.rockpapershotgun.com/wp-content/plugins/simple-pull-quote/css/simple-pull-quote.css"/>
+<style>.theiaPostSlider_nav.fontTheme ._title,.theiaPostSlider_nav.fontTheme ._text{line-height:16px;}.theiaPostSlider_nav.fontTheme ._button{color:#c1272c;}.theiaPostSlider_nav.fontTheme ._button ._2 span{font-size:16px;line-height:16px;}.theiaPostSlider_nav.fontTheme ._button:hover,.theiaPostSlider_nav.fontTheme ._button:focus{color:#db5357;}.theiaPostSlider_nav.fontTheme ._disabled{color:#727272!important;}</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel="amphtml" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/amp/"/> <script>
+                        function mormontLoaded () {
+                                mormont('set', 'section', 'article');
+                                mormont('set', 'language', 'en');
+                                mormont('set', 'platforms', ["pc"]);
+                                mormont('set', 'published', "2017-03-27T19:00:51+00:00");
+                                mormont('set', 'article_type', "news");
+                                                                mormont('set', 'tags', ['tag:adult-swim-games','tag:feature','tag:rain-world','tag:review','tag:videocult','tag:wot-i-think']); 
+                                mormont('send', 'pageview');
+                            };
+                </script>
+<script src="//cdn.gamer-network.net/2015/scripts/mormont/v2/mormont.js" async onload="mormontLoaded()"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/plugins.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/application.js" type="text/javascript" charset="utf-8"></script>
+<script src="//cdn.gamer-network.net/plugins/dfp/async.dfp.1.1.16.js"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/ad-related.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/js/InlineAds.js" type="text/javascript" charset="utf-8"></script>
+<script data-cfasync="true" type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('.entry img').each(function(){jQuery(this).attr('title',(jQuery(this).attr('alt')))});
+});
+</script>
+ 
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-2667859-1', 'auto');
+
+    ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
+
+    ga('send', 'pageview');
+
+            ga('set', 'dimension4', '0');
+    </script>
+ 
+<meta name="readability-verification" content="EDFS6HqfEsVJByL2MzxYRrype6cdTyPbjFaJAWj5"/>
+ 
+<script type='text/javascript'>
+    var OA_source = 'article';
+</script>
+ 
+<meta name="twitter:card" value="summary"/>
+<meta name="twitter:url" value="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/"/>
+<meta name="twitter:title" value="Wot I Think: Rain World"/>
+<meta name="twitter:description" value="A trickle of wholesome GIFs has been tantalising us with post-apocalyptic platformer Rain World [official site] and its adorable protagonist the slugcat for some time now. It’s out tomorrow and I have been hopping and swimming and munching my way through its dripping, humid world of predator and prey over the past week to tell [&hellip;]"/>
+<meta name="twitter:image" value="https://www.rockpapershotgun.com/images/17/mar/rainworld_wit_1.jpg"/>
+<meta name="twitter:site" value="@rockpapershot"/>
+<meta name="twitter:creator" value="@rockpapershot"/>
+ 
+ 
+</head>
+<body class="single single-post postid-437667 single-format-standard category-featured-articles category-pc-game-reviews">
+<div id="header">
+<div id="header-content">
+<div class="logo">
+<a href="https://www.rockpapershotgun.com">Rock, Paper, Shotgun</a>
+</div>
+<div class="header-items">
+<a class="hidden-desktop mobile-link search-link" href="#header-search">Search</a>
+<div id="header-search" class="mobile-menu visible-desktop">
+<form method="get" action="/" id="search">
+<fieldset>
+<input type="text" name="s" id="search-site" placeholder="Search the site"/>
+<input type="submit" class="submit" value="Go"/>
+</fieldset>
+</form>
+</div>
+<div id="menu-header-links-container" class="hidden-mobile"><ul id="menu-header-links" class="menu"><li id="menu-item-260401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-260401"><a href="https://www.rockpapershotgun.com/2015/10/16/best-free-games-on-pc/">50 Best Free Games On PC</a></li>
+<li id="menu-item-419715" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-419715"><a href="https://www.rockpapershotgun.com/2016/12/01/best-games-of-the-year-2016/">Best PC Games of 2016</a></li>
+</ul></div>
+<a class="hidden-desktop mobile-link menu-link" href="#menus-wrapper">Menu</a>
+<div id="menus-wrapper" class="mobile-menu visible-desktop">
+<div id="menu-main-container"><ul id="menu-main-nav" class="menu"><li id="menu-item-168856" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168856"><a href="/category/featured-articles/">RPS Features</a></li>
+<li id="menu-item-168857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168857"><a href="/pc-game-reviews/">Reviews</a></li>
+<li id="menu-item-168858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168858"><a href="/category/pc-game-news/">News</a></li>
+<li id="menu-item-168859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168859"><a href="/category/free-pc-games">Free Games</a></li>
+<li id="menu-item-287901" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-287901"><a href="https://www.rockpapershotgun.com/category/esports/">Esports</a></li>
+<li id="menu-item-168860" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168860"><a href="/category/hardware/">Hardware</a></li>
+<li id="menu-item-281803" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-281803"><a href="https://www.rockpapershotgun.com/category/guides/">Guides</a></li>
+<li id="menu-item-168861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168861"><a href="/supportrps">Support RPS</a></li>
+<li id="menu-item-168862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168862"><a href="/forums/forum.php">Forum</a></li>
+</ul></div>
+<div id="menu-utility-container">
+<ul id="menu-utility" class="menu"><li id="menu-item-142626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142626"><a href="https://www.rockpapershotgun.com/about-pc-gaming-rps/">About Us</a></li>
+<li id="menu-item-168863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168863"><a href="https://www.rockpapershotgun.com/advertise-pc-games/">Advertise</a></li>
+<li id="menu-item-142627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142627"><a href="https://www.rockpapershotgun.com/hey-prs-and-developers/">Hey, developers!</a></li>
+<li id="menu-item-142628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142628"><a href="https://www.rockpapershotgun.com/privacy-stuff/">Privacy</a></li>
+<li id="menu-item-168865" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168865"><a href="http://feeds.feedburner.com/RockPaperShotgun">RSS</a></li>
+<li id="menu-item-168864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-168864"><a href="http://steamcommunity.com/groups/rps">Steam</a></li>
+<li id="menu-item-249683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249683"><a href="https://twitter.com/rockpapershot">Twitter</a></li>
+<li id="menu-item-266251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-266251"><a href="https://www.facebook.com/rockpapershot">Facebook</a></li>
+</ul> <ul>
+<li><a href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F">Login</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="page-wrapper">
+<div class="leaderboards hidden-mobile">
+ 
+<div class="ad-desktop ad-hd ad-leaderboard-top-desktop" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90,970x250,1260x110,1260x250" id="div-ga-RPS_LB_1" data-ghost-zone="25" data-yafa-name="qdxglqjw" data-yafa-img="https://images.eurogamer.net/2017/t7yh9t4b3y8v7o/98yn7tv34n978y3v4tvt43978ny43tvbn9y78.jpg/2017/78yb9479nyb4v3t78b9yo458b7/7hfhf7fhjf8.jpg" data-yafa-click="http://bit.ly/2o8OYcq" data-yafa-target="#page-wrapper" data-yafa-style="padding-top:200px; background-color: white; background-repeat: no-repeat; background-position: 50% 0;" data-yafa-linktarget="#page-wrapper, #inner-wrapper, .page" data-yafa-linkheight="1200"></div>
+ 
+ 
+<div class="ad-tablet ad-leaderboard-top-tablet" data-dfp-id="RPS_LB_1" data-dfp-sizes="728x90" id="div-ga-RPS_LB_1_TABLET" data-ghost-zone="25"></div>
+ 
+</div>
+<div id="page">
+<div id="content">
+<div class="content">
+<article id="post-437667" class="block featured-block">
+<p class="featured-block-title">
+<a class="featured-block__text  featured-block__text--feature" href="https://www.rockpapershotgun.com/category/featured-articles">RPS Feature</a>
+The 5175th series of Planet Earth </p>
+<div class="post-inner">
+<nav>
+<ul class="breadcrumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com" rel="v:url" property="v:title">
+Home </a>
+</li>
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com/pc-game-reviews" rel="v:url" property="v:title">
+Reviews </a>
+</li>
+<li typeof="v:Breadcrumb" class="breadcrumbs__item">
+<a href="https://www.rockpapershotgun.com/tag/rain-world" rel="v:url" property="v:title">
+Rain World </a>
+</li>
+</ul>
+</nav>
+<header>
+<h1>Wot I Think: Rain World</h1>
+<aside class="byline">
+<p>By <a href="mailto:b&#114;&#101;&#110;&#100;an&#64;&#114;&#111;&#99;k&#112;a&#112;e&#114;s&#104;ot&#103;&#117;&#110;&#46;c&#111;&#109;">Brendan Caldwell</a> on March 27th, 2017 at 7:00 pm.</p>
+</aside>
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2017/03/27/rain-world-review//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Wot I Think: Rain World https://www.rockpapershotgun.com/2017/03/27/rain-world-review/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2017/03/27/rain-world-review//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</header>
+<div class="entry">
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_1.jpg" alt=""/></p>
+<p>A trickle of wholesome GIFs has been <a href="https://www.rockpapershotgun.com/2017/01/16/rain-worlds-slippery-slugcat-is-coming-to-pc-this-year/">tantalising us</a> with post-apocalyptic platformer <a href="https://www.rockpapershotgun.com/tag/rain-world/">Rain World</a> [<a href="http://www.adultswim.com/games/pc-console/rain-world/">official site</a>] and its adorable protagonist the slugcat for some time now. It’s out tomorrow and I have been hopping and swimming and munching my way through its dripping, humid world of predator and prey over the past week to tell you wot I think. First: I am certain it’s going to become a cult hit with a crowd of hardcore, mystery-loving obsessives behind it. But secondly, it has also left me with the impression of a badly missed opportunity. Equal parts astounding and hands-tearing-out-your-hair frustrating, this adventure, like the slugcat itself, is a bit of a mix.<span id="more-437667"></span></p>
+<p>The story is all it needs to be – you are a slugcat who has been separated from your family. Off you go into this unsettling world of narrow drain pipes and soggy piles of garbage to find them. You need to eat to survive and avoid being eaten by the various hissing lizards and fearsome critters that prowl from screen to screen looking to fill their own stomachs.</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_15.jpg" alt=""/></p>
+<p>The blue fruits hanging from vines and bats that flutter about are your first introduction to the dining rituals of the slugcat, but there are many more types of food. There’s no constantly-depleting survivalist meter as such, just a line of seven pips that fill with each morsel (the pips aren’t “health” or “stamina” but they do empty in another way, which I’ll talk about later). Like much of the game, I’d rather avoid talking too much about those later foodstuffs, because discovering exactly what they are and how to eat them is part of the game’s sense of animalistic curiousity, one of its greatest strengths. And you <i>will</i> have to discover most of these for yourself, because this is a game that, notwithstanding the first few screens, absolutely loathes explaining itself.</p>
+<p>That makes talking about its virtues much harder for me. I&#8217;m avoiding screenshots of many animals because it&#8217;s best in its surprising moments. When you suddenly spot a new type of beast appearing out of a hole in the ground and run to the other side of the screen in a panic. Or when you finally understand what those little blue seedlings are for. Or when a creature you thought was dangerous, actually turns out to be more or less harmless so long as you leave it alone. If there’s a puzzle element to the game (and it’d be a stretch to say that there is) it’s in figuring out how the whole food chain fits together and what your place is in it. Who eats who? What are these fruits good for? What do I do with this pearl?</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_2.jpg" alt=""/></p>
+<p>In its revelatory moments, or in moments of sheer drama (avoiding camouflaged beasts in a tunnel system, catching a glimpse of a black tail in a tank of deep water) Rain World really does shine. The world is a <i>huuuuuuge</i> collection of screens and environments, each with particular threats and obstacles. Each area is woven together by bolt holes, and you can see a multi-layered map of everything you’ve uncovered by holding down a shoulder button.</p>
+<p>There’s some direction in the form of small eye-creatures that appear like weeds out of crevices in the rock or rusted metal. They will point you towards bats or fruits, and sometimes flash an image of a slugcat by a bolt hole (suggesting that they might know which way your family has gone) or some other mysterious image. However, their directions become less and less frequent as you go on, I found. Regardless of their directions, the desire to explore every region as fully as possible will infect you. Overcoming pitfalls and puzzling at dead ends is all part of being a lost animal in this weird place. But obviously, there is a bigger threat than lizards and unknown beasts: the rain.</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_4.jpg" alt=""/></p>
+<p>This comes periodically. I never timed it, but it felt like maybe every fifteen minutes or so. After a while, you get a sense for when rainfall is near. A little meter in the bottom left is telling you this, a cricle of dots ticking down to zero (not that the game offers you this information). But you also know when rain is about to fall because the sky starts to darken and the land shakes, slowly at first, then faster. It rains in a brief shower, nothing you can’t handle. But then this stops and everything goes still. Then: “tink!” A single sharp drop of what I can only describe as “super rain”. Tink tink! Two drops. TINK TINK TINK TINK TINK. Suddenly, the screen is lost in sledgehammer water. If you’re caught in the rain, you are dead.</p>
+<p>To survive each shower, you need to find special hibernation chambers, marked with a boxy symbol. To hibernate, you need to have eaten enough food – at least four pips worth. The hibernation process will always use up four pips of food, which means each new “morning” you are hungry again. Critically, these chambers are also your save points. And this is where it all starts to unravel for me. Because Rain World is cursed with some of the most teeth-grindingly bad checkpointing in any modern-day platformer.</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_3.jpg" alt=""/></p>
+<p>The hibernation chambers are often very far apart. In theory this fits with the survivalist theme. Living “winter” to “winter” while hiding and running from vicious predators of the natural world isn’t easy. Just ask any rabbit. But in reality this means you will often be repeating the same bunch of screens numerous times only to die from a frightening creature that ambushes you out of nowhere. That’s because the other creatures are spread out at the AI’s will. Sometimes, there are none to be seen. Sometimes three predators will appear at once, blocking your way to the next area or surrounding you from multiple avenues. Sometimes you take a bolt hole into the next screen and straight into the jaws of a waiting lizard.</p>
+<p>Other times you get caught in a game of Darwinian Pacman, trapped in narrow passages between two types of beast, both vying for your blood, with no way past either of them. It is all completely random and unavoidable. The best solution to getting past predators is often to accept death and try again – because next time they might not be in the same place. While all this replicates the brutish, nasty and short nature of the wilder-apocalypse, it makes for a frustrating platformer. Early on, the repetition of screens and areas is more forgiveable. But later you will navigate twenty or so screens only to die from some accident of fate. When you respawn, none of the map you have uncovered has been saved. This might have been Rain World&#8217;s most serious crime, if you didn’t count the controls.</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_5.jpg" alt=""/></p>
+<p>These are a baffling frustration. Sometimes you’ll land from a height and roll without meaning to, sometimes you’ll press down to duck into a hole and end up rolling around on the ground like a vulnerable white meatball. Very often, you will enter tunnels backwards, travelling much slower than normal (there&#8217;s a way to turn around, but it too is slow). Sometimes you’ll wiggle left or right while on a pole, trying to prepare for a jump and the game will think you want to “unhook” from the pole, resulting in a lethal fall. Sometimes you’ll be legging it from a deadly creature and suddenly stick to a pole because of the way your thumbstick is angled. I can’t count the deaths I have suffered because of an annoying control issue, whether it was rolling off a tower or ducking into the wrong crevice and missing my chance to escape into a proper bolt hole.</p>
+<p>These crevices are particularly frustrating. They are everywhere, carved into walls and the ground. Other creatures can appear from them, which is fine, because this makes it feel like your predators have their own separate system of bolt holes. But to you, they are totally useless, and worse, they get in the way. They are stubby dead ends not deep enough to hide in, yet the slugcat will start to clamber in if you are pushing the stick vaguely towards one. This would not be such a big problem, except that real bolt holes are almost always surrounded by these false nooks. Put this together with awkward, sticky controls and you will often be putting your cat’s head down the wrong hole. In split-second pursuits, this means the difference between life and death. Back to the last hibernation pod for you, kitten.</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_6.jpg" alt=""/></p>
+<p>That’s just one example of the way the tar-like controls taint the sense of adventure. The process of holding and throwing objects is also weirdly inconsistent. I just wrote and subsequently deleted an entire paragraph in which I tried to explain the system of picking things up, swallowing them, regurgitating, putting them down, throwing, and swapping items between paws. I deleted it because the description was so riddled with minor details and exceptions that the paragraph read like a bizarre legal document.</p>
+<p>“The left paw will be the thrower, insofar as there is no spear in the right paw, until such time that there is another more lethal object in the counterpaw, in which instance the thrown object will defer to the judgement of the game’s instructions, or to the nature of the object in the right paw.”</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_7.jpg" alt=""/></p>
+<p>It’s a mess. Carrying a useful object ten screens to use it in a particular place, and then accidentally throwing it away just as you approach your goal, is a regular occurrence. All these problems are especially surprising because the game markets itself as having a hero with “nimble movements” and “natural fluidity”. But I cannot think of a less befitting description for this troublesome animal. It’s a shame. For a platformer bad controls can be fatal. I don’t think they outright kill Rain World’s charisma and charm, but they&#8217;ve definitely maimed it.</p>
+<p>In many ways, Rain World isn’t trying to be a platformer – it is more in love with mystery and discovery and it pays equal homage to the Metroidvanias of the world. But in all the important mechanical ways, it remains tied to that ancestral genre of leaping from ledge to ledge. You need to run and jump and climb and swim and throw things, often at speed in order to escape some otherworldly nasty running behind you with its toothy maw ajar.</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_8.jpg" alt=""/></p>
+<p>Yet the controls feel stubbornly designed. Sticky, surly, often uncooperative. There are so many things that would make them feel better (a higher jump, less “weight”, a more sensible way to throw, drop and swap items) and yet those considerations seemed to have been ignored in favour of a method of movement that, yes, <i>looks</i> sublime yet often handles horribly.</p>
+<p>People will look at the toughness and the deaths and cite Limbo as a comparison. But for me, it is much more reminiscent of Abe’s various Oddysees and Exodduses (Exoddi?) The world is gorgeous, the characters are likeable, and the enemies especially are scary and fascinating in equal measure, and are often pitted against one another in clever ways that make the landscape feel bustling with life.</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_9.jpg" alt=""/></p>
+<p>But Abe too had an aggravating control scheme (although his required pinpoint precision and meticulous timing, whereas the slugcat just feels sticky). Abe too forced you to run onto new screens in a panic without knowing that there would be a pitfall or a trap waiting for you. Abe too sought pleasure in being masochistic. A carnivourous plant disguised as a pole is simply Rain World’s version of an unlabelled lever that, when pulled, crushes you beneath a giant rack of ribs. In so many ways it echoes the strengths of that lovable green farter but it also retains all the flaws, and in fact introduces whole new ones – at least Abe gave you a quicksave.</p>
+<p>Modern platformers that want to be difficult have learned the value of a quick and nearby spawn. Fell into some spikes? Never mind, says the game, and one second later you are at the last brick wall you leapt from. The slugcat doesn’t get this treatment, instead it is transported back to the nearest save point, the last hibernation chamber. The things you have done to the environment have been undone, the parts of the map you revealed have been recovered in shroud. You are ten screens back from where you were, only now the predators and prey will be in different places.</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_10.jpg" alt=""/></p>
+<p>It can get hugely frustrating, especially in those parts of the world where you have to navigate bothersome pools of leeches, or wall-jump up long shafts, or seek out a certain object before facing an otherwise impossible obstacle. Having to repeat these areas doesn’t feel like an exercise in hardcore gaming, it just feels like a chore. Some of the areas feel like you’d need the developer’s debug tools just to get through. It’s demoralising. You want to explore the next area, encounter the next weird tentacled species. But the game does everything it can to stop you from doing this. It is astounding that, after navigating twenty or thirty screens, you will die because a random enemy has spawned off the edge of the screen, impossible to see, and snapped you up with its tongue.</p>
+<p>The oddest thing about it is that, like the controls, this difficulty feels entirely deliberate. It is like Rain World wants to have the strength of difficulty we find in Dark Souls. But that classic of dying and re-dying had the impetus of soul currency, a sense of gambling, a sense of pace, and the relief of clever shortcuts with near-perfect geography. Not to mention the HUGELY SIGNIFICANT gesture of always putting the enemies reliably in the same place, like a solid, immovable set of spiky hurdles. You always had the means to overcome and defeat them. You just needed to learn.</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_11.jpg" alt=""/></p>
+<p>Here there is only the obstacle of repeating the same awkward platforming sections over and over again, sometimes being put out of your misery by a creature that gobbles you up out of the blue or makes your intended route suddenly impassable. It takes everything platformers have learned not to do over the last 10 years and throws each lesson over its shoulder into the waste basket. It definitely gains some originality thanks to this exercise, but it is often at the expense of basic playability.</p>
+<p>I’m wailing on it quite a lot here, which may seem unfair. But it&#8217;s only because so much potential has been lost. There’s a ton of things to fall in love with. The world is vast and wonderfully drawn. The process of discovery is wonderful, and it puts an encouraging amount of trust in the player to figure things out by themselves. As for the natural world it conveys, it can feel like living through a surreal season of BBC&#8217;s Planet Earth, set thousands of years after mankind&#8217;s demise. I have had run-ins with animals that have made me shiver, squeal or grin from ear to ear. A particular creature was so instinctively frightening that I had to take a short break to regain my courage before taking the slugcat on a long swim across some open water. He did not survive.</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_12.jpg" alt=""/></p>
+<p>And there’s depth here too. Creatures and mysterious personas are hidden at the extremities of the map, offering some small aid or boost, although you might not know how or why they do so until much later. There’s a method of travelling vast distances and it takes some experimentation to figure this system out. You might put something in your gullet and forget all about it, only for it to become suddenly very helpful two regions later, where you can vomit it up and put it to use. And these are just the details I figured out. There’s much more that I’d love to discuss with another player – what do those little [REDACTED] do? Did you visit the [REDACTED] with all those terrifying [REDACTED]? And – oh my god &#8211; what exactly are the consequences of eating the [REDACTED] by that [REDACTED]?</p>
+<p>I’m at a disadvantage with the review copy, see, since I don’t have the sanctuary of discussion threads or friends who’ve already clocked it to relieve my most pressing confusions, unlike y’all. It’s a game that I think will benefit from that out-sourcing of help, the many hands and many eyes of the internet making up for the lack of in-game teachings (although, being honest, it feels like it could have benefited from more voices in the testing phase too – maybe one of them would have said: “Uh, don’t you think the controls are a bit wonky?” or “Maybe we should, like, lay off”).</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_13.jpg" alt=""/></p>
+<p>So I don’t want to rubbish the experience too much. Apart from the mysteries and secrets, there is a cracking array of vicious wildlife on show here, and their accompanying methods of predation can be as impressive as they are unsettling. It often feels like a real, brutish ecosystem. Even if the AI sometimes acts weirdly, spasming in a corner, or twirling around in endless circles, it still seems earthly, red in tooth and claw, but also alien and unknown. Finding out exactly how that aquatic animal feeds or which sub-species of lizard acts in which manner is a joy. I just wish I could do that without having to repeat the same swim through cramped and flooded tunnels for the fifth time. Or the same protracted run across the ultra-dark [REDACTED], with, yes, a shelter at the end but also a perilous drop that undoes everything you just did.</p>
+<p>I feel like time and the fans will absolve it even of its awkward controls and terrible checkpointing. But in the same way that Dark Souls drop-outs often lament that they cannot explore Lordran in some sort of easy mode, I wish that Rain World was not so obtuse and punishing. Unlike Dark Souls, there’s no real <i>reason</i> behind the difficulty, no sense of purposeful design. And often there is evidence of some terrible design. Why are there poles drawn in the background, in almost exact same hue as the foreground&#8217;s ‘usable’ poles? Why does the ‘transition’ point from one screen to another sometimes land in critical areas – during a dangerous jump or (in one case) a winding vertical climb infested by invisible lizards, who snap you up from unseen positions far above the edge of your view. How it expects you to see the creatures before you are even on the next screen, I don’t know. Attention game makers: there is a difference between in being &#8220;hands off&#8221; and being straight-up neglectful.</p>
+<p><img src="http://www.rockpapershotgun.com/images/17/mar/rainworld_wit_14.jpg" alt=""/></p>
+<p>Mostly, the feeling I have come away with is frustration. The philosophy here isn’t “we refuse to hold your hand”. It’s more like: “we are going to cover your hands with lubricant and task you with climbing a fireman’s pole”. The game doesn’t seem to realise that it’s strength <i>isn’t in difficulty</i>, or repeating areas again and again, but in discovery and wandering, in exploration and a sense of wonder.</p>
+<p>At 20 hours, having discovered just 8 of the regions, I threw the gamepad aside with a mixture of exasperation and disappointment. There are those who will relish the challenge but I never found the slugcat’s family, and not just because there were no clues or direction as to their whereabouts. There was a big part of me that didn’t want to stop playing and maybe I’ll pick it up again some day, because there is so much to love about discovering the laws of nature behind this huge, ruined ecosystem. But with each random death, each accidental roll off a cliffside, each checkpoint drought, that love turned to ash. There is so much beauty and intrigue and diversity of life in Rain World. It’s a pity the game doesn’t want you to see any of it.</p>
+<p><em>Rain World is out March 28th for Windows via <a href="http://store.steampowered.com/app/312520/">Steam</a> for £15/$20/€20.</em></p>
+</div>
+<footer class="article-footer">
+<div class="social-buttons">
+<h4>Share this:</h4>
+<ul class="social-icons">
+<li><a class="social-facebook icon-facebook" href="http://www.facebook.com/sharer.php?u=https://www.rockpapershotgun.com/2017/03/27/rain-world-review//"><span>Facebook</span></a></li>
+<li><a class="social-twitter icon-twitter" href="http://twitter.com/intent/tweet?text=Wot I Think: Rain World https://www.rockpapershotgun.com/2017/03/27/rain-world-review/"><span>Twitter</span></a></li>
+<li><a class="social-reddit icon-reddit" href="http://www.reddit.com/submit?url=https://www.rockpapershotgun.com/2017/03/27/rain-world-review//"><span>Reddit</span></a></li>
+</ul>
+</div>
+</footer>
+ 
+<link rel="stylesheet" type="text/css" href="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/css/recommendations.css" media="screen"/>
+ 
+<div id="recommendations-wrapper">
+<div id="recommendations">
+<div id="rcjsload_gam148"></div>
+<script type="text/javascript">
+                            (function() {
+                            function ad_block_test(e,o){if("undefined"!=typeof document.body){var t="0.1.2-dev",o=o?o:"sponsorText",n=document.createElement("DIV");n.id=o,n.style.position="absolute",n.style.left="-999px",n.appendChild(document.createTextNode("&nbsp;")),document.body.appendChild(n),setTimeout(function(){if(n){var o=0==n.clientHeight;try{}catch(d){console&&console.log&&console.log("ad-block-test error",d)}e(o,t),document.body.removeChild(n)}},175)}}
+                            ad_block_test(function(is_blocked){
+                            var widget_id =48030;
+                            if (is_blocked === true) {
+                            widget_id =48136;
+                            }
+                            var referer="";try{if(referer=document.referrer,"undefined"==typeof referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+                            var rcel = document.createElement("script");
+                            rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+                            rcel.type = 'text/javascript';
+                            rcel.src = "//trends.revcontent.com/serve.js.php?w="+widget_id+"&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth) +"&referer="+referer + '&is_blocked=' + is_blocked;
+                            rcel.async = true;
+                            var rcds = document.getElementById("rcjsload_gam148"); rcds.appendChild(rcel);
+                            });
+                            })();
+                            </script>
+</div>
+</div>
+</div>
+<div id="rps-article-carousel" class="rps-carousel-container">
+<header>
+<h4>From this site</h4>
+</header>
+<div class="rps-carousel">
+<a class="prev navigation"><span class="icon-angle-left"></span></a>
+<section>
+<article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/overwatchcharacterguide.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/23/overwatch-character-guide-abilities-and-strategy-tips/"><div class="text"><h5 class="title">Overwatch Character Guide</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/snapmapbest.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/24/best-doom-snapmaps/"><div class="text"><h5 class="title">DOOM’s Best SnapMaps</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/civho1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/cvilization-vi-hands-on-preview/"><div class="text"><h5 class="title">Civilization VI Is Exciting & Aggressive</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/oct/warcraft1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/26/warcraft-the-beginning-review/"><div class="text"><h5 class="title">Warcraft: The Beginning review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/bw_6.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/25/the-witcher-3-blood-and-wine-review/"><div class="text"><h5 class="title">The Witcher 3: Blood And Wine review</h5></div></a></article><article style="background-image: url(https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/may/OW1.jpg&w=205&h=120&zc=1)"><a href="https://www.rockpapershotgun.com/2016/05/27/overwatch-review/"><div class="text"><h5 class="title">Overwatch review</h5></div></a></article>
+</section>
+<a class="next navigation"><span class="icon-angle-right"></span></a>
+</div>
+</div>
+</article>
+<div id="mobile-ads" style="display:none;">
+<div id="mobile-leaderboard-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-leaderboard-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-leaderboard-mobile" data-dfp-id="RPS_LB_MOB" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_LB_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile" data-dfp-id="RPS_MPU_MOB" data-dfp-sizes="300x250,320x400,300x600, 320x100, 320x50" id="div-ga-RPS_MPU_MOB"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-2-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-2" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-2" data-dfp-id="RPS_MPU_MOB_2" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_2"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-3-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-3" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-3" data-dfp-id="RPS_MPU_MOB_3" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_3"></div>
+ 
+</div>
+</div>
+<div id="mobile-mpu-4-wrapper" class="mpu">
+<span class="ad-break-text">Article Continues Below</span>
+<div id="mobile-mpu-4" class="mobile-mpu-wrapper">
+ 
+<div class="ad-mobile ad-mpu-mobile-4" data-dfp-id="RPS_MPU_MOB_4" data-dfp-sizes="320x50,320x100,300x250" id="div-ga-RPS_MPU_MOB_4"></div>
+ 
+</div>
+</div>
+</div>
+<script>
+                var inline_ads = new InlineAds({ container: jQuery("#content .post-inner > .entry").first(), mpu_ads: jQuery("#mobile-ads .mpu") });
+
+                ga('set', 'dimension1', "featured-articles,pc-game-reviews");
+                ga('set', 'dimension2', "adult-swim-games,feature,rain-world,review,videocult,wot-i-think");
+                ga('set', 'dimension3', "Brendan Caldwell");
+
+                </script>
+<div id="comments">
+<div class="block" style="padding-bottom: 0;">
+<h3 class="comments">54 Comments</h3>
+</div>
+<div class="block no-back no-border" id="all-comments">
+ 
+ 
+<div class="pagination">
+</div>
+<ol class="commentlist">
+<li class="comment byuser comment-author-heretic even thread-even depth-1 comment-role-premium_user" id="li-comment-2408799">
+<div id="comment-2408799">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5219332bacc0fc3e85841f354f0db950?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5219332bacc0fc3e85841f354f0db950?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408799">27/03/2017 at 19:14</a>
+</span>
+<cite class="fn">heretic</cite> <span class="says">says:</span></span>
+</p>
+<p>Damn, will probably pick it up at some point as the exploration premise sounds interesting &#8211; but long game and high difficulty doesn&#8217;t sound like my cup of tea :(</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408799">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-harlander odd alt depth-2 comment-role-premium_user" id="li-comment-2409075">
+<div id="comment-2409075">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/3a0f52e803208a2b1bbb5690bcc6b13d?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/3a0f52e803208a2b1bbb5690bcc6b13d?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409075">28/03/2017 at 09:02</a>
+</span>
+<cite class="fn">Harlander</cite> <span class="says">says:</span></span>
+</p>
+<p>I really appreciate a review which lets me decide, &#8220;As wonderful as this sounds, it&#8217;s just too hard for me.&#8221;</p>
+<p>Otherwise I&#8217;d be stuck with the nagging guilt of another game that I feel I should go back to, but never do because of some intractable difficulty spike.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409075">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-merry even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2408801">
+<div id="comment-2408801">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/32cdf937136b75e69b477c7822ca80e4?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/32cdf937136b75e69b477c7822ca80e4?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408801">27/03/2017 at 19:16</a>
+</span>
+<cite class="fn">Merry</cite> <span class="says">says:</span></span>
+</p>
+<p><b>I’m wailing on it quite a lot here</b></p>
+<p>I&#8217;m wondering if you meant <i>waling</i>?</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408801">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-internetbatman odd alt depth-2 comment-role-subscriber" id="li-comment-2408827">
+<div id="comment-2408827">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1c6cfd12454c35ea4014f1296f91be47?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1c6cfd12454c35ea4014f1296f91be47?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408827">27/03/2017 at 19:37</a>
+</span>
+<cite class="fn">InternetBatman</cite> <span class="says">says:</span></span>
+</p>
+<p>whaling</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408827">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-brendan-caldwell bypostauthor even depth-2 comment-role-editor" id="li-comment-2408875">
+<div id="comment-2408875">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/1baaaa15de0d127ede21d4877e2941e9?s=64&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/1baaaa15de0d127ede21d4877e2941e9?s=128&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-64 photo' height='64' width='64'/></div>
+<div class="comment-content large-avatar"><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408875">27/03/2017 at 20:23</a>
+</span>
+<cite class="fn">Brendan Caldwell</cite> <span class="says">says:</span></span>
+</p>
+<p>Wheely-ing</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408875">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-skeletortoise odd alt depth-2 comment-role-subscriber" id="li-comment-2408951">
+<div id="comment-2408951">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5ea1a28bcaed1d77e854b3090589a55e?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5ea1a28bcaed1d77e854b3090589a55e?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408951">27/03/2017 at 22:25</a>
+</span>
+<cite class="fn">skeletortoise</cite> <span class="says">says:</span></span>
+</p>
+<p>Doesn&#8217;t sound like whaling would be out of the question.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408951">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-atog even thread-even depth-1 comment-role-subscriber" id="li-comment-2408805">
+<div id="comment-2408805">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dc4169a7e15296f6361e2fb4c9777362?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dc4169a7e15296f6361e2fb4c9777362?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408805">27/03/2017 at 19:17</a>
+</span>
+<cite class="fn">Atog</cite> <span class="says">says:</span></span>
+</p>
+<p>Damn.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408805">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-drib odd alt thread-odd thread-alt depth-1 comment-role-premium_user" id="li-comment-2408807">
+<div id="comment-2408807">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/28b18dab4de7ee94a80d374a47175320?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/28b18dab4de7ee94a80d374a47175320?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408807">27/03/2017 at 19:20</a>
+</span>
+<cite class="fn">Drib</cite> <span class="says">says:</span></span>
+</p>
+<p>Too bad. This game looks great, from the screenshots, and that one with the slugcat sleeping in the grass is super cute.</p>
+<p>But replaying long sections for checkpoints sucks. Sometimes it&#8217;s forgivable, but the enemy spawns and stuff in this just sound awful.</p>
+<p>Too bad, &#8217;cause like I said, it looks really nice and the exploration you mention sounds right up my alley.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408807">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-barts even depth-2 comment-role-subscriber" id="li-comment-2409049">
+<div id="comment-2409049">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409049">28/03/2017 at 05:55</a>
+</span>
+<cite class="fn"><a href='http://jawnesny.pl/' rel='external nofollow' class='url'>Barts</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Drib, don&#8217;t give up on Rain World too easily. It is a great game, if a little hard and occasionally rough around the edges. I very much second most of the points Brendon is making above, but I draw different conclusions. Difficult, yes, unfair, sometimes, frustrating, occasionally, but the joy of discovery, these &#8220;a-ha!&#8221; moments when you understand how the world works, the satisfaction of evading certain death, the thrill of sneaking through particularly hard section, these are all feelings I have too rarely experienced in games (Dark Souls actually is a notable example, albeit very different).</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409049">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-mashkeyboardgetusername odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2408831">
+<div id="comment-2408831">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c78e7a9aebddf6e8762e3a96d5ee659d?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c78e7a9aebddf6e8762e3a96d5ee659d?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408831">27/03/2017 at 19:39</a>
+</span>
+<cite class="fn">mashkeyboardgetusername</cite> <span class="says">says:</span></span>
+</p>
+<p>Bugger, that&#8217;s a shame. It seemed like it was going to be a wonderful game if they avoided, well, the exact mistakes they&#8217;ve ended up making with checkpointing etc.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408831">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-jamesprimate even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2408835">
+<div id="comment-2408835">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408835">27/03/2017 at 19:40</a>
+</span>
+<cite class="fn">JamesPrimate</cite> <span class="says">says:</span></span>
+</p>
+<p>Hello! This is James, one of the developers of Rain World here. I just wanted to give a quick shoutout to RPS. All the way back in 2012 it was Cara and Graham that first plucked our little weird arty ecosystem game out of the obscurity of TIGSource devblogs and made us think that we maybe actually could make a real game out of this that people would play? And the jury is still out on that! hahah. </p>
+<p>Its been quite a wild ride of hype and madness since then, but I want to thank them sincerely for that, and encourage them to continue peeping into the weird nooks and crannies of videogame development.</p>
+<p>Ill be hanging in the thread if anyone has questions! &lt;3</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408835">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-djvecchitto odd alt depth-2 comment-role-subscriber" id="li-comment-2408839">
+<div id="comment-2408839">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7e52095f3e67549ef12f32bcffb64217?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7e52095f3e67549ef12f32bcffb64217?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408839">27/03/2017 at 19:45</a>
+</span>
+<cite class="fn">djvecchitto</cite> <span class="says">says:</span></span>
+</p>
+<p>I don&#8217;t mind crazy difficulty and the art style is incredible—I will DEFINITELY purchase this game if you patch out some of the control issues mentioned in this review! Patch patch patch! Please patch!</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408839">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-jamesprimate even depth-3 comment-role-subscriber" id="li-comment-2408855">
+<div id="comment-2408855">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408855">27/03/2017 at 19:57</a>
+</span>
+<cite class="fn">JamesPrimate</cite> <span class="says">says:</span></span>
+</p>
+<p>@djvecchitto</p>
+<p>Most definitely! Were not doubling down on too many of the issues we are hearing. Talking with a couple of journalists who were struggling under deadlines, it seems that a few minor tutorialization changes or additions could smooth out things quite a bit. And control / movement improvements are very easy once we know what to look for, etc etc.</p>
+<p>We already have updates underway, adding additional game modes such as multiplayer and additional narrative content geared toward players who might not want to sink 60hr in, etc etc., so expect to hear more from us once we survive the madness of this initial release!</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408855">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-jeroen-d-stout odd alt depth-4 comment-role-subscriber" id="li-comment-2408955">
+<div id="comment-2408955">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/fdcbab20762975c21ddb57165d84ab94?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/fdcbab20762975c21ddb57165d84ab94?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408955">27/03/2017 at 22:38</a>
+</span>
+<cite class="fn">Jeroen D Stout</cite> <span class="says">says:</span></span>
+</p>
+<p>If you do make these changes, could you make sure to let the game have a &#8216;vanilla&#8217; version? I really, really fell in love with the game as it is now and would rather not see future versions to irrevocably different.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408955">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-jamesprimate even depth-5 comment-role-subscriber" id="li-comment-2408981">
+<div id="comment-2408981">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408981">28/03/2017 at 00:05</a>
+</span>
+<cite class="fn">JamesPrimate</cite> <span class="says">says:</span></span>
+</p>
+<p>Ah, thank you for saying that! Thats good to hear!</p>
+<p>I wouldnt intend to make things easier per se, just smooth out some rough edges where they are necessary and maybe do a better job tutorializing some of the main concepts (such as the karma gate system.) </p>
+<p>But! We&#8217;re definitely going to wait until the dust settles and we have more feedback from players on how they are approaching the game before we do anything at all.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-daymare odd alt depth-4 comment-role-subscriber" id="li-comment-2408973">
+<div id="comment-2408973">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/97134258565065a216135457d0329f16?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/97134258565065a216135457d0329f16?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408973">27/03/2017 at 23:27</a>
+</span>
+<cite class="fn">Daymare</cite> <span class="says">says:</span></span>
+</p>
+<p>I read about Rain World some years ago here on RPS, been looking forward to it for a while now. Just wanna chime in to say: You&#8217;ve made a gorgeous looking game:)</p>
+<p>Happy to hear you&#8217;re planning those additions. I bought it now, will see if I can tear and mangle my way through &#8212; if not, I&#8217;m looking forward to the stuff you listed.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408973">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-drib even depth-2 comment-role-premium_user" id="li-comment-2408851">
+<div id="comment-2408851">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/28b18dab4de7ee94a80d374a47175320?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/28b18dab4de7ee94a80d374a47175320?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408851">27/03/2017 at 19:55</a>
+</span>
+<cite class="fn">Drib</cite> <span class="says">says:</span></span>
+</p>
+<p>This particular game sounds kinda frustrating in the way that would drive me crazy.</p>
+<p>But I always like seeing devs popping in when their game is reviewed, and also I do want to say that the art looks great. So good work on that?</p>
+<p>Hope the release goes well.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408851">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-mashkeyboardgetusername odd alt depth-2 comment-role-subscriber" id="li-comment-2408861">
+<div id="comment-2408861">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c78e7a9aebddf6e8762e3a96d5ee659d?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c78e7a9aebddf6e8762e3a96d5ee659d?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408861">27/03/2017 at 20:08</a>
+</span>
+<cite class="fn">mashkeyboardgetusername</cite> <span class="says">says:</span></span>
+</p>
+<p>I guess one question (for either James or Brenden) is: is a controller mandatory, or can it be played with a keyboard? Being a weirdo I prefer a keyboard for platformers &#8211; I completed Spelunky using one, if that gives any indication &#8211; but I don&#8217;t know if that&#8217;s feasible for Rainworld.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408861">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-jamesprimate even depth-3 comment-role-subscriber" id="li-comment-2408865">
+<div id="comment-2408865">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408865">27/03/2017 at 20:13</a>
+</span>
+<cite class="fn">JamesPrimate</cite> <span class="says">says:</span></span>
+</p>
+<p>Controller is not mandatory! At the beginning you can choose between xbox, ps4 dualshock or keyboard and switch at any time in the options menu of course, as well as rebind keys, etc. </p>
+<p>And in fact the game was originally designed for keyboard controls! I still play it that way when testing.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408865">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-mashkeyboardgetusername odd alt depth-4 comment-role-subscriber" id="li-comment-2408883">
+<div id="comment-2408883">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/c78e7a9aebddf6e8762e3a96d5ee659d?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/c78e7a9aebddf6e8762e3a96d5ee659d?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408883">27/03/2017 at 20:37</a>
+</span>
+<cite class="fn">mashkeyboardgetusername</cite> <span class="says">says:</span></span>
+</p>
+<p>Neat, thanks for answering!</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408883">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-barts even depth-4 comment-role-subscriber" id="li-comment-2408939">
+<div id="comment-2408939">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408939">27/03/2017 at 22:14</a>
+</span>
+<cite class="fn"><a href='http://jawnesny.pl/' rel='external nofollow' class='url'>Barts</a></cite> <span class="says">says:</span></span>
+</p>
+<p>I second that! Played it on Xbox360 controller (I prefer PS3 one, but alas) and when my wife snagged it to play Endereal on our second computer, I begrudgingly started playing on a keyboard only to discover it was actually more comfy.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408939">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-waltorious odd alt depth-4 comment-role-premium_user" id="li-comment-2408979">
+<div id="comment-2408979">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dcc471dcbc53be1e0a32a261f2381947?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dcc471dcbc53be1e0a32a261f2381947?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408979">28/03/2017 at 00:01</a>
+</span>
+<cite class="fn">Waltorious</cite> <span class="says">says:</span></span>
+</p>
+<p>I was going to ask the same thing about keyboard controls. Unless a platformer actually supports analog movement, I find the precision of the keyboard to be much better for moving around. In fact, it seems like a lot of the trouble Brendan had might be solved by using discrete keys for directional input rather than an analog stick. That way it&#8217;s clear which direction he&#8217;s pushing. I had a similar problem with Dustforce when trying to play with a controller, even with a D-pad instead of analog stick it was hard to get precise directional input, so I kept climbing walls instead of simply clinging to them, etc.</p>
+<p>I wonder if anyone (other than the developers, of course) has played this with the keyboard and could comment on how it feels?</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408979">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-barts even depth-5 comment-role-subscriber" id="li-comment-2409045">
+<div id="comment-2409045">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409045">28/03/2017 at 05:50</a>
+</span>
+<cite class="fn"><a href='http://jawnesny.pl/' rel='external nofollow' class='url'>Barts</a></cite> <span class="says">says:</span></span>
+</p>
+<p>As I wrote above (and I&#8217;m definitely not a developer), I actually found it easier to play on the keyboard due to exactly the reasons you describe in your comment. Just like Dustforce!</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-flavorfish odd alt depth-2 comment-role-subscriber" id="li-comment-2408927">
+<div id="comment-2408927">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/ed507fb22e7229e156b90a4c5a62f220?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/ed507fb22e7229e156b90a4c5a62f220?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408927">27/03/2017 at 21:34</a>
+</span>
+<cite class="fn">Flavorfish</cite> <span class="says">says:</span></span>
+</p>
+<p>Hey! I&#8217;ve been hyped for this game since the early tigsource days. I&#8217;ve already preordered but if it doesn&#8217;t take too much time I have a few questions so I can know who I can reccomend this to.</p>
+<p>I love tough proc. gen platformers like Towerfall and Spelunky and so I don&#8217;t find the difficulty disconcerting but the control issues are definitely offputting. Does the proc. gen animations limit you in improving the controls?</p>
+<p>I&#8217;ve also heard that throwing items is horizontal, and the angle can&#8217;t be controlled. Was this intentional or was it a tradeoff to achieve other things?</p>
+<p>Rain World gives me really strong Knytt Underground vibes. I&#8217;m not sure if you&#8217;ve played that, but it has roughly 1,000 screens and was absolutely massive and took a long time to fully explore. It would seem to me that the relative difficulty of this would pace the exploration more, but roughly how many screens are in the game?</p>
+<p>Reviews for this game are really polarizing and the #1 complaint seems to be high emergent difficulty, the kind of difficulty that as the designer you don&#8217;t much control over. I want to reccomend this to a lot of friends but all of my friends are kind of scrubby at platformers. Would you consider patching in some kind of easy mode that limits the spawn rates of predators?</p>
+<p>Also, any rough eta on when local-coop is making an appearance :)? Have you figured out what to do when a player goes to another room or dies?</p>
+<p>I wish you guys good luck and hope you make lots of money! I feel like this game&#8217;s themes of emergence and ecosystems and awesome post industrial environments were pulled straight from my wishlist and then infused with a solid dose of psychadelics.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408927">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-flavorfish even depth-3 comment-role-subscriber" id="li-comment-2408963">
+<div id="comment-2408963">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/ed507fb22e7229e156b90a4c5a62f220?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/ed507fb22e7229e156b90a4c5a62f220?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408963">27/03/2017 at 23:11</a>
+</span>
+<cite class="fn">Flavorfish</cite> <span class="says">says:</span></span>
+</p>
+<p>Note that you don&#8217;t have to answer every question haha</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408963">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-jamesprimate odd alt depth-3 comment-role-subscriber" id="li-comment-2408975">
+<div id="comment-2408975">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408975">27/03/2017 at 23:48</a>
+</span>
+<cite class="fn">JamesPrimate</cite> <span class="says">says:</span></span>
+</p>
+<p>@ Flavorfish</p>
+<p>Thank you friend!! Ill try to address some of these questions, haha.</p>
+<p>Re: &#8220;Does the proc. gen animations limit you in improving the controls?&#8221;</p>
+<p>Thats a good question! It does a little, but probably not for the things reviewers are disliking. To be honest, we wanted the controls to convey the experience of this little animal moving in this dangerous world; to be challenging! So climbing up some rough surface or wall jumping up a pipe felt like a taxing, hard won victory. In retrospect it makes perfect sense that something like that would put off some players, but we wanted you to feel that feedback, to be IN the game. At least that was the thought process! Id like to maintain aspects of that still, but hopefully there are also things we can do to make it less frustrating.</p>
+<p>Re: Knytt and &#8220;roughly how many screens are in the game?&#8221;</p>
+<p>Yes! The Knytt series is definitely a favorite of mine. That sense of exploration and scale is so rare in games, which was exactly what I was trying to accomplish with Rain World&#8217;s scope. There are over 1600 screens in Rain World! </p>
+<p>Re: Would you consider patching in some kind of easy mode that limits the spawn rates of predators?</p>
+<p>The creatures in the world dont spawn per se, they exist perpetually moving around the world even when off screen, eating things, getting into fights, etc., but there are certainly things we can do to smooth some aspects of the difficulty curve. An issue is that since the whole point is that this world is filled with these unpredictable AI creature ecosystem, if we limit them too much then it defeats the whole purpose and becomes just some random run and jump platformer! But that said, I think there is some easy low hanging fruit we can tweak to smooth the experience a little.</p>
+<p>Also we want to introduce some alternate narrative paths (and possibly game modes!) toward the beginning that would be geared for players who like the game but dont necessarily want to spend 60hrs in scrambling terror!</p>
+<p>Re: Also, any rough eta on when local-coop is making an appearance :)</p>
+<p>News on this soon! Lets try to launch this game first and have it not blow up, haha.</p>
+<p>Thank you again for your questions and your enthusiasm! We will strive to live up to it!</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408975">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-flavorfish even depth-4 comment-role-subscriber" id="li-comment-2408985">
+<div id="comment-2408985">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/ed507fb22e7229e156b90a4c5a62f220?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/ed507fb22e7229e156b90a4c5a62f220?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408985">28/03/2017 at 00:27</a>
+</span>
+<cite class="fn">Flavorfish</cite> <span class="says">says:</span></span>
+</p>
+<p>&#8220;Yes! The Knytt series is definitely a favorite of mine. That sense of exploration and scale is so rare in games, which was exactly what I was trying to accomplish with Rain World’s scope. There are over 1600 screens in Rain World! &#8221;</p>
+<p>Holy shit!!</p>
+<p>All of the Knytt games have been real niche gem favorites of mine. Knytt Underground was easy to traverse and yet still the 1,000 screens felt immense and took a long time to explore. 1,600 is insane.</p>
+<p>Thanks for the reply. Getting that balance between weight that provides a connection with the world and fluid responsive movement sounds like a challenge but I wish you guys well.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408985">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-shjkull odd alt depth-4 comment-role-subscriber" id="li-comment-2409061">
+<div id="comment-2409061">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/d0f065b4080b447f214bedeb096eea54?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/d0f065b4080b447f214bedeb096eea54?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409061">28/03/2017 at 06:38</a>
+</span>
+<cite class="fn">shjkull</cite> <span class="says">says:</span></span>
+</p>
+<p>So you deliberately made shitty controls? This is really awful.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409061">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-kitsuninc even depth-5 comment-role-subscriber" id="li-comment-2409087">
+<div id="comment-2409087">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/e282e03cf67ea7e16654f230cd75f937?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/e282e03cf67ea7e16654f230cd75f937?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409087">28/03/2017 at 10:47</a>
+</span>
+<cite class="fn">Kitsunin</cite> <span class="says">says:</span></span>
+</p>
+<p>It&#8217;s been a little while since I&#8217;ve seen someone being this much of an ass, actually.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-cpt_freakout odd alt depth-2 comment-role-premium_user" id="li-comment-2408967">
+<div id="comment-2408967">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/5525ac346086089966bf030c460c9d82?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/5525ac346086089966bf030c460c9d82?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408967">27/03/2017 at 23:13</a>
+</span>
+<cite class="fn">cpt_freakout</cite> <span class="says">says:</span></span>
+</p>
+<p>KS backer here: congrats on the release! I&#8217;m holding off for a while because I want to finish a few other games first, but I, too, hope that you&#8217;ll patch some of the control issues that seem to be present!</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408967">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-djvecchitto even thread-even depth-1 comment-role-subscriber" id="li-comment-2408837">
+<div id="comment-2408837">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/7e52095f3e67549ef12f32bcffb64217?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/7e52095f3e67549ef12f32bcffb64217?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408837">27/03/2017 at 19:43</a>
+</span>
+<cite class="fn">djvecchitto</cite> <span class="says">says:</span></span>
+</p>
+<p>This sounds a lot like Alien Isolation &#8211; the atmosphere and promise of crazy, difficult survival drew me in, but I eventually gave up because it was just too random. The first time an alien pops out somewhere unexpected and leads to an instadeath is exhilarating &#8211; but 20 hours in, when the element of surprise is gone, all that stands out is the randomness and unfairness of some of these encounters, which saps away almost all of the fun.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408837">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-kentwou odd alt depth-2 comment-role-subscriber" id="li-comment-2408933">
+<div id="comment-2408933">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/aee256ae8802dd107293cedfd0792ea5?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/aee256ae8802dd107293cedfd0792ea5?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408933">27/03/2017 at 21:45</a>
+</span>
+<cite class="fn">KenTWOu</cite> <span class="says">says:</span></span>
+</p>
+<p>Let&#8217;s see, you don&#8217;t need to use food or any other resource to use a checkpoint in Alien: Isolation. It doesn&#8217;t have anything similar to the rainfall mechanic forcing you to save your progress. I&#8217;ve finished the game twice and found that only two, may be three checkpoints were frustratingly far away from each other. It has only one unpredictable Alien AI instead of the whole ecosystem of unknown species. Besides it&#8217;s possible to learn how to avoid Alien using stealth and gadgets. Human, Working Joe&#8217;s spawn points aren&#8217;t completely randomized after reloading the last save. The game control system works really great. It&#8217;s very easy to throw a gadget. Air vents certainly don&#8217;t have Rain World tunnels issues&#8230; This doesn&#8217;t sound like Alien: Isolation at all.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408933">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-daymare even depth-3 comment-role-subscriber" id="li-comment-2408965">
+<div id="comment-2408965">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/97134258565065a216135457d0329f16?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/97134258565065a216135457d0329f16?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408965">27/03/2017 at 23:13</a>
+</span>
+<cite class="fn">Daymare</cite> <span class="says">says:</span></span>
+</p>
+<p>Yeah, I finished A:I on the highest difficulty and I could generally muddle my way through everything with some careful stealth, hiding, gadgets and short bursts of flamethrower. Save spots were never too far away and I never felt movement was a problem &#8212; this certainly sounds much, much harder. Sure, I died a bunch of times in every level, but hey, that&#8217;s difficulty for ya.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408965">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-otterley odd alt depth-3 comment-role-subscriber" id="li-comment-2409017">
+<div id="comment-2409017">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6be4ce1df750633667e4cbea572e92c7?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6be4ce1df750633667e4cbea572e92c7?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409017">28/03/2017 at 02:02</a>
+</span>
+<cite class="fn">Otterley</cite> <span class="says">says:</span></span>
+</p>
+<p>djvecchitto described perfectly well where he sees a similarity between the two games.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409017">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-jamesprimate even depth-2 comment-role-subscriber" id="li-comment-2408991">
+<div id="comment-2408991">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dfcbe63dafbf5a77bc66902286c55d55?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408991">28/03/2017 at 00:46</a>
+</span>
+<cite class="fn">JamesPrimate</cite> <span class="says">says:</span></span>
+</p>
+<p>I absolutely loved Alien: Isolation. In fact, there was a period of time when it had just come out and we were still in the tedious, grinding mid-development section of Rain World, and I was a bit depressed thinking to myself &#8220;Oh no! AAA&#8217;s have caught on to the whole AI-driven prey/predator dynamic! What will we do?&#8221; But sadly (or fortunately for us!) it was just one game :/</p>
+<p>A:I is 100% exploring the same things as RW. Scope, improvisation using open spaces and structures in strategic ways, unpredictability of danger and constant looming dread. I still love it dearly.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408991">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-laurentius odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2408867">
+<div id="comment-2408867">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/072b33431af54cdb8a965bde3b50f0f5?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/072b33431af54cdb8a965bde3b50f0f5?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408867">27/03/2017 at 20:14</a>
+</span>
+<cite class="fn">Laurentius</cite> <span class="says">says:</span></span>
+</p>
+<p>Actually Oddworld Inhabitants learend their lesson and Abe&#8217;s Exoddus was not nearly masochisticaly hard as Abe&#8217;s Oddysee.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408867">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-barts even depth-2 comment-role-subscriber" id="li-comment-2408949">
+<div id="comment-2408949">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408949">27/03/2017 at 22:23</a>
+</span>
+<cite class="fn"><a href='http://jawnesny.pl/' rel='external nofollow' class='url'>Barts</a></cite> <span class="says">says:</span></span>
+</p>
+<p>But not nearly half as good as the original either.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408949">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-atog odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2408929">
+<div id="comment-2408929">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/dc4169a7e15296f6361e2fb4c9777362?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/dc4169a7e15296f6361e2fb4c9777362?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408929">27/03/2017 at 21:35</a>
+</span>
+<cite class="fn">Atog</cite> <span class="says">says:</span></span>
+</p>
+<p>This piece might be considered a good counterpoint on the difficulty thing, although the core of the discussion would need to tackle what is indeed poorly designed and what is part of the steps required to make this world a dangerous one not tailored to the player&#8217;s needs. </p>
+<p><a href="https://waypoint.vice.com/en_us/article/rain-world-is-like-stalker-but-a-platformer-and-youre-a-rodent" rel="nofollow">link to waypoint.vice.com</a></p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408929">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-otterley even depth-2 comment-role-subscriber" id="li-comment-2409019">
+<div id="comment-2409019">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6be4ce1df750633667e4cbea572e92c7?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6be4ce1df750633667e4cbea572e92c7?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409019">28/03/2017 at 02:09</a>
+</span>
+<cite class="fn">Otterley</cite> <span class="says">says:</span></span>
+</p>
+<p>Thanks for the pointer, that was an excellent read. Might actually help me approach the game with a different mindset.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409019">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-jonahcutter odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2408931">
+<div id="comment-2408931">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/02ce4e1b0b78afaac257588271298b27?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/02ce4e1b0b78afaac257588271298b27?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408931">27/03/2017 at 21:43</a>
+</span>
+<cite class="fn">jonahcutter</cite> <span class="says">says:</span></span>
+</p>
+<p>Sounds like a mode with a a quick save or two available between the location save points (and which recharge upon reaching the location save point) would alleviate some frustration for those who may want a bit of an easier time. That way upon returning to a difficult section that just killed you, you can pop a quick save to spare yourself having to trudge all the way back yet again should you fail it a second, third, fourth, etc time. But with limited quicksaves you have to pick and choose your moments. You can&#8217;t trivialize all the challenge by quick saving before each new screen or jump. Some portion of that Dark Souls-ian progression danger remains.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408931">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-otterley even depth-2 comment-role-subscriber" id="li-comment-2409021">
+<div id="comment-2409021">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6be4ce1df750633667e4cbea572e92c7?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6be4ce1df750633667e4cbea572e92c7?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409021">28/03/2017 at 02:16</a>
+</span>
+<cite class="fn">Otterley</cite> <span class="says">says:</span></span>
+</p>
+<p>That reminds me of a similar system in Operation Flashpoint (and perhaps Arma?) where you could save a couple of times only. On longer missions you&#8217;d need to carefully choose your moments. </p>
+<p>That might be a nice way to take the difficulty down a notch :)</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409021">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-kolbex odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2408941">
+<div id="comment-2408941">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/a7417bdd499e6f4fd5cac387b8d566ff?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/a7417bdd499e6f4fd5cac387b8d566ff?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408941">27/03/2017 at 22:15</a>
+</span>
+<cite class="fn">Kolbex</cite> <span class="says">says:</span></span>
+</p>
+<p>Ugh, this sounds so great, but with Battle Brothers and Wings Over Flanders Fields both demanding my playtime right now (not to mention Overwatch), I just&#8230;don&#8217;t know where I&#8217;ll be able to fit it in. Maybe during the summer sale&#8230;</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408941">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-kaicooper even thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2408943">
+<div id="comment-2408943">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/6fa8ab1b27a40383c33ea316ef84e538?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/6fa8ab1b27a40383c33ea316ef84e538?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408943">27/03/2017 at 22:17</a>
+</span>
+<cite class="fn">kaicooper</cite> <span class="says">says:</span></span>
+</p>
+<p>this generation kids need more Milky COD..<br/>
+no love for hard games..reviewers hates this game<br/>
+and Styx sequal cus its too challenging..totally day one buy<br/>
+u guys keep playing COD in space</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408943">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-snowskeeper odd alt depth-2 comment-role-subscriber" id="li-comment-2409037">
+<div id="comment-2409037">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4762a3cd3b5c369dd0cc36568556849a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4762a3cd3b5c369dd0cc36568556849a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409037">28/03/2017 at 05:24</a>
+</span>
+<cite class="fn">Snowskeeper</cite> <span class="says">says:</span></span>
+</p>
+<p>Reviewer: &#8220;I don&#8217;t mind difficulty, but in these very specific ways, the game feels aunfair; the control scheme is also a little clunky.&#8221;<br/>
+Commenter: &#8220;LUL COD KIDDY&#8221;</p>
+<p>Yeah, okay, friend. You have a nice day now.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409037">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-barts even thread-even depth-1 comment-role-subscriber" id="li-comment-2408947">
+<div id="comment-2408947">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408947">27/03/2017 at 22:21</a>
+</span>
+<cite class="fn"><a href='http://jawnesny.pl/' rel='external nofollow' class='url'>Barts</a></cite> <span class="says">says:</span></span>
+</p>
+<p>OBJECTION!</p>
+<p>I have been playing my review copy (I also backed Rain World back in 2014, but did not have early access rights) for last couple of days and I don&#8217;t agree with Brendan&#8217;s assessment.</p>
+<p>Yes, Rain World is hard, unpredictable and occasioanlly unfair. So is Dark Souls. So is nature. But boy oh boy, is there a sense of discovery, a thrill of life &amp; death encounters, sudden joy of figuring out how to do something or what eating this strange plant does.</p>
+<p>It&#8217;s not for everyone, that&#8217;s for certain, just like some of the heavier Bowmore whiskys. For those who enjoy this kind of thing, though, it&#8217;s a treat.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408947">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-jeroen-d-stout odd alt depth-2 comment-role-subscriber" id="li-comment-2408957">
+<div id="comment-2408957">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/fdcbab20762975c21ddb57165d84ab94?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/fdcbab20762975c21ddb57165d84ab94?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408957">27/03/2017 at 22:48</a>
+</span>
+<cite class="fn">Jeroen D Stout</cite> <span class="says">says:</span></span>
+</p>
+<p>SUSTAINED</p>
+<p>The incredibly punishing world is actually what makes it amazing for me. Almost all of the complaints I see about it would probably make it more fun for the complainer, but less fun for me. That a lizard shows up and blocks my path is the fun: &#8220;not today, then,&#8221; I say to myself, as I try another route. The world lends itself for exploration, retrying and mastery.</p>
+<p>Sure, there is no hand-holding, no explanations, you need to learn how not to crawl into a pipe with your butt first&#8230; and then after that learning process, you are the master of the world and you have earned it all the way. Even now returning to the game (after playing it quite a while back) I went into a new-ish area and was curb-stomped, then realised a feature I had never even considered and just laughed at the screen. I made it: it was an <i>adventure</i>, not a guided tour.</p>
+<p>To the comment that the controls are a waste of potential I would say&#8230; no. They&#8217;re not once you get used to working with them. Or so I think. I don&#8217;t know. When I control the slugcat I feel like a young god shooting through the world, then I get cocky and get eaten.</p>
+<p>Perhaps the game just requires you to place a lot of responsibility on yourself, ultimately. If you go off the right path into an area which will completely eviscerate you, you need to think &#8220;huh, I guess I am not ready,&#8221; and head back. It runs against current gaming stereotypes, but just running ahead in the world leads to the redoing screens again and again. Taking your time and studying and learning to understand the world makes it possible to go through it right away. Then after a while you learn enough to finally be a great Traveller through the world, to whom people look up and say &#8220;how the hell do you make this look easy.&#8221;</p>
+<p>It&#8217;s that responsibility which many will not like. But if you like for the game to want you to come to it (instead of it reaching out to you), you will love the game more than anything.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408957">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-snowskeeper even depth-2 comment-role-subscriber" id="li-comment-2409039">
+<div id="comment-2409039">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4762a3cd3b5c369dd0cc36568556849a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4762a3cd3b5c369dd0cc36568556849a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409039">28/03/2017 at 05:33</a>
+</span>
+<cite class="fn">Snowskeeper</cite> <span class="says">says:</span></span>
+</p>
+<p>Brendan compared it to Dark Souls in the article. His point was that while Dark Souls is difficult, and difficulty isn&#8217;t a bad thing, Dark Souls rarely ever felt unfair. Every problem could be learned, and that learning would eventually help you overcome it. Death was also never framed as a punishment; the only thing that was punished was overextension (IE if you try to push farther than you&#8217;re able to reach, you might find it difficult to retrieve your souls). All of his major complaints related to ways in which the game is unfair. And even then, he notes that this unfairness could be dealt with by making checkpoints more common, or else allowing the player to quicksave, so that they didn&#8217;t have to keep going over the same ground over and over again every time you died. He also mentions creatures eating you from off-screen, in ways that offer no opportunity for escape. I think that&#8217;s a fair complaint.</p>
+<p>Granted, I haven&#8217;t bought the game. Didn&#8217;t really plan to before reading this; don&#8217;t plan to now, either. Deliberate or not (and the developer&#8217;s post above does suggest that this was a deliberate choice), clunky controls and unfair deaths don&#8217;t appeal to me, especially not when accompanied by trekking over the same landscape over and over again after each death. The description of the environment and the ecosystem have made me a lot more likely to pick it up on a sale, though.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409039">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-barts odd alt depth-3 comment-role-subscriber" id="li-comment-2409043">
+<div id="comment-2409043">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409043">28/03/2017 at 05:45</a>
+</span>
+<cite class="fn"><a href='http://jawnesny.pl/' rel='external nofollow' class='url'>Barts</a></cite> <span class="says">says:</span></span>
+</p>
+<p>Huge difference: Dark Souls is way more predictable. Enemies are in the same spot and have the same behavioural patterns, always. Rain World is more reliant on procedural generation and randomness, therefore much less predictable and prone to occasional unfortunate RNG, which then causes odds to be stacked against the player, hence the impression of unfairness.</p>
+<p>I think this is ultimately the reason Brendon found it harder and more punishing. I personally find it refreshing: sometimes you die not because of your own fault, but because of unfair set of circumstances. Just like nature, just like real life. </p>
+<p>&#8220;It&#8217;s not always all about you, princess.&#8221;</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409043">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-snowskeeper even depth-4 comment-role-subscriber" id="li-comment-2409047">
+<div id="comment-2409047">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/4762a3cd3b5c369dd0cc36568556849a?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/4762a3cd3b5c369dd0cc36568556849a?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409047">28/03/2017 at 05:55</a>
+</span>
+<cite class="fn">Snowskeeper</cite> <span class="says">says:</span></span>
+</p>
+<p>I don&#8217;t mind games not being all about the player, but what you described isn&#8217;t the impression of unfairness. That <i>is</i> unfairness. Dying because of circumstances totally beyond your control may be a thing in nature, but that doesn&#8217;t make it fun, especially in a game where death means a long trek over ground you&#8217;ve already covered.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409047">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-barts odd alt depth-5 comment-role-subscriber" id="li-comment-2409051">
+<div id="comment-2409051">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409051">28/03/2017 at 06:04</a>
+</span>
+<cite class="fn"><a href='http://jawnesny.pl/' rel='external nofollow' class='url'>Barts</a></cite> <span class="says">says:</span></span>
+</p>
+<p>You are right and I agree. </p>
+<p>It is perhaps worth noting that generally I am not a sucker for obnoxiously hard games, because life is too short, I have work and family obligations, and neither time nor skill some of the gamers apparently display. </p>
+<p>That said, Rain World is often hard, but mostly fair as in &#8220;can be beaten with enough effort&#8221;. It&#8217;s just that there are some tough sections and occasional random moments which stack the odds to the point of unfairness. But these have been happening every now and then, not all the time (at least for me; you mileage may vary, Rain World is procedurally generated after all). And then they serve as a reminder &#8220;hey, it&#8217;s a brutal world out here&#8221;, not constant punishment of &#8220;git gud&#8221; kind.</p>
+<p>I hope I have clarified what I meant. I am definitely not saying it is for everyone. I just think it is not overly unfair or unbeatable.</p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-autonomylost even thread-odd thread-alt depth-1 comment-role-premium_user" id="li-comment-2408971">
+<div id="comment-2408971">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/052ddec90279e361b24b094e772ca896?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/052ddec90279e361b24b094e772ca896?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/><a href="https://www.rockpapershotgun.com/supportrps/"><img style="border: 0;" class="badge" src="https://www.rockpapershotgun.com/images/supporter.png" title="Premium User" alt="Premium User Badge"/></a> </div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2408971">27/03/2017 at 23:19</a>
+</span>
+<cite class="fn">AutonomyLost</cite> <span class="says">says:</span></span>
+</p>
+<p>Good review. I was hoping for something glowing, but enjoyed what&#8217;s here nonetheless. Definitely gonna pick this one up to see for myself, just not immediately. The sense of exploration and discovery sound delightful.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2408971">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+<li class="comment byuser comment-author-caiman odd alt thread-even depth-1 comment-role-subscriber" id="li-comment-2409027">
+<div id="comment-2409027">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/8cac64a4c422f923d5fe4f6e37ee522f?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/8cac64a4c422f923d5fe4f6e37ee522f?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409027">28/03/2017 at 02:47</a>
+</span>
+<cite class="fn">Caiman</cite> <span class="says">says:</span></span>
+</p>
+<p>As soon as Brendan compared it (in certain mechanical ways) with Abe&#8217;s Oddyssey, I was sold. I love that game to bits, and although it was tough in places, I felt that I could master the mechanics and get past it. Beating it was very satisfying.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409027">Log in to Reply</a> </div>
+</div>
+</div>
+<ul class="children">
+<li class="comment byuser comment-author-barts even depth-2 comment-role-subscriber" id="li-comment-2409053">
+<div id="comment-2409053">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/34c02d1bca83d4c8a19adad9c8cb7d81?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409053">28/03/2017 at 06:07</a>
+</span>
+<cite class="fn"><a href='http://jawnesny.pl/' rel='external nofollow' class='url'>Barts</a></cite> <span class="says">says:</span></span>
+</p>
+<p>It actually has similar sense of journey and discovery. In my review I compare it to Abe&#8217;s Oddysee as well.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409053">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ul> 
+</li> 
+<li class="comment byuser comment-author-flappybat odd alt thread-odd thread-alt depth-1 comment-role-subscriber" id="li-comment-2409117">
+<div id="comment-2409117">
+<div class="avatar-container"><img alt='' src='https://secure.gravatar.com/avatar/0ca3b113057041e9df8a73342acf8e09?s=32&#038;d=monsterid&#038;r=pg' srcset='https://secure.gravatar.com/avatar/0ca3b113057041e9df8a73342acf8e09?s=64&amp;d=monsterid&amp;r=pg 2x' class='avatar avatar-32 photo' height='32' width='32'/></div>
+<div class="comment-content "><p><span class="comment-author vcard">
+<span class="comment-meta commentmetadata"><a style="color: #999" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/#comment-2409117">28/03/2017 at 12:18</a>
+</span>
+<cite class="fn">Flappybat</cite> <span class="says">says:</span></span>
+</p>
+<p>Waited a long time for this but as soon as I died and went back 20 minutes I sighed. Understand why with the rain mechanic but it&#8217;s just brutal for a game with 20~ minute exploration sections you very easily die on. I hadn&#8217;t even found another hibernation chamber.</p>
+<p>I can understand mechanics for gameplay reasons but this feels like a step too far.</p>
+<div class="reply">
+<a rel="nofollow" class="comment-reply-login" href="https://www.rockpapershotgun.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.rockpapershotgun.com%2F2017%2F03%2F27%2Frain-world-review%2F%23comment-2409117">Log in to Reply</a> </div>
+</div>
+</div>
+</li> 
+</ol>
+<div class="pagination">
+</div>
+<div id="respond">
+ 
+<div class="cancel-comment-reply"> <small>
+<a rel="nofollow" id="cancel-comment-reply-link" href="/2017/03/27/rain-world-review/#respond" style="display:none;">Click here to cancel reply.</a> </small> </div>
+<div class="comment-form-block">
+<h3>Comment on this story</h3>
+<p class="log-in-to-comment">You must be <a href="https://www.rockpapershotgun.com/wp-login.php?action=register">registered</a> and <a href="https://www.rockpapershotgun.com/wp-login.php">logged in</a> to post a comment.</p>
+<div id="commentform">
+<label for="comment">Wot you want to say
+:</label>
+<textarea name="comment" id="comment" cols="100%" rows="10" tabindex="4"></textarea>
+<p><small><strong>XHTML:</strong> Allowed code: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>
+<p>
+<input name="submit" type="image" src="/wp-content/themes/rockpapershotgun/images/opinion.png" style="width:96px;height:26px;border:0 #FFFFFF!important;" id="submit" tabindex="5"/>
+</p>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>  
+<ul id="sidebar" class="hidden-mobile hidden-tablet">
+<li id="rpstagsearch-2" class="widget-container RPSTagSearch"> <div id="affiliate-disclaimer">
+<h4>Disclaimer</h4>
+<div class="disclaimer"><p><small>If you click our links to online stores and make a purchase we may receive a few pennies. Find more information <a href="/affiliate-linking-policy/">here</a>.</small></p></div>
+</div>
+<h4>Tags</h4>
+<p class="tags"><a href="https://www.rockpapershotgun.com/tag/adult-swim-games/" rel="tag">Adult Swim Games</a>, <a href="https://www.rockpapershotgun.com/tag/feature/" rel="tag">feature</a>, <a href="https://www.rockpapershotgun.com/tag/rain-world/" rel="tag">Rain World</a>, <a href="https://www.rockpapershotgun.com/tag/review/" rel="tag">review</a>, <a href="https://www.rockpapershotgun.com/tag/videocult/" rel="tag">Videocult</a>, <a href="https://www.rockpapershotgun.com/tag/wot-i-think/" rel="tag">wot i think</a>.</p>
+<h4 class="widget-title">Search <span>for clues</span></h4>
+<form method="get" action="/" id="tagsearch">
+<fieldset>
+<input type="hidden" name="valuesUrl" id="valuesUrl" value="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/values.php"/>
+<input type="text" name="tagsearchtext" id="tagsearchtext" placeholder="Search for a tag" style="width:230px"/>
+<input type="submit" class="submit primary" value="Go"/>
+</fieldset>
+</form>
+</li><li id="rpsadblock-2" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<style>*{margin:0;padding:0;border:0;}</style>
+ 
+<style>.home.infinite-scroll #sidebar #div-ga-RPS_MPU_MOB{display:none!important;}</style>
+ 
+<style>.rps-carousel article .text{right:0;}.entry a{font-weight:bold;text-decoration:none;}div.content div.block p.featured-block-title,div.content div.block p.premium-block-title,div.content div.block p.giveaway-block-title{min-height:32px;}p.giveaway-block-title span{background-image:url(/wp-content/themes/rockpapershotgun2013/images/giveaway-title-bg.png);background-size:77px 15px;padding-left:0;}div.content div.block p.giveaway-block-title{padding-right:15px;}</style>
+ 
+ 
+<style type="text/css">#rps-article-carousel .navigation:after{background-image:url(/wp-content/plugins/rps-article-carousel/carousel-arrows.png);}@media screen and (max-width: 665px) {#header .logo a{background-image:url(/wp-content/themes/rockpapershotgun2013/images/logo-single-line.png);}}</style>
+ 
+<style type="text/css">.infinite-wrap .rps-carousel-container{display:none;}</style>
+<script>
+jQuery(document).ready(function () {
+    jQuery('a[href="https://twitter.com/asponge"]').remove();
+});
+</script>
+ 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_1" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_1"></div>
+ 
+</div>
+</li><li id="rpsnews-2" class="widget-container RPSNews"><h4 class="widget-title">News <span>and things</span></h4>
+<ul class="no-bullets thumbs">
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/" rel="bookmark" title="Come see developer sessions this week at EGX Rezzed"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/kenlevine.jpg&w=50&h=50&cc=#000" alt="Come see developer sessions this week at EGX Rezzed"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/" rel="bookmark" title="Come see developer sessions this week at EGX Rezzed">
+Come see developer sessions this week at EGX Rezzed </a></h5>
+<p>They look quite good</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/" rel="bookmark" title="Rumour! Call of Duty: WW2 is real, and a real bad name"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/28cod.jpg&w=50&h=50&cc=#000" alt="Rumour! Call of Duty: WW2 is real, and a real bad name"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/" rel="bookmark" title="Rumour! Call of Duty: WW2 is real, and a real bad name">
+Rumour! Call of Duty: WW2 is real, and a real bad name </a></h5>
+<p>PING!</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/28/dark-souls-3-the-ringed-city-dlc-released/" rel="bookmark" title="Dark Souls 3 now concluded in The Ringed City"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/28darksouls3ringed.jpg&w=50&h=50&cc=#000" alt="Dark Souls 3 now concluded in The Ringed City"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/28/dark-souls-3-the-ringed-city-dlc-released/" rel="bookmark" title="Dark Souls 3 now concluded in The Ringed City">
+Dark Souls 3 now concluded in The Ringed City </a></h5>
+<p>This is the end</p> </li>
+<li>
+<a class="thumb" href="https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/" rel="bookmark" title="Destiny 2 announced, but why do we care?"> <img src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/destiny2.jpg&w=50&h=50&cc=#000" alt="Destiny 2 announced, but why do we care?"/> </a>
+<h5 class="article-title"><a href="https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/" rel="bookmark" title="Destiny 2 announced, but why do we care?">
+Destiny 2 announced, but why do we care? </a></h5>
+<p>Dest2ny</p> </li>
+<li class="more"><a href="https://www.rockpapershotgun.com/category/pc-game-news/"><strong>And much more&hellip;</strong></a></li>
+</ul>
+<div class="clear"></div>
+</li><li id="autofeature-2" class="widget-container AutoFeature">
+<a data-id="422987" class="widget-link invert-widget" id="autofeature-422987" href="https://www.rockpapershotgun.com/2017/01/13/the-50-best-fps-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/may/wasd3header3.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best FPS On PC</h4>
+<p>The Worthiest Reticules Of All Time</p> </a>
+</li><li id="autofeature-3" class="widget-container AutoFeature">
+<a data-id="437667" class="widget-link " id="autofeature-437667" href="https://www.rockpapershotgun.com/2017/03/27/rain-world-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/rainworld_wit_1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Rain World</h4>
+<p>The 5175th series of Planet Earth </p> </a>
+</li><li id="rpstagaz-2" class="widget-container RPSTagAZ"><h4 class="widget-title">Browse <span>our tags</span></h4>
+<ul class="tag-list tag-list--alphabet">
+<li><a href="/tags?letter=a">A</a></li>
+<li><a href="/tags?letter=b">B</a></li>
+<li><a href="/tags?letter=c">C</a></li>
+<li><a href="/tags?letter=d">D</a></li>
+<li><a href="/tags?letter=e">E</a></li>
+<li><a href="/tags?letter=f">F</a></li>
+<li><a href="/tags?letter=g">G</a></li>
+<li><a href="/tags?letter=h">H</a></li>
+<li><a href="/tags?letter=i">I</a></li>
+<li><a href="/tags?letter=j">J</a></li>
+<li><a href="/tags?letter=k">K</a></li>
+<li><a href="/tags?letter=l">L</a></li>
+<li><a href="/tags?letter=m">M</a></li>
+<li><a href="/tags?letter=n">N</a></li>
+<li><a href="/tags?letter=o">O</a></li>
+<li><a href="/tags?letter=p">P</a></li>
+<li><a href="/tags?letter=q">Q</a></li>
+<li><a href="/tags?letter=r">R</a></li>
+<li><a href="/tags?letter=s">S</a></li>
+<li><a href="/tags?letter=t">T</a></li>
+<li><a href="/tags?letter=u">U</a></li>
+<li><a href="/tags?letter=v">V</a></li>
+<li><a href="/tags?letter=w">W</a></li>
+<li><a href="/tags?letter=x">X</a></li>
+<li><a href="/tags?letter=y">Y</a></li>
+<li><a href="/tags?letter=z">Z</a></li>
+<li><a href="/tags?letter=0-9">#</a></li>
+</ul>
+</li><li id="bdp-comments" class="widget-container widget_bdp_comments"><h4 class="widget-title">Respond <span>to our gibber</span></h4><ul id="widget_bdp_comments_ul">
+<li>SuicideKing</a> : &ldquo;I wish you'd talk to Eugen too, about Steel Division, being published by Paradox, etc. ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/come-see-developer-sessions-this-week-at-egx-rezzed/#comment-2409215'>Come see developer sessions this week at EGX Rezzed</a></li>
+<li>ZX k1cka55 48K</a> : &ldquo;Just read the Changelog in disgust without realizing that it's just a joke, because it ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/#comment-2409213'>The RPG Scrollbars: Predicting Planescape</a></li>
+<li>Chromatose</a> : &ldquo;I was a complete sad-sack and purchased an Xbox 360 especially to play Destiny. Sure, ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/27/destiny-2-announced-but-why-do-we-care/#comment-2409211'>Destiny 2 announced, but why do we care?</a></li>
+<li>Drib</a> : &ldquo;Missed an opportunity for "Call of 2dy 2: WW2"&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/#comment-2409209'>Rumour! Call of Duty: WW2 is real, and a real bad name</a></li>
+<li>Bull0</a> : &ldquo;In vidyagames characters scream I'M OUT when they reload, like they're duncan bannatyne with hearing ...&rdquo; on <a href='https://www.rockpapershotgun.com/2017/03/28/call-of-duty-ww2-rumour/#comment-2409207'>Rumour! Call of Duty: WW2 is real, and a real bad name</a></li>
+</ul>
+</li><li id="rpsadblock-3" class="widget-container RPSAdBlock"> <div class="textwidget"> 
+<div class="ad-desktop ad-hd" data-dfp-id="RPS_MPU_2" data-dfp-sizes="300x250" id="div-ga-RPS_MPU_2" data-ghost-zone="59"></div>
+ 
+</div>
+</li><li id="autofeature-14" class="widget-container AutoFeature">
+<a data-id="413239" class="widget-link invert-widget" id="autofeature-413239" href="https://www.rockpapershotgun.com/2016/11/18/the-50-best-strategy-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/15/apr/stratheader.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 best strategy games on PC</h4>
+<p>Hit Parade</p> </a>
+</li><li id="autofeature-15" class="widget-container AutoFeature">
+<a data-id="432371" class="widget-link " id="autofeature-432371" href="https://www.rockpapershotgun.com/2017/03/27/planescape-enhanced-edition-changelog/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/feb/plane1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The RPG Scrollbars: Predicting Planescape</h4>
+<p>The long awaited follow-up to Forgotten Realms: Baldur's Gate</p> </a>
+</li><li id="autofeature-4" class="widget-container AutoFeature">
+<a data-id="437233" class="widget-link " id="autofeature-437233" href="https://www.rockpapershotgun.com/2017/03/27/the-best-games-of-my-lifetime-year-by-year-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/chartists.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of *my* lifetime, year by year</h4>
+<p>A list, probably wrong</p> </a>
+</li><li id="autofeature-13" class="widget-container AutoFeature">
+<a data-id="408185" class="widget-link invert-widget" id="autofeature-408185" href="https://www.rockpapershotgun.com/2016/10/31/the-50-best-free-games-on-pc/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/dec/awardsheader_small.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The 50 Best Free Games On PC</h4>
+<p>No free-to-play, just free.</p> </a>
+</li><li id="autofeature-12" class="widget-container AutoFeature">
+<a data-id="437071" class="widget-link " id="autofeature-437071" href="https://www.rockpapershotgun.com/2017/03/26/the-sunday-papers-443/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/sep/papers2.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The Sunday Papers</h4>
+<p>Read more</p> </a>
+</li><li id="autofeature-10" class="widget-container AutoFeature">
+<a data-id="437303" class="widget-link " id="autofeature-437303" href="https://www.rockpapershotgun.com/2017/03/25/best-free-games-of-the-week-46/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/13/mar/gabey.png&w=280&h=112&zc=11" alt=""/>
+<h4>Gabe Newell to write, direct and star in Half-Life movie</h4>
+<p>NEWS ALERT. NEWS ALERT</p> </a>
+</li><li id="autofeature-9" class="widget-container AutoFeature">
+<a data-id="373643" class="widget-link invert-widget" id="autofeature-373643" href="https://www.rockpapershotgun.com/2016/06/15/if-only-text-adventures-for-people-who-hate-guessing-the-verb/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jun/superluminalvagrant.jpeg&w=280&h=112&zc=11" alt=""/>
+<h4>IF Only: Text Adventures For People Who Hate Guessing The Verb</h4>
+<p>Parsers Verbed</p> </a>
+</li><li id="autofeature-8" class="widget-container AutoFeature">
+<a data-id="436299" class="widget-link " id="autofeature-436299" href="https://www.rockpapershotgun.com/2017/03/25/whats-wrong-with-mass-effect-andromeda/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/mea.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Everything else that's wrong with Mass Effect Andromeda</h4>
+<p>A Galaxy Of Errors</p> </a>
+</li><li id="autofeature-7" class="widget-container AutoFeature">
+<a data-id="437299" class="widget-link " id="autofeature-437299" href="https://www.rockpapershotgun.com/2017/03/25/what-to-play-this-weekend-28/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/14/nov/wypalice.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>What are we all playing this weekend?</h4>
+<p>WELL?</p> </a>
+</li><li id="autofeature-5" class="widget-container AutoFeature">
+<a data-id="359811" class="widget-link invert-widget" id="autofeature-359811" href="https://www.rockpapershotgun.com/2016/04/13/build-engine-duke-nukem-blood-shadow-warrior/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/apr/build1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Blood, Sweat & Laughter: The Beauty Of The Build Engine</h4>
+<p>2.5D remembered.</p> </a>
+</li><li id="autofeature-6" class="widget-container AutoFeature">
+<a data-id="437049" class="widget-link " id="autofeature-437049" href="https://www.rockpapershotgun.com/2017/03/24/future-unfolding-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/futureunfolding1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Future Unfolding</h4>
+<p>A trip through nature</p> </a>
+</li><li id="autofeature-11" class="widget-container AutoFeature">
+<a data-id="436887" class="widget-link " id="autofeature-436887" href="https://www.rockpapershotgun.com/2017/03/24/kona-review/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/kon8.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Wot I Think: Survival meets adventure in Kôna</h4>
+<p>Chilling</p> </a>
+</li><li id="autofeature-16" class="widget-container AutoFeature">
+<a data-id="347951" class="widget-link invert-widget" id="autofeature-347951" href="https://www.rockpapershotgun.com/2016/02/19/xcom-2-guide/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/feb/sectoid.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>XCOM 2 Guide To Strategy, Performance, Mods & More</h4>
+<p>Everything you need to know.</p> </a>
+</li><li id="autofeature-17" class="widget-container AutoFeature">
+<a data-id="435671" class="widget-link " id="autofeature-435671" href="https://www.rockpapershotgun.com/2017/03/24/warframe-bard-update/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/warframe1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Warframe: now a game of music-making as well as action</h4>
+<p>Digital Extremes explain Octavia's Anthem</p> </a>
+</li><li id="autofeature-18" class="widget-container AutoFeature">
+<a data-id="437087" class="widget-link " id="autofeature-437087" href="https://www.rockpapershotgun.com/2017/03/24/the-best-games-of-my-lifetime-year-by-year/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/lifegames.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>The best games of my lifetime, year by year</h4>
+<p>This is my life (in games)</p> </a>
+</li><li id="autofeature-19" class="widget-container AutoFeature">
+<a data-id="342317" class="widget-link invert-widget" id="autofeature-342317" href="https://www.rockpapershotgun.com/2016/01/21/best-fallout-4-mods-2/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/jan/falloutsettlementanywhere.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best Fallout 4 Mods</h4>
+<p>For graphics, weapons, the UI and more.</p> </a>
+</li><li id="autofeature-20" class="widget-container AutoFeature">
+<a data-id="437013" class="widget-link " id="autofeature-437013" href="https://www.rockpapershotgun.com/2017/03/24/best-pc-gaming-deals-of-the-week-26/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/16/oct/12hitmanjapan.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Best PC gaming deals of the week</h4>
+<p>Square and 2K go Humble</p> </a>
+</li><li id="autofeature-21" class="widget-container AutoFeature">
+<a data-id="436917" class="widget-link " id="autofeature-436917" href="https://www.rockpapershotgun.com/2017/03/23/making-dungeon-crawl-stone-soup-with-253-cooks-and-no-head-chef/">
+<img class="AutoFeature-image" src="https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/timthumb/timthumb.php?src=https://www.rockpapershotgun.com/images/17/mar/crawl1.jpg&w=280&h=112&zc=11" alt=""/>
+<h4>Making Dungeon Crawl Stone Soup with 253 cooks and no head chef</h4>
+<p>One of the best roguelikes, one of the strangest dev teams</p> </a>
+</li>
+</ul>
+</div>  
+<div id="skyscraper">
+ 
+<div class="ad-hd ad-halfpage" data-dfp-id="RPS_HP" data-dfp-sizes="160x600,300x600" id="div-ga-RPS_HP" data-ghost-zone="26"></div>
+ 
+</div>  
+</div>  
+</div>  
+<div id="footer">
+<div class="container">
+<div id="footer-content">
+<div class="footer-col">
+<h4>All our stuff <span>and things</span></h4>
+<ul>
+<li><a href="/">home</a></li>
+<li><a href="/about-pc-gaming-rps/">about</a></li>
+<li><a href="/advertise-pc-games/">advertise</a></li>
+<li><a href="/hey-prs-and-developers/">hey, developers!</a></li>
+<li><a href="/supportrps/">support RPS</a></li>
+<li><a href="/forums/">forums</a></li>
+</ul>
+<ul>
+<li><a href="http://steamcommunity.com/groups/rps">steam group</a></li>
+<li><a href="https://twitter.com/rockpapershot">twitter</a></li>
+<li><a href="https://www.facebook.com/rockpapershot">facebook</a></li>
+<li><a href="http://rps.libsyn.com/">podcast</a></li>
+<li><a href="http://feeds.feedburner.com/RockPaperShotgun">rss</a></li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Rock, Paper, Shotgun <span>was</span></h4>
+<ul style="width:180px;">
+<li>
+<a href="mailto:graham@rockpapershotgun.com">Graham Smith</a>
+<a href="https://twitter.com/gonnas" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alec@rockpapershotgun.com">Alec Meer</a>
+<a href="https://twitter.com/bonzrat" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://www.bonzrat.co.uk/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:john@rockpapershotgun.com">John Walker</a>
+<a href="https://twitter.com/botherer" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+<a href="http://botherer.org/blog/" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/site.png" alt="Site"/></a>
+</li>
+<li>
+<a href="mailto:adam@rockpapershotgun.com">Adam Smith</a>
+<a href="https://twitter.com/noneconomical" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+<li>
+<a href="mailto:alice@rockpapershotgun.com">Alice O'Connor</a>
+</li>
+<li>
+<a href="mailto:pip@rockpapershotgun.com">Philippa Warr</a>
+<a href="https://twitter.com/philippawarr" class="icon"><img src="//www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/images/twitter.png" alt="Twitter"/></a>
+</li>
+</ul>
+</div>
+<div class="footer-col hidden-mobile">
+<h4>Info <span>and appendices</span></h4>
+<ul style="width:300px;">
+<li>&copy; 2007-2017 <a href="/">Rock Paper Shotgun</a> Ltd.</li>
+<li>Designed by Jonathan Sutcliffe.</a></li>
+<li>Hosted by <a href="http://www.positive-internet.com/">Positive Internet.</a></li>
+<li>Today's scotch egg consumption: 1802</li>
+<li>Hivemind Throbometer reading: 1.351%</li>
+<li class="write-to-rps">Write to RPS <a href="mailto:contact@rockpapershotgun.com">contact@rockpapershotgun.com</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+<div id="eg-network" class="hidden-mobile">
+<div class="inner"></div>
+<div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+            jQuery(function(){
+                jQuery('#eg-network .inner').load('https://www.rockpapershotgun.com/wp-content/themes/rockpapershotgun2013/eg-footer.php');
+            });
+        </script>
+</div>
+</div>
+ 
+<script type='text/javascript'>
+    
+        jQuery(document).ready(function() {
+
+            var custom_variables = {};
+            custom_variables['source'] = 'article';
+            custom_variables['url'] = document.location.pathname.substr(0, 40);
+            custom_variables['tags'] = "indie,platform,featured-articles,pc-game-reviews,adult-swim-games,feature,rain-world,review,videocult,wot-i-think,long-article";
+                            custom_variables['games'] = "rain-world";
+                        
+            try {
+                jQuery('.ad-tablet .ad-desktop, .ad-mobile, .ad-hd').getDFPads({'custom_variables' : custom_variables});
+            } catch(e) {
+                                    yafaIt();
+                                }
+
+            var lazyloading = true;
+           
+            function lazyloadAds() {
+                lazy_mpus = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus.length == 0) {
+                    lazyloading = false; 
+                    clearInterval(lazyloadInterval);
+                } else {
+                    for ( var i = 0; i < lazy_mpus.length; i++ ) {
+                        mpu_pos = jQuery(lazy_mpus[i])[0].getBoundingClientRect();
+                        if(mpu_pos['top'] < 1300 && lazyloading == true){
+                            jQuery(lazy_mpus[i]).getDFPads({'custom_variables' : custom_variables});   
+                            jQuery(lazy_mpus[i]).removeClass('lazyload').addClass('lazyloaded');                 
+                        }
+                    }    
+                }            
+            }
+
+            if(custom_variables['source'] == 'article'){
+                lazy_mpus_check = jQuery('.mpu .lazyload').filter(':visible');
+                if(lazy_mpus_check.length > 0) {
+                    var lazyloadInterval = setInterval(lazyloadAds, 300);
+                }
+            }
+
+        });
+
+    </script>
+ 
+<script type="text/javascript" src="//s.skimresources.com/js/87431X1560958.skimlinks.js"></script>
+ 
+ 
+<script>
+        function yafaIt() {
+            var ads = document.querySelectorAll('[data-dfp-id]');
+            for(var i = 0;i < ads.length;i++)
+            {
+				var ad = ads[i];
+				if( ad.hasAttribute("data-yafa-img") ) {
+					var yafa_click = ad.getAttribute("data-yafa-click");
+					var yafa_img = ad.getAttribute("data-yafa-img");
+					var yafa_target = ad.getAttribute("data-yafa-target");
+					var yafa_style = ad.getAttribute("data-yafa-style");
+					var yafa_linktarget = ad.getAttribute("data-yafa-linktarget");
+					var yafa_linkheight = 0;
+					if( ad.hasAttribute("data-yafa-linkheight") ) {
+						yafa_linkheight = ad.getAttribute("data-yafa-linkheight");
+					}
+					var tgt = jQuery(yafa_target);
+					tgt.attr(
+						'style', 'background-image: url(' + yafa_img + ');' + yafa_style
+					);
+					jQuery('html').bind('mousemove', function(e) {
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							jQuery('html').css({ 'cursor' :'pointer' });
+						} else {
+							jQuery('html').css({ 'cursor' :'auto' });
+						}
+					});
+					jQuery('html').bind('click', function (e) { 
+						if( (jQuery('#page-wrapper, #inner-wrapper, .page').is(e.target)) && (yafa_linkheight == 0 || e.pageY <=yafa_linkheight ) ) {
+							window.open(yafa_click,'_top');
+						}
+					});
+				}
+                jQuery(ad).hide();
+            }
+        }
+		</script>
+ 
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",opacity:0.8,loop:false,scrolling:false,top:false,right:false,bottom:false,left:false});
+});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ecd_params = {"cookie_message":"Rock Paper Shotgun uses cookies. For some reason we are now obliged to notify you of this fact. Not that you care. <a href=\"\/privacy-stuff\">More info here<\/a>.","cookies":{"0":{"name":"wp-settings-3","group":"WordPress","description":""},"1":{"name":"wp-settings-time-3","group":"WordPress","description":""},"2":{"name":"wordpress_test_cookie","group":"WordPress","description":""},"3":{"name":"__utma","group":"Google Analytics","description":""},"4":{"name":"__utmb","group":"Google Analytics","description":""},"5":{"name":"__utmc","group":"Google Analytics","description":""},"6":{"name":"__utmv","group":"Google Analytics","description":""},"7":{"name":"__utmz","group":"Google Analytics","description":""},"9":{"name":"","group":"","description":""}}};
+var ecd_cookies = [{"name":"wp-settings-3","description":"","group":"WordPress"},{"name":"wp-settings-time-3","description":"","group":"WordPress"},{"name":"wordpress_test_cookie","description":"","group":"WordPress"},{"name":"__utma","description":"","group":"Google Analytics"},{"name":"__utmb","description":"","group":"Google Analytics"},{"name":"__utmc","description":"","group":"Google Analytics"},{"name":"__utmv","description":"","group":"Google Analytics"},{"name":"__utmz","description":"","group":"Google Analytics"}];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/eu-cookie-directive/script.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var infinite = {"ajax_url":"https:\/\/www.rockpapershotgun.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/rps-feature-stepper/infinite-features.js?ver=1.0'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201713'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9'></script>
+<script type='text/javascript' src='https://www.rockpapershotgun.com/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type="text/javascript">
+			var bwpRecaptchaCallback = function() {
+				// render all collected recaptcha instances
+			};
+		</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=bwpRecaptchaCallback&#038;render=explicit" async defer></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc1fd178d1","applicationID":"26676767","transactionName":"MwBUZUZXWkpZAkMNCQpKd1JAX1tXFxJeCgEIAA==","queueTime":0,"applicationTime":1367,"atts":"H0dXEw5NSUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

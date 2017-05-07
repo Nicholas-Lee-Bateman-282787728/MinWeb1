@@ -1,0 +1,18 @@
+
+
+
+CryptoCoinsNews
+Storj Labs has announced that it is planning on moving its blockchain-based cloud storage network from its current Counterparty protocol over to the Ethereum blockchain.
+The Atlanta-based company announced in a blog post that one of the reasons for the planned move is due to current issues with the bitcoin’s blockchain transaction backlog and long transaction times. The Counterparty smart token platform runs on top of the bitcoin blockchain. Additionally, the fees that Storj have to pay are no longer sustainable.
+In the blog post, Shawn Wilkinson, CEO and CTO of Storj Labs, said:
+Counterparty transactions create small inputs and are heavier than normal BTC transactions, [so] users have experienced extremely high fees for transactions. For the February farmer output we paid over $1,600 in transaction fees, or about 10 percent of total payouts. This is not sustainable or scalable.
+Wilkinson cited the lack of Counterparty growth as a concern with no major updates in more than two years while its interface was confusing for new users. However, it’s believed that the Ethereum platform will provide the answer.
+Wilkinson commented on Ethereum’s ERC20 token, suggesting that Storj’s SJCX token could be migrated over to Ethereum’s standard token. While the progress of its future layer two solutions such as Raiden are promising and support ERC20 tokens.
+He added:
+ERC20 tokens have been issued by a number of prominent projects including Augur and Golem, and have wide support in the Ethereum development community.
+After the news that Storj Labs would be moving its platform to the Ethereum blockchain, the SJCX/BTC exchange rate increased to a four-month high.
+According to a report from Razor Forex, Storj tokens were priced at around 0.000206 bitcoins; however, that price has since dropped to about 0.00019013, according to CoinMarketCap.
+However, it indicates a sign that those in support of Storj Labs are in favor of such a move to the Ethereum blockchain, which in turn will further help the community to grow than it is doing at present.
+For now, initial steps have been taken to migrate Storj Labs away from the Counterparty protocol, but a date as to when this will happen is yet to be released from Wilkinson.
+In February, Storj Labs announced that it had raised $3 million in seed funding with early backers including those of Google Ventures, Ionic Security, Cockroach Labs, and Qualcomm Ventures and Techstars.
+Featured image from Shutterstock.

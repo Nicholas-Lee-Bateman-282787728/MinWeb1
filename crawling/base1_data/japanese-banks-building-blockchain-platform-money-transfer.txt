@@ -1,0 +1,20 @@
+./html_data_bitcoins/japanese-banks-building-blockchain-platform-money-transfer.txt
+
+
+
+CryptoCoinsNews
+Japan’s primary banking association is building a blockchain to allow the country’s banks to trial applications.
+The Japanese Bankers Association (JBA), consisting banks both large and small, will unite to conduct tests for core processes such as money transfers and trade finance using a blockchain platform this year.
+With 120 full member banks, 3 bank holding companies and 58 bankers’ associations aside from 70 associate member banks that include 49 foreign banks, the Japanese Bankers Association covers the breadth of the banking industry in the country.
+Pertinently, the JBA is the operator of the existing interbank wire transfer system for banks and financial institutions in Japan. The system, much like any other traditional money transfer infrastructure, sees high remittance fees, settlement times that could take days and is expensive, with a central authority and settlement agency to manage the process.
+Blockchain technology, commonly seen as the poster child of FinTech, is seen as a faster, more effective and cheaper solution to transform financial services.
+According to a report in the Nikkei, the association will build a blockchain platform by the end of this year, enabling all manners and sizes of banks to run blockchain tests together.
+Significantly, the Financial Services Agency (FSA) and the Bank of Japan, the country’s financial regulator and central bank respectively, will offer regulatory advice and support during the testing process. The recognition and counsel of the two leading financial authorities in Japan could help fast-track the process of implementing blockchain applications in the financial services industry.
+The report reveals that association members will form ‘theme-based coalitions’’ with other banks or companies to run tests on the common platform. The association is expected to support the costs incurred for running the tests on the platform, an encouraging stance for smaller banks to explore blockchain applications.
+Further, the association is also aiming to foster collaboration between some of the bigger banks -who are conducting their own blockchain experiments – and smaller regional banks the new framework on a single platform.
+In November 2016, three of Japan’s so-called ‘megabanks’ have all conducted inter-bank money transfer pilots on a blockchain. MUFG, Mizuho and SMBC made use of ‘miyabi’ a blockchain platform developed by Tokyo-based bitFlyer, Japan’s leading bitcoin exchange. The nine-month proof-of-concept trial saw researchers clock 1,500 transactions per second on the blockchain, beating the peak speed of 1,400 Tns/sec that the current interbank wire system is capable of.
+Japan’s banking industry is collectively ramping up blockchain research and development.
+Earlier this month, 47 Japanese banks participated in a successful money transfer pilot on a cloud-based blockchain solution developed by prominent industry firm Ripple.
+Overseen by SBI Ripple Asia, a jointly-owned company between Ripple and Japanese financial services giant SBI holdings, the successful pilot enabled real-time domestic and international money transfers while evaluating regulatory adherence, standardization among banks and operational risks. Participating banks are members of a separate Japanese banking consortium titled “The Japan Bank Consortium to Central Provide Domestic and Cross-Border Payment.” Established late last year, the working group of banks is engaging in a concentrated effort to leverage blockchain technology for payment and settlement solutions. The consortium consists of a third of all Japanese banks as members.
+As the Japanese Banking Association makes plans to roll-out a blockchain platform this year, Japan could conceivably become the world’s first major economy to deploy a blockchain-based infrastructure for core banking processes.
+Images from Shutterstock.

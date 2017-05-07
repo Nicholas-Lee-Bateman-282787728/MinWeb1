@@ -1,0 +1,45 @@
+
+
+ 
+ 
+
+
+By
+Ian Birnbaum
+ 
+
+An unsatisfying, forced march through the source material.
+What is it? Tactical party RPG based on a series of fantasy novels.
+Reviewed on: Windows 10, i5 4690k, 8GB RAM, Nvidia GTX 970Price: $40/£35Release date: Out nowPublisher: THQ Nordic, EuroVideo MedienDeveloper: King ArtLink: Official site
+Buy it: Humble store
+Read our affiliates policy.
+The Dwarves, a new realtime tactical RPG based on Markus Heitz’s German fantasy novel series of the same name, is an uneasy adaptation. As an RPG, Dwarves wants you to make choices to explore the world of its characters, but as a slavish recreation of a well-known book, it is constantly taking choices away from you. It’s a novel stuffed into an ill-fitting RPG suit, straining at seams held together by threadbare patches of tactical combat.
+There are a few different problems going on here, but if I smelt it right down to the base ore, The Dwarves has two main failings: its RPG doesn’t give you any freedom to make choices or grow, and its combat is spammy, tiresome, and not very fun.
+Only a few minutes into my adventure—playing as Tungdil Goldhand, the young dwarf on a quest—I came across the first of many times that the plot of Heitz’s novel stomps on my fun. I’m travelling across an overhead map in the style of a board game, with pieces moving along a gridwork of paths and roads. At each grid intersection, a chance encounter, town, or event pops up.
+On this occasion, the encounter window tells me I’ve found an abandoned camp and fire ring. Do I want to start a fire and bed down, or should I be extra cautious and climb into a tree? Not seeing any reason why I should be paranoid enough to sleep in a damn tree, I sack out. The next window informs me that an orc stabbed me in my sleep, and I am now dead. No ceremony, no preamble. Dead dwarf, game over. 
+I had to load my most recent save because, according to a friend who has read the series, Tungdil sleeps in the tree in the book. It may be faithful to the source material, but if I played D&D with a DM who concluded a short introduction with “...and a piano drops on you and you die; let’s start again,” I would not hang around that game for very long.
+
+Some choices are meaningless and some choices are momentous, and there’s no telling which is which.
+After reloading and sleeping in the tree, Tungdil wakes up to see an orc warband (surprise!) set up camp below him. After they leave, an encounter window gives me my options: climb down, or wait up in the tree to make sure the coast is clear. Well, you don’t have to stab this dwarf in the gut more than once to teach him some caution, so I wait in the tree. Nothing happens, says the encounter window. Do I want to wait some more?
+I chose the option to wait in the tree a dozen times, waiting for something to happen. Nothing ever does; the plot didn’t move on until I climbed down. These false choices are everywhere: maybe saying hello to a traveling caravan will give me an opportunity to buy some supplies; maybe meeting a character in that caravan is absolutely critical, and walking past it is game over. An RPG is a game about choices, yes, but Dwarves is a game in which some choices are meaningless and some choices are momentous, and there’s no telling which is which. I found myself quick-saving every few minutes.
+
+ For being so devoted to the plot of the book, sadly, this is a rendition of The Dwarves that did absolutely nothing for me as an introduction to this world. Names washed over me, signifying nothing, as though I was making introductions at a friend’s family reunion: Vraccas, Tion, Girdlegard, Boёndal, Älfar. A narrator delivers some pretty talented voice work, including what sound like direct dialog quotes from the book, but not being able to understand the references pulled me out of the game. The whole story wraps up in about 11 hours, reminding me again and again that I was playing a Wikipedia-level summary of a much more interesting story.
+When Tungdil isn’t clicking around, exploring this and that and getting quests to here and there, The Dwarves spends a lot of time in combat. It’s a standard party-based tactical RPG set-up: overhead camera, pause at any time, give orders, deploy special skill attacks set to cool-down timers. This design is serviceable in a lot of other games, but it stumbles badly here.
+The members of your party automatically attack the nearest enemy and pound them steadily with a basic attack until you give an order to use a special skill, which is actually pretty nice to see. Unfortunately, the basic attacks are useless, so the special skill attacks do all the heavy lifting. After some trial and error, I discovered that using basic strategy and smart party placement isn’t nearly as important as making sure that all of your fighters use as many of their special attacks as often as possible. The best way to make it through a tough fight is to pause often, switch characters constantly, and throw around those special attacks the instant their timers expire.
+
+If any party characters die, that’s game over (because the characters have to participate in the plot, of course), so it’s a real pain in the leather that there are very few ways to heal during a fight. This made difficulty spikes a real issue for me. Even on the easiest difficulty, I came up against several seemingly impossible battles, randomly placed before or after another fight that I found effortless. My success or failure depended entirely on how many bad guys level designers decided to spawn for that battle. If they added too few, I had an easy time. If they added too many, I had a horrific grind.
+It’s at this point that I would spend some character points beefing up that basic attack or spend some gold improving my gear, but Dwarves doesn’t have even those basic RPG elements. There are a few inventory items, like enchanted pendants and such, but no way to upgrade armor or loot new weapons. The only way to grow a character is by advancing along a very simple, one-path skill tree (skill stick? skill line?) with half a dozen special moves to unlock.
+
+Everything in The Dwarves made me feel like I had no real control over my journey across Girdlegard.
+After all the whining I’ve just done about this poor, battered game, it hardly seems worth mentioning, but: I had a lot of technical issues with The Dwarves, too. I only crashed to desktop once, thankfully, but there were other problems. My frame rate plummeted in every battle when a lot of enemies showed up, and moving around the map interface brought on screen tears and texture-pops. In combat, the camera is a real nuisance; I paused to find a camera angle free of tree branches and terrain almost as often as I paused to give combat orders. On one occasion, a corrupted saved game loaded to show a permanently frozen, motionless dwarf in the foothills around Blacksaddle. I returned to a previous save and started again.
+Between the rocky difficulty curves, the linear progression, the forced petty choices, and insta-death penalty for veering away from the dictated plot—everything in The Dwarves made me feel like I had no real control over my journey across Girdlegard. I lacked any real agency as a player, and even for a short RPG adventure, that sucks. I wanted to go on a journey, but I ended up just watching a pretty good book as read by someone else. 
+An unsatisfying, forced march through the source material.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

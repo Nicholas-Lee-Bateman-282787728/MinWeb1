@@ -1,0 +1,151 @@
+./html_data/faeria-review.html
+
+RPS Feature
+That's not very Faeria 
+By Brendan Caldwell on March 16th, 2017 at 7:00 pm.
+
+We’re currently spoiled for choice when it comes to collectible card games. If you’re not into the traditional nature of the efficient Hearthstone, you might dip your toes into the monster chess of Duelyst, and if you don’t fancy that maybe you’ll swan off with the Gods of Smite Tactics (although I wouldn’t currently recommend it). Into this arena comes Faeria [official site] a board-game-card-game hybrid that moves slowly and methodically but soon reveals itself to be quietly clever.
+Here’s the basics: you (intrepid, handsome) and your opponent (untrustworthy, a jerk) face off on opposite sides of a hexagonal grid. It’s all water. Both of you take turns plopping down both bits of land and minions to travel across that land. There are four fountains that continually produce faeria – the magical points that you need to summon things and cast spells – so controlling those is important. But the ultimate goal is to get over there and bash your opponent’s face until they run out of health. The challenge here is that you’re really playing two games at once. A game of territory control and a game of monster murdering. What happens in one will affect the other, and in big ways.
+This is because the type of lands you create will determine what kind of cards you can place onto the board and where exactly you can place them. You can’t summon a powerful warrior on your enemy’s hexagons, only on your own. And certain cards need to be placed on the land they call home – green minions on forest tiles, yellow minions on desert tiles, red minions on mountain tiles and blue minions on water tiles (these tiles aren’t the same as the default water underneath everything, they are more like lakes, but many blue minions can swim through an area with no land at all). Likewise, there is a neutral land type along with neutral minions that can be summoned anywhere, so long as the tile belongs to you. You can create two neutral lands in any one turn, whereas special lands (forests, deserts, etc) can only be made one at a time.
+
+Because of all this terrain chicanery, decks usually specialise. I’ve been playing mostly as the vegetarian greens, with a deck that focuses on spreading trees quickly and boosting the power and health of my most giant creatures. As soon as I have a good amount of tree tiles on the board, I summon the Oak Father, who gets more health for each forest I own.
+Other decks, like the watery blues, focus on summoning lots of frogs who can jump two spaces, lowering the need to place land in certain places, or they might simply be planning to jump over your own troops so that your opponent can place down a sneaky lake in the middle of your turf, an act that wouldn’t normally be possible if the lands themselves aren’t connected. The mountainous reds are all about dealing damage directly to the god (that’s you) and the sandy yellows are all about being super fast, able to charge across multiple spaces at once, but they also like to sacrifice their own creatures to buff others in their ranks.
+
+While none of that sounds very unique, there remains the possibility of mixed decks. Or, to put it another way, you can craft a deck that majors in mountains with a minor in lakes, if that’s what you really want. For instance, I’ve seen a foe place down forest after forest only to see him raise a desert out of the blue in the centre of the map – a useful place to spawn windy sand demons that can charge straight at my godly visage.
+There are cards that require both a set number from two or more terrain types, such as the Soul Eater, who is stronger from each death over the course of the game and needs both 3 forests and 3 deserts on the board to be summoned. Or the Three Wishes card, which needs two of every land type and nicks three of your opponents cards. It’ll be familiar territory for anyone who has played with the abstract elemental land-currencies of Magic: The Gathering, except this time the territory actually exists.
+
+In reality, I didn’t see a lot of mixing and matching, maybe because at lower levels it is easier to stick with a mix of neutral cards and a single colour. But it is certainly possible, and that opens up many more silly combos than would normally be possible.
+It’s easy to see Faeria’s strength when compared to other CCGs of its ilk. Where the creators of Duelyst had the audacity to think: “What if we made Hearthstone, but on a board?” the makers of Faeria instead took a look at Magic, and said: “What if we did that, but on a board, but you make the board up as you go, but so does the other player, but also maybe some of the minions can fly or swim through the water?”
+
+On top of that brainwave, there are many small clever elements that roll into the design. For example, instead of simply making a land tile every turn, you have other options, collected in a little panel on the bottom right. This one panel assaults you with choice. You can either:
+
+But you can only do one of these things. Assuming you have a deck that specialises, that means you’ve got four real options here. And there are times when this is paralysing. Do you take the two neutral lands so you can make a rush with this charging Oblivion Rider for your enemy’s faeria well? Do you plant down another Desert so you can summon a Golden Aviary which will empower your flying units? Or do you take an extra mana so you can afford to play the Lord of The Wastes and take out the giant forest monster that’ll be threatening your god next turn? Time is ticking down. I know, draw another card and see what happens. Oh no, that was a mistake.
+Each option by itself is a small thing, but by making you choose between them all once per go is something that transforms almost every turn into a critical decision. Eventually, one of you will make the wrong call, or two wrong calls. That’s when things fall apart slowly and messily, like a wet newspaper.
+
+The opening is especially important, since your first tendrils of land heading out into the world will signal both your intentions and the cards in your deck. I’ll often pop down two neutral tiles out to the side and summon a Farmer Boy or other weak unit from my opening hand, so he can gather the magical fizzy pop from one of the nearest wells. But then imagine if my opponent suddenly ignores their own wells and sticks two neutral lands coming straight to the centre of the board. Now I’m faced with a dilemma. If I don’t get some buffer between me and those lands, he’ll be able to encroach into my side of the board and spawn there every turn. But if I ignore this land-creep and go for the other well of fizzy pop, I’ll have a much stronger economy than him right off the bat. In this instance, I’d probably panic and draw another card, like a giant idiot man.
+My first few games with the AI (there are loads of solo mission packs, puzzles and campaigns) left me pleasantly hooked on all this pinpoint decision-making. Likewise, I had a good time in Pandora mode, a kind of draft mode where both players recieve special treasures that radically change the game by giving you loads more cards or buffing your minions to ridiculous extremes or some other such insanity. But getting into the workaday battle mode and facing off against non-treasured humans I started to feel a certain sluggishness come into the game. Matches can last a long time and much of it can turn into a back and forth of adding together small numbers, until somebody invests too much mana in a single failed rush, or gets their star minion turned into a frog.
+
+By the time I had faced off against multiple human wizards I had mixed feelings about it. The creation of your own arena adds a refreshing layer of extra thought to every match, and that little panel with all the choices – land, magic, extra card – really does force some tough decisions. But it suffers from Hearthstone’s old problem. After the opening, a single mislaid volley or simple error can leave you spiralling, totally unable to recover. There are rarely dramatic turnarounds, like in the much speedier Duelyst. When you start to win, you keep on winning, slowly encroaching on enemy territory and making sure there are no holes in your own landscaping decisions. Once you start to lose, it’s like being slowly flushed down a giant novelty toilet. More often than not, you just sit and watch unable to take back those lost wells or make up for that lack of cards.
+It’s hugely demoralisng and most of my games – both wins and losses – end with the other player surrendering long before a final blow is even possible. Because you can tell from the swarming enemies, the lack of fizzy-pop, the bad selection of cards, that you lost this game eight turns ago when you mistakenly moved your most important unit into range of a guard with Taunt. Games between those close in skill level, far from being tense and exciting, turn out to be like a match between equally strong soccer teams. Long, boring, ultimately not worth the 90 minutes it took.
+
+Pacing issues aren’t it’s only fault. Like most other games of this kind, the free-to-play currency conversion here is not great value for money. While crates full of cards drop generously over your first 20 levels, especially if you indulge the solo missions, the crystals used to craft specific cards are hard to save up and dismantling other cards to get these crystals results in a rubbish return. It feels like walking into GAME and getting 50p for your copy of The Last of Us. The special Steam pack, currently £26.99, feels steep for the contents (10 Battle Chests, 3 Mythic Chests, 3250 Gems and a little gold digger man for 30 days). I splodged some cash on this when it was on sale to see how everything stacked up and I still don’t feel like I got my money’s worth.
+
+Despite those reservations, and the sometimes plodding nature of the matches, there’s a lot of brains to Faeria. It’s certainly more interesting to me than vanilla Hearthstone, even if many of its cards lift directly from the big book of CCG mechanics. It’s a game of risk, reward and really bad decisions. It’s many times more thoughtful than Duelyst, which is always my yardstick for card games. But at the same time it is much less climactic, less explosive, and less creative with its minions and their abilities. In other words, if there was a little panel in the bottom right of your screen with all the collectible card games to choose from residing in it, then you’ll probably find your own temperament is going to make the decision for you. Just don’t click ‘draw another card’.
+Faeria is out now for Windows, Mac and Linux and free-to-play on Steam.
+
+16/03/2017 at 20:37
+
+kwyjibo says:
+
+I played a bit of this during Early Access and I largely agree. The game was just too slow for me, and I thought the early game of laying lands seemed fairly rote.
+I can totally understand why people love it. It’s complicated and deep. Unlike Hearthstone and Duelyst, your mana accumulates if you don’t use it – so it isn’t defined by tempo.
+So when are you going to try Shardbound Brendy?
+
+16/03/2017 at 23:30
+
+Chewbacca says:
+
+The early game is rote when you just do your thing without reacting to the enemy. I did the same when I started (and I am still not good at it) but the first few turns are in general very tactical.
+
+16/03/2017 at 20:44
+
+EternalPioneer says:
+
+I do not think it is fair to criticize the minionrs and cards being ‘basic’ and ‘generic’, it is very hard to be very original and unique at this point in time of CCG history!! You are not wrong but it is just hard for developer to make it not like that. Over time with patches and new conent they will surely make more interesting cards
+overall i think i agree with you about the game soemtime being sluggish but i also disagree that it is often onesided, i do not remember many surrenders and instead lot of intense fights have happened.
+business model is irrelevant to me i play all of my games as true free 2 play and never have problem!
+i agree with you that it is very good game and that people liking it depends on taste
+so i say it is not inherently better than for example Duelyst because they are very different
+however i do say that it is inherently better than heartstone!! just same game but better. Magic maybe i do not know… but because it is digital and not have million expansions and cards it is definitely easier to start playing!!
+I definitely recommend to everyone who like card game, not hurt to try at all :)
+
+16/03/2017 at 21:12
+
+EternalPioneer says:
+
+I forgot to say to author: i am not big fan of fotbal, but your description of how a match is and play out is obviously a sign of someone who never watch fotbal, not fair at all to use that as criticism and comparison!!
+
+16/03/2017 at 20:54
+
+Boronian says:
+
+Looking at Faeria, Shadowverse, Hearthstone etc. I have to say that for me Duelyst’s artstyle is the most beautiful one. The minions in Duelyst are more than just cards with pictures on it, they are living creatures on a board. They all have their own animations when they move and attack or even do nothing.
+Other than that I find some concepts and ideas of Faeria really interesting.
+
+16/03/2017 at 22:39
+
+Sam250 says:
+
+I don’t care about Faeria, but I do care about using chess as an analogy for any game with movement tied to a square grid. What does Duelyst have to do with chess? Nothing!
+
+16/03/2017 at 23:25
+
+Chewbacca says:
+
+There are several possibilites to board clear and to recover but yeah, if you invest too much ressources into e.g. a minion and the enemy has hard removal you have a problem but I don’t see how this is a negative point about the game. You just made a tactical mistake and got punished for it. 
+And the game is like a soccer match between equally strong teams? I’m not into soccer but aren’t those games the most fun ones to watch? Who wants to watch games where one team totally dominates the other team (and who want to “play” them?).
+All you described is that you will loose the game because you made a mistake and it’s often not possibly to recover anymore. But isn’t that how it should be? Few RNG, no “oh you are totally ahead because you played better but I have this card and now I am ahead”. The better tactics and/or deck wins.
+
+19/03/2017 at 20:48
+
+Hypocee says:
+
+When this criticism comes up from a competent critic, it’s not about winning or losing. It’s pointing out a pacing issue. How far from the end of a typical match does meaningful play end? If, as a designer, you desire or accept that most of your matches will hinge on the first mistake with comeback cleverness unlikely, that’s perfectly valid. Plenty of players want nothing more than high stakes. The question is, what happens after the match is decided? Do you grind hopelessly through your and your opponent’s lives for 45 more minutes, at least for the first twenty games until you learn to recognise when you’re done and surrender? 
+It’s one of the many criticisms that slides off DOTA’s back – all but a few players are denied surrender and penalised for any and all actions intended to speed the end of a lost match. If a match is lost in twelve minutes, well, the designers have made sure it’ll still grind out to at least 45. Half the players will be going through motions of miserable impotence; the other half will at best be reveling in sadism, but more likely a sort of grim, bored worry as they studiously avoid all risk to let the snowball grow.
+Snowballing’s fine, but ‘if ’twere done ’twere better done quickly’. Ideally any economic collapse would be rapid and obvious. I find ‘what percentage of your real world clock time with this game will you spend with no meaningful choices?’ to be a very useful question.
+
+17/03/2017 at 01:24
+
+Ginhyun says:
+
+I feel like the boring, drawn out matches tend to happen more at the lower levels. The game is, admittedly, slower than Duelyst. However, I feel like once I started getting higher in rank, matches became pretty tense. Snowballing does happen, but people generally acknowledge the loss quicker at higher ranks when they’ve lost all of their outs.
+
+17/03/2017 at 03:06
+
+malkav11 says:
+
+Good to hear at least one other digital card game taking singleplayer somewhat seriously besides Hex. (But seriously, Hex should be on your list. It’s amazing.)
+
+17/03/2017 at 03:24
+
+Silent_Thunder says:
+
+Card Hunter had perhaps my favorite SP module. It wasn’t duels, but a scripted campaign that was, in universe, a scripted campaign run by a group of D&D nerds.
+Card Hunter was pretty neat tbh, I liked the idea of a CCG where the cards weren’t minions but rather actions your minions (three adverntures) took. Cards were drawn from the gear the had (so a sword might add 6 varied attack cards to the deck). Was pretty fun.
+
+19/03/2017 at 19:47
+
+malkav11 says:
+
+For whatever reason my brain doesn’t file Card Hunter under “digital card game” but you are correct that it is neat.
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+Abrakam, CCG, Duelyst, Faeria, feature, Hearthstone, review, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

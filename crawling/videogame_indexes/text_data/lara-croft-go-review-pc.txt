@@ -1,0 +1,235 @@
+./html_data/lara-croft-go-review-pc.html
+
+RPS Feature
+Tomb Upgrader 
+By John Walker on December 7th, 2016 at 7:00 pm.
+
+It sounds like hyperbole to say it, but I think Lara Croft GO [official site] is about as close to perfect as games can get. It’s also something of a backhanded compliment, because so often what we love, what stands out most about games, is where their ambition reaches beyond their potential for perfection. But at achieving its aims, at delivering within its own boundaries, LCGO is hard to fault at any level. So with perhaps the surprise taken out of the question, here’s wot I think:
+
+The second in Squeenix’s GO series (a title they perhaps would, in hindsight, prefer to revise after the unfortunate invasion of certain pocket monsters), I think Lara’s entry remains the best, purely because it’s so pure. Essentially a classic tile-based puzzle game with a Tomb Raider theme, that never means it doesn’t feel true to the franchise. Moving Lara one square at a time around 3D levels, you must discern a path that avoids traps – it is a staple of puzzle gaming as old as puzzle gaming itself, and in truth, it doesn’t advance the genre in any notable way. What it does instead is deliver it in the most sublime way.
+
+Its original portable telephone incarnation was extremely pretty, but now looks like a fuzzy scrawl when compared with the vivid and sumptuous HD PC port. At 2560×1440 it looks exquisite – crisp, colourful and lovingly animated. This is then strengthened further for me, as I’m struggling to think of a game aesthetic I’ve loved more. Its fixed isometric view offers a cel-shaded feel on wonderfully smooth polygonal characters and scenery. Think Grow Home run through a beautifying machine, at once a tribute to the early Tomb Raider designs and yet something that looks blisteringly modern. I find I can just stop playing and stare at scenes for minute after minute, just enjoying the world as a gentle breeze billows leaves and twinkling lights sparkle around objects.
+
+Obviously that would be all very well if the puzzles weren’t up to the same standards, but gosh they are. Things start off very simply, letting you easily plan ahead how you might navigate the restricted routes around a level’s tiles, ensuring you don’t walk face on to pouncing enemies but rather shoot them from the side or behind, or lob a spear from afar, then calculate a path around a moving spinning blade. The world is turn-based too, so there’s no call for reflexes or timing, and enemy patterns are quickly understood and accounted for.
+I think what best underlines how well the nature of the puzzles is delivered to the player is the complete absence of a tutorial or on-screen instructions. You simply don’t need them, because the very nature of what’s required of you seamlessly teaches everything as you progress. Death isn’t necessary to solve a challenge, but will absolutely confirm for you where the boundaries are if you’re not sure, and a restart is never a punishment. Where some may find frustration is in the fact that, yes, experimentation can be necessary (depending upon how good you are, I suppose), and that can often require a restart. However, I think the game’s greatest piece of subtle and brilliant design is that while turn and tile based, once you know a route through a level it doesn’t prevent you from charging through – it’ll play at the speed you want to go at, and doesn’t hold you back by insisting on playing out its animations like every other vainglorious game.
+
+When the challenges do kick in, they always feel fair. As with the best of puzzle games, it’s about forcing you to innovate and improvise with your limited set of tools. There’s an in-built hint system for when you get stuck, meaning it’s welcome to everyone. On the other hand, this isn’t Stephen’s Sausage Roll; it isn’t going to be giving you cause to pull out hair, or watch YouTube videos in disbelief that anyone could have solved it. This is (and I use the word advisedly) a more casual affair, an easy-going game to enjoy ploughing through. 
+
+I mentioned before that it’s more of a Tomb Raider theme on a classic puzzle, than a true Tomb Raider game, and that’s fair to an extent. But it’s important to make clear that it still sits neatly in the franchise. Square’s cleverness in these spin-offs (much as with the wonderful Guardian Of Light) is to take the essence of the game series and infuse it into the puzzles. It’s worked well for Deus Ex GO and Hitman GO, but I think is most successful in Lara Croft GO, with every box ticked: shooting endangered animals, dodging spinning traps, pulling levers, climbing and larking about, and of course most importantly, doing the weird handstand thing when reaching the top of a climb.
+I have two minor grumbles. One is the load times. They’re not particularly long, but for a game that runs on a phone it’d have been nice to see something closer to instant restarts for the PC incarnation. And there’s no in-game mouse cursor, which is a very silly shame, meaning the handsomeness is always contradicted by an ugly white windows arrow (unless you play with a gamepad, of course).
+
+Beyond those gripes, this is wonderful. Slick, beautiful, gently challenging and supremely well designed, it’s a stunning piece of work. Oh, and I need to make sure to remember to mention the music – ambient gorgeousness, which you can hear here. Sometimes I get annoyed with a puzzle, have to walk away for a bit, but when I come back I wonder what I was thinking. Perhaps that sort of approach is more suited to a phone, but this remains a game that plays very well on PC, and looks utterly stunning in its conversion.
+Lara Croft GO is out now on Steam for £6.40/$8/€8.
+
+07/12/2016 at 19:17
+
+elderman says:
+
+Hitman Go has a boardgame-style design. It that the case in Lara Croft Go, too? I really liked the feeling that I was playing the platonic ideal of a board game of the kind that could never exist in the physical world.
+Also, surely it not right that Lara Croft Go is the first? The first to PC maybe? Am I reading that wrong. I’m pretty sure Hitman Go was designed and released first.
+
+07/12/2016 at 19:48
+
+Xocrates says:
+
+While it plays similarly, Lara Croft replaces the board game aesthetic with a polygonal one that kind of sort of resembles the original game.
+And hitman was also ported a while ago for PC, so I assume the it being first thing is an error
+
+07/12/2016 at 22:16
+
+magogjack says:
+
+Indeed; from the wiki-page :
+“Square Enix Montréal developed the game as a spiritual successor to its 2014 Hitman Go, based on another Square Enix franchise. The company released Lara Croft Go in August 2015 for Android, iOS, Windows, and Windows Phone devices.”
+
+08/12/2016 at 07:59
+
+John Walker says:
+
+Yes yes yes, if you’re going to let yourselves be subjected to The Man’s “linear time”.
+
+07/12/2016 at 20:47
+
+Eight Rooks says:
+
+It’s a good review (in terms of communicating John’s enthusiasm) but – yup, I’m pretty sure Hitman Go was the first, and one reason I never picked up Lara’s game was there was no attempt to make the aesthetic similarly interesting. I loved the board game look, and also loved that Hitman’s design was explicitly mocking the soulless pictures on the likes of Rich Kids of Instagram – the other two games are pretty, but it’s just not quite the same. Still, I got Deus Ex Go, so I might pick this up in the end… but if it’s just a resolution bump on PC I might stick to the iPad (my Air 2 isn’t that far off 1440 and it’s better than my monitor).
+
+07/12/2016 at 22:41
+
+Winged Nazgul says:
+
+You are, in fact, right. Hitman GO was the first of the Squeenix series. Not Tomb Raider GO, as our Mr. walker seems to think so.
+
+08/12/2016 at 02:41
+
+field_studies says:
+
+Yes, the review lost me when I read that line. I agree that Lara Croft Go was a tight game, but the chronology of the series is important, because this game felt like a big step backwards in terms of look and charm. It’s attractive, but bland. The board game aesthetic was such a brilliant match for the game mechanics in Hitman Go, and a bit of a chance taken. Lara Croft Go felt like they were playing it safe.
+
+08/12/2016 at 02:56
+
+Xocrates says:
+
+Except that change probably increased drastically the workload and cost when making the game. Considering Hitman proved that the board game approach worked, making it fully animated sounds like the risky move to me.
+Also, found this dev video where they briefly address that: link to youtube.com
+Honestly, I don’t think it was a mistake to change the aesthetic. If anything, I was disappointed they didn’t make an equally drastic change for Deus Ex.
+
+08/12/2016 at 08:00
+
+John Walker says:
+
+Did it? Did it lose you because I made a chronological error?
+
+08/12/2016 at 11:18
+
+LennyLeonardo says:
+
+Yeah, John, you ruptured the whole goddamn timeline. Now, to make this review work, you have to go back and place a beacon in the Lara>Hitman timeline, assassinate your own great grandfather, then raid his tomb in the distant future, come back to the present, and place his medallion in a quartz geode along with your own version of that same medallion which he successfully passed on to your grandfather in your timeline, then place the quartz on the Nexus and dynamite the whole thing to hell. Get going!
+
+08/12/2016 at 11:19
+
+LennyLeonardo says:
+
+But make sure you do it without the Oxford comma.
+Edit: or whatever, I don’t know what your style guide says.
+
+08/12/2016 at 12:13
+
+inspiredhandle says:
+
+Makes sense to me. The chronology of game releases is hugely important, especially when certain genres are fads that burn out fast. Dayz wouldn’t have made any money if it didn’t start the now played out zombie/survival genre.
+If I am mistaken in which game comes first in a series, my opinion becomes skewed by the misunderstanding. If I got Fallout 1 and 2 mixed up, I would think that Fallout 1’s decision to leave out the H&K CAWS was insane and it would colour my opinion accordingly. (This is of course dependent on me completely missing both huge references to the original in the second, and the fact the the second one had a “2” after “Fallout” on the cover).
+On a completely unrelated note, I find that taking 10 deep breaths in and out relieves me of most of my urge to respond with sarky comments.
+
+08/12/2016 at 01:54
+
+Jane Doe says:
+
+They play a bit alike, that’s true, but Hitman Go looks like an actual board game. There are no animations or anything, while Tomb Raider Go managed to keep the charm of the (first) Tomb Raider games.
+I liked Tomb Raider Go much better, and if you like Hitman Go, you cannot go wrong with this.
+
+07/12/2016 at 19:23
+
+Hammurabi says:
+
+Lara Croft Go works very similarly to Hitman Go. The puzzle elements are different enough that one does not feel like a rehash of the other, yet, if you liked one you would probably like the other. Same goes for Deus Ex Go.
+
+07/12/2016 at 20:24
+
+Laini says:
+
+I’m a huge Tomb Raider fan and I really had my doubts about Guardian of Light when they announced it. But they did a really good job of making a twin stick shooter that still felt like a Tomb Raider game a lot of the time and Lara Croft GO continues that.
+It does seem like it could be a little short, I bought it on mobile before and so whilst I suppose some of the speed of which I’m getting through it is due to being familiar with the early puzzles it probably also helps that it doesn’t take three hours to move (my phone isn’t exactly top of the line =p), so it might be worth waiting on a sale if price per hour is something you’re worried about.
+Beyond that though it’s a really neat, really enjoyable and really lovely looking little puzzle game that combines the best bits of Tomb Raiding with turn based puzzles.
+There’s even at least one really cool boss battle and though it’s played out in turns is still thrilling.
+
+07/12/2016 at 22:18
+
+polecat says:
+
+Hitman GO review as well please! I got both, loved Hitman GO, found this one too easy and tired of it.
+
+07/12/2016 at 23:50
+
+internisus says:
+
+There is a new expansion for this game called Mirror of Spirits that is exclusive to Playstation right now but will come to the PC version in a few months.
+
+07/12/2016 at 23:51
+
+Mezmorki says:
+
+Also, there is Deus Ex Go for mobile. I’ve passed on these games so far – but maybe I should give them a try.
+
+08/12/2016 at 02:37
+
+Xocrates says:
+
+They’re all very good. They do slightly different things though, so which one you’d prefer depends on what kind of player you are.
+Hitman is the most puzzle focused of the lot. It has probably the most content, and gives you multiple optional goals per level, which gives it more replayability if you want to 100% it.
+Lara Croft is the one that captures the spirit of the original game the most, and is largely much more relaxed. There are no goals other than completing the levels which and a few collectibles hidden on the levels that you click on. In terms of atmosphere, this one wins hands down.
+Deus Ex is somewhere between the two, and is probably the worst one because of it (though still pretty good). It goes back to the more puzzle based approach of Hitman, while keeping an aesthetic similar to Lara Croft. The main differentiating factor is that Deus Ex actually has a written story to go along with its campaign, but even setting aside it being largely forgettable, it includes some R rated swearing on what is otherwise a PG game, which makes it come across as awkward and unnecessary.
+Again, not at all a bad game, but definitely play the other two first.
+
+08/12/2016 at 02:28
+
+andregurov says:
+
+How does this compare to the Uncharted mobile game (released alongside as a companion app to Uncharted 4)? The premise sounds similar, but I grew weary of Uncharted’s – to me! – too-difficult progression.
+
+08/12/2016 at 02:45
+
+Xocrates says:
+
+Haven’t played the uncharted one, but for what it’s worth this one does have a pretty smooth difficulty curve and does a really good job teaching you how the various mechanics work.
+
+08/12/2016 at 02:58
+
+Saf says:
+
+As much as I liked this game, it’s far from perfect. The review isn’t inaccurate, but a puzzle game this easy feels slight and a bit like wasted potential – every time they introduced an interesting new concept it was gone before it could be explored in a really challenging way, so the whole thing feels like a series of prologues or tutorial worlds. Even if they got everything else right, the puzzle genre hinges on challenging you mentally, and this never really got to that point – as far as casual or mobile games though it’s among the best of the bunch.
+
+08/12/2016 at 04:40
+
+BajiNaji says:
+
+Ah but can you play as Raziel and Kain?
+
+08/12/2016 at 09:56
+
+JamesTrab says:
+
+Right now it’s on offer on the Play Store for 0.99€.
+This kind of games imho plays better on a phone than on a PC.. so, happy deal for me.
+
+08/12/2016 at 10:39
+
+sleepisthebrotherofdeath says:
+
+£6.39 on Steam is expensive enough for me to go off and read a few more reviews before having a long think and then sticking it my wishlist until the next sale or inclusion in a Humble Bundle.
+Whereas £0.79 on Google Play was cheap enough for me to instant buy.
+Mobile games are stupidly cheap.
+
+08/12/2016 at 12:42
+
+GernauMorat says:
+
+I also got it on Android, and its a perfect commute game. Or will be, if I ever stop playing 80 Days, most wondrous of things.
+
+08/12/2016 at 11:15
+
+thekelvingreen says:
+
+Is there another franchise where the spin-offs are better than the main series?
+
+08/12/2016 at 21:43
+
+I am Grand says:
+
+How do these GO games play if you want use them on a touch screen PC? It can be hard to find touch-friendly / touch-only games.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Lara Croft GO, recommended, review, Square Enix, Square Enix Montreal, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

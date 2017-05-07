@@ -1,0 +1,13 @@
+mkdir -p text_data
+shopt -s nullglob
+for f in ./text_data_bitcoins/*;
+do
+	echo "Processing $f"
+	python3 extract_text.py "$f" > ./text_data_bitcoins/$(basename $f)
+done
+
+echo "Renaming extensions"
+for file in ./text_data_bitcoins/*
+do
+	mv $file "${file%.html}.txt"
+done

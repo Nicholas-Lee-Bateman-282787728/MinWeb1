@@ -1,0 +1,16 @@
+./html_data_bitcoins/bitcoin-in-japan-officially-recognized-in-april-asset-or-expense.txt
+
+
+
+CryptoCoinsNews
+As a Japanese Cabinet-signed law recognizing virtual currencies like bitcoin as a legal method of payment goes into effect on April 1, bitcoin companies and adopters are short on answers about accounting standards specific to cryptocurrencies.
+In February 2016, Japan’s Financial Services Agency (FSA), the country’s financial regulator, looked into proposals to consider legislative revisions that would recognize bitcoin and digital currencies as equivalents to conventional currencies. The revision, if approved, would see bitcoin as “fulfilling the functions of [a] currency.”
+Come March, the Japanese cabinet passed a set of bills recognizing virtual currencies like bitcoin to contain asset-like-values that can be used to make payments and be transferred digitally. Fundamentally, bitcoin and digital currencies are to be officially recognized alongside fiat currencies, fulfilling a similar purpose.
+Amending the Payment Services Act to include digital currencies as payments is related to a separate bill passed by Japan’s legislature in May 2016, one which mandated the regulation of digital currency exchanges by the FSA in Japan. CCN previously reported on an early draft of the proposed regulations in 2015.
+Bitcoin and virtual currencies will be officially recognized as payments starting Saturday. However, the accounting framework for the use of digital currencies is still about six months away, leaving adopters and bitcoin companies in limbo.
+As reported by Nikkei, the Accounting Standards Board of Japan has, on Tuesday, decided to consider the development of an accounting framework for digital currencies.  It is expected to take up to six months to reveal a viable accounting method, the report adds.
+With today’s accounting guidelines in Japan, virtual currency holders can table it as inventory while issuers can deem it a liability. That’s the closest a company or an individual can get to considering digital currencies on a balance sheet, however. Since there is no specific instruction or method of accounting to consider bitcoin and other popular currencies like Ether and Litecoin in Japan, many adopters leave their digital currency holdings off their books entirely, the report adds.
+The report highlights the example of the accounting model set upon reward point programs, commonly offered by the likes of airlines. The accounting of rewards points sees them recognized when they’re redeemed while their entire value is booked as a liability, under International Financial Reporting Standards. This could have an adverse effect on companies’ operating profits, particularly those that richly reward customers. The report reveals that Tokyo-based e-commerce giant Rakuten’s net profit fell in the fiscal year 2016 due to costs of a promotional campaign with aggressively high reward points.
+Chikako Suzuki, a partner at PwC Aarata told the publication of the “risk that companies that hold virtual currency could turn out to have distorted valuations or that huge losses surface suddenly.”
+As it stands, companies and adopters of digital currencies like bitcoin remain without guidance in Japan, a market that is now among the largest bitcoin exchange markets in the world.
+Featured image from Shutterstock.

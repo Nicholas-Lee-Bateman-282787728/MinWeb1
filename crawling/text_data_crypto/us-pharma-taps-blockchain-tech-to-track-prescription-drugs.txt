@@ -1,0 +1,17 @@
+./html_data_bitcoins/us-pharma-taps-blockchain-tech-to-track-prescription-drugs.txt
+
+
+
+CryptoCoinsNews
+U.S. Pharmaceutical companies and the Food and Drug Administration (FDA) could soon track prescription drugs over an interoperable blockchain as a means to detect and put an end to counterfeit medicines in the market
+The solution comes from San Francisco-based blockchain startup Chronicled and its partnership with LInkLab, a life sciences supply chain. The two companies have launched a blockchain “track and trace” pilot at a recent one-day event in San Francisco. Developed for the pharmaceutical industry, the solution could prove a viable means to curbing counterfeit drug distribution and sales in the United States and beyond.
+Attended by representatives from global pharma manufacturers, wholesalers and hospitals, the blockchain pilot event also saw participation from enterprise IT giants and blockchain tech companies. The event, according to Chronicled, marks the first phase of a pilot to develop an interoperable blockchain platform for the pharmaceutical industry.
+Chronicled co-founder and chief performance officer Samantha Radocchia stated in a release:
+We will be working closely with teams at leading enterprise blockchain projects over the coming months to identify the most suitable enterprise blockchain to serve as a data utility for the pharmaceutical industry.
+The blockchain platform will adhere and satisfy the FDA’s Drug Supply Chain Security Act, signed into effect by former US President Obama in November 2013. The act was and signed to ‘develop an electronic, interoperable system to identify and trace certain prescription drugs as they are distributed in the United States.’
+With this in mind, the blockchain solution will developed to support and comply with DSCSA protocols. Further, the pilot solution will focus on data privacy while adhering to GS1 standards, a global standardized system for traceability that can be implemented by all participants in a supply chain across borders globally.
+Altogether, the blockchain tech solution aims to standardize a less expensive, less cumbersome and more efficient and secure approach to facilitate prescription drug distribution.
+“The first phase of this project is to prove that one global pharmaceutical manufacturer can comply with their DSCSA regulatory obligations and meet the 2017 and 2023 requirements,” stated Susanne Somerville, co-founder of the LinkLab. “We are excited to be partnering with a major pharmaceutical player in this first phase.”
+Future phases will foster the involvement of other participants in a typical pharma supply chain process, straight from the manufacturer to the pharmacy and hospitals.
+One of blockchain technology’s core offerings that make it a no-brainer for supply chains across industries is its immutable, time-stamped, tamper-proof ledger, accessible by its all or pre-approved participants. Last week, Australia Post, the country’s postal service operator announced a partnership with Alibaba to curb the rise of counterfeit food exports from Australia to China, using blockchain technology to improve traceability.
+Featured image from Shutterstock.

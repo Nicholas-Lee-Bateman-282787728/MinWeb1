@@ -1,0 +1,15 @@
+mkdir -p html_data_bitcoins
+shopt -s nullglob
+
+for f in ./www.cryptocoinsnews.com/*;
+do
+	echo "Processing $f"
+	cp "$f/index.html" "./html_data_bitcoins/$(basename $f).txt"
+done
+
+mkdir -p text_data_bitcoins
+for f in ./html_data_bitcoins/*;
+do
+	echo "Parsing $f"
+	python3 extract_text.py "$f" > ./text_data_bitcoins/$(basename $f)
+done

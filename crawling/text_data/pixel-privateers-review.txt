@@ -1,0 +1,142 @@
+
+RPS Feature
+Welcome to Planet Loot 
+By Alec Meer on March 17th, 2017 at 7:00 pm.
+
+To FTL what Aliens is to Alien, Pixel Privateers [official site] is a lost-in-space roguelikeish that’s focused on interplanetary ground missions and loot-showers rather than interstellar survival. Though its title and appearance suggest cynical faux-retromancy, underneath that mercenary skin there’s plenty going on.
+Says pixel in the title, has pixel art in the game. Me, I’ve got pixel ennui, but nothing here is objectionable. In fact, the environment art shoots for a bit more detail and is far more attractive than the squat block-head characters. Said characters may be borrowing liberally from other sci-fi too. Was that a Jawa I saw? And I swear I just shot a pack of Borg…
+That’s the pixel element done, so now I can natter about the game proper. It’s a team-based, side-on Diablo, only rather than an open map you’re selecting away missions from your spaceship. In between these, you manage a quartet of resources to fund both upgrades and survival, with the emphasis heavily on the former.
+
+In every mission, you’ll collect a shower of various loot (let’s be honest, if this hadn’t had ‘pixel’ in the title, it would have plumped for ‘loot’), much of which is little more than junk, but some of which gives your team a meaningful offensive or defensive boost. 
+Others still can actively change one of your unit’s class – not merely allowing you to stick a hammer in her hand and switch a unit from ranged to melee, but also add off-hand items that might make a medic into an engineer or scout. Truth be told, this isn’t a major element of play, as by and large you want to keep every major role filled by someone so will likely just typecast your whole squad, but it means you get to play with pretty much any new toy you might find. There’s a touch of the Borderlands to it, in that you’re regularly getting drops that noticeably mix things up, though mostly for kicks.
+You can’t equip new findings or level up until you’ve survived a mission and headed back to your spaceship, at which point it’s a carnival of upgrades. Slap the best new goodies onto your team, spend ability points to improve their aptitude in ye olde strength/agility/stamina/intelligence fayre, and spend ‘research points’ on team-wide bonuses. If that weren’t enough, you also have the option to spend resources on cloning particularly tasty gear or, in an excellent twist, members of your team. 
+
+It’s not strictly necessary as you can recruit externally and rename anyone at any time, but you can use cloning both to save a backup copy of your most treasured squadies (if you’re playing in the optional permadeath mode) and to fill your ranks with the best possible new recruits – exact duplicates of people you already trust. I played one game with a squad composed of only the same person, each with a different number after their name. Granted, their various kit made them all look different on the battlefield, but I was tickled pink nonetheless. I feel that this is an idea that a new XCOM or Syndicate game could make fine thematic use of. 
+Combat, the main element of Pixel Privateers, is less successful than is the endless tinkering outside of it. Which is to say, it’s mostly a matter of frantic right-clicking, with a bit of hotbar skills action, which can feel pretty brainless. The exception to this is when a given fight, such as against a boss, gets significantly tougher, in which case there’s a tactical pause system whereby you can hit Space and tell your characters exactly what to do rather than simply spam ’em at the nearest enemy.
+Sometimes it does actively require this, and if you’re playing on hard mode with permadeath enabled you’ll certainly use it a whole lot more. Though more involved than spamming, I don’t know that I’d go all the way to saying it’s much more interesting. You’re just scrolling through characters and activating their abilities in pause. 
+
+Mission structures can be tiresome too, such as having to find five specific rooms (not difficult, just requires a bit of trudging) then use your scanner to laboriously find up to five anomalies (the riveting likes of ‘broken pipe’) in each of them. Same goes for, say, freeing three sets of three prisoners. It’s just a looping structure that’s there for the endless quest to level up and find loot. 
+There are meta-game goals involving finding magic crystals, hopping to new systems and increasing your squad size, and you need to keep a weather eye on your ship’s fuel as it flies between planets, in addition to managing the resources required for buying or cloning new stuff. 
+
+Most of all, though, Pixel Privateers is shoot’n’loot. It’s playful and polished enough to make its shallowness work – treat it as a while-away-your-time game, not the grand tension of FTL or the exercise in punishing perseverance of Darkest Dungeon. 
+Pixel Privateers knows exactly what it’s doing, and though it’s about as deep as a microwave lasagne, it’s almost impossible not to lose yourself to it for a few evenings.
+Pixel Privateers is available now on Windows via Steam for $14.99/£10.99.
+
+17/03/2017 at 19:32
+
+Drib says:
+
+It looks very much like the completely abysmal Pixel Pirates. 
+That alone makes me want to give it a miss.
+
+17/03/2017 at 21:29
+
+Pastell says:
+
+Pixel Piracy, and it’s made by the same people.
+
+18/03/2017 at 13:00
+
+SBLux says:
+
+It clearly uses the same game engine. The character sprites are nearly identical. I didn’t play it much but I rather enjoyed Pixel Piracy.
+
+17/03/2017 at 21:01
+
+Neuromancing the Boil says:
+
+I’m making a game called “Pixel Loot Souls: Shovel Craft Civilization.” That’s gotta make some money, right?
+
+17/03/2017 at 22:30
+
+damnsalvation says:
+
+Do you have like a kickstarter or something? Where do I go to pledge?
+
+18/03/2017 at 00:46
+
+DelrueOfDetroit says:
+
+Needs ‘War’ or ‘Battle’ or ‘Combat’ in the title.
+
+18/03/2017 at 00:58
+
+tigerfort says:
+
+You’re missing out on the huge market for games with “sim” in the title, there.
+
+18/03/2017 at 01:57
+
+phanatic62 says:
+
+Add “Saga” and put it on the app store and I’m in.
+
+18/03/2017 at 04:03
+
+DarkFenix says:
+
+Meh, I’ll wait for the Super Ultra Turbo Extended Director’s Cut Edition.
+
+18/03/2017 at 13:04
+
+SBLux says:
+
+Pixel Loot Souls: Battle Combat Saga Simulator (Super Ultra Turbo Extended Director’s Cut Edition)
+There, I did it.
+
+18/03/2017 at 17:36
+
+CronoRay says:
+
+TAKE MY MONEY DAMMIT, TAAAKKKEEE IITT!!!!!
+
+19/03/2017 at 12:05
+
+thehuw says:
+
+& Knuckles.
+
+18/03/2017 at 14:01
+
+GameOverMan says:
+
+A few years ago you could’ve added duty and warfare in order to sell a few millions more.
+
+19/03/2017 at 03:21
+
+realityflaw says:
+
+Beat it in about 7h, not a bad little time waster.
+My biggest issue was the difficulty, or lack thereof. The last three or four bosses felt super easy. I can’t tell if the difficulty curve is just super flat or if I was over leveled.
+I think I may give it another go with a less diverse party, maybe do fewer corp missions at the start, see if that fixes anything.
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Pixel Privateers, quadro delta, Re-Logic, review, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

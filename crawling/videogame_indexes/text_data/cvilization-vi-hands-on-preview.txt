@@ -1,0 +1,331 @@
+./html_data/cvilization-vi-hands-on-preview.html
+
+RPS Feature
+Sid vicious 
+By Adam Smith on May 25th, 2016 at 3:00 pm.
+
+The barbarians are at the gates. They’re not here to kick the gates down and storm the city though; instead, they retreat, in the direction of the camp that spawned them.
+“You might want to send a warrior after those barbarian scouts,” Firaxis’ Pete Murray advises, watching the screen over my shoulder. “They’ll fetch a raiding party if they manage to get home.”
+That’s new. It’s the tip of the iceberg as far as changes go, but it’s an illustrative example of what the early stages of this game are all about. Civilization VI [official site], at this stage of its development, is host to the most reactive AI that I can remember in the series’ long history. Lead designer Ed Beach and his team are building a Civ game that they hope will pry long-time players out of their established comfort zones, and a too-brief 60 turns with the game last week showed plenty of evidence that they’ll achieve that goal.
+
+It’s a busy game, even in those early turns. Traditionally, the early eras see me scouting for prime settlement spots and working my way through city improvements, research and windows in a very specific pattern. Usually, I’m aiming to pile up as much Culture as possible, neglecting my military as soon as the first few surrounding barbarian encampments have been plundered and razed.
+
+In this game, which took place on a small pre-tested map with three AI opponents, I found myself blown off course almost immediately. The first centuries of Civilization are no longer very civilized. A City State to the northeast of my capital (Beijing) marked my first contact and there were no problems there, but as soon as I met my American neighbours, rumblings of discontent were heard.
+Teddy Roosevelt, as depicted in Civ VI’s full-body animated diplomatic encounters, is a smiling bear of a man. He makes reference to the toys that go by his name in one line of dialogue, which is one of those weird reminders (as if the immortal presence of a single leader weren’t enough) that Civilization’s awareness of any particular historical moment is flexible in the extreme. The leaders, as ever, represent the entire span of their civilization’s existence, lending one aspect of their personality or historical rule as a fixed agenda – a second agenda is selected randomly from a pool of possibilities at the beginning of each new game.
+What that means, in practice, is that you’ll learn to expect certain kinds of behaviour from each leader, but that base personality type will be modified by the second, hidden agenda. In Roosevelt’s case, his fixed agenda causes him to behave aggressively toward any civ involved in a war on his own continent – that’s to say, he’ll look unkindly on violence close to home, while tending to turn a blind eye to military action overseas. I believe, though can’t be sure, that he is much more inclined to take issue with the aggressor in a home-continent war, and that was certainly the case in my playthrough, when Cleopatra entered the fray.
+
+The Egyptians, under the queen of the Nile, have a simple base agenda: they respect civs with a large military and see those without as potential victims. On our first meeting, Cleopatra seemed impressed and willing to play nice. In hindsight, that was probably down to the fact that I’d built a few extra military units to clear our the barbarians near my home city and chosen site for expansion (a lovely coastal area with access to the Great Barrier Reef). Considering we hadn’t figured out how to harness horses yet and couldn’t compete with the Egyptian chariots that were already roaming the plains, the Chinese military was fearsome enough to command respect.
+And then I fucked up. Or, rather, I made a choice that had immediate consequences. In an effort to improve cashflow so that I could buy a couple of improvements in Beijing, I disbanded the majority of my armies as soon as the barbarians had been eliminated. Cleopatra considered the situation for a couple of turns and then sent an insult, identifying precisely the kind of weakness that irritates her. Within a few decades, we were at war.
+It only took a few more turns for Teddy to lock and load, declaring way on Egypt, presumably annoyed by Cleopatra’s disregard for the continental truce that the Americans had hoped would hold forever (or at least until they decided to break it themselves).
+
+We hit the sixty turn limit for the preview build soon afterwards, with Cleopatra amassing an enormous army while I concentrated on development of a theatre district in Beijing. While Beijing went all artsy, my second city, Shanghai, harnessed the natural wonder of the Reef to instill a sense of spiritual superiority in my people. What was most striking – and most exciting – about the session lay in the actions of the AI: here was a game of Civ in which two AI entities had involved themselves in wars for specific reasons that I could identify. That also meant I could have, given more time, defuse the situation without resorting to the centuries-long process of attrition and churn that so often typifies conflict in the series.
+All of that goes back to the reactive nature of the AI. Even the city state had involve itself, choosing to side with the Americans and producing armies of its own. If I’d shifted my production efforts toward the creation of a powerful military, it seems likely that Cleopatra would have sued for peace, seeing a competitor rather than a victim, and the choice as to whether the war should continue would then have been mine. Then again, without knowing her secondary agenda, I have no idea if my newfound religious focus or habit of hastily constructing wonders might have been cause for further antagonism.
+As well as being a busy Civ – with trade, religion, and all of the geographical boosts and exploitation detailed in our earlier preview – this is a volatile Civ. The AI acts with intent and the somewhat predictable nature of its behaviour, thanks to those agendas, appears to make its actions more believable, lending a rationale and credence to what might otherwise seem like rash decisions.
+
+Given my limited time with the game, it’s impossible to say how diplomacy and AI behaviour will change through the eras, but it’s an area of the game in which Firaxis have made some major changes. Some of that is already evident, with the gathering of rumours. You may learn, for example, that the Americans are planning to declare war on the Egyptians, but only if you have the correct infrastructure in place. Envoys might learn a thing or two, but trade routes are the most direct form of early ‘espionage’. In a fine example of the kind of interesting choices that Beach and his team want to ensure during every turn, establishing trade routes is now a case of studying the geography (particularly distance), the direct supply benefits and the potential for a spot of reconnaissance.
+In later eras, espionage will become a more formal affair, as will diplomatic relations. While the reasons behind aggression can be understood in the classical and pre-classical years, there is no need to justify war to friends and neighbours. While I don’t expect casus belli on the level of a grand strategy game, as governments and diplomatic organisations become more complex, it will become more difficult to declare an ‘unjust’ war without suffering damage to your reputation. You’ll need a good reason to commit your troops. That’s in stark contrast to Roosevelt’s opportunistic kidnapping of any settlers who stray too close to his armies in those first sixty turns.
+
+Given the focus on the ‘unstacked cities’ in the reveal of the game, I expected to be writing a lot more about construction and management than about the AI. Given that the details of those systems were already known, and detailed in our earlier preview, I’ve concentrated on the experience of playing the game, and the assertive and reactive nature of the AI was the most outstanding feature.
+The cities are promising, however, particularly in that the new ‘district’ improvements appear to offer new choices for construction rather than simply replacing old ideas. They’re a relatively costly upgrade, placed on a tile around the city rather than in the centre, and as well as taking advantage of features of the terrain, they can enjoy adjacency bonuses. Once finished, they offer new possibilities for improvements, allowing you to design cities that are truly specialised.
+‘Design’ is the key word. I haven’t played anywhere near enough to know how well the cities will work out over an entire playthrough (or a hundred), but there’s a definite sense of creating something distinct rather than simply filling an empty vessel. Each city is an element necessary for your particular civ at this particular point in this particular situation. Whether you’ll be able to satisfactorily or successfully respec them as the times require isn’t yet clear, but it’s an enticing possibility.
+
+And as it is with the cities, so it is with the civilization that contains them. Social policies are selected from a deck that grows as you discover new civic ideas (research now divides broadly into civics and ‘physical’ tech), and the number and type that can be in play at any one time is based on your government type. With research boosts now tied to in-game achievements and geographical discoveries, there’s more incentive to tailor your civ to its surroundings and situation, but the ability to tinker and specialise through policies and faith-based bonuses adds flexibility.
+All of those possibilities combine to make Civ VI a more involved game than I expected. It must be stressed that I’ve had very limited experience with the game so far, but if all of the systems in play unfold across the eras in a satisfying fashion, the game will be far more than Civ 5.5. Despite an obvious heritage – it shares features and a lead designer with its predecessor’s expansions – Civ VI already has its own character. It’s in the AI, in the cities and in the application of policies to boost or tweak certain elements of your nation.
+It’s attractive too, in motion, particularly the way in which unobserved but revealed areas of the map are displayed as an actual ink and paper approximation of the terrain. Truth be told, I was sold on those first screenshots but can understand concerns about the oversized cartoonish look. It’s designed to be legible though and that’s because there’s so much more information than you might expect rather than because the game has been streamlined in any way.
+
+I used the word ‘busy’ earlier – twice, in fact – and it keeps bouncing back to my fingertips as I’m typing. Civ VI has a liveliness that I don’t associate with the series, a sense that cogs are turning and that machines are under construction. There are possible pitfalls in that energetic form, and ensuring the interface is equal to the task of disseminating information without either obscuring or holding hands too tightly will take a formidable effort, but it’s good to see so many ideas working in tandem. It’s also important to remember that there’s plenty of development time left for the finer details to change, and that the immediate conflicts may have been due to the small map size as well as the AI itself.
+Civilization has become a foundation on which designers and artists create unique experiences, whether that involve the added complexities of Civ IV or the combat overhaul of Civ V (retained and improved here). Civ VI certainly has enough about it that feels fresh and by playing upon the unique personality, strengths and weaknesses of each civilization in the game, and how those things change over time and from one playthrough to the next, it doesn’t feel quite like anything the series has done before.
+Sixty turns isn’t enough to judge the game, of course, and it’s certainly not enough to scratch the itch. It’s almost always a good sign when I walk away from a preview event wishing I had a copy of the game in question, not just to play but to explore. Civ VI already has me hooked. It’s looking to be the rare sequel that introduces new mechanics without stripping away the accumulated features of its predecessors.
+Sid Meier’s Civilization VI is out October 21st. For more details, take a look at our first in-depth preview.
+
+25/05/2016 at 15:13
+
+Cinek says:
+
+Oh come on, you weren’t even a little bit curious if Ghandi is still a trigger-happy asshole?
+
+25/05/2016 at 15:37
+
+Amake says:
+
+That’s far too much of a running joke by now for them to change it. Presumably not even worth including him in the demo with the limited space they have to show off the new stuff.
+Also damn, I thought Beyond Earth was it and I was free now, but they’re pulling me in again.
+
+26/05/2016 at 14:00
+
+Calculon says:
+
+It could be that Im a little biased now based on the number of hours I’ve dumped into EUIV, but Im just not a fan of the ‘single leader for all eternity’ model anymore. Its too limiting, and unrealistic to a level that ruins the enjoyment for me at this point. It always annoyed me a bit, but I hadnt seen a model that had worked better so I was willing to deal with it – but now…..I dont think so.
+I seem to be doing a lot of comparisons now between Civ and EUIV – and while EUIV certainly isnt perfect (I want M0AR features!)- to me its more of an ‘adult strategy game’ as opposed to Civ which fits in the ‘for the lulz’ category now.
+
+13/07/2016 at 13:31
+
+Troubletcat says:
+
+I think Civ is just more interested in being a game and less in being a historical simulation. Civilisation is turn-based, but in terms of the mindset it has more in common with StarCraft than with Paradox’s grand strategies. It’s a game about its mechanics and about playing to win far more than it is a game about exploring real-life politics and economics. It takes inspiration from real-world history but really the buck stops at ‘takes inspiration from.’ It’s not at all interested in ‘trying to believably recreate.’
+Personally I don’t think there’s anything more or less ‘adult’ about either set of titles, and the Civ series is no more ‘for the lulz’ than any other franchise where the primary focus is on game mechanics.
+
+19/07/2016 at 15:56
+
+chromedbustop says:
+
+I think that comes more from the look of the game than the mechanics. There’s plenty of unrealisitc things about EUIV, and it’s no more mature of a game than the Civ series.
+But Civilization has a much brighter color palette, and they certainly make items on the map seem larger. It all gives a look that people feel is cartoony, and for whatever reason people get really irritated by that.
+
+25/05/2016 at 15:23
+
+hollowroom says:
+
+This is starting to sound good.
+
+25/05/2016 at 15:27
+
+klops says:
+
+I think it would be more suitable if Teddy just considered the continent he lives in as his own.
+
+25/05/2016 at 15:56
+
+TheMightyEthan says:
+
+That was my thought. Teddy should be inherently hostile to everyone on his own continent, and pretty chill with everybody else.
+
+26/05/2016 at 10:13
+
+Joshua IX says:
+
+I assume that his personality is reflecting his dedication to the Munroe Doctrine to some extent.
+
+27/05/2016 at 01:48
+
+Bweahns says:
+
+There definitely needs to be constant exploitation of the third world with endless support for sadistic fascist regimes offering good trade agreements.
+
+25/05/2016 at 15:36
+
+shaomnloiop says:
+
+Nice Article For Me
+
+25/05/2016 at 15:45
+
+shaomnloiop says:
+
+I’m making $86 an hour working from home. I was shocked when my neighbour told me she was averaging $95 but I see how it works now.☻☻☻☻☻☻☻ link to elite36.com
+
+25/05/2016 at 15:58
+
+theWillennium says:
+
+Bully! This all sounds brilliant.
+
+25/05/2016 at 16:45
+
+Elusiv3Pastry says:
+
+Top notch article, thank you! I especially appreciated this bit:
+“It’s designed to be legible though and that’s because there’s so much more information than you might expect rather than because the game has been streamlined in any way.”
+That really is reassuring to hear!
+
+25/05/2016 at 16:48
+
+Lakshmi says:
+
+So envious of Adam for getting some time on this. Everything about it sounds like a refreshing change or clever improvement.
+
+25/05/2016 at 17:46
+
+nimbulan says:
+
+So it’s the opposite of Beyond Earth then? Maybe it’ll turn out ok. At least they found a new designer for this game.
+
+25/05/2016 at 17:48
+
+Titler says:
+
+Just please, please, PLEASE let not every civilization have “Gang up on the player if they look like winning” as a secondary drive; it’s ruined the game for a decade or so, and left difficulty above Prince/King in being “How well can I exploit the game before it gets there” rather than “I have an advantage, now to enjoy it!” fun of the first (and second? I think it was the third that changed it, but old man memory fails now)… The reason Gandhi was an asshole was because of the combination of random character (so you couldn’t predict the AI, but just moved the min/maxing over to the core game instead) and the afore-mentioned “I’ve been left alive, time to join the crusade against the strongest world power” modifier…
+At the very least, let us understand and see when the AI is building up defensive alliances against the strongest, so we can see if there’s anywhere in the world we can safely nibble for now.
+
+15/07/2016 at 16:33
+
+RedDragon says:
+
+The aggressive Gandhi thing comes from an overflow error in the first game. Each leader had a position on a warlike-peaceful scale, Gandhi had the most peaceful position at the top of the scale. So when he adopted a government that made the AI more peace-like it pushed him over the top of the scale, so that he ended up being super warlike.
+
+25/05/2016 at 17:56
+
+Sardonic says:
+
+OK good so it’s not just ripping off of Endless Legend then, I was concerned when I saw the expanded quests and districts that it would just be a Ctl+c, Ctl+v, but this looks like it’s going somewhere.
+
+25/05/2016 at 19:11
+
+Nauallis says:
+
+Question for Adam (if you’ll deign to respond) or anybody else who might know:
+Are worker improvements on city tiles mutually inclusive or exclusive of city buildings? E.g. if you build a farm on a grassland/river tile, does the presence of the farm prevent the construction of a watermill or a granary?
+Are there adjacency bonus for city buildings and worker improvements? Regardless of tile build exclusivity, does a granary only produce more food on the farm (or grassland/plains) tiles that surround the building?
+
+25/05/2016 at 19:12
+
+Nauallis says:
+
+Assuming that worker improvements still exist. I haven’t been able to tell from any of the screenshots that I’ve seen (no obvious worker units).
+
+26/05/2016 at 02:46
+
+Slice says:
+
+From the PC Gamer article: “I also wanted to build as much as I could, so I created builders, which have replaced workers from the earlier games. Unlike workers, builders have a limited number of uses before they vanish, at which point you’ll have to generate new ones, but they can improve tiles instantly rather than having to wait a few turns.”
+
+26/05/2016 at 16:47
+
+Nauallis says:
+
+Thanks, that’s more info than I had. Still wondering about the improvements vs buildings question though. Hopefully gameplay videos talk about it!
+
+25/05/2016 at 19:17
+
+fearandloathing says:
+
+Beach has it guys, the guy saved civ5 from annihilation, pushed out great expansions and now has returned to kick all the challengers out of the arena of tbs. I have only and only one doubt left as of now, and that is the exploitative dlc practices of Firaxis and I fear that is something beyond control of the lead designer. This also ties in with the issue of modding, as steam workshop becomes the central hub it is easier for companies to control mods, so issues are bountiful, e.g. will Firaxis allow mods that add similar content to their dlcs, especially new Civs? Hope they’ll go more like PDS with this, but cannot be sure of it.
+
+25/05/2016 at 20:56
+
+NephilimNexus says:
+
+Dear Sid Meier,
+We love your games but c’mon, SIX? Sorry, but it’s going to take more than a fluffer to get me into the mood for round six. This is like forcing someone to eat their favorite food until they vomit.
+Besides, all we ever really wanted from you was reboots of Master of Magic & Master of Orion 2. Instead you’ve ignored MoM entirely and handed MoO2’s rights over to a bunch of cash-grab clowns.
+I guess what I’m saying, Sid, is that I’m kind of disappointed here. I’m sure Civ6 will be great and all, but somehow I just can’t bring myself to give a crap anymore.
+
+26/05/2016 at 00:05
+
+staticskYY says:
+
+Sid never had the rights to either of those, though. (He never even made them, but that’s another story). They were owned by Microprose, which, yes, was started by Sid, but he left in 1996, leaving the rights in the messy web of trademarks that Microprose became.
+
+26/05/2016 at 01:59
+
+Frank says:
+
+I don’t know who this “we” is, but I’m sorry to hear about your bowel difficulties (which is what I assume a “fluffer” must involve).
+Having never heard of Sid having the rights to those, I’ll throw out some other random wishes: I wish Firaxis would hire van Caneghem of HoMM fame and give him endless money to make a TBS of his choosing; and, what else… how about they reboot chess?
+
+26/05/2016 at 02:57
+
+AJ says:
+
+All i’ve wanted from Sid was a proper remake/sequel to Railroad Tychoon… Something that actually lives up to the original game.
+
+26/05/2016 at 12:46
+
+Zeewolf says:
+
+Dear Sid,
+All we ever wanted from you was a new Doom.
+Thanks, Everyone.
+
+26/05/2016 at 02:43
+
+Kasper says:
+
+Reactive and visible AI motivations could make for some memorable personalities and games. I just hope that the AI isn’t TOO predictably reactive and prone to being exploited. 
+For example, if AI Cleopatra doesn’t learn that AI Teddy will come after her, if she attacks the player on the same continent – then the player might be able to bait her continually by surfing on the “inferior army” threshold. 
+I hope the hidden, random agendas and the combination of all the different agendas of the different leaders will create enough unpredictability and emergence.
+
+26/05/2016 at 05:54
+
+cpt_freakout says:
+
+It definitely sounds like something you could ride on, but then again, that kind of predictability could be set up as a new strategic element to be considered at all times. After all, there’s always more than one Civ nearby; your scenario might be one among hundreds, where the various ‘personalities’ in play won’t be similar enough to give you an edge over all of them. You might play off Cleopatra there, but that might open you up to another Civ’s predations (for example, Roosevelt’s own, if the secondary agenda dictates it). Even though you might be able to figure out the secondary agenda by the late(r) game, the fact that every Civ session is completely relative (or relational, if you prefer) and depends on a combination of civs and terrain will probably make it difficult to exploit more than one (maybe two) AIs at once.
+I guess that if they add a third (maybe even a fourth) hidden agenda then you might not be able to figure all of them out throughout the course of a single game, and will always have a sense of uncertainty to make diplomacy a bit more interesting, without turning it over into the usually wacky business it mostly is in Civ games.
+In any case, this focus on personalities, while reflective on its own of contemporary understandings of how politics work (and possibly meaning that a civ is as interesting as the personality driving it, not because of its evaluation as a ‘whole’), does seem to provide an able and quite interesting fix to the problem of the AI being more A than I.
+
+26/05/2016 at 02:45
+
+Zenicetus says:
+
+One of the things that distinguishes a strategy game from other genres like FPS, RPG and the rest, is that you’re going to stare at that map screen for a very long time.
+I hate that graphics style. Maybe I can get used to it… I dunno. It still looks like something for mobile gaming. 
+Why couldn’t they have just used the nice quasi-realistic look of Civ5? Is there a reason they had to do this, aside from working on smaller mobile screens? I’m not seeing it.
+
+26/05/2016 at 03:27
+
+jrodman says:
+
+The art direction doesn’t particularly work for me either, but it’s at least inoffensive. Perhaps my standards are low.
+
+26/05/2016 at 03:55
+
+celticdr says:
+
+I like the sound of everything about this version of Civ except the style: It’s way too colourful, cartoony and busy, they need to tone it down a bit.
+
+26/05/2016 at 09:08
+
+Jungle Rhino says:
+
+Hang on so they made the AI mildy predictable in a completely scripted 3 player environment? Sorry if I don’t sound over the moon but there is a big difference between this and a full blown game with the far more complex interactions the AI must navigate without becoming trapped in ‘analysis paralysis’.
+In short the proof will be in the pudding!
+Don’t like the art style much either.
+
+26/05/2016 at 14:15
+
+Someoldguy says:
+
+I have to agree that there’s a lot of assumptions made here about the quality of AI reactivity in a single primed 60 turn playthrough. The AI in Civ (and lots of other games) has always cheated by knowing if they are weaker or stronger than you and which cities you have left weak – not information you are given about them – and dogpiling you if they see you as easy meat. That leaves Roosevelt. Again, a nation being primed to be hostile to warmongers is nothing new, although perhaps it’s done better this time. 
+Knowing you have to keep your military reasonably strong and sieze territory in short, sharp bites rather than protracted grinding warfare feels like strategy game advice 101, not some deep strategic planning never seen before.
+
+26/05/2016 at 11:43
+
+VladimirSputnik says:
+
+Played lots of Civilization 4 on my brother Andrei machine (its very potent mind you, has like 8+G RAM). Very good Game im playing Solaris now and trying to learn all litle details amazing complex Game.
+
+26/05/2016 at 16:37
+
+PancakeWizard says:
+
+If you still have to spam unit stacks for combat and I’m forced out of the awesome-looking classic age in order to win – in short, if it still plays like all civ games – I’ll never finish a single game.
+
+26/05/2016 at 16:50
+
+Nauallis says:
+
+Yeah, why does the industrial era have to look so dirty and gross? Aren’t people super hopeful about this new time of progress and industry?
+In Civs 2, 4, and 5, this was true. Appreciate the nod to reality, but blech.
+
+03/06/2016 at 17:30
+
+Ronrocken says:
+
+Does this game have multiplayer unlike V ?
+;—-)
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+2K, feature, Firaxis Games, preview, Sid Meier's Civilization VI.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

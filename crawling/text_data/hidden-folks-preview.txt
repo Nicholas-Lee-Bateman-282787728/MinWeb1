@@ -1,0 +1,110 @@
+
+RPS Feature
+Clickbait 
+By John Walker on January 16th, 2017 at 5:00 pm.
+
+I spotted Where’s Wally-alike Hidden Folks [official site] while judging the first round of the IGFs, and asked the developers if I could preview it back then. Instead they sent over a newer and ever-evolving build of the game which I’ve been playing on and off for the last month, and I am completely charmed.
+You are likely familiar with the Where’s Wally/Waldo books – famous in the 90s, Martin Handford’s elaborate illustrations hid the red-and-white striped oddun in elaborate crowds, pictures pored over by millions. It was so popular for a while that there were spin-offs of every kind, from TV cartoons to duvet covers, and indeed a few video games. (Favourite Wally fact: in Norway he was called Willy (snigger), but all informality was removed for Germany’s Walter.) These, of course, mostly emphasised educational elements (because god forbid anyone other than TT make a game for kids that just exists to be fun), although the most recent – 2010’s The Fantastic Journey – tried to tie in to the burgeoning audience for hidden object games. But you don’t remember that. Thing is, unless you’ve elusive memories of an aunt buying you the NES version in 1991, you likely never played any of them. Despite seeming such a perfect fit for gaming.
+Hidden Folks picks up the long tradition for wimmelbilderbuch art, and although it’s not yet finished, already does a fantastic job of finally seeing that format shine on a PC.
+
+I’ve been in the rather privileged position with Hidden Folks to have played a series of builds over the last couple of months, watching as the format has evolved and tweaked even at this late stage in its development. Developer Adriaan de Jongh and artist Sylvain Tegroeg teamed up in 2014 to create a series of wonderfully intricate animated scenes in which a number of target characters, objects and animals are hidden, each with a small clue to their location, and then delivered with a fetching silliness.
+The lovely, deceptively simple monochrome line drawings are bursting with life, teeming with animations, and completely daft. It might be a hugely populated Burning Man-style festival, or a farming community, perhaps a holiday camp, or scene set in a very busy jungle, where hundreds of unique little people (or monkeys, as is often the case) are dancing, jumping, waving and snoozing, some wandering around the scene pulling carts, others sleeping up trees, more still hiding in tents or behind tall grass. From the strip of targets (I think different each time you approach a scene, but this could change) you need to identify usually a minimum of six to move on, and often as many as fifteen if you want to be a completist.
+
+The game takes full advantage of the interactive nature of its delivery, without getting carried away with it. Long grasses can be clicked on to swish-swoosh-swipe them down, tent flaps unfurl to reveal what’s inside, suspicious eyes in a tree when tapped will often send a hidden person tumbling to the ground. Perhaps clicking on a car will have it roll out of the way to reveal an object, or an X on the ground might let you dig a hole. What’s so ideal about these is that they’re small, precise, not unwieldy and overly complicated, which would stop the game being about searching for little details and turn it into something more fiddly and annoying.
+But crucially, clicking on almost everything gets a response, with doors opening, trees rustling, plants growing, hay bails rolling, tyre swings swinging, snakes hissing, and on and on. And even better, every sound effect is made by the developer’s own mouths, adding to the game’s beguilingly silly atmosphere.
+
+In all the builds I’ve played, it smartly doesn’t penalise you for ‘incorrect’ clicks (like clicking on a character who looks like the one you’re after but for the buttons on their shirt, or the shape of their hat), because clicking all over the place is a huge part of the entertainment of playing. It lets you freely explore and play with the scenes, which range in size from a little back yard to utterly enormous woodlands or fields filling screen after screen as you pan around, playing with all the tiny hidden details, as well as hunting down the specific targets.
+Each new build I’ve played has made changes, from how progress is made (it’s recently switched from a list of must-find items and then some bonus extras, to finding a minimum number from the whole lot, to open up the next scene), adding in new stages and taking out others, clearly demonstrating a strong desire to refine this down. Sometimes the builds include these odd bonus sections where the camera moves itself across a scene at its own pace, creating a time limit for you to find the objects hidden within – I’ve yet to enjoy these, taking too much away from what gives the game its appeal without anything specific to make it up. They don’t seem to be in the build I’ve currently got running. I love getting to see this private shaping of a game, as they refine down what they’ll eventually release in February.
+
+Of course, when a game’s packed with details, you only ever want more, and I know that what I’d love to see appear in future builds as it reaches release is a lot more sound effects. Currently a few too many things give you a generic puff of cloud when clicked on, and the accompanying “Douf” vocal effect. It’s such a joy that when you click on a tiny guitar in a tiny area of a vast, detailed scene, you hear some hilariously silly attempts at orally performing guitar strings. Even the option menus and so on are a dude saying “beep”. It’s wonderful, so of course it’s a shame when you find things that don’t do it. I’d say they’d do well to cram in as many more as they possibly can before release to minimise those “Aww” moments and maximise the “Ah!”
+This is shaping up to be something completely lovely, very silly, and far more engrossing than you might expect. They’re making it for iOS as well as PC (no Android, the monsters), and you can see how perfect this will be on a lovely big iPad. But it works very nicely on PC too – I’ve found myself very happily wiling away time with it while some dumb TV show plays on my other monitor, and very much like the idea of happily tapping away at it while on the move. It’s funny in its own quiet way, entertaining by dint of being an already well-established popular puzzle, and completely charming thanks to its art, animation and sound effects.
+It’s hard to see how they’ll screw it up before release at this point, but it’s still a few weeks away – we’ll let you know a final verdict once it’s finished.
+Hidden Folks is out in February on Steam, with the price yet to be announced.
+
+16/01/2017 at 17:13
+
+Ghostwise says:
+
+You just were looking for a credible occasion to write “wimmelbilderbuch”, weren’t you ?
+
+16/01/2017 at 17:21
+
+John Walker says:
+
+Since the day I was born.
+
+17/01/2017 at 06:19
+
+batraz says:
+
+I’m still waiting for my chance to say “gesamtkunstwerk”, so good job !
+
+17/01/2017 at 09:39
+
+PanFaceSpoonFeet says:
+
+I wimmelbilderbuch’d you’d say that.
+
+17/01/2017 at 10:37
+
+Shiloh says:
+
+I once used the German word “Fingerspitzengefühl” in an interview, which was weird even by my standards.
+Got the job though.
+
+16/01/2017 at 18:41
+
+AtlasIsKing says:
+
+I played a build of this at an independent games festival in Chicago this summer and I agree with John’s assessment that the game is both charming and a lot of fun.
+I grew up in France where they don’t believe in the letter W so they just called it “Ou Est Charlie?”. As someone whose name is Charlie I was obsessed with the books as a child and read them every night for months.
+
+17/01/2017 at 11:16
+
+Bozzley says:
+
+John – do you happen to know if this have a tablet mode in the Windows version? I’d love to play this with my kids on my tablet, can’t see it being much fun if it doesn’t support touchscreens though.
+
+18/01/2017 at 10:33
+
+Adriaan says:
+
+(As the developer of the game, I can confirm that touch on notebooks will also work!)
+
+17/01/2017 at 18:37
+
+morse says:
+
+Looks like it was made with Hypercard.
+
+18/01/2017 at 17:32
+
+Hmm-Hmm. says:
+
+Hah! That takes me back.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+Adriaan de Jongh, feature, Hidden Folks, preview, Sylvain Tegroeg, wimmelbilderbuch.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

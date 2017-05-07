@@ -1,0 +1,21 @@
+
+
+
+CryptoCoinsNews
+New Jersey pastor Trevon Gross and coder Yuri Lebedev have been convicted and face 20 years in prison for their roles in Coin.Mx, an illegal bitcoin exchange. The two allegedly helped launder bitcoins used in darknet purchases and ransomware scams by disguising them as legitimate cash transactions.
+Lebedev, Anthony Murgio and co-conspirators allowed coin.mx customers to exchange cash for bitcoins and charged a fee for the service, according to the indictment filed in the U.S. District Court Southern District of New York. Between October 2013 and July 2015, Coin.mix exchanged millions of dollars for bitcoins.
+The conspirators allegedly disguised transactions by operating through front companies, including “Collectables Club,” and maintaining phony websites. The accounts in these companies actually functioned as operating accounts for the illegal Coin.mx bitcoin business.
+Customers used the bitcoins exchanged through coin.mx to make purchases from darknet websites operated by black market bazaars, the indictment stated.
+In 2014, the defendants gained control of HOPE FCU, a federal credit union. Gross, chairman of the HOPE FCU board, assisted Murgio and Lebedev to gain control of HOPE FCU.
+Lebedev offered to pay Gross $41,000, according to the indictment. Murgio, at Gross’s direction, paid more than $150,000 in bribes to accounts under Gross’s control.
+Gross installed Murgio and Lebedev on the HOPE FCU board and moved Coin.mx’s banking operations to HOPE FCU.
+The defendants in 2014 obstructed an examination of HOPE FCU by the National Credit Union Administration.
+The charges against the defendants include bank fraud. The defendants allegedly executed a scheme to gain assets under the custody of financial institutions, assets insured by the Federal Deposit Insurance Corporation, using false representations.
+Gross’ lawyer argued that he was misled by Murgio into believing that Coin.mx was a memorabilia club. “He didn’t know anything about what they were up to,” the lawyer stated, claiming that the $150,000 “donation” to the church did not benefit the pastor in a personal capacity.
+“Yuri was in the wrong place, at the wrong time with the wrong people,” said Lebedev’s lawyer.
+The Murgios have already pled guilty in a plea deal with prosecutors. Gross and Lebedev contested the charges against them.
+Their trial jury disagreed, and on Friday found them guilty on all counts.
+Also read: US prosecutors allege ‘bribes and lies’ in bitcoin exchange coin.mx case as trial begins
+The case against Coin.mx isn’t over yet since there is another coin.mx owner who faces charges.
+Gery Shalon, an Israeli national, also owned a stake in the exchange and faces charges that he used customer data from the 2014 JP Morgan hack, in which 76 million households’ and 7 million small businesses’ records were compromised.
+Image from Shutterstock.

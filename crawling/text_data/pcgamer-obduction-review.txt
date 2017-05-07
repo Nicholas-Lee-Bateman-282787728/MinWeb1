@@ -1,0 +1,49 @@
+
+
+ 
+ 
+ 
+
+
+By
+Tom Marks
+ 
+
+A beautiful, if simple, puzzle game that remains faithful to Myst without feeling dated.
+What is it? A first person puzzle game and spiritual successor to MystExpect to pay: $30/£24Developer: Cyan Inc.Publisher: Cyan Inc.Reviewed on: Windows 10, 8GB RAM, GeForce GTX 970Multiplayer: NoneLink: Steam page 
+In a roadside gas station on an alien world, I had to teach myself to read and write the numbers of a hyper-advanced race called the Villein. Doing so was simpler than expected, as there was a conveniently placed worksheet next to the Villein equivalent of a digital display that taught me the basics. I didn’t even know why I needed to learn this numbering system, much less why there was a Route 66-style gas station on this planet in the first place, but an overwhelming sense of curiosity pushed me through the whole thing. A week later and I can still count like a Villein.
+Obduction feels like a Myst game, which is to be expected from Cyan Inc, creator of Myst and its sequel Riven. In true Myst fashion, it presents me with a problem—often a locked door or a blocked path—and asks me to find a way to proceed using clues I’ve probably already come across without realizing it. It’s a scavenger hunt, albeit sometimes a simple one. It’s also immensely helped by the lighting and model detail the Unreal Engine allows, ensuring that Obduction only feels faithful to its predecessors, not dated by them. 
+The story begins with your character being unexpectedly teleported to a strange place called Hunrath, a small Arizona town that has somehow been transported to the surface of an alien planet. As you began to explore your new surroundings, you discover Earth is actually one of four worlds that has had a chunk mysteriously torn up and moved, and these four chunks are connected to each other. Each world has its own setting and color scheme, and they are all absolutely gorgeous. Obduction’s sound design and art direction are some of the main reasons I enjoyed it as much as I did—including its use FMV actors, which are just the right balance of charming and campy.
+
+Obduction is paced perfectly, slowly introducing me to new areas of a world, giving me a roadblock, and then sending me back to scrutinize every out of place rock I passed on my way. I had to flip lots of rusty levers, learn that alien numerical system in base 4, and write down every number combination I saw—though Cyan has added a screenshot button and a viewable gallery in the menu, so you don’t strictly need a pen and paper. But keeping notes was important, as Obduction’s puzzles required me to think about everything I’d seen in a given world rather than just the task at hand, which made them more gratifying to solve than traditional puzzles like those found in The Witness, even if the solutions were often a bit too simple.
+A majority of the puzzles I faced were pretty straightforward. See a door with a keypad, find a code. I didn’t have much trouble tracking down answers or clues, and sometimes it was too easy to tell when a something was going to be important later. Occasionally, an important phrase or clue in a book—many of which are dotted around Hunrath and filled with handwritten notes from the town’s missing denizens—will be overtly highlighted or written in a different color. At one point I even walked into a room full of various props, looked at an innocuous object on a wall, and said outloud “that will be the solution to a puzzle,” only to be proven right about two hours later. 
+Additionally, Cyan’s decision to put Kickstarter ‘Backer Reward Items’ as unique objects scattered throughout the game world (designed in-part by people who pledged over $850 during its 2013 Kickstarter) is a big misstep in Obduction’s world design. In a game about carefully observing your surroundings for clues and answers, littering the environment with visually distinct, eye-catching, and often interactive objects that have no bearing on the puzzles you are trying to solve is a big annoyance. More than once I’d see something I thought was part of a solution—a road sign with numbers, a painting, a compass—only to get close and see a pop-up with the text “Backer Reward Item” to let me know I was wasting my time.
+
+Above: One of many back reward items that kept drawing my eye.
+Still, it is a positive sign that some of Obduction’s puzzles need this attention to detail. Hunrath is dotted with other small props that can help you solve puzzles even if they aren’t directly part of the solution. For example, I was stuck on a code puzzle looking for clues and found a poster lying on a table. The poster didn’t give me a clue or an answer to the code I was looking for, but it did spark a realization on how to find it. It wasn’t directly related to the puzzle, it was just a detail in the world that guided me toward the right line of thinking.
+Hunrath had the most puzzles to solve, but the game’s other worlds were, for the most part, beautiful and engaging as well. A jungle world in the second half of the game had some of the more interesting puzzles in Obduction and reminded me heavily of areas in Riven. I had to manipulate large sections of the level by jumping between worlds, and it made me wish that idea had been used more in other areas of the game as well. It was essentially like playing with giant blocks, planning out and rearranging them to build a clear path for me to walk through. It was a very cool section of the game if, once again, straightforward in how to go about solving it. 
+
+Above: The moment I saw this puzzle it reminded me of Riven.
+Most puzzles were more cerebral, with solutions hidden in the environment. In one, I needed to find the combination to a locked door, but the door itself didn’t give me any indication as to where I should start looking. I eventually found a book with an offhand reference that the code to some door in Hunrath was on an object I encountered within the first five minutes of the game. Once I tracked the number down, it was simple to input, but figuring out where to look and mentally connecting the dots was exciting. Unfortunately, the last hour or so of Obduction slows down and pretty much lacks any puzzles altogether, leading up to two potential endings that both left me confused and unsatisfied—even after I’d read every plot-filled page and book I could find in the game.
+Obduction stumbles a bit performance-wise as well. Loading into the game usually takes more than a full minute, and the in-game loading screen for Hunrath can sometimes take just as long. I occasionally dropped frames and experienced hitching as well, even on the lowest graphical settings with my GTX 970. I also had a few problems with imprecise menu buttons, most notably I had to click the picture in the screenshot gallery just before the one I wanted to enlarge in order to select the correct image. It’s entirely playable and doesn’t ruin the experience, but it does run worse than expected.
+I really enjoyed the 10 hours it took me to complete Obduction, but it left me wanting more in a number of ways. More worlds to explore, more complexity from its puzzles, and even more of that nostalgic feeling it evoked so well. It harkens back to the glory days of Myst and Riven, and at the very least proves that Cyan still knows how to build engaging and mysterious worlds. 
+
+
+
+
+
+
+
+
+
+
+A beautiful, if simple, puzzle game that remains faithful to Myst without feeling dated.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

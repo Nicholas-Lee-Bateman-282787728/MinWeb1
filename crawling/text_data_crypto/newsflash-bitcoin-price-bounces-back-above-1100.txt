@@ -1,0 +1,16 @@
+./html_data_bitcoins/newsflash-bitcoin-price-bounces-back-above-1100.txt
+
+
+
+CryptoCoinsNews
+Bitcoin price is on the road to recovery after suffering a significant collapse triggered by rapid selling by investors amid continuing talk of a hard fork as a part of the bitcoin scaling debate. On Tuesday, at the time of publishing, bitcoin price scaled a high of $1,117.9 in an upward climb on the Bitstamp Price Index (BPI).
+Bitcoin began Monday at the $1,000 mark, reaching a high of $1,053 an hour afternoon(UTC). The climb was a part of recovery after bitcoin sunk to a low of $944 last week, a 30-day low, losing over 18% in value from trading above $1,150 as talk of a hardfork intensified. The notable fall was among the steepest declines in nearly three years and followed a statement by 18 major bitcoin exchanges banding together to reveal a contingency plan in the event of a hard fork.
+Bitcoin’s weekend timeout was among its steepest collapses in years.
+ 
+After trading through most of Monday under $1,050, Tuesday saw bitcoin cross the mark at 03:00 and the cryptocurrency hasn’t looked back since. The first big gains in the day helped bitcoin prices push toward $1,080 at 05:30 before price hit a plateau. At 11:00 price rose again, from $1,070 to $1,091 afternoon. Bitcoin flirted with the $1,100 milestone until 16:00 before a swell pushed price from $1,088 to a high of $1,110 at 17:15.
+At the time of publishing, bitcoin is trading to the dollar at a $1,113.
+
+Price continues to be volatile as the scaling debate continues with the community split between SegWit (Segregated Witness) and Bitcoin Unlimited.
+For a live Bitcoin Price chart, click here.
+All time references are in Coordinated Universal Time (UTC).
+Image from Shutterstock. Charts from Bitcoin Wisdom and Bitcoin Average.

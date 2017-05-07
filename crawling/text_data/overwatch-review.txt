@@ -1,0 +1,882 @@
+
+RPS Feature
+Heroic effort 
+By Steven Messner on May 27th, 2016 at 5:00 pm.
+
+Overwatch [official site] is like going for an evening of speed dating and realizing everyone you meet is marriage material. I’ll stare at the character select screen before each match, unable to decide which hero I want to play because I want to play them all. Do I play as Reaper and try to earn ‘Play of the Game’ with my deadly shotguns? Do I hang back as Widowmaker and snipe holes into people’s heads? These are the kinds of questions are only made hard because each one leads to its own kind of fun. But does all that diversity lead to a game as enduring as everything else in Blizzard’s great legacy? Here’s wot I think.
+
+At the risk of spoiling an entire review, the answer to that last question is yes. Overwatch is fantastic. And while I enjoy the eclectic cast of characters, what I really love is that Overwatch feels smartly cognizant of the gaming landscape it so deftly navigates. It pulls the best from various competitive multiplayer games, but never feels like plagiarism. Instead, Overwatch displays the same kind of iteration that turned World of Warcraft into the big daddy of MMOs. I’m not saying that Overwatch will be the next World of Warcraft (despite starting out as such), just that Blizzard has done it again.
+The heart of Overwatch is its roster of 21 characters. They are an endearing ensemble of heroes that I’m frankly amazed fit together so well. At this point, Blizzard might be the only company that can put a robot, a ninja, and a talking gorilla in the same universe and have it make sense. Sadly, beyond each character’s personality and the small amount of texture they add to the world around them, you’ll get very little story out of Overwatch. It reminds me of Dark Souls in the sense that there’s some dots to connect, but you’re always left wanting more. That’s probably a smart thing, as Overwatch gains little by being bogged down in a sticky story.
+
+Instead, Overwatch is purely focused on mayhem and combat. Teams of six square off across 12 objective-based maps, trying to capture control points or escort payloads to their destination. A well-rounded team is crucial, and a helpful user interface will suggest what holes to fill as each player chooses during the preparation stage of each round. Hero switching is a core part of Overwatch, and each team is encouraged to change and adapt often to form new strategies or respond to threats. While I don’t think many players are switching as often as Blizzard intended, it’s a fantastic emphasis that gives Overwatch a sense of enduring flexibility.
+Heroes are divided into four roles. Tanks provide serious muscle on the field, pushing forward with their high health and powerful attacks. Offensive heroes complement that push, targeting weak links in the enemy’s team and moving aggressively to break them. Defensive heroes bring utility, either through crowd-control or shutting down enemy strategies. And finally, support heroes keep everyone alive and fighting—even if they’re rarely recognized for their contribution.
+That might not sound complicated, but each hero brings their own unique abilities and playstyle to the fight, and the layers of nuance and synergy that exist between them is, at times, overwhelming. There’s the more obvious relationships like Reinhardt using his shield to cover a Bastion as it mows down enemies with a chaingun. But beyond those, there are thousands of little ways each hero can compliment another to form cohesive teams. As Mei, I love catching the enemy team in my freezing ultimate ability so that another hero can mop them up with theirs.
+
+But for every play there is also a counter play, and choosing heroes that can shut down a powerful enemy is equally as important to team design. Mei might be deadly up close, but Pharah’s deadly rockets can smack her around from a distance without much trouble. Likewise, Pharah is vulnerable to Soldier 76’s machine gun, who himself is weak to Roadhog who is countered by Mei. At first, all of this seems too much to take in, but the more I spent with each hero the more I became aware of how they could work together. It becomes a puzzle to look at the enemy team’s composition and figure out where their weak link is without switching to a hero that creates one for your own.
+It’s here that Overwatch’s simplicity becomes a real blessing because it encourages experimentation, and you won’t waste long hours just trying to acquaint yourself with a new pick. Most characters have two standard abilities in addition to their main weapon and ultimate ability. Pressing F1 displays a short description of each, and I found it easy to piece that information together into a basic strategy.
+But don’t mistake that as me saying Overwatch is easy or shallow. Good aim will help you with more traditional heroes like Soldier 76 or Widowmaker, but there’s a language to the flow of battle that I had to learn before I became a real asset to my team. Knowing when to push, when to pull back, and when to unleash my ultimate all took time to understand. At first, Overwatch can feel chaotic and messy, but before long I was reading the battlefield like a book—knowing where to be and when, and dropping ultimates that were winning matches. Those moments where it all comes together are beautiful.
+
+Some heroes are harder than others but all of them are fun in their own way. I still have trouble with Genji because his ‘float like a butterfly, sting like a bee’ playstyle is almost too fast-paced for my liking. Winston, on the other hand, is quickly becoming one of my favorite tanks. I love using his jump to leap clear past frontline heroes and into softer targets, creating tense moments of over-extension before leaping back to safety at just the last moment.
+Fortunately, Overwatch adeptly uses its visuals and audio to help teach you to be a better player. The graphics are no doubt charming, but they’re also communicative. There’s obvious cues like seeing the edges of my screen frost up when Mei has her endothermic blaster on me. But the more I play the more I begin to infer subtle messages in both my enemies and my allies. I can tell when Reinhardt’s shield is about to break from the amount of cracks on its surface, or I know when to back off from dueling Zarya because her beam has reached maximum damage.
+Likewise, I quickly learned to identify every callout heroes make when they trigger their potentially devastating ultimate ability, and my reactions became as instinctual as firing my gun. Hearing McCree warn “it’s high noon” had me running for cover. But when my own team’s Lucio shouts “let’s break it down,” I don’t even look at my health, I just push forward as hard as I can.
+
+It will take some time for the meta around Overwatch to settle, but I do have some concerns. While every hero is fun to play, there are some that are absolutely not fun to play against. Bastion seems like an obvious character to harp on because he can cut down entire teams all at once, but it could also be a symptom of players not adapting by switching to counter him. Mei is another hero I’m concerned about, as she’s almost too survivable thanks to a powerful self-heal and a weapon that lets her be deadly both close up and at range.
+At this point, these concerns feel relatively minor, and even though I might clench my fist every time a Bastion kills me from halfway across the map because I had the bad fortune of stepping out of cover for two seconds, It’s not a sting that lingers very long.
+I want to play Overwatch for years, but that’s going to be up to Blizzard whether or not that happens. Looking at it on paper, Overwatch feels pretty barebones right now. There’s four game modes and 12 maps that all cycle the same three objectives. New heroes would be welcome, but I’d much rather see Blizzard commit to creating spaces for those heroes to play in that are just as diverse and personable. That isn’t to say the maps in Overwatch are terrible, but I don’t find them particularly memorable either. They’re certainly well designed, but the only real trick any of them has is deadly pits to fall into. I’d love to see something a bit more inventive.
+
+It really feels like Blizzard bet everything on Overwatch’s 21 heroes and it absolutely paid off. Overwatch already feels as timeless as Blizzard’s other games, and it feels weird to realize that this is the first time we’ve seen any of these heroes. I definitely have some concerns about where Overwatch will be headed in the future, but I’m not thinking about that as I teleport across the map as Tracer. No, I’m thinking about how I’m going to get behind that Bastion to take that asshole down. I’m thinking about how good it’s going to feel seeing him crumple into metal parts. I’m thinking about how much fun I’m having. The one thing I’m not thinking about? Going to bed.
+Overwatch is out now.
+If you want some help with how the heroes play currently, check out our Overwatch character guide.
+
+27/05/2016 at 17:13
+
+Jac says:
+
+I didn’t expect the core shooting to feel so good in this, not that there isn’t a duff character among he roster.
+The prospect of watching the competitive side of this game is also something that I’m very interested in seeing, with coordinated character switching and other such things that aren’t as prevalent in the standard games at the moment.
+It’s great fun now even non-competitively and is only set to get more fun the more experienced the playerbase gets.
+
+27/05/2016 at 17:40
+
+Mokinokaro says:
+
+You’re right. All 21 characters are quite fun to play (though everyone will have their favorites of course)
+What impresses me the most is the game just doesn’t feel like it only has 12 maps due to how much character choice can vary up the gameplay. That’s only going to get better as Blizzard adds more maps and heroes.
+
+27/05/2016 at 17:14
+
+bagitomacho says:
+
+“Okay. One last game.” (Said for every game for the past 6 hours)
+
+27/05/2016 at 17:17
+
+B2ROM says:
+
+The four last sentences perfectly summarize my three last evenings and nights. It’s been years I haven’t been so obsessed with a game, and as you say, “Blizzard has done it again”. I can’t wait for the competitive mode to open.
+
+27/05/2016 at 17:25
+
+Aerothorn says:
+
+Is there or will there be a demo? Anyone know?
+
+27/05/2016 at 17:34
+
+B2ROM says:
+
+Aerothorn: Considering the history of Blizzard games and the successful start of this particular one (critically and maybe commercially, I haven’t checked yet), it would be very very unlikely. If I recall, the only game they promoted with a demo version (Heroes of the Storm excluded since it’s free-to-play), is World of Warcraft, when they wanted to get people back or new players in the game, like they did in order to promote their 4th or 5th expansion.
+40€ (for me) is a fair price for a competitive game with nothing gameplay-related to unlock.
+
+27/05/2016 at 17:40
+
+MooseMuffin says:
+
+They put out “starter editions” for their other paid games (WoW, D3, SC2) if I recall, but they didn’t come out anywhere close to the release of those games.
+
+27/05/2016 at 17:40
+
+Xocrates says:
+
+Diablo 3 and Starcraft 2 also have Demos. In fact Blizzard is one of the few big companies to still make demos for all their games.
+Though in the case of Overwatch I have no idea what shape that could take short of making separate demo servers – which sounds like a wasteful idea.
+
+27/05/2016 at 17:54
+
+B2ROM says:
+
+ Oh right my bad. I guess I only remember the game Blizzard actively spammed me about by e-mail to get more of my money already… I guess I never heard of the other ones since I’m a Blizzard fanboy who buys their game Day One.
+
+27/05/2016 at 19:17
+
+Hideous says:
+
+Diablo 3 also has a demo (the starter edition), so I wouldn’t say it’s entirely unlikely.
+
+27/05/2016 at 20:06
+
+Aerothorn says:
+
+It’s not about whether $40 is a fair price for This Type Of Game, it’s about whether I would actually find it enjoyable. And for me it’s really, really hard to gauge multiplayer FPS games by reading about them – I gotta play!
+So yeah, guess I’ll sit this one out till they make a demo. And figure out how the servers/chat works (and see how friendly the scene is, since I’m Too Old to play multiplayer games where people yell at me for Not Being Good).
+
+27/05/2016 at 20:16
+
+Grizzly says:
+
+I haven’t had any instance of thus yet, and the game does go an extra mile to be constantly positive: There’s no scoreboards at the end of the match, just a highlight reel and a selection of standout stats, which are often along the line of “This person blocked 13000 damage as reinhardt!” “This person healed 25% of all the damage taken!” “This person had a killstreak of 15!” and then let players decide which they find most impressive.
+(They usually pick the healers).
+
+29/05/2016 at 01:12
+
+Bull0 says:
+
+The first Starcraft had an excellent demo. Blackthorne had a demo. Warcraft 1, 2 and (I think) 3 all had demos. Starcraft 2 has trial editions and World of Warcraft has the recruit-a-friend system. Heroes of the Storm and Hearthstone are both free to play. Blizzard are generally pretty good at pimping their games in this way.
+
+27/05/2016 at 17:38
+
+Mokinokaro says:
+
+The Open Beta last week was the only demo you’ll probably ever see.
+
+27/05/2016 at 20:33
+
+Frank says:
+
+Seems quite possible that they’d have free weekends again in the future. TF2 does it; HoTS has promo periods; etc.
+
+27/05/2016 at 20:33
+
+Frank says:
+
+Err, TF2 did it back when it wasn’t F2P I mean. I think it did, anyway.
+
+27/05/2016 at 23:41
+
+April March says:
+
+It certainly did. In fact, it went F2P at the end of what Valve had said was one such weekends.
+
+28/05/2016 at 12:10
+
+DThor says:
+
+I hope they have a free weekend or similar – I’d be happy with that instead of needing to maintain a demo version. There’s not a single Blizzard game I’ve actually liked since Warcraft, it always ended up being something that tends to appeal to button mashers in my books. I know that elicits “pffts” from most people since obviously many people like their games, but every time I’d get excited about a game based on gushing reviews like this, one day in and I’d walk away. Diablo, Starcraft, WoW (admittedly not when it first came out) – just hated them. Something about their game design and especially their creative takes on characters that I find super mainstream, in a Sims or CoD way.
+I still play TF2 and find it an entertaining mindless shooter. If it could beat that I’d be impressed.
+
+28/05/2016 at 10:41
+
+Arkayjiya says:
+
+It’s hard to say, I don’t think a demo would work in a game based on having access to everything for the same reason FTP didn’t seem to be a possibility. I’m betting on free week-end down the line, but it will take some time because it needs to be when the sales are low enough and when the people considering the game that were not available for the open beta will have had some time to play whatever other releases kept them busy. I’m betting not before a few monthsù.
+
+27/05/2016 at 17:33
+
+gritz says:
+
+As someone who gravitates more towards exploring overwrought singleplayer experiences, I didn’t think this game would sink its teeth into me the way it has.
+The comparisons to TF2 are apt, and it feels a lot like the revelatory experience of playing TF2 again for the first time. But it’s not a carbon copy, and the differences aren’t subtle. Overwatch stands on its own, and almost everything about it feels confident and assured.
+
+27/05/2016 at 18:15
+
+J. Cosmo Cohen says:
+
+I’ve had the same experience with Overwatch in regard to the beginnings of TF2. I am so very impressed by many things in Overwatch, with all of them pointing towards brilliant game design, and I don’t think I’m being hyperbolic by saying so. I know it won’t be for everyone, but it is clearly speaking my language.
+
+27/05/2016 at 19:49
+
+gritz says:
+
+Oh and I think it’s worth noting how well the game highlights players for things beyond just their KDR. 
+Sure, Play of the Game will likely go to the guy who gets the big 4 person kill, but I love how the end of the game highlights all kinds of players’ contributions, from either team.
+
+28/05/2016 at 01:54
+
+Anti-Skub says:
+
+You know overwrought is a negative term right? It means too complicated.
+
+28/05/2016 at 06:08
+
+gritz says:
+
+Oh word?
+
+27/05/2016 at 17:37
+
+Xocrates says:
+
+The thing about Bastion – and torbjorn to a lesser extent – is not so much that he’s overpowered in some form, so much as the game seems to lack ways to break an entrenched position. You can counter one or (fairly) two easily, but what do you do when the have Bastion, a couple Torbjorns, a Reinhardt preventing you from even damaging them and a Mercy keeping everyone topped up?
+Sure, there are several big aoe ultimates that do this, but those are largely avoidable and only work in cramped spaces. And characters that seem designed at doing that are fairly rubbish at it since their range is much shorter than their target’s and there’s no UberCharge equivalent to keep then alive long enough to do their job.
+Even Reinhardt shield is largely useless vs Bastion – and in fact I suspect that to be the point since Bastion is pretty much the only character that can reliably break it.
+Now, this kind of entrenchment isn’t viable on every map, or even that common (yet?), but does reveal holes in the hero lineup that I’m curious to see how Blizzard will patch up.
+
+27/05/2016 at 18:09
+
+J. Cosmo Cohen says:
+
+I’m no expert, but a couple characters that seem to have no trouble with Bastion are Zenyatta, Genji, and Zarya – in my experience. I’ve also noticed that Tracer, Symmetra, Zarya, and Reaper do quite well against Reinhardt. I think it’s easier to counter the combination you’ve mentioned than you might suspect, although it does require that the opposing team understand how to counter in the first place. And I say all this as just last night I was playing as Bastion, having Reinhardt shield me, and Torbjorn in the background, and I was impressed by the other teams ability to successfully destroy us.
+
+27/05/2016 at 18:18
+
+Xocrates says:
+
+Individual characters can counter individual characters no problem, sure. It’s the combination that can be devastating – Tracer most certainly can’t kill a Reinhardt being healed by Mercy and standing next to a Bastion.
+And like I said, this is only a problem on some maps, but I’ve certainly been in games that I’ve been at a loss of what I could possibly do.
+Heck I’ve reached the conclusion that’s in those situations is often better to pick Tracer and use her to bypass the defensive line altogether, hoping to either manage to sneak the capture point, or disrupt them enough for my team to break through.
+And how were you countered by the way? Do you recall?
+
+27/05/2016 at 18:30
+
+J. Cosmo Cohen says:
+
+If I remember right, it was Tracer and Zarya that were able to get into our faces and kill us. Tracer could easily sneak in, get off some shots, and teleport out, and during the confusion Zarya would shield herself and get in close. I feel like Winston was also part of the attack, but I may be getting confused (I’ve played so many games already).
+
+27/05/2016 at 18:38
+
+anHorse says:
+
+Yes tracer can, you just kill the healer first
+
+27/05/2016 at 22:27
+
+montorsi says:
+
+If Tracer tosses her bomb in and kills the healer and Bastion, problem solved.
+What I’m really reading here is a great deal of ignorance. D.va can activate her shield and dislodge the newb stomping formation with her Mech’s boosters. Tracer can blow up all three simultaneously. Junkrat can use his concussion mine to knock Reinhardt up into the air while his team rains destruction in on Bastion.
+Hell, you can park your own Bastion in line of sight of Reinhardt’s shield but out of line of sight of the enemy Bastion and tear through the protection in seconds. A couple of rockets from Pharah will have Bastion dead or fleeing the scene.
+You aren’t thinking about the problem solving in a creative way, you just see a shield, throw up your hands and can’t imagine how it can be dealt with. Overwatch is all about making up strats and countering them and then countering the counter and so on and so forth. It’s crazy, maddening and often silly, but never is it impossible.
+No, the Bastion’s you have to worry about are the one’s that constantly move so you don’t know where they’re set up the next time.
+
+28/05/2016 at 01:54
+
+Xocrates says:
+
+And most of your solutions are wishful thinking and best case scenarios, since they assume that a) they’re all standing in very close proximity and can’t dodge your attacks, b) that they’re the only people on the enemy team, and c) that you actually have a clear line of sight on all of them.
+I’ve very much not arguing that they’re uncounterable, but the tactic is much easier to pull off than to counter, and no-one in the rooster is a clear counter.
+Heck compare with vanilla TF2 where nearly half of the 9 classes has some counter to entrenched positions.
+
+28/05/2016 at 21:49
+
+drakan_aur says:
+
+Exactly what montorsi said. What you perceive to be ‘wishful’ thinking are scenarios that actually take teamwork and coordination to create, which is exactly what this game is all about. No there is no ability on a single character that lets you take out a bunch of entrenched opponents with a shield and healer because guess what, that is a defensive setup in itself, which needs active thinking and setup of your own to counter. Basically if you find bastions + reinhardt + healer undefeatable, git gud – there’s a reason these setups no longer exist at higher mmrs.
+
+29/05/2016 at 11:59
+
+Xocrates says:
+
+“git gud”?
+Do kindly fuck off, will you.
+
+29/05/2016 at 16:45
+
+drakan_aur says:
+
+Now I can see what you’re actually looking for : ) get destroyed some more then.
+
+30/05/2016 at 15:00
+
+Xocrates says:
+
+Look, my reply to the “git gud” thing was made when when I was in a bad mood, but not only does the “git gud” thing feel hugely disrespectful, but your whole reply (and others on this thread) felt like such a basic misreading of my original point it went well past the point where I felt up to the need of basic discussion.
+Because somehow me saying that a specific combination, as part of a wider team effort, on particular maps and situations, is pretty hard to beat and is part of the reason the community in general has a problem with that particular hero…
+Somehow turned into a discussion on how I personally can’t beat them in any situation and should just “git gud”.
+How does one expect me to react to that?
+
+27/05/2016 at 18:31
+
+Flavour Beans says:
+
+The grenade guy seems to have a pretty easy time of knocking out Bastion, too, if he can get in close. The fact that he can’t be damaged by his own grenades actually makes him pretty powerful up close.
+
+27/05/2016 at 20:00
+
+Foosnark says:
+
+Junkrat actually can be hurt by his own grenades, at a reduced rate — they do 120 damage directly, up to 80 splash and up to 40 self damage.
+But yeah, he can be pretty good at messing up a Bastion. As can Roadhog if the Bastion is positioned in a narrow place or near cover that cuts off his firing arc — Chain Hook pulls him out of turret mode and if a shotgun to the face doesn’t finish him, he’s still exposed and probably won’t escape to self-repair.
+As noted above though, an entrenched defense is really hard to break. That’s more of an issue with point capture maps than payload or even king-of-the-hill maps. Overall I feel like payload tends to favor the attacking team, and capture tends to favor defense (especially Volskaya and Temple of Anubis), but I’d like to see actual statistics on that.
+
+27/05/2016 at 18:32
+
+B2ROM says:
+
+ Many champs and tactics can counter the Bastion-Reinhart-Torbjörn formation (BRT hereafter, saves time) in my experience, as long as the attack is coordinated. The higher I go up the MMR, the shorter is the durability of that formation (I am always at the countering side for this topic). Either I am drawing fire as a tank (any temporary shield does the trick) while a teammate flanks Bastion and Torbjörn or missiles or grenades or any ultimate rain on them, either I am the flanking one as Tracer (any offense champ could work, but Tracer is the one I usually play) or even Winston. In my opinion the BRT formation is a good strategy to offensively or defensively hold a payload, but not for a long time. 
+As Blizzard and many players, including me, point out, the core of the game is in switching champions depending on the situation, although it requires you to take time to master a significant pool of them and know when to use them.
+
+27/05/2016 at 18:55
+
+SaintAn says:
+
+A Junkrat or two would be able to take down that entrenched group. Did it earlier. I bombhopped into the sky over them and as I came down I grenaded the hell out of them until I died, which dropped my death bombs that insta killed the ones that didn’t die to my suicide attack. Can also bounce grenades off walls behind Reinharts shield or sneak the Junkrat special to them and blow them up. OR just wear down the shield.
+
+27/05/2016 at 19:11
+
+Doomlord says:
+
+Really well said. I think that’s the issue with Bastion, that he’s not just OP’d by himself (though I think he is that, too) but with team-support, it gets to point where he’s really a bit too much.
+As annoying as he can be, it’s always going to be tough to get all the characters balanced so I’m willing to suck it up until they get him figured out better.
+
+27/05/2016 at 22:21
+
+Spider Jerusalem says:
+
+Bastion absolutely used to be overpowered. Back in beta when he had a 1000 damage front shield, he was an absolute nightmare on some maps. Now he’s a prototypical noob/pubstomp pick. He has several hard counters and as people gradually pick them up, he will become more and more niche throughout the game. He’s already an incredibly situational hero in mid/high MMR games.
+
+27/05/2016 at 19:36
+
+gritz says:
+
+Several characters have big AOE ultimates that can effectively break open an entrenched position if coordinated properly with teammates. D.Va, Junkrat, Reaper, Hanzo, Pharah…
+Sure, they’ll get melted if they rush in alone without support, but this game would suck if a single character could break down an opposing team every time their ultimate charged up.
+I actually think defensive positions are too difficult to maintain when it comes to payload maps. The heal from the cart is just gives the attackers too much of an advantage.
+
+27/05/2016 at 22:01
+
+Spider Jerusalem says:
+
+Symmetra’s alt fire goes through Reinhardt’s shield and two fully charged shots will kill Bastion.
+
+28/05/2016 at 15:39
+
+Reapy says:
+
+The issue here is pub play and ‘ease of teamplay’. If a bastion is set up, it is easy for reinhardt and mercy to walk over and suddenly three people are doing one thing together. 
+If you are going to try to take down 3 v 1 you have to be much better than them. You can’t expect one hero to counter 3 of them working together. It feels unfair because solo queue you can’t reliably communicate a coordinate attack vs a coordinated defense.
+Your first mission is to learn the maps. There are flanks to every choke point, nobody uses them yet. You can get to a lot of places that seem impassible if you stop and take a side route. 
+That said there are still a few ultimates that can help. D.va can boost and send her mech in to blow up entrenched defense. Tracer and pulse bomb in and recall out from a flanking angle. Same with junkrat’s tire, which can climb up walls and is ‘quieter’ when pressed against a wall, so you can find good angles. Zaraya’s blackhole thing and a follow up attacks work. Hanzo’s alt is also a gimmie for clearing entrenched turrets. Aim and fire through a wall when your teammates are about to go in. 
+Reinhardts shield gets shredded by bastion but not as quick as a team that prioritizes bastion from behind the shield. That is harder to work in a pub, but it is a solution. If you can get close to him or wait for a reload you can also charge him for a kill.
+Jump in his face with genji and aim your reflect at bastion and he will most likely kill himself. Do this while he is shooting another target or a teammate can shoot him at the same time, so if he stops shooting the teammate can put dps on him.
+Winston can jump in and harass bastion while he is shooting other targets. 
+If you can get a far enough away angle (and on most maps you can) window and hanzo make quick work of bastion too with normal shots. 
+I don’t see bastion mowing down as many people now a days, I think people have learned to take him out priority one. He can still be good if supported by a team, but remember that you are facing 6 people working together, expect to lose unless your team is similarly working together.
+
+28/05/2016 at 17:43
+
+Amake says:
+
+Hmm almost like this game is a team sport or something.
+
+27/05/2016 at 17:40
+
+Rackam says:
+
+I played the public beta they had right before release and thought that the gameplay was very sharp. However I don’t think that’s enough to make me spend 60$ on a game. I feel like I’d probably get about 20-30 hours out of fun on it, feel a sense of mastery and get bored when there’s nothing else to do but play more of the game.
+ A similar thing happened with Titanfall which was also an amazing game, gameplay wise that just had nothing to do after awhile.
+ Now Blizzard being Blizzard means that I’m sure they’ll continue to update games with both free and paid content but I find it normally takes them awhile to get their act together as far as release schedules go. 
+So with that said as much as the new game release rush is the best time to play competitive games so you’re learning with everyone I can’t see that as good enough reason not to wait for a significant price drop OR a lot more content. And in the second reason it might be too late for the game not to just be filled with people too good to catch up to.
+Good game though. Nice job Blizz.
+
+27/05/2016 at 18:13
+
+Tiax says:
+
+Isn’t Overwatch 40$ pretty much everywhere on the globe?
+
+27/05/2016 at 18:39
+
+Phasma Felis says:
+
+They’re being kinda sketchy about it. When you click “Buy” on the Overwatch website, instead of showing you a list of options and prices, it shows you the Origins edition with a big yellow-on-black “59.99 USD BUY NOW” button. It’s easy to think that the default package is the basic/cheapest one, if you don’t actually stop and click through the other editions.
+This has been tripping a lot of people up. I’m sure they’re getting some extra cash out of it, but they’re also losing some sales.
+
+27/05/2016 at 18:42
+
+Rackam says:
+
+Oh hey thanks. Yeah I thought it was going to be cheaper and saw that and was like “oh, yeah no nevermind”
+40$ is more reasonable. I’ll have to think it over again now.
+
+27/05/2016 at 21:53
+
+Jac says:
+
+Getting 20-30 hours out of it is also not a bad thing unless you exclusively buy games that last you a lot longer.
+Your worry about mastering it is also quite optimistic. I’d say you might master a few characters in that time at best. The roster really is diverse enough that they completely change how you play, and even ones that look uninspiring on paper are a blast to play.
+
+27/05/2016 at 20:39
+
+Koozer says:
+
+I spent 3 days looking for a price lower than £40 for Overwatch before giving up. Lucky for Blizzard I came across a random website mentioning the mythical ‘standard edition’ for a much more reasonable £29.99 on battle.net. I never thought I’d see the day when buying directly from Blizzard would be the cheapest option.
+
+27/05/2016 at 17:40
+
+Rymosrac says:
+
+Shipping a game like this with absolute zero support for LAN play, and because “blizard reasons” no hope that the decision will be reversed, has absolutely killed this game for me.
+I know it’s a total non-issue for most people, LAN’s are as dead as disco, a product of a bygone era, and all that, but I’m still hosting them almost every month with a pile of people and they’re a huge part of the enjoyment I derive from the gaming hobby. A game I can’t play at them is enormously devalued by the loss of that feature.
+Just a little sad, is all.
+
+27/05/2016 at 17:46
+
+Chaz says:
+
+Well get some extra telephone lines installed that you can all plug your 56k modems into, make sure you have a Freeserve CD handy and you should all be good to go. Problem solved.
+
+27/05/2016 at 17:51
+
+Rymosrac says:
+
+We LAN at my workplace with a 200Mb/s connection, but a dozen people connecting to the same server still gets unstable in virtually every game.
+Also the lack of a way for even private matches to choose maps, and especially the inability increase the playercount above 6v6 (as we would almost certainly want to do, perfect professional balance for mapsize be damned) are issues as well.
+
+27/05/2016 at 19:00
+
+causticnl says:
+
+you *can* select the map, create a custom game, go to settings and deselect the maps you dont want to play.
+
+27/05/2016 at 18:14
+
+spacedyemeerkat says:
+
+“Freeserve CD”.
+:D
+
+27/05/2016 at 19:11
+
+Doomlord says:
+
+Spoken like a true jackwad! Bravo!
+
+27/05/2016 at 17:42
+
+elnicky says:
+
+Not generally my kind of thing, but this review convinced me to give it a go. Downloading now.
+
+27/05/2016 at 17:48
+
+Stevostin says:
+
+There are no hero that I find attractive to play. There are a few one that could have been provided they didn’t look like character for a preteen cartoon. Guns looks horribly awful in any video I have seen. Also there is no such a thing as paying 60€ for a game anymore from a long time now. Especially not Blizzard. Last time I gave them money was Diablo III and boy do I regret it. There was 10€ max worth of value vs a Steam game in that one on release. I understand patches helped but still.
+Still, I had good time with many Blizzard game, so it would be cool to like that one. If anyone can show me a video that can be appealing to someone who likes tension, skill and individual difference in his games.
+
+27/05/2016 at 17:51
+
+B2ROM says:
+
+ The game is 40€, unless you want in game and cross-Blizzard game exclusive cosmetics.
+
+27/05/2016 at 18:13
+
+causticnl says:
+
+see the other comment, overwatch is 40 euroes (or dollar). 
+Blizzard is a bit cheeky to direct you to the most expensive edition of the game, while there is a cheaper one.
+
+27/05/2016 at 18:04
+
+Touchstone says:
+
+All games have that issue, though. That said, I’ve never felt a reason to drop $60 on a game for many years. Good thing this game is $40.
+
+27/05/2016 at 18:11
+
+Horg says:
+
+I really wanted to like Overwatch, but after a few weeks with the beta I had to conclude that I wasn’t having fun anymore : / It’s not one big problem i’m having issues with, its lots of little ones that make a somewhat disappointing whole. 
+The first element that started to piss me off was the overwhelming number of crowd control effects. I can’t think of another first person game that likes to take away control of your character as often as Overwatch does. Being completely disabled by rather easy to land skills is somewhat of an anathema to fast paced FPS game play.
+In a similar vein to the above, the amount of hit scan and / or auto aim weapons and skills was not to my taste. I don’t find them fun to kill with or be killed by.
+The net code was something I found surprisingly bad. Blizzard even made a point of making a video about how they intended to improve it after a barrage of complaints, but only offered a few token changes while leaving the roots of the problem unaltered. Basically, the public servers only update from server to client 20 times per second (60 is more usual), and the net code is designed to ”favor the attacker” in most cases. Essentially if there is a discrepancy between two players game states then what the attacker sees will be considered the real state. This creates a problem with responsiveness in a game designed with quick reflexes and defensive cool downs in mind. The problem is spotlighted by the death cam which, in my time with the beta, was sometimes showing a game state almost a full second out of sync with what I experienced. It’s horribly frustrating to feel like you out played your opponent with skill usage only for the server to over ride your play, making it look like you just stood there and took a full clip in the death cam. 
+Environment design is another theme I couldn’t reconcile with. The levels are perfectly functional as FPS arenas, some I would even venture are well designed, but despite that and the amount of colour and detail on show, they felt awfully soulless. Numabi (?), for example, does not feel like a real space. It’s got most of the elements you would expect from a near future city, but sort of falls into the uncanny valley as the parts don’t quite seem believable in their current layout. Other maps fall into this problem to a lesser extent, and some of the maps are thematically dull. 
+Linked to environment design, there is a dissonance between your map objective and the maps themselves. On the Holywood map, you are escorting a limo to the end zone. Why? What is the purpose of this car? What good is slowly shoving it towards a dead end going to do? On Ilos, you fight to the death over a series of non-descript control points. Why? There is nothing here that seems to have any military significance, it’s just a collection of houses : | These are all functional FPS objectives with proven game play mechanics, but they make no sense in the context of the levels in which they are presented. 
+Finally, character design. Not so much visual design, although some of the roster are a bit bland / cliched interspersed with the interesting ones, but dialogue. This point has been done to death, but Overwatch really does have some of the worst writing in the AAA games industry. The banter between the various characters has none of the wit or relevance to your play that TF2 displayed. Overwatch delivered forced and clumsy interactions that try and expose the various characters motivations, using overly simplistic prose that frequently references events that aren’t explained anywhere in the game. Blizzard make the process of becoming attached to the roster of characters unnecessarily difficult when pretty much everything they say is fan fiction level drivel. 
+I don’t regret the two weeks I played, there were some fun moments in there, but just not enough to overcome the problems I have with the game. As most of these seem to be by design rather than oversight, I can’t see myself coming back to Overwatch despite its popularity.
+
+27/05/2016 at 19:21
+
+Rizlar says:
+
+Stuff about the net code is interesting, noticed the same thing during the stress test but having played other online fps games I put it down to lag as per usual.
+
+27/05/2016 at 19:26
+
+Borreh says:
+
+I’ve played the beta and I have to agree.
+The game felt like a good variation on TF2 (good enough for me to play it, since I never liked the gameplay of TF2), but nothing beyond that, and certainly nothing even close to what Blizzard and the press make it out to be. Sure, it’s perfect craftsmanship – But it’s just that, nothing beyond it.
+And the characters/setting are overhyped, I agree. The maps are forgettable, character chatter is cringe-worthy, the writing in the shorts is cringe-worthy, and, if you read the dev interviews, they don’t even have any story or setting set in stone, it’s all improvised on the go (which is VERY visible through the game and movies).
+In fact, Blizzard is convinced the game has a “bright, colourful” vision of the future which is worth fighting for – At the game’s relase event in the local cinema me and my friends facepalmed and laughed when the writers were talking about this, all the while the shorts themselves shown a world full of corrupt leaders, wars, racism, xenophobia, with paradise-like towns ruled by bloodthrirsty gangs, members of whom were killed en masse by a local “hero”… And there was a small child looking at it and being amazed by how awesome and positive all the killing is.
+Hell, the writing is so convoluted we don’t even know the reason the two teams, both consisting of positive characters, fight on those maps.
+Now, I know we shouldn’t give a damn about the storyline in a multiplayer shooter, but if the storyline is so focused upon through animated shorts, and it doesn’t explain why the two teams are fighting against eachother, then it’s a trainwreak if I ever saw one.
+In the end, to have truly memorable and engaging characters, you don’t have to design them in the most awesome way possible – You need to give them a damn reason to be there. It doesn’t have to be deep, but it has to be meaningful.
+So far, with all the fuss about Overwatch and its wonderful world and colourful set of characters – It’s all an empty shell. Four (or five?) expensive animated shorts and many years of developement later, and those characters and this setting is nothing more than merchandise.
+Which wouldn’t be a problem if Blizzard wouldn’t make such a big fuss about them being worthwile, and the game would be something more than just another competent arena shooter.
+
+27/05/2016 at 19:28
+
+Borreh says:
+
+*trainwreck, damn, why can’t posts on RPS be edited is beyond me :P
+
+27/05/2016 at 20:02
+
+bakaohki says:
+
+Thank you. I wonder how others can’t see this… is it an otaku thing? Game-blindness? Weird.
+
+27/05/2016 at 20:38
+
+falcon2001 says:
+
+There’s the obvious answer, which is that taste differs between people broadly and many people enjoy things you don’t. For example I’m pretty happy with what’s essentially PIXAR SHOOTER, because I dig the art style and find it way more appealing than the grimdark shooter trends that has been the norm for so long.
+I’d like to see more proper storyline (and yeah they nailed the part about how weird it is that all the ‘good guys’ fight each other) but frankly put they manage to do the individual personalities of each character well through the dialogue and animation enough that they feel rounded out enough to me. It’s not going to win points for any of the writing but it’s enough for me to play and enjoy.
+
+27/05/2016 at 22:38
+
+bakaohki says:
+
+Hmm, this seems like a canned response, but talking about taste, games, storylines, narratives and tropes would lead us far away.
+
+28/05/2016 at 15:55
+
+Reapy says:
+
+How is it canned?
+I like overwatch for exact reason the OP dislikes it. Very valid of him to dislike it as well. I love the look of the game, the heros, and the maps. I especially like the maps, they look like corrodes but have a surprising amount of flank positions to create a ton of angles gameplay wise. Lore wise they are chalked full of little detals, I specially love the shops in the greek maps. 
+I also like it for having differing gameplay than CS aim and shoot. I gave up on shooters after quake 3. I tired a bunch, including TF2 but I just disliked the mechanics. I sort of found them again with mount and blade, because melee was so much more engaging than peeking corners and clicking. 
+I didnt think I would like overwatch, but I love it. I love that I can pick a hero when I want to try aiming and do well, or when I’m tired or aiming poorly I can use other skills on reinhardt or winston to be effective and help my team. I can be good with understanding team comps, positioning and timing and still be effective. 
+You don’t win the game by pushing Q, you push q at the right time against the right heros in the right place. Seeing that isn’t easy, a lot goes into choosing who you engage and when. I’m starting to think more, is roadhog’s hook down, okay I can go in, did genji reflect yet? Is revive up on mercy? Is an earthshatter going to come in? Did mcree throw his flashbang already? Did I get close to mei by accident?
+This list goes on and gets longer while I play. I like the game, I like it a lot.
+
+28/05/2016 at 15:34
+
+sfoumatou says:
+
+I mean, you can totally say “I don’t like this, thank you for summing up my opinion” without also saying “surely anyone who disagrees is somehow enthralled and/or stupid!”
+
+27/05/2016 at 19:44
+
+gritz says:
+
+Do you have similar issues with the versimilitude of other multiplayer FPS maps like 2Fort or de_dust?
+
+27/05/2016 at 18:20
+
+JakeOfRavenclaw says:
+
+Easily one of my favorite games in years. There’s so much good stuff to talk about–art design, character chatter, the sheer variety of playstyles available–but I think probably my favorite thing about it is that it’s so damn good at creating drama. Those last-second pushes in overtime, the way abilities interact with one another, the perfectly timed ults–it makes you feel like you’re on the fucking Avengers, even when you wind up losing. I can’t get enough of it.
+
+27/05/2016 at 18:33
+
+J. Cosmo Cohen says:
+
+I had my first win in Overtime last night. I actually yelled out loud how awesome it was. I felt silly, but it was hard fought and a really great feeling.
+
+27/05/2016 at 20:52
+
+jon_hill987 says:
+
+Maybe your Soldier 76 rush comes and maybe it’s too much for us but it’s all on you. Because if we can’t protect the Capture Point, you can be damned well sure we’ll avenge it!
+
+27/05/2016 at 18:25
+
+Flavour Beans says:
+
+My opinion is probably a bit skewed by being a Counterstrike kid, but while I did find this game to be an audio-visual treat, and while I was impressed by how MOBA-like the character design was (in that there are so many but they play so uniquely), there were a few major issues I had with this game, at least in the open beta.
+1) This game lives and dies on team coordination, which makes public play a nightmare. The synergy between heroes can be potent enough that even just three players on a Skype call together can dominate a match. Short of that, a lot of players seemed disinterested in working together. The fact that the post-game theatrics places a massive amount of emphasis on individual performance, that respawns happen individually, and that the objective types encourage haste to get back to the frontline, all add up to no one being too keen on impromptu cooperation. Hopefully that will change as people realize how important it is, but I found it lacking. 
+2) The player base is pretty heavily scattered in general. I expect this one to iron itself out over time, but when I played, there were people who had clearly played every beta, studied the meta, and became unstoppable with certain characters. Meanwhile, there were just a lot of people who have minimal experience in shooters, and were approaching this game from the wrong angle. While I’m certainly not one of those “GET GUD SCRUB” people, this game isn’t the most forgiving. This, combined with my last post, meant that most games I found myself in were horribly mismatched, and only maybe 1-in-10 felt competitive. 
+3) Again, as mentioned earlier, the objective types this game depends on are very messy by nature. This is only made worse by the maps, which play out with so many paths and so many levels that it makes them a bit hard to learn, and you end up feeling like you’re blundering into your enemy rather than approaching them with purpose. I just really have a hard time imagining this game working well with, say, a capture-the-flag map, or other more-traditional map modes. 
+4) Hopefully it’s sorted out soon enough, and it was hinted at in the review above, but good lord, this game needs some balancing work. Considering how long they beta’ed Heroes of the Storm, I’m surprised Blizzard kept it so minimal this time; I wonder if it has to do with this not being a free-to-play game.
+
+27/05/2016 at 19:06
+
+Raazer says:
+
+All good points that pretty much summarize the only problem I’m having with the game. I’m at the bottom of the learning curve, so sometimes I get into matches that are pretty dreadful and one-sided.
+
+27/05/2016 at 19:16
+
+Doomlord says:
+
+It seems like (maybe) you’re dinging it for not being the game you think it should be? I’d say just enjoy it for what it is, light-hearted shooting action in the Blizzard style. Expecting heavy tactical play and team organization is (imho and no offense intended here) a bit silly.
+If you want that, I’d strongly suggest the excellent Rainbow Six: Siege. It’s phenomenal and also offers multiple unique characters and such. :)
+
+27/05/2016 at 19:28
+
+Rizlar says:
+
+Except that’s exactly what Overwatch is made for. Yes it is supposed to be very accessible but it’s also designed for coordination and teamwork, the tension between the two is basically what the OP has issue with.
+For what it’s worth the games I played in the beta stress test with a full premade team coordinating on mumble were the most fun and interesting. We clearly got matched with other coordinated, premade groups, often the same group in successive matches, and they mostly felt excellently tense and evenly matched.
+
+29/05/2016 at 10:17
+
+Crimsoneer says:
+
+Great comments. The characters are built around Dota style synergy, but the respawn and communication systems make it very difficult in pub play. Combine that with huge maps and teleporters being difficult to obtain, and it can all feel like giant mess.
+
+27/05/2016 at 18:32
+
+Rumpelstiltskin says:
+
+So, RPS on Overwatch: “it reminds me of Dark Souls”
+
+27/05/2016 at 23:28
+
+DeadCanDance says:
+
+Exactly. How the fuck can this game be anything quite like Dark Souls? Give me a break.
+
+28/05/2016 at 03:48
+
+Phasma Felis says:
+
+Perhaps if they were talking exclusively about the way in which it presents its backstory? If only Steven had actually said that explicitly.
+Gosh, reading the article before commenting is hard.
+
+29/05/2016 at 00:11
+
+DeadCanDance says:
+
+Yeah, exclusively on that regard it has nothing to do with dark souls. DS has ruins, a weary old world scared by time. Overwatch has colorful maps where I ask myself how is it that a battle is going on? The world is too perfect.
+But anyway, reading a comment without immediately trying to underrate it is hard.
+
+29/05/2016 at 00:14
+
+DeadCanDance says:
+
+A world scarred by time. Damn it.
+
+27/05/2016 at 19:04
+
+Severn2j says:
+
+How does this play with randoms? I really like the look of this, but I never play MP only games (I solo’d The Division and Dying Light and had a great time), so dont have a cadre of online friends to call on..
+
+27/05/2016 at 19:17
+
+Doomlord says:
+
+I feel that it plays quite well with Randoms…that’s the only way I play it. I try to do what I can with my character to help the team but it’s not something I always worry about. :)
+
+27/05/2016 at 20:08
+
+Severn2j says:
+
+Good to know, thanks.. I think I’m convinced, although I’ve got awhile to wait before I can get my old Battle.net account unlocked.
+
+27/05/2016 at 20:50
+
+Koozer says:
+
+Being matched with and against random people plays out exactly as you would expect – it’s sort of balanced most of the time, but there will certainly be occasions when your team is filled with 5 snipers and you desperately trying to do something useful and the opposing team get 6 tournament champions on their day off.
+
+27/05/2016 at 19:48
+
+derbefrier says:
+
+I really enjoyed the open beta. I plan to pick it up soon ( after i finish a few games in my backlog) It felt like the first time i played a game of TFC. chaotic, yet somehow organized and soooo much fun.
+
+27/05/2016 at 19:48
+
+derbefrier says:
+
+bah reply fail
+
+27/05/2016 at 20:56
+
+aircool says:
+
+Slick and well presented. I can’t seem to find a character that I’m comfortable with as of yet, but then again, I don’t even know my way around the maps.
+There’s one fault, and it’s a big fault – THE COLOURBLIND MODE IS FUCKING USELESS!!!
+
+27/05/2016 at 21:42
+
+OmNomNom says:
+
+I didn’t expect this game to be so slick. It IS shallow, but it fits it’s niche well.
+
+27/05/2016 at 23:49
+
+Koozer says:
+
+I’m not sure how people can describe it as shallow. TF2 certainly wasn’t shallow when it was just one loadout per class, UT wasn’t shallow with a single ‘character’ and, what, 8 guns? What is it about Overwatch that is shallow?
+
+28/05/2016 at 11:19
+
+OmNomNom says:
+
+Well in my opinion, TF2 WAS shallow. Fun, sure but definitely lacked depth.
+
+27/05/2016 at 22:08
+
+Zankman says:
+
+Well, good to hear that the game is apparently so good; That it is very slick and polished, I expected.
+But for it to have great amounts of depth, be well-balanced and overall be fun?
+I was skeptical.
+Of course, some surely do feel that it fails in those ways – that it is TOO polished, too surface-level; Tastes differ but, ultimately, as far as making the “next big mega-hit”, I feel like Blizzard have nailed this completely (well, a while ago already).
+—
+As for me personally, I still can’t believe that the game isn’t F2P. 
+Imma go play Paladins instead – Overwatch’s lower-budget and unremarkable but ultimately completely serviceable cousin.
+Which is free.
+
+28/05/2016 at 03:36
+
+Gibster says:
+
+I disagree with the whole free-to-play thing because it’s what kept me from trying Dirty Bomb and many other games. As long as there’s hero’s/weapons locked behind a pay-wall I refuse to try or play it, just give me the whole thing in a single package. I’m happy that Overwatch is not F2P because it levels the playing field, makes sure that all heroes are available to all players and while I may not play all the characters I still have that option should I need or want to. I wouldn’t have played Overwatch otherwise and I sorely hope that Blizzard sticks to their guns on this, even if they lower the price.
+
+28/05/2016 at 00:12
+
+Skandranon says:
+
+I tried it again a bit ago, and though it’s fun, I have the same problems with it I had before. Lots of polish, nice character variety – not much else.
+Yeah, it’s fun, but there’s just not much in it, and unlike Siege, which I had the same problem with, Overwatch isn’t unique enough to hold its own with such mediocre amounts of content. TF2 is free, Dirty Bomb is free, and I struggle to see why I should pay for Overwatch when I have two free versions with loads more stuff.
+Also, the maps are…bad. Boring, bland and bad. Again, something Dirty Bomb does really well is have maps that have lots of interesting features, different spots to engage; these maps are just “go to this one spot, fight, die. Do it again.” I barely remember individual maps.
+I dunno, this is just a second game I guess I am just not jiving with the general recent opinion on (the other being Battleborn).
+
+28/05/2016 at 01:37
+
+int says:
+
+I know they’ve fiercely balanced the maps and the characters and people seem to generally be against what I am about to say but: I really want bigger maps, and more players. I WANT CHAOS!
+
+28/05/2016 at 10:12
+
+-Spooky- says:
+
++1
+
+28/05/2016 at 02:10
+
+HueyLewisFan says:
+
+I’m glad I’m not the only one losing sleep with this game. Between this and XCOM 2, I’ve developed some nasty dark circles under my eyes. 
+I agree with you that most of the(my) problems with the game rest with the balance of a few characters, and a lack of maps. One thing I didn’t enjoy playing against was twin comps, i.e. double winston or double torbjorn. It kind of takes some of the fun out, because most of the time the best counter to strategies like that is just double reaper for double winston, or double pharah for double torb. 
+I can see myself playing this for just as long as I’ve played TF2 and Dota 2 this past decade though, so something about Overwatch must be worthwhile.
+
+28/05/2016 at 03:40
+
+Phasma Felis says:
+
+I’ve noticed that people are already abbreviating Torbjörn as “Torb,” and I have a sneaking, terrible fear that they think it’s pronounced “Torb-jorn.”
+
+28/05/2016 at 03:45
+
+Phasma Felis says:
+
+This was supposed to be a separate post, not a direct reply.
+
+28/05/2016 at 06:56
+
+artrexdenthur says:
+
+If I understand the source of your fear correctly, I find it more likely that the majority of abbreviators are simple syllabifying the name differently; “Torb-yorn” vs “Tor-byorn”
+
+28/05/2016 at 04:58
+
+satan says:
+
+Only gave the review a quick read because I’m heading out, but did I read this right, six players in a game? Is that the average? What is the highest number of players you can fit in a game?
+
+28/05/2016 at 05:15
+
+Phasma Felis says:
+
+Six players on a side, 12 total. That’s both the maximum and the minimum–in quick play, it won’t even start a match without a full server; if enough players aren’t present, everyone is dropped and matched into a different server(s). (There are XP penalties for quitting during a match, but if someone does it anyway, it will match someone else into the game fairly quickly.)
+There is a partying mechanic, so you can stay with your friends during this process.
+
+28/05/2016 at 10:28
+
+satan says:
+
+All I wanted to know and more, thanks.
+
+28/05/2016 at 05:53
+
+axiomatic says:
+
+Blizzard has spoken already the the “netcode” needs updating and I can attest to this. There are some “behind cover kills/deaths” right now, But its early I and KNOW Blizzard will not stand by idly. The game is a blast. BUY IT and know that Blizzard will fix this come time for competitive play.
+
+28/05/2016 at 10:43
+
+Arkayjiya says:
+
+It’s already partially fixed since you can triple the server->client update rate in custom matches. But yeah I’ll hope they’ll do additional upgrades.
+
+28/05/2016 at 12:18
+
+Horg says:
+
+”BUY IT and know that Blizzard will fix this come time for competitive play.”
+They probably wont make any drastic changes to the net code on matchmaking servers. The 20 tick rate was by design to reduce bandwidth usage and operating costs. They only offered 60 tick rate on custom servers because they knew only a small proportion of the player base would use them. Really, don’t get your hopes up for more responsive net code, this was a financial decision and that motivation wont change.
+
+28/05/2016 at 06:40
+
+GWOP says:
+
+Are you a regular now, Steven? I liked your NWN RP article very much.
+
+28/05/2016 at 10:11
+
+-Spooky- says:
+
+I miss the lack of “tactics” – in gameplay and players via session ( compared to TFC / W:ET / TF2 / UT etc.). Maybe it´s just me, but this game is still not working ..
+
+28/05/2016 at 10:30
+
+PikaBot says:
+
+The game is definitely fun, but I have some issues with it.
+1. The Netcode is pretty much garbage. 20 server ticks? Really, Blizzard?
+2. Although there’s been a lot of good design work put into the game, some of the characters have too-similar silhouettes. In particular, Mercy and Pharrah, and Tracer and mech-less D.va. In the heat of the moment it’s way too easy to mistake these characters for each other, especially if they have skins on.
+3. The game heavily color-codes the teams – allies are blue, enemies are red. This color scheme shows on enemy structures, their bullets and other projectiles, and in an outline around the players themselves. And this is good. What is a problem, though, is that a bunch of skins will make your character’s color scheme deep blue, and this isn’t affected by team coloration. I’ve more than once died to a Soldier 76 in a blue jacket because in the middle of a melee, I saw a big patch of blue and identified it as an ally.
+4. It feels like a shocking oversight that you can have more than one of a hero on your team. It’s always a shitty time; either it’s horrendously ineffective and ruins the game for your team, or it’s horrendously powerful and ruins the game for your enemies. There’s no game that’s made more fun by doubling up.
+5. The walk back to the front lines after respawning? It’s way too long. WAAAAAY too long. It feels like absolute shit. Imagine TF2, but everyone runs at demoman pace, and teleporters aren’t standard. It feels awful.
+6. Compared with splat zones in Splatoon, the control point mechanics feel really swingy and boring. My kingdom for a owned-by-neither-party state and penalties.
+
+28/05/2016 at 12:08
+
+Horg says:
+
+”5. The walk back to the front lines after respawning? It’s way too long. WAAAAAY too long. It feels like absolute shit. Imagine TF2, but everyone runs at demoman pace, and teleporters aren’t standard. It feels awful.”
+That was something I forgot to mention in my post, the respawn slog back to the front lines is a massive oversight of class design. Limiting the only team teleporter skill to a single heroes ultimate, one of the harder to charge ultimates in fact, was a bad move. It’s a dull ultimate design compared to what some other heroes get. Symmetra isn’t even a very common pick as her kill power is quite low and Overwatch isn’t good at providing positive feedback for support play, so you aren’t likely to get a teleporter in most games. 
+Compare to TF2; you were almost guaranteed at least one Engineer on attack and defense because they were effective supports and could get a lot of kills (further supported by multiple load out options). You never really had to ask someone to pick Engi, it was a go to 1st choice for a lot of players. Symmetra’s kit simply does not come close to the power or utility of the Engineer, and unless she is redesigned the lack of teleporters will continue. 
+I think they have to spread the teleporter skill around to all of the supports as a non ultimate, it’s just too important to be without.
+
+02/06/2016 at 11:45
+
+-Spooky- says:
+
+*mhm* UT Domination Gamemode was the same – or just any random “King of the Hill”. Go to the point, control. Done.
+
+29/05/2016 at 00:30
+
+Disgruntled Goat says:
+
+Does this game have chat? I mostly avoid multiplayer games, I have better things to do than having 13 year olds filling my screen with racist and homophobic slurs.
+
+29/05/2016 at 02:32
+
+DeadCanDance says:
+
+It has a chat and voice channel. But mostly everyone uses the pre recorded phrases and keeps to themselves. So you can be tranquil as Overwatch is nothing like dota community wise.
+
+02/06/2016 at 11:46
+
+-Spooky- says:
+
+True. Rare ingame chat, ingame voice disabled. Join your clan / guild teamspeak / discord. And you´re good to go.
+
+30/05/2016 at 03:37
+
+lanster27 says:
+
+I assume you need a good internet connection. Sad because I don’t. Unless there’s a TF2 Engineer-like hero.
+Back to Dark Souls 3 single player mode.
+
+02/06/2016 at 11:47
+
+-Spooky- says:
+
+Their is ..
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+Activision Blizzard, feature, Overwatch, review, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

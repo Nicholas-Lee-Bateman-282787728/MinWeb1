@@ -1,0 +1,15 @@
+
+
+
+CryptoCoinsNews
+Press Release: BVI, February …, 2017. – Today the blockchain lottery XOTTO went live on xotto.org. The lottery follows the same rules as the famous Hong Kong Mark Six lottery and, in fact, translates the results of the actual Mark Six lottery onto the blockchain.
+
+From the technical point of view, the XOTTO lottery is transparent and fair thanks to the distributed ledger technology, which represents the core of the lottery’s structure. At the same time, the design of the lottery is very simple from the player’s viewpoint, and solves the major problem in the online gambling such as money withdrawals.
+This is a really cute project. Like a 101 for Blockchain applications. Everything is trackable, can be fully automatized, fair and easy to use. The key element providing the transparency of the game is the blockchain.
+No registration is required to purchase a XOTTO ticket and play. This provides complete anonymity unless the player himself decides to leave the email address and get notified. The winner doesn’t have to claim the reward, because the prize is automatically delivered to his digital wallet once the winning numbers are released by Hong Kong Mark Six lottery.
+XOTTO is operated by means of a cryptocurrency named VEROS (VRS), which was launched in October 2016. The jackpot of the lottery is also collected in VEROS and is comprised from the amount of sold tickets. The winner receives the prize directly to a VEROS e-wallet address, from which the ticket was purchased. In the nearest future payment options in BTC and ETH will become available.
+The drawing occurs three times a week: on Tuesday, Thursday, Saturday or Sunday at 9:30 pm (Hong Kong time), followed by the announcement of the results on TV, radio, the HKM6 and the XOTTO lottery websites.
+The XOTTO lottery is implemented as an Ethereum Smart Contract application. There are only two parties involved into the game – the player and the smart contract. The information about the automatically drawn lottery numbers and the transactions (pay-ins/pay-outs) is available to everyone on the Ethereum blockchain. The smart contract, based on the jackpot, executes a VEROS transaction from the jackpot wallet to the winners’ wallets automatically.
+All tickets and the jackpot can be verified on the blockchain, which demonstrates how fair and straightforward the game really is.
+XOTTO resolved such issues typical for traditional and centralized online gambling as fairness, transparency and the reclamation of winnings.
+The mechanics of the XOTTO lottery are outlined in the white paper. A VEROS digital wallet is available on www.veros.org and on the following exchange websites: C-CEX and Livecoin.

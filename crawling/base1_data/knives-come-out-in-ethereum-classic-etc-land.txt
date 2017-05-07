@@ -1,0 +1,17 @@
+./html_data_bitcoins/knives-come-out-in-ethereum-classic-etc-land.txt
+
+
+
+CryptoCoinsNews
+A revolt appears to be brewing in the tiny ETC community following an announcement that ETC is to be capped at around 210 million coins.
+A number of miners, together with Charles Hoskinson, who was fired from the Ethereum Foundation, and Barry Silbert, founder of the Digital Currency Group, have signed a statement laying out a “new monetary policy” that “sets a limit for the total ETC issuance… to be approximately 210 million ETC, not to exceed 230 million ETC.”
+In reminiscence of the bitcoin Hong Kong Roundtable Agreement, the statement further says miners will run “consensus systems that are compatible” with ETC clients, binding them to the dictates of developers.
+The problem appears to be that no one seems to have asked ETC coin holder of their views on the proposal. There was no public vote, for example, either formal or informal, with some ETC members wondering where this 210 million number came from.
+“Completely centralized decision making which make the [Ethereum Foundation] look like a bunch of hippies,” says one commentator. “We will NOT stand for your manipulation of the inflation rate.” – says another, further linking to a new subreddit which is proposing to split the tiny community into ETC and Ethereum Classic Classic.
+In elaborating further, one of the commentators says ethereum itself plans to have a supply of around or near 100 million eth, the proposal is “effectively doubling the money supply that people expected when they joined the ETC community.”
+It isn’t the first time decisions, without apparent public consultation or agreement by coin holders through a vote, have been made in the ETC land. The ETC developers decided, without even an informal poll, to disable a difficulty bomb inbuilt into the protocol that aimed to smooth the transition process to proof of stake.
+This decision had nothing whatever to do with the split of this tiny community from ethereum and may amount to a breach of the coin holder’s implicit agreement. Some, therefore, argue they should no longer have ethereum in their name as they have clearly diverged from the roadmap while not even holding a vote.
+Nor is it the first time that threats of a split have been made. They first rose soon after the tiny community formed due to developers unilaterally deciding, again without any vote, they were to clear out some empty accounts despite apparent ETC community members arguing it would breach the immutability principle which was the sole ostensible reason for the formation of ETC.
+The splits go further. It is interesting to note that Elaine Ou has not signed the statement. There appears to be a rift between her and Hoskinson, with their latest argument being over the naming of one ETC client. Specifically, whether it can be referred to as core, or as reference client, and whether doing so means centralization.
+In short, the ETC community is a mess, so lacking any leadership, thus constantly engaging in arguments. Some may go further and say until they remove ethereum from their name, especially since they have breached the social contract, they are no more than just a troll currency, a first for this space.
+Featured image from Shutterstock.

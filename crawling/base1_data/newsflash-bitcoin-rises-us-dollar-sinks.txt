@@ -1,0 +1,20 @@
+./html_data_bitcoins/newsflash-bitcoin-rises-us-dollar-sinks.txt
+
+
+
+CryptoCoinsNews
+Bitcoin prices have bounced back above $1,000 on Monday, registering a high of $1,032 on the Bitstamp Price Index.
+Bitcoin is trading near the levels of the week past, finding its feet after a drop on Friday, March 24, when prices took a tumble amid the ongoing scaling issues with speculation of a hard fork.
+As it stands, Bitcoin Unlimited miner signaling gains momentum, according to data om Coin.dance.
+
+The node count, decidedly remains favorably toward Bitcoin Core.
+
+It has been a particularly volatile month for the cryptocurrency in March in what has been a dramatic 2017 from the very beginning of the year. Bitcoin reached an unsustainable all-time high of $1,350 in the lead-up to the SEC’s decision about a bitcoin ETF earlier this month while the weekend witnessed price sink to a 2-month low at $891.33.
+As the clock struck into Monday,  prices were found lingering just above $950. The first signs of a swell took shape near 06:00 UTC, when price rose from $961 to $991 in two hours. Trading largely plateaued after, until midday when price rose nearly $20 to $1,011 in a frenzied 30-minute trading period. Those gains have lasted, registering a high of $1,032 at 16:00 on Monday.
+At the time of publishing, bitcoin is trading to the dollar at $1,024 on the Bitstamp Price Index.
+
+While bitcoin makes gains, the US dollar has slid to a four-month low. The dollar is now at its lowest level since November against other major currencies. Market experts have pointed to President Donald Trump’s failure to deliver on his campaign promise to pass a major healthcare reform bill. On Friday, the Republican Party pulled out of Trump’s healthcare bill that was planned to be the overhaul of Obamacare.
+Trump’s setback has raised concerns among investors, questioning his ability to deliver on other campaign pledges including tax reforms and infrastructure spending across the country. The USD has fallen against the yen, the Swiss franc, the Euro and Sterling.
+For a live BTC Price chart, click here.
+All time references are in Coordinated Universal Time (UTC).
+Featured image from Shutterstock. Chart from BitcoinWisdom.

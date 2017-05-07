@@ -1,0 +1,32 @@
+./html_data_bitcoins/bitgo-outlines-its-course-of-action-in-the-event-of-a-hard-fork-will-not-support-bitcoin-unlimited.txt
+
+
+
+CryptoCoinsNews
+With a hard fork looming, BitGo, a multi-signature bitcoin wallet, has advised its customers what to do in the case of a new chain, whether it is Bitcoin Unlimited, which BitGo deems unsupportable, or a supportable option such as Segregated Witness.
+Ben Davenport, co-founder and chief technical officer, advised users in a recent blog what actions BitGo will take and gave recommendations on what they should to in the event of a hard fork. BitGo did not assign a high probability of a hard fork until recently.
+BitGo will not support Bitcoin Unlimited, which it does not consider supportable. It will support Segregated Witness, (SegWit) which it consider safe and tested in the core code.
+BitGo believes any near-term fork will be contentious and bad for the bitcoin ecosystem. Brand dilution and user confusion will remove billions of dollars from the bitcoin market capitalization, Davenport noted.
+SegWit, on the other hand, will provide additional block space in the near term.
+BitGo cannot predict how the scenario will unfold, but the company will move as quickly as possible to provide solutions to protect customers’ interests.
+Any hard fork introduced without industry-wide consensus will be an altcoin, regardless how much hash power that coin has. The majority of bitcoin exchanges share the same view, Davenport said.
+If a hard fork were executed in a supportable manner, BitGo would support it with an API as soon as possible.
+To support a hard fork, according to Davenport, it must meet the following:
+1. The hard fork has to be coordinated by a clear on-chain mechanism and have a grace period between activation and launch.
+2. It must provide strong two-way protection, whereby transactions are only valid on one of the two chains. Minus this measure, users can safely transact separately with splitting techniques that place an excessive burden on the end user.
+3. It has to offer “wipe out protection,” so that once it forks, it remains permanent. The new fork’s software should not be capable of producing a reorganization back to the original chain as it will wipe out the new chain.
+Bitcoin Unlimited does not meet any of these criteria. In addition, there are problems with “emergent consensus” that can lead to ongoing network splits and reorganizations of arbitrary length chains based on the way miner groups establish consensus parameters.
+There are also concerns about the quality of the peer review process and the general code of Bitcoin Unlimited. Because of this, BitGo will not support a Bitcoin Unlimited hard fork in its current form.
+BitGo will change its position on Bitcoin Unlimited if it makes changes to make the fork supportable.
+Davenport recommends users take the following actions if the Bitcoin Unlimited hard fork launches.
+1. Pause any outgoing transaction activity from BitGo. Otherwise, transactions can occur on both chains.
+2. Keep in close contact with BitGo for assistance in moving coins safely or in splitting coins. BitGo will help customers split their coins, but it cannot determine how long this will take.
+3. Once a hard fork has resolved itself back to a single chain due to it being abandoned by miners, or a splitting plan has been deployed, it will be safe to transact again on the original chain.
+Should there be a supportable fork, BitGo recommends the following steps.
+1. Continue to safety transact on the original network with the BitGo API. Users will not be able to transact on the new fork immediately. Transacting will not affect the coins on that side of the fork.
+2. Be ready for block times on the original network to increase significantly, due to an increased load on the network. Execute only necessary transactions and be ready for possibly higher fees for a number of weeks due to the extended number of blocks.
+3. Transact the value on the new coin by waiting for BitGo to add support for the new coin, or use the two keys with software built by others. BitGo cannot commit to any time frame for supporting the new coin.
+Also read: Here’s why a hard fork can’t work
+Malicious forking that undermines the existing minority chain with excess hash power is also a possibility. This can create a chain of empty blocks or a working chain suddenly experiencing a chain reorganization many blocks deep. BitGo considers this to be the same as a 51% attack on the bitcoin network.
+In such a case, BitGo recommends halting all bitcoin activity, including outgoing transactions and crediting incoming deposits. One cannot make normal assumptions about block confirmations to finalize a transaction.
+Featured image from Shutterstock.

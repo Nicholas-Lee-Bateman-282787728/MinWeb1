@@ -1,0 +1,17 @@
+
+
+
+CryptoCoinsNews
+Bloq, a provider of blockchain solutions, has launched BloqLabs to expand its support of open source blockchain and bitcoin projects, the company announced on its website.
+“In the 1900s, Bell Labs became known as the ‘The Idea Factory’ for global telecommunications,” said Jeff Garzik, CEO and co-founder of Bloq. “BloqLabs can set the tone for the blockchain era and ensure enterprises are tapping into every innovation from our vibrant community of developers.”
+BloqLabs has launched several foundational projects and platforms using its and Bloq’s technology. They include Android Bitcoin Wallet, Qtum, Drivechains, VeriBlock and bitcoinj.
+Andreas Schildbach, a Bloq developer who developed the first bitcoin wallet for Android, maintains the bitcoinj repository used in bitcoin wallets and transaction services globally. He said open source is core to Bloq, as both a developer and patron.
+Paul Sztorc, a Bloq economist, is the chief architect for Drivechains, which allows a blockchain system to temporarily mimic the properties of a rival, ensuring full interoperability among all blockchain networks.
+Sztorc said experience indicates open source is faster, better and more secure. He said he is thrilled to have Bloq sponsor the project.
+While businesses have explored blockchain technology for years, there has not been widespread adoption.
+BloqLabs supports the Qtum Project’s goal to connect the business and technical worlds with open-source solutions meeting the commercial needs for security, usability and privacy, said Patrick Dai, the Qtum Project co-founder.
+Bloq has also acquired Skry, a blockchain analytics pioneer, and has co-launched Vulcan Digital Asset Services, a platform designed to enable digital assets to be used for daily commerce, banking and asset related services, with PwC Australia.
+Also read: Jeff Garzik launches Bloq, offering code-fire-hire blockchain service
+Bloq also entered a partnership with BitPay last year. The partnership will enable Bloq to provide enterprise-grade implementation and support services for companies using BitPay’s open-source full node and development platform, Bitcore.
+Bloq is offering Bitcore in its BloqEnterprise product offering to enable companies get all the functionality of bitcoin and a full bitcoin node, in addition to “native utilities and intuitive Node.js libraries” to help extend bitcoin’s functionality.
+Featured image from Shutterstock.

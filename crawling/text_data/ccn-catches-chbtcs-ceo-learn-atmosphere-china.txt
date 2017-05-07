@@ -1,0 +1,64 @@
+
+
+
+CryptoCoinsNews
+Hi, thank you for the interview. Many of our readers are not familiar with yourself. Could you please give us a brief introduction?
+Hello, I’m Dawei Lee, chief executive officer of CHBTC, which is one of the mainstream digital currency exchanges in China. Before founding CHBTC, I have served successively as marketing executive, product manager and operations director when worked for many Top 500 enterprises. I am a firm believer and an early adopter of digital currency, such as Bitcoin.
+Thank You. I’ve heard of CHBTC in passing, but could you tell us a bit more?
+Founded in 2013, CHBTC is one of the mainstream digital currency exchanges in China, offering Bitcoin, Litecoin, Ethereum and Ethereum Classic trading and 3 times margins. Headquartered in Zhongshan, China, CHBTC serves a global customer base, but for the moment its core target market is in China.
+CHBTC’s highest 24 hours trading volume was 5.431 million Etheruem (about $70.53 million) and 17.13 million Ethereum Classic (about $45.82 million), became the world’s largest Etheruem and Ethereum Classic trading platform. While Bitcoin’s average 24 hours trading volume is 120,000, which makes CHBTC rank fourth in Chinese exchange.
+We have a strict AML and KYC policy to prevent fraud, collusion, money laundering and ensure a safe and honest trading environment for our customers. The mission of CHBTC is to provide the world with the most convenient and trustworthy digital currency services.
+Security is high up the list in the digital currency space currently, why should our readers trust your exchange? 
+CHBTC has been operating for 3 years without any security incidents. We use offline cold storage, multi-signature wallets, geographically redundant cloud servers, SSL encrypted traffic, SMS and Google verification code technology, real-time internal controls and strict procedures to secure our customer’s account and funds.
+Considering the recent theft at Bitfinex, what is your view on regulations/oversight? 
+We hope the Chinese government will formulate specific regulatory policies to supervise exchanges. This will provide the industry the regulatory clarity that is needed to develop and to provide the market the best services.
+Not many are familiar with the overall atmosphere in China. Let’s start with regulators – how would you describe the attitude of Chinese regulators towards digital currencies like Bitcoin and ETH?
+Recently the government in China has been giving positive signals in regards to digital currency and blockchain technology. Positive announcements from the Cyber security bureau, the PBOC, and the media have instilled some confidence in the local digital currency industry. However, there is currently no formal stance from the government since the December 5th 2013 announcement towards digital currencies.
+Blockchain was a huge topic in the earlier part of this year and continues to be very big. Has any of that attention trickled down to more bitcoin/eth interest?
+In the past year in China there has been increasing interest in Bitcoin and blockchain technology from many of the major banks and tech giants including Baidu, Tencent, Alibaba and Huawei. The coverage from these initiatives has led to greater understanding by the public about Bitcoin and Ethereum with local communities developing in the major cities here.
+Many of our readers may not know, but Fintech in China is huge and in many ways far more advanced than in the west. Many use their phone for daily payments in malls to street vendors. Is bitcoin/eth playing any role?
+You are right, China has the most developed mobile payments systems in the world with Wechat and Alipay. At the moment Bitcoin does not have a use case for domestic payments in China. Where we see Bitcoin providing value in China is for cross border payments. Though we have the most advanced domestic payment system in the world, when we need to buy an online product from an international website or would like to transfer some funds internationally that is a pain point.
+How much would you say has been invested in bitcoin/eth Chinese companies/start-ups?
+We cannot give an exact number at the moment but since fall of 2015 there has been a significant increase of investment into digital currency and blockchain startups. There have also been more hackathons and developer events organized, we are excited of the potential coming from China.
+We see a lot of trading volume in Chinese exchanges. Is this fake volume? Does your exchange fake volume? 
+This is a common criticism we hear from our international colleagues. Because of the nature of the domestic market and the zero fee trading model that has developed here, there is a significant amount of API trading across all of the local exchanges. However, it is also true that in the past 3 years the digital currency exchange industry has been developing rapidly, with the aforementioned positive coverage over the past year, more people in China see digital currency as a legitimate asset to trade. We at Chbtc have seen rapid growth in our user base over the past year and we attribute this to the more positive overall atmosphere in China towards digital currencies and blockchain technology.
+Can you give us a rough number or idea of the amount of funds under your control – as in how many btc/eth/yuan/usd or a total in combination.
+We cannot reveal the exact figures, but our Bitcoin trading volume ranks fourth in the world and ETH/ETC trading volume ranks first in China.
+Some exchanges have stated they are not profitable. Is your exchange profitable?
+We currently have a healthy business model that is structured around service fees from margin trading and fiat withdrawals. We see our model continuing to grow in the long term as interest and knowledge in digital currency continues to increase.
+What’s your view of the current bitcoin community?
+The Bitcoin community is a resilient, vibrant and passionate force. As we are a China-based member of this community many times we are not in tune with what is happening with the international community due to the language barrier, culture differences and the great firewall. But what unites us all is the potential to change the world for the better with this revolutionary technology that has been able to bring like-minded individuals from across the world together on a common mission. CHBTC is committed to helping bridge these gaps in communication between the international community and the community in China, we believe we have more in common than disagreements.
+What effect do you think the bitfinex hack will have in the short and long term?
+The short term effects have been the fluctuation in Bitcoin price. It has become commonplace now for exchanges to be hacked. The market seems to now acknowledge that these are issues with the exchanges and not with Bitcoin itself. If there is a silver lining in these events, that’s probably one of them. In the long term the market will see who are the industry leaders when it comes to security of user funds through the test of time and we hope to see regulators use these events to craft responsible regulation for users to report grievances if needed.
+How do you see bitcoin evolving in the next few years?
+Bitcoin will continue to grow and be used by more people around the world. I have been astonished on the progress that has been made in the last 3 years in Bitcoin. We as a community despite the challenges we face have made amazing strides in education, accessibility and technology. There is no doubt that many difficult issues that must be dealt with await us, but I personally feel Bitcoin will persevere and reach its full potential as an idea whose time has come.
+What do you think attracts Chinese citizens/businesses to bitcoin?
+Bitcoin as an extremely volatile asset with incredibly attractive margin options is viewed by people here as a high potential investment. Combine this with a strong tendency to be attracted to assets that have the ability to increase in value quickly and this leads to the attractiveness of Bitcoin in China.
+What attracted you to bitcoin?
+I knew Bitcoin and tried to buy my first Bitcoin since 2012, at that time I thought Bitcoin was amazing. In 2013, when I found more and more people around me wanted to know about and invest Bitcoin, my friends and I had an idea to found a Bitcoin exchange.
+What do you think are the main qualities of bitcoin?
+I think the main quality of bitcoin is its monetary attributes, Bitcoin was created to be a peer to peer electronic cash system. I believe Bitcoin’s monetary attributes will play a key role globally in the future.
+Do you think bitcoin’s value solely depends on any one quality?
+In my opinion, Bitcoin has some natural advantages when compared with fiat currency and it can solve some drawbacks of fiat. Decentralization and a fixed quantity are other attributes I feel adds to Bitcoin’s appeal as a currency.
+I believe you are the biggest exchange of ETH in China. Is that correct? Can you give us some numbers?
+ANSWER: Yes, CHBTC is the largest ETH and ETC exchange in China, its average 24-hour trade volumes is around 850,000 Ethereum (about $9.658 million) and 5,350,000 ETC (about $10.469 million).
+Why did you decide to add ETH to your exchange? I think you were the first, can you confirm or correct that?
+CHBTC added Ethereum trading on March 14th, 2016, it was the second Chinese exchange to add Ethereum trading. We added ETH for two reasons: market demand and we recognized its value as an innovative technology.
+How would you describe ETH’s community?
+The Ethereum community is excellent at technological development but needs to improve in crisis management. CHBTC does not believe the hard fork should have taken place, we believe in immutability as a core value of blockchain technology. The hard fork has led to the split of the community and disillusioned former strong supporters. This event has been a turning point for many of us and was the main reason for our stated support for the development of Ethereum Classic.
+Why do you think ETH is attracting attention from Chinese users and businesses? 
+The Ethereum foundation up until the DAO situation had done an excellent job of outreach in China. There are several communities in the major cities here focused on Ethereum as well as companies researching it. Some of the biggest blockchain events in China the last couple years have been Ethereum events including the Devcon events. We are starting to see the development of startups focused on Ethereum, however, with the recent developments of the Hard Fork, it’s difficult to gauge the scene now.
+How do you think ETH will develop in the coming years?
+I can’t answer clearly now due to the current crisis in Ethereum.
+Some suggest it might surpass bitcoin’s marketcap – do you think that’s likely?
+I don’t like to compare the price of Ethereum and Bitcoin in that manner because they are different, both offer different value propositions and significance.
+Do you see ETH and Bitcoin as competitors or complementary?
+Bitcoin is a peer to peer electronic cash system primarily and Ethereum is a world computer/smart contract system. They are not in competition and both offer outstanding possibilities for decentralized products and services.
+What do you think our readers should know or would be interested to know about the Chinese digital currency ecosystem and community?
+Though we have significant challenges in communicating and sometimes the impression is given we are adversaries I hope to express that we are all in the same boat. From Asia, to the Americas, to Africa, to Oceania we all want to make Bitcoin a success some for reasons that are noble and others for not at all. But that’s ok, because that was the brilliance of Satoshi, the creation of a system that can bring together all these different intentions for a greater good.
+What do you think they should know about your exchange that has not already been covered?
+First off, we would like to tell everyone outside of China, we are here! Though we have not been active outside our market until now, we recognize the global nature of Bitcoin and will work to communicate more with the international community.
+Do you have any other general statement to make?
+We would also like to express our strong support for Ethereum Classic. We believe it maintains the core concepts of immutability and decentralization which were the original vision of Ethereum many believed in.  We see a lot of local support for ETC at present, because of these reasons we have recently announced our intention to donate 50% of ETC trading fees to the development of Ethereum Classic. We look forward to working with the community and the Ethereum team to continue to develop and grow Ethereum Classic.
+Thank you for the interview and interest in Chbtc.
+Featured image from Shutterstock.

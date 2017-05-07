@@ -1,0 +1,17 @@
+
+
+
+CryptoCoinsNews
+The open-source Hyperledger Project’s member ranks swells to 129 in total.
+Spanish multinational banking group BBVA becomes the latest financial institution to join the Hyperledger Project, a cross-industry blockchain collaborative with open-source principles led by the Linux Foundation.
+Announced by the banking giant this week, BBVA also notably becomes a member of the Linux Foundation, beyond joining the ranks among the Hyperledger Project.
+BBVA will have to representatives in the Hyperledger initiative with the banking group stating that it will “share code, knowledge and experiences with open-source communities.”
+“Being a Hyperledger partner is an important step forward in BBVA’s blockchain strategy,” stated Carlos Kuchkovsky, technology chief for new digital business at BBVA. “[This] allows us to participate in the most relevant open-source communities in the industry and collaborate with companies from a wide range of sectors.”
+With its membership in the Hyperledger project, BBVA adds that it ‘consolidates’ the bank’s participation and interest in blockchain technology, by already belonging to the R3-led banking blockchain consortium and the Ethereum Enterprise Alliance, launched a month ago in February.
+Kuchkovsky added:
+We believe that Hyperledger will be fundamental to ensuring standardization and interoperability in the different technologies and platforms that will make blockchain a powerful tool that will transform business processes and social relationships.
+The BBVA has taken a notable interest in blockchain-based innovation. In late 2015, a BBVA-hosted FinTech competition saw Safello, a Bitcoin platform, earn plenty of plaudits. Not one to stick to the company line of ‘blockchain’ or ‘distributed-ledger technology’ at the expense of the innovation’s biggest use-case in bitcoin, the bank published a video of its explainer of bitcoin the same year.
+More recently, the bank published a report after researching blockchain technology, listing seven regulatory challenges facing the innovation.
+Meanwhile, the Hyperledger Project is also seeing plenty of interest as its member ranks swell to a total of 129 following BBVA’s inclusion. This year, two central banks – the Bank of England and the Boston Federal Reserve – joined the Hyperledger initiative. In a sign of the frenzied interest in blockchain technology beyond the finance industry, German automaker Daimler Chrysler became a premier member of the project last month.
+In contrast to other blockchain consortium’s, a notable number of its members, over 25%, are Chinese. Paying heed to the strong interest in the region, the Hyperledger Project established the ‘Technical Working Group China’ to help facilitate interactions between global members and contributors in mainland China, earlier this year.
+Featured image from Shutterstock.

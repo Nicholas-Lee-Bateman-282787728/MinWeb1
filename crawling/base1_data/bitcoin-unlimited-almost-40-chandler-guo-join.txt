@@ -1,0 +1,21 @@
+./html_data_bitcoins/bitcoin-unlimited-almost-40-chandler-guo-join.txt
+
+
+
+CryptoCoinsNews
+The network hashrate share of bitcoin unlimited now stands at 37.6% over the longer time frame of 1,000 blocks. It is expected to further increase as Chandler Guo, a well-known bitcoin miner in the Chinese community, publicly stated:
+i jump to #BitcoinUnlimted today！ pic.twitter.com/0oPDlXhgFL
+— Chandler Guo (@ChandlerGuo) March 21, 2017
+
+That is likely to increase the hashrate to 43%, perhaps 45%, very close to a majority of miners’ support which may indicate the economic majority and, perhaps, the majority of bitcoiners, lean towards the client.
+However, Bitcoin Unlimited is controversial, with the community split in favor and against. Those in favor argue that it would quickly increase transaction capacity, addressing delays and lowering fees. Those against state that segwit would increase capacity far higher through layer two protocols.
+Both sides say the other’s solution will centralize bitcoin. Those against Bitcoin Unlimited say an increased blocksize would increase costs, lowering the number of nodes. In response, some BU supporters say that sharding would address these concerns and further return that LN would lead to centralized hubs due to the economies of scale. To which segwit supporters say the protocol is designed to be decentralized.
+Antpool’s co-founder, Jihan Wu, who recently switched to BU, shared an article which argues the difference in view is not ideological, but based on profit motives. Specifically, LN would take away some of the fees from miners who would rather keep transactions on-chain.
+This divide, however, began as soon as the whitepaper was published, with the very first response stating that it could not scale and bitbanks were necessary. Something to which Nakamoto objected.
+As such, although there may be profit motives, there is also an underlying difference in visions regarding how bitcoin would operate, say, 20 years from now. Such difference might considerably reduce if sharding is implemented, but that is a very difficult task.
+With Bitcoin Unlimited hashrate’s increasing, so have tensions. The past week has seen nodes crashing and recovering, some exchanges saying they will list the Bitcoin Core chain as BTC regardless of any other factor, while some saying they will list the longest chain as BTC, threats of PoW fork re-surfacing, with BitFury’s Vice Chairman threatening prosecution of whoever PoW forks.
+During this period, price fell by some $300, but has somewhat recovered, now standing around $1,090. Many bitcoiners appear to care little about the end decision, expressing concern over the infighting while preferring that a decision is made.
+If it is in favor of Bitcoin Unlimited, it is not clear how Bitcoin Core will react. BU seemingly has plans to add segwit as a hardfork if supported by their members, so layer two protocols can be added later on, but whether that is sufficient remains to be seen.
+Now just two big pools remain to make a decision, F2Pool and BW. If they choose in favor of BU, the client may reach 60-70%. At that point, if BitFury or BTCC switches, then the hashrate would have made a decision.
+By then, it should be more clear what would happen afterwards, but this sort of completely decentralized decision making without any main “leader” or guidance has never happened before in this space. No one can have much confidence, therefore, on what would happen afterwards.
+Featured image from Shutterstock.

@@ -1,0 +1,709 @@
+./html_data/nier-automata-review.html
+
+RPS Feature
+More than meets the eye 
+By Adam Smith on March 20th, 2017 at 9:00 pm.
+
+Nier: Automata [official site] is unpredictable, from beginning to end(s). 
+What begins as a robot-smashing action game with gargantuan bosses soon becomes an open world RPG, then a bullet hell circus nightmare with confetti and corpses, and then something else entirely. To describe all of the things that Automata encompasses, even in vague terms, would be to spoil its greatest asset: surprise. For that reason, I’ve avoiding the specifics of almost any of the wonderful and horrible things that happen. This is important.
+Let’s stick with the basics then. Automata, at its best, fuses Platinum’s mastery of stylish action to a framework that works as both a tour and deconstruction of various genres, and a story both stranger and more interesting than it first appears. It’s awesome.
+Nier: Automata’s story concerns special forces androids who are sent to the surface of a ruined Earth to try and reclaim it from robots, built by aliens, who are waddling around the place like the mutant offspring of Dusty Bin, R2-D2 and Catchphrase’s Mr Chips. Your task, as YoRHa No.2 Type B (2B) is to follow orders beamed down from an orbital satellite, The Bunker, where the plan to regain control of Earth so that the remnants of humanity, now living on the moon, can go home.
+
+Before you even have time to figure out the why and the what, you’re plunged straight in at the deep end though, hacking, slashing and shooting your way through a grim industrial ruin, and getting to grips with the control system. Combat is simple to execute but tricky to master, with light attacks, strong attacks, and lock-on, fire and dodge buttons. 2B doesn’t have a gun but she does have a Pod, a drone thing hovering around her, and it can pew-pew away at enemies from afar. Later, it’s possible to upgrade it with melee attacks, shields and other abilities, but for the opening hour, it’s your ranged option. 
+
+I’d recommend a controller (PS4 Dualshock for me) for comfort and to avoid the trickiness of twinstick shooting with a mouse and keyboard. It can work well, and I’ve seen it work well elsewhere, but here it’s cumbersome. I haven’t had many issues with the port other than that, though those trying to play in super resolutions might be in for a rough time. On the whole, the PC version is passable rather than powerful.
+But with a game this fascinating, it’d be a shame for any platform to miss out, particularly our own home ground. Even in its first hour, which is a little like an extended pre-credits sequence during which the game shows very little of its hand, Automata is a slick if unambitious action game. It’s one of the few games that has made me notice the camera for positive reasons – usually, a game’s camera only draws attention to itself when it’s getting stuck on a character’s arse or elbow, or crashing into a wall, but here the camera is a tool that makes the game malleable. Control of its position is taken away at certain points to reimagine a room as a side-scrolling shooter, a bullet hell arena or an Afterburning arcade flight sim. But with robots.
+
+Always with robots. Nier wants to explore every possible angle of automated function and form, and it doesn’t take long for the robots to reveal their secrets. Nothing is quite as it seems and as soon as you’ve figured out one twist in the tale, another clicks into place and it’s not long before you realise that this tale is prehensile and its not just capable of getting a grip on you, it’s rearranging all the pieces of the puzzle as you go.
+This goes back to my opening line: Automata is unpredictable. It’s one of the most surprising games I’ve ever played, and I don’t mean that in the sense that monsters spawn in your face when you’d least expect them to. It’s the way that both the story and the action shift from one mood and genre to another as you move along. Much has been written of director Yoko Taro’s eccentricities as a creator, but I’m struck more by a sense of curiosity. If the game does reflect his sensibilities, it speaks more of a mind flitting from one idea to the next, discarding each one as soon as it’s been examined. Despite the grand cohesive plot that runs through multiple playthroughs (Automata doesn’t have New Game +, it has what are effectively entire new chapters to play following your first completion), Nier feels a bit like an anthology of stories, knitted together into something larger.
+
+Because most of the game takes place in an open world RPG structure, you’re not harnessed to Taro’s imagination, rushing from one revelation to the next. Instead, you can take your time if you so choose, enjoying what remains of life on Earth by riding moose and boar around the ruins of the world, or collecting crafting materials and doing sidequests. I’m not particularly interested in collecting every glowing piece of kit that appears in the streets, deserts and forests, but I never felt I was being punished for ignoring that side of the game. And sidequests are rewarding both for the character- and world-building they reveal, and because the combat that is a large part of them is excellent.
+It doesn’t quite show Platinum at their absolute best, but it’s rare to find an RPG with action so enjoyable. The boss fights show the systems at their best, requiring air-dodges, smashing combos and smart use of your Pod’s powers. Behind all of that is a levelling system that’s both startlingly strange and perfectly fitting. Your android has a set of chips that run everything from elements of the HUD, which you can unplug and disable to make more space for other chips should you wish, to buffs and abilities. Brilliantly, should you want to play through the game as a storytelling exploration piece with minimum swordplay, Easy mode allows you to use chips that automate different aspects of combat. You can attach and remove each of them as you go.
+
+You can even remove your character’s OS, but you shouldn’t. Seriously. Don’t do that.
+The system essentially makes your character into a modifiable weapon, wielding other weapons that can also be levelled up, revealing their own backstories as they become more powerful. That concept, of the player character as a device for making war, is an integral part of the story, and that’s how Automata works. For all of its genre-hopping and about-turns from tragedy to farce, and sincerity to flippant asides, it rarely fails to tie your actions to its story and themes.
+
+I went into Automata expecting weird and came out the other side impressed by how sad, beautiful and strange a game that stars a sexy android can be. I don’t have anything against sexy androids, but I’d been expecting something much sillier, at the zany end of the ‘weird’ spectrum. Instead, Automata surprised me yet again. It’s very sad, very beautiful and very strange. The one major complaint I have is that it can be very brown and dull for extended periods, which suits the sense of a washed-out world, but also makes some locations ultra-bland. If you’re scampering around in them for ages, that’s your choice though. Unless it’s doing something spectacular and dramatic, Automata very rarely forces you to stay in one place for any length of time. 
+Having unlocked just a few of the endings (some are more like chapter breaks than endings, many are punchlines or small oddities), I feel like I’ve feasted on a ten-course meal. Some of the food turned to ashes in my mouth, but only when that was by design. From its always-magnificent but alternately triumphant and mournful score to its massive intricate bosses and moments of bleak horror, Automata is a superbly controlled game. It gives you freedom to explore, to collect, to fight and to much about, but it always has one hand on the tiller and the other on that camera, directing the action and observing your every move.
+
+It’s rare to see such ambitious storytelling and open world roleplaying tied to such a stylish combat system, not to mention the (optional) Souls-like multiplayer elements, shooter tangents, mini-games that punctuate rather than interrupting, and that big ol’ world to explore. You don’t need to have played any of Yoko Taro’s previous games to appreciate Automata, even though it has links to both Drakengard and (of course) the original Nier, but it’ll probably make you keen to seek them out. Me? I’m hoping Platinum get a chance to work with these worlds and words again. A thousand ideas, delivered in rapid succession, backed by action that is the thread that stitches everything together rather than an interruption between one story beat and the next.
+Nier: Automata is out now for Windows, via Steam, for £39.99. There are some promo shots in this feature because my capture software failed me.
+
+20/03/2017 at 21:05
+
+Da5e says:
+
+It’s a sort of weird mashup of Metal Gear Rising, Secret of Mana, Neon Genesis Evangelion and Radiant Silvergun, and I think it’s better than Bayonetta. I honestly didn’t think I’d ever say that about a Platinum game.
+I love it.
+
+20/03/2017 at 21:11
+
+Pich says:
+
+I’m so damn happy that this game is getting glowing reviews. Hopefully it makes SE interested in a remaster of the OG Nier and especially Drakengard (or even just a port), because everyone deserve to be punished by that game.
+
+21/03/2017 at 08:57
+
+Ghostbird says:
+
+I actually found Drakengard kind of relaxing to play, but that was because I didn’t get hung up on trying to get the last couple of endings. I couldn’t maintain interest in Nier though – too much to do and not bombastic/apocalyptic enough for me.
+
+20/03/2017 at 21:29
+
+GameCat says:
+
+Not a single word about one of the best soundtracks of last decade?
+
+20/03/2017 at 21:40
+
+GernauMorat says:
+
+Quoting from the penultimate paragraph:
+“its always-magnificent but alternately triumphant and mournful score”
+There you go. And it really is great – I can’t get the game yet, but I’ve been listening through the OST (something basically never do) and it is indeed magnificent.
+
+20/03/2017 at 21:52
+
+GameCat says:
+
+I’ve missed it, huh.
+Still, it’s only 9 words. Not enough.
+
+20/03/2017 at 21:56
+
+thanosi says:
+
+10 words minimum next time Adam!
+
+20/03/2017 at 22:57
+
+April March says:
+
+Reads like a nine words out of ten.
+
+20/03/2017 at 22:02
+
+Nevard says:
+
+I’m sorry it doesn’t meet your no doubt extremely important standards on word-to-feature ratio. 
+I would note though that “one of the best soundtracks of last decade” is in fact only eight words. Perhaps those in glass houses should beware?
+
+20/03/2017 at 22:28
+
+GameCat says:
+
+Touche.
+
+20/03/2017 at 23:14
+
+Otterley says:
+
+@GameCat:
+You said touche without a strange accent.
+
+21/03/2017 at 17:15
+
+barashkukor says:
+
+He was being dinged for not devoting enough of a post where he only used 9 words for his praise, even though he also used every single word that he put out in his vast, effulgent praise and oh gosh it’s really hard to keep adding words to keep this sentence going.
+
+21/03/2017 at 21:59
+
+DelrueOfDetroit says:
+
+This cannot continue.
+
+20/03/2017 at 22:05
+
+Thulsa Hex says:
+
+It’s sooooo goooood. Surprise is definitely a strong point. I genuinely think it rivals the best 3D Mario games when it comes to frequency of new ideas and scenarios. Thankfully, it has the controls to match. Not to mention those animations! Just gorgeous.
+I’m plugging away on hard mode, which is definitely a challenge. Instead of getting too frustrated at my copious deaths, however, it makes me want to do better next time. The generosity of the dodge ability is crucial and emblematic of some excellent design choices. Can’t wait to get home to play more.
+
+22/03/2017 at 20:28
+
+AutonomyLost says:
+
+I died twice on Hard mode before being able to reach any “saving is possible” area. That really ruffled my feathers but, now having beaten the game once fully on Hard, I wouldn’t have had it any other way. It was quite challenging and a couple of the bosses spanked me multiple times; I loved every single minute of it. This has my GOTY vote until it’s dethroned. So good.
+
+20/03/2017 at 22:22
+
+Malarious says:
+
+I hope you stuck around for the “true” ending. It’s really… something else. All I’m going to say to avoid spoilers.
+
+20/03/2017 at 22:50
+
+Gunsmith says:
+
+I rarely get excited for games these days but N:A has far exceeded my expectations, its a little rough around the edges but i put that to japans lack of experience with the PC as a platform. I’m currently working towards ending D at the moment and I must say I’m loving it. 
+combat is a little easy for my tastes tho even on hard but then this is an rpg more then a full on hack and slash ala MGR
+
+20/03/2017 at 22:58
+
+April March says:
+
+Well, this review bumped it from ‘don’t care about this’ straight to ‘in my wishlist’.
+
+21/03/2017 at 11:40
+
+MajorLag says:
+
+It still doesn’t sound like my bag, but it sounds interesting enough for me to watch an LP of it.
+
+20/03/2017 at 23:06
+
+dekuius says:
+
+Sadly the game isn’t available on Steam for South East Asia, is buying a key on some other site a viable solution?
+
+21/03/2017 at 02:12
+
+ikazrima says:
+
+I read on Revengeance steam forum that you can activate via gifting. Directly purchasing from GMG/G2A, that I’m not entirely sure.
+Sucks that we’re forced to own a console if we want to play this. :\
+
+21/03/2017 at 07:36
+
+ElementalAlchemist says:
+
+GMG will just give you a key (although you may need to use a VPN/have a friend buy it if it isn’t available in your region). Your only real problem is whether it is region-locked.
+
+21/03/2017 at 23:58
+
+DelrueOfDetroit says:
+
+Look for Source on any GMG store page and it will tell you where they get the keys from. These Steam keys come straight from Squeenix so I doubt they will work.
+
+20/03/2017 at 23:11
+
+Laurentius says:
+
+Controleres wtf? Oh well, not for me then.
+
+21/03/2017 at 02:11
+
+gwop_the_derailer says:
+
+I dunno how people can play this with Controleres, either.
+Thankfully, there’s controller-support.
+
+22/03/2017 at 07:00
+
+Furiant says:
+
+Seriously though, I’d like more clarification on this. I play only on PC and do not play with controllers. If one is “required” I’m going to skip this, which will suck given that it looks cool.
+
+22/03/2017 at 14:42
+
+ColonelFlanders says:
+
+It might suck, but It’s a needless self-limitation on your part so it’s no real good complaining about. Unless you only have one hand or something, you are doing yourself out of positive gaming experiences out of stubbornnes.
+
+22/03/2017 at 23:49
+
+Furiant says:
+
+Using controllers hurts my hands. I’m stubborn about not finding pain entertaining.
+
+20/03/2017 at 23:18
+
+Ysellian says:
+
+Was a bit scared to read this review but you did a great job of making me interested despite not revealing anything! After finishing Tales of Berseria this one is next on my list.
+
+20/03/2017 at 23:23
+
+Monggerel says:
+
+IT HAD TO BE THIS WAY
+
+20/03/2017 at 23:36
+
+malkav11 says:
+
+The original Nier is my favorite game on 360, period. Beautiful, smart, weird, and deeply sad, with a phenomenal soundtrack. Absolutely worth every minute I spent with it. Since Automata was a change in developer (if not director) and a sequel to a game that didn’t really leave room for a sequel, I was nervous. But on the other hand, Platinum seemed like an inspired choice for that developer because if there was one (somewhat) lacking element of the first game it was the combat, and that’s the thing Platinum are widely lauded for. So I haven’t known what to expect.
+I am so very glad it turned out to be the home run I desperately wanted it to be.
+
+20/03/2017 at 23:49
+
+Hoot says:
+
+The last game I finished on a console was the original Metal Gear Solid. I’m a die hard PC gamer. Never owned a console and never played a JRPG.
+But this game intrigues me.
+I just have no idea what a good comparison of it is to see if I would actually enjoy the thing. Anyone offer some comparisons?
+
+21/03/2017 at 02:10
+
+Crumpled Stiltskin says:
+
+Its like Super Mario Galaxy for people that do not like Disney World. Or Zelda for Democrats.
+
+21/03/2017 at 00:27
+
+racccoon says:
+
+I think the person who did this review is way over the top and probably hyped on pure kid like excitement. The game is a total mix mash of everything ever created except sonic the hedgehog! they did create a flow effortlessly but it still was stupid and annoying to go from one thing to the other over and over. It plays like a cat, purring with teething problems, its a easy game, The weapons stick out in the air from the character model and do not make the character enjoyable to play with this mind blowing sight…of how? or why? The split in the skirt is there for a reason and probably the reason for this excited review, as the reviewer could of been totally blinded just by that one thing. I do not think this is a platinum game at all, Its a mix mash and not a good port. Only plus is the character is sexy, & that’s probably its only appeal.
+
+21/03/2017 at 01:19
+
+skeletortoise says:
+
+Very insightful analysis.
+
+21/03/2017 at 05:32
+
+Farnbeak says:
+
+I love how it turns selfreferential in the end :D
+
+21/03/2017 at 06:49
+
+LennyLeonardo says:
+
+“It plays like a cat, purring with teething problems”. That’s some high-quality internet nonsense.
+
+21/03/2017 at 08:41
+
+Harlander says:
+
+I never knew that what I wanted was a bitter, misanthropic low-rent Tei knockoff.
+And I still don’t know that, because it’s false.
+
+21/03/2017 at 05:17
+
+Neuromancing the Boil says:
+
+*Drums fingers against desk, contemplating whether he should bother. Ultimately decides, against better judgment, to bother:*
+It’s mishmash. One word. Say it with me: mishmash. Okay then. Thank you for your time.
+
+21/03/2017 at 12:52
+
+A Gentleman and a Taffer says:
+
+It’s an excellent eggcorn
+
+21/03/2017 at 01:06
+
+Rizlar says:
+
+Delicious ashes. Had heard lots of good stuff about this but only now am I really interested.
+
+21/03/2017 at 01:27
+
+Easy says:
+
+It’s simply one of the most amazing games I have ever played, and I have only just completed ending A (and W ^^). There is nothing like it. The last 3h of the game left me completely emotionally and physically drained.
+
+21/03/2017 at 08:36
+
+Gunsmith says:
+
+You wait until you start working on ending C.
+
+21/03/2017 at 01:35
+
+argun says:
+
+I love the Soulsborne series more than anything.
+However I hate with a passion hack and slash games where the character does not have weight (DarkSiders, Prototype, Castlevania: Lords of Shadow…).
+Looking at the trailer it seems to share a similar gameplay than these flimsy hack and slash games. Am I right or wrong?
+
+21/03/2017 at 04:58
+
+Unclepauly says:
+
+Well, to answer your question we have to ask ourselves this, “Does peanut butter enjoy the company of jelly?” or “When the blackbird caws, the donkey stalls?” or even “Who stole the doggy in the window?”. I dunno man, you saw the vids.
+
+21/03/2017 at 10:04
+
+Snidesworth says:
+
+The combat is a pretty far cry from Souls, but it’s not the weightless stuff you find in other games. Attacks come out quickly and you move fast, but it conveys the feeling of agility rather than floaty controls. Hits connect in a satisfying manner too. The basic core of the combat is dodging which, if timed correctly, lets you execute unique counter attacks. You can also equip an upgrade that overclocks you for a seconds or two when you dodge (ie everything else slows down) in the style of Baytonetta’s witch time.
+Some of the larger weapons have a Souls length wind up and recovery period, but you can almost always dodge cancel out of either stage.
+
+22/03/2017 at 00:08
+
+DelrueOfDetroit says:
+
+It’s about trying to maintain the longest attack chain possible. Although this does not have the stylish meter that most Devil May Cry style games do. Generally in a game like this you are rewarded for mixing up your attacks by performing different combos. If you do the same attack over and over you will get less points, exp, whatever.
+
+21/03/2017 at 02:11
+
+DrPolito says:
+
+Disappointed with Mass Effect: Andromeda’s reviews, so I’m gonna try this. :)
+
+21/03/2017 at 05:55
+
+Don Reba says:
+
+It’s a good review, well worth trying. I got all the way to the last paragraph.
+
+21/03/2017 at 10:26
+
+Themadcow says:
+
+That deserves a small round of applause. *clap clap clap*
+
+21/03/2017 at 03:32
+
+lordcooper says:
+
+Would be great if I could actually play the bloody thing though. Apparently there’s an issue with many (all?) 780/780ti users causing the display to freeze while the game continues running in the background.
+
+21/03/2017 at 04:03
+
+FFabian says:
+
+Perhaps I’m too old or something but I can’t stand the manga aesthetics with gigantic swords. No way I can take the deep “rewarding ” story serious when it’s presented by flimsy girls lugging around giant rails as weapons.
+
+21/03/2017 at 05:18
+
+malkav11 says:
+
+You mean the super-advanced android designed specifically for high-intensity combat? I mean, okay, there are still certain aspects of physics that would prevent that stuff from working in real life but it’s not like the game’s trying to be realistic.
+
+21/03/2017 at 06:03
+
+brucethemoose says:
+
+Longing for humanity is a huge theme, and it explains the aesthetics of her body and outfit.
+The sword though… I’m kinda with ya there, it’s ridiculous. But it does make for an entertaining game.
+
+21/03/2017 at 10:45
+
+1singur says:
+
+She’s a robot. She could fight with longer or heavier weapons than that sword.
+
+21/03/2017 at 14:45
+
+modzero says:
+
+Then she could, almost definitely, fight better with a smaller sword. She could be even faster and have a higher freedom of movement.
+Wearing sensible clothes would help, too.
+
+21/03/2017 at 14:56
+
+Ergates_Antius says:
+
+Newton’s third law says otherwise.
+
+21/03/2017 at 11:37
+
+Lars Westergren says:
+
+I’m in the same camp. It’s a shame, it sounds this game does so much of what I want with mechanics and plot, but I just. can’t. stand. anything anime these days. I watched a trailer, and a couple of seconds in the voice actresses started doing that breathy excited childlike squeal when their characters were killed (“uwaaaa!”), I instantly turned it off.
+
+21/03/2017 at 13:48
+
+Jeremy says:
+
+If only she was as muscular as Cloud Strife, then we could at least put that complaint to rest.
+
+21/03/2017 at 17:07
+
+Kaeoschassis says:
+
+I’m 28 and I sincerely cannot wrap my head around the idea that gigantic weapons are a turnoff in a game. That stylization of ANY kind is a turnoff in a game. 
+I really hesitate to say things like this but you are just no fun.
+
+21/03/2017 at 04:12
+
+BarryDennen12 says:
+
+Seems too expensive for what it is, shame really – look at her BOOTS
+
+21/03/2017 at 08:34
+
+barelyhomosapien says:
+
+Too expensive for what it is?
+A 40 hour (or more) open world action RPG with fabulous combat, some amazing writing (in side quests and the main story), unique character and world design, one of the best (if not the best) soundtracks in gaming?
+Well, each to their own I guess…
+
+21/03/2017 at 06:12
+
+sege says:
+
+Sorry if someone else has asked this but I’m trying to avoid spoilers on what sounds like a very spoilery type game…and it seems like I’ve already consumed a major spoiler about the ending…
+If I disliked Devil May Cry and couldn’t get into (or even play competently) Metal Gear Rising Revengeance, Do you think I’d enjoy this game?
+
+21/03/2017 at 08:45
+
+barelyhomosapien says:
+
+Combat is a lot simpler than Platinum’s usual fare, it’s designed to be playable by everyone. It’s not hard to stay stocked up on healing items and there are upgrades that heal you from your attacks, auto heal if you’re not hit for a few seconds, or auto use a healing item at a certain level of health (increasing the healing from it too)
+As mentioned in the review you can automate some or all aspects of combat when on Easy difficulty as well.
+It doesn’t feel like a game designed to be difficult.
+
+21/03/2017 at 09:21
+
+Snidesworth says:
+
+Seconding this. I’ve been playing on Normal and had very few instances where I’ve felt at risk. There’s numerous ways to regain health during combat, all of which you can equip at once if you fancy it. During my first playthrough I only died once, and that was early on and before I set up the plug-in chip build that saw me through to the end of it.
+
+21/03/2017 at 12:47
+
+Thulsa Hex says:
+
+On easy or normal mode, at least! Hard is a fair bit more difficult, mostly due to significant enemy damage increases. Died plenty of times so far!
+
+22/03/2017 at 06:12
+
+sege says:
+
+That’s great, thanks for the info team :)
+
+21/03/2017 at 06:35
+
+Halk says:
+
+This game definitely deserves more attention. To me it seems like everyone is just talking about Zelda and Horizon.
+
+21/03/2017 at 08:39
+
+barelyhomosapien says:
+
+If anyone gets down this far in the comments and is still wavering, I just want to say that I have played Breath of the Wild, Horizon Zero Dawn, Yakuza Zero, and other critical darlings of 2017.
+Nier: Automata is likely to still be my game of the year.
+Just don’t get it yet if you have a 700 series geforce card as apparently they don’t get along at the moment.
+
+21/03/2017 at 11:44
+
+MajorLag says:
+
+Hard to take that statement seriously when there’s still 3/4ths of the year left.
+
+21/03/2017 at 16:27
+
+barelyhomosapien says:
+
+Nier: Automata is likely to still be my game of the year.
+Likely
+I put that word there as there are still 3/4ths of the year left.
+
+21/03/2017 at 09:05
+
+UncleLou says:
+
+Generally (very) interested, but I hear you play for an hour, then there’s a boss, and if you die, you’re back to the main menu? Without a save? Not my kind of humour I am afraid, if true.
+
+21/03/2017 at 09:36
+
+Snidesworth says:
+
+I think that may have been a thing that happened with the PS4 version. You can play the intro/first level while the rest of the game is installing, but for some reason it doesn’t let you keep a save for when it’s finished.
+I can confirm that, playing on the PC, that beating the first boss doesn’t boot you to the title screen.
+
+21/03/2017 at 09:58
+
+PiiSmith says:
+
+If you die in the intro you are back at the title screen. There is no way to save in the quite lengthy intro (~30mins), so if this happens you are playing the same part again.
+I had the first phase of the “last boss” kill me three times with one hit. So I had to repeat it four times to just see, what happens after the “intro”. This was the worst on-boarding I had with a game for a long time.
+
+21/03/2017 at 10:27
+
+Snidesworth says:
+
+I just looked this up and it seems that dying during the intro level is one of the “endings” you can get. Were you playing on Hard mode by any chance? I hear that it’s meant to be a lot more lethal than Normal.
+
+21/03/2017 at 10:24
+
+UncleLou says:
+
+@Snidesworth
+I don’t doubt that beating the first boss *doesn’t* boot you to the title screen. ;-) 
+If you mean “not beating”, then you’re saying just the opposite of what PiiSmith says. You lot are just as surprising and confusing as the game apparently is!
+
+21/03/2017 at 10:30
+
+Snidesworth says:
+
+Yeah, I’m looking into this now. Seems that on Hard mode the first boss will kill you instantly if any of its hits land and that it’s generally a huge step up in difficulty from Normal.
+
+21/03/2017 at 11:14
+
+Myfyr says:
+
+Yes, if you die to the first boss, you’re back to the start without a save. Yes it takes a while to get to the boss (could be an hour, if you’re playing methodically/slowly and not skipping skippable dialogue), and yes it’s definitely annoying.
+However, it’s not representative of anything else I’ve seen so far, and the game is definitely worth it. The really good news is that you can change the difficulty at any point, so I highly recommend starting on easy (after an attempt/death on normal, anyway :P) to get past the prologue, and then switch back to normal.
+Alternatively, play on easy the whole way, if that’s more fun. Down with the anti-fun, anti-easy mode Nazis! ;)
+
+21/03/2017 at 11:30
+
+spacedyemeerkat says:
+
+Yes, it’s completely true. I was playing on normal. Got taken out by the two Big Mechanical Buzzsaw Things (just before the boss proper), after about 35 minutes of play, and was booted back to the menu. My jaw literally dropped at the realisation the game was really over. Had to drop to easy for the repeat fight because there was no way I was going to complete the opening section for a fourth time (I’d already completed up the boss in the PS4 demo). 
+Quite why it’s acceptable to treat your customers with such contempt, I will never know.
+
+21/03/2017 at 09:55
+
+PiiSmith says:
+
+It is beautiful and interesting, but a technical mess.
+The controls are wonky and it crashed on me several times.
+I had issues even finishing the “intro”, where you can not save. So had to repeat it four times, which I did, but it nearly killed my interest to move on.
+As it tells the story not only via exposition, but also through gameplay (it reminds me a bit of “Brothers, Tale of two sons” in this respect.), means the control issues are important.
+If it gets cleaned up it could be a really good game, but in the state it is right now I do not agree with the RPS recommendation.
+Wait till the fix it’s numerous issues, then buy it.
+
+21/03/2017 at 11:33
+
+spacedyemeerkat says:
+
+Surprised the technical issues never came up in the review, frankly, because they’re being discussed in depth elsewhere.
+I commented on the lack of save during the introduction elsewhere, suffice to say I completely agree with you. Terrible.
+Other than that (and that’s not really a technical issue since I assume it’s by design), the game appears only to render up to 1080 natively. If you’re running full screen at 1440, it blurs a little. Switch to a window, and it renders natively. You do, however, have to put up with the title bar being present. You can use the borderless window application, which sorts it out, but introduces a problem of its own: instead of displaying the correct controller buttons on screen, it shows the keyboard commands.
+
+21/03/2017 at 12:38
+
+Thulsa Hex says:
+
+Borderless Gaming doesn’t affect button prompts for me at all. I use an Xbox One controller and everything works fine.
+
+21/03/2017 at 10:02
+
+dskzero says:
+
+Wish this had a demo. I want to play it but it I’ve had huge graphical issues with random games like Andromeda and Mirror’s Edge 2 and I don’t want to throw 40 buck to play an unoptimized game. :(
+
+21/03/2017 at 10:12
+
+Tigris says:
+
+You can refund on steam during the first 2 hours of play though.
+I thought there was a demo, but it is only for ps4 as it seems :-(
+
+21/03/2017 at 10:17
+
+barelyhomosapien says:
+
+Just to say, both those games run on the Frostbite engine.
+And Nier doesn’t :)
+
+21/03/2017 at 14:33
+
+haldolium says:
+
+Yes, NieR runs on a horrible propritary engine from a Japanese company that just seems to have 2 PCs at max. to test their games. This is the same as it has been for the past decade or two, Japanese company makes a good game, can’t code for PC, port has major issues. The games tech is very outdated and yet manages to run equally awful. 
+For all the glory this game recieves for some good choices you enjoy if you can get over the often very annoying JRPG/japanese way of doing things (not so suprising there) the technical side is objectively very bad. Even if it doesn’t crash your PC, the graphics are outdated and full of pop-ins, low resolution textures, aliasing and awfully lazy shaders. Its okay, can be overlooked due to the way the camera is set up but it should not be ignored that on the technical side, Automata doesn’t even reach mediocrity.
+
+21/03/2017 at 11:17
+
+rab357 says:
+
+Hmm. I had zero interest in playing this, barely know anything about it or the developer or the previous related games…but this, the recent purchase of Dark Souls 3 and Horizon Zero Dawn (another game I wasn’t planning to buy) may be the antidote for Mass Effect Andromeda, which I thought was going to be one of my top five games for 2017.
+
+21/03/2017 at 17:44
+
+PiiSmith says:
+
+Don’t write off Mass Effect Andromeda.
+I watched several hours on the first planet on stream from Total Biscuit and it looks far more interesting than the RPS review and other sources make it look like.
+It is a competent 3rd Person shooter (better than the previous Mass Effects) and it should a pretty promising, interconnected story.
+
+21/03/2017 at 12:35
+
+Easy says:
+
+It’s worth pointing out, just in case you’re on the fence about multiple playthroughs, that while in the 2nd playthrough (with 9S and 2B now as your sidekick) you do retrace a lot of steps / quests from the first one, there are also some really cool major differences AND the story really starts to unfold. Some of the things you accomplished in the first playthrough (e.g. some side-quests) are persistent. And allegedly the 3rd and final playthrough is beyond amazing and very different, but I have yet to get there :)
+
+21/03/2017 at 12:50
+
+Easy says:
+
+And one last thing (can you tell I love this game?).
+A little spoiler free story – ok to be safe I am going to say super minor spoilers – to illustrate how this game can grab you, squeeze you, hug you, punch you.
+Playing as 2A, I embark on a main quest story beat. Nothing seems particularly special or revealing about it. But a few minutes into it, things start to go very very wrong… and the intensity starts to ramp-up, and ramp-up and ramp-up. Cue incredible music and balls to the walls combat… run, escape, I am going to make it! but no boss boss fight!! Amazing, intense, beautifully designed boss fight like I have never experienced in a game… I make it out, exhausted and buzzing.
+And at this point, the story goes haywire, and although you do NOT have to keep going along the main story line, I felt incredibly compelled due to the sense of urgency. So I dive right back in, and am engrossed in a series of events and fights where I’m thinking “this is insane, I’m never going to make it through, I need to stop” except I can’t because psychologically I feel compelled to keep going through the story in real time so to speak.
+And the crazy thing is that the game is so beautifully tuned that while thinking that I am facing overwhelming odds I actually am not, I am in complete combat flow for hours on end until the final cut scene where I feel like crying, and I realise it is 6h in the morning and I forgot to go to bed… just forgot. no sense of the passage of time.
+It’s THAT good (for me, at least. YMMV).
+
+21/03/2017 at 17:58
+
+Catachresis Rex says:
+
+“it’s not long before you realise that this tale is prehensile and its not just capable of getting a grip on you…”
+[Adam lifts his hands from the weathered keyboard and leans back. The corner of his mouth curls into a small smile. “Heh. Mmm.” He drums the fingers of one hand on the desk as the other reaches for the mouse. Leaning forward once more, he highlights the phrase. His lower lip pushes upwards in puckered approval as he nods to himself, almost imperceptibly, in acknowledgement of a job well done.]
+
+21/03/2017 at 18:58
+
+vahnn says:
+
+“…not to mention the (optional) Souls-like multiplayer elements…”
+What?! I can’t find anything about this aspect of the game! I’m on my phone and stick in a poor reception area for a while, so searching the Web is painful. Where did you get this information?! Do you mean co-op/pvp,or just messages/bloodstains ana the occasional ghost of another player visible in your world?
+
+21/03/2017 at 23:34
+
+Soapeh says:
+
+You occasionally come across corpses of dead players which contain a message and can be either harvested for xp/gold and a couple of status effects, or resurrected to fight alongside you.
+
+22/03/2017 at 00:18
+
+DelrueOfDetroit says:
+
+Occasionally?
+
+21/03/2017 at 21:00
+
+thekelvingreen says:
+
+You can even remove your character’s OS, but you shouldn’t. Seriously. Don’t do that.
+Why? What happens? Tell us!
+
+22/03/2017 at 00:18
+
+DelrueOfDetroit says:
+
+You get ending T.
+
+22/03/2017 at 04:07
+
+Gunsmith says:
+
+just finished the “true ending” and i must say I was welling up, the final fight, its soundtrack and its ramifications are on a whole new level.
+Taro is a borderline mad genius, its going to take one hell of a title to knock this off my GOTY 2017.
+
+22/03/2017 at 07:07
+
+ChrisT1981 says:
+
+Picked it up after reading this WIT. I am just through with the prologue but already see me sinking quite some time into this over the following weeks.
+Was pretty impressed by how the game fluently switches from shoot em up to 3rd Person beat em up to 3rd Person shooter, to side scroller to top down shooter. It’s fun and imho spices up combat keeping things fresh.
+The technical issues are appalling though. Crashes all over the place (luckily for AMD there is a workaround by downgrading drivers), mouse is just unusable. Luckily I have a Steam Controller which works great with the game.
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, NieR: Automata, platinum games, review, RPS Recommends, Square Enix, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

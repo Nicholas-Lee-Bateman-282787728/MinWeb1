@@ -1,0 +1,18 @@
+
+
+
+CryptoCoinsNews
+The District Prosecutor’s Office in Łódź, a city in central Poland has launched an investigation into Bitcurex, the country’s first bitcoin exchange that went offline last year.
+Bitcurex was Poland’s first and largest bitcoin exchange after commencing operations in 2012.
+In October 2016, the troubled bitcoin exchange shut down its exchange operations after losing 2300 bitcoins (approx. $1.5 million at the time), citing an “external interference in automated data collection and processing of information”. Digital Future, the exchange platform’s operator, claimed to have filed a report with the Łódź district prosecutor’s office of the losses it suffered. The notice indicated services to resume on or before November 30, 2016. The operator claimed to ink a recapitalization agreement with an investor to resume services and allow users to withdraw funds.
+Bitcurex has not notified users with any public statements and the website, as it stands, is offline.
+In an announcement this month, the prosecutor’s office has now revealed it is overseeing an investigation into the losses suffered by users.
+Roughly translated, the statement [PDF] from the prosecutor’s office read:
+“Regional Prosecutor’s Office in Lodz announces that oversees the investigation signature PO VI Ds 50.2016, given among other things the supply to the unfavorable disposition of confiscated property. So far, the number of people naturally and legally connected with the exchange Bitcurex, led by the company “Digital Future limited liability Company” limited partnership, based in Lodz, this is an act of art. 286 § 1 of the Penal Code in conjunction. Article. 294 § 1 of the Penal Code.”
+“Victims who have so far not reported a crime may direct such concerns to the to the District Prosecutor’s Office in Lodz – by mail,” the notice added. “ Written notices should, if possible, have attached copies of the documentation or printouts confirming the amount of damage suffered (BTC balance, confirmations of transfers in PLN or other currencies).”
+Having begun operations in July 2012 with its base in Łódź, Bitcurex faced its first notable hacking attack in March 2014 when a hacker triggered a buy order for 19,000 bitcoins through hacked PLN (Polish Zloty). Bitcurex succeeded in blocking the while halting all trading operations. Days later, Bitcurex was fully operational.
+Meanwhile, the Polish government is notably taking an encouraging stance toward bitcoin and blockchain technology. A televised meeting organized by a member of the Polish parliament put the financial technologies under the spotlight to discuss their legality and regulation.
+Attending the meeting was Sylwester Suszek, CEO of prominent Polish bitcoin and altcoin exchange BitBay. Speaking to CCN at the time, he stated:
+[The meeting] shows that both sides of this dialogue (bitcoin industry and authorities) are interested in cooperation for the future of bitcoin, both on the business and the state level.
+Following the meeting, the Polish Ministry of Administration and Digitization established a working group to educate Polish citizens about cryptocurrencies. More recently, Poland’s Central Statistical Office (GUS) recognized the trading and mining of electronic currencies . Fundamentally, companies who use virtual currencies will now be able to register with the authority.
+Image from Shutterstock.

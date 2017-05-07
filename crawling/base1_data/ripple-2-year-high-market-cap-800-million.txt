@@ -1,0 +1,16 @@
+./html_data_bitcoins/ripple-2-year-high-market-cap-800-million.txt
+
+
+
+CryptoCoinsNews
+Ripple has roared to a 26-month high, gaining over $400 million in market capitalization in a 24-hour trading period leading into the day.
+After Litecoin took off yesterday, Ripple has taken the baton for alternative coins today in what has been a significant month for the major alternative cryptocurrencies. Ethereum set price records earlier this month, reaching nearly $60 with a market cap of over $5 billion.
+
+Dash started making notable gains yesterday, rising from $0.0098 to $0.01. On the last day of March, Ripple’s XRP token soared from $0.01 to $0.0205, nearly doubling in a 13-hour period. The cryptocurrency is now trading at levels last seen in January 2015.
+Data shows significant trading volume on Poloniex, over $50 million USD in the last 24 hours in the XRP/BTC trading pair.
+
+While market observers look to spot answers for Ripple’s tremendous gains, Ripple announced a new partner in Japan’s largest bank, MUFG. The Japanese banking giant, which is also the third largest bank corporation in the world, announced that it chose Ripple to join its Global Payments Steering Group. The interbank group, essentially a network of global banks, will help support Ripple’s payment transaction rules and standards for international money transfers using the Ripple blockchain. MUFG has also become the first bank to announce a concrete roadmap in the space, one that will offer international money transfers commercially over a Ripple-powered blockchain.
+Ripple’s meteoric rise has spurred the cryptocurrency to #3 on the global list, scaling above the likes of Monero, Litecoin and Dash.
+
+Altcoins’ prices have been profoundly influenced by community fears of a possible bitcoin hard-fork in a scalability debate between the Bitcoin Core (Segregated Witness) and Bitcoin Unlimited (BU) camps.
+Images from Ripple and CoinMarketCap.

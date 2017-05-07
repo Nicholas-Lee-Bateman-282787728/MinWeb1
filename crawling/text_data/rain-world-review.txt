@@ -1,0 +1,463 @@
+
+RPS Feature
+The 5175th series of Planet Earth 
+By Brendan Caldwell on March 27th, 2017 at 7:00 pm.
+
+A trickle of wholesome GIFs has been tantalising us with post-apocalyptic platformer Rain World [official site] and its adorable protagonist the slugcat for some time now. It’s out tomorrow and I have been hopping and swimming and munching my way through its dripping, humid world of predator and prey over the past week to tell you wot I think. First: I am certain it’s going to become a cult hit with a crowd of hardcore, mystery-loving obsessives behind it. But secondly, it has also left me with the impression of a badly missed opportunity. Equal parts astounding and hands-tearing-out-your-hair frustrating, this adventure, like the slugcat itself, is a bit of a mix.
+The story is all it needs to be – you are a slugcat who has been separated from your family. Off you go into this unsettling world of narrow drain pipes and soggy piles of garbage to find them. You need to eat to survive and avoid being eaten by the various hissing lizards and fearsome critters that prowl from screen to screen looking to fill their own stomachs.
+
+The blue fruits hanging from vines and bats that flutter about are your first introduction to the dining rituals of the slugcat, but there are many more types of food. There’s no constantly-depleting survivalist meter as such, just a line of seven pips that fill with each morsel (the pips aren’t “health” or “stamina” but they do empty in another way, which I’ll talk about later). Like much of the game, I’d rather avoid talking too much about those later foodstuffs, because discovering exactly what they are and how to eat them is part of the game’s sense of animalistic curiousity, one of its greatest strengths. And you will have to discover most of these for yourself, because this is a game that, notwithstanding the first few screens, absolutely loathes explaining itself.
+That makes talking about its virtues much harder for me. I’m avoiding screenshots of many animals because it’s best in its surprising moments. When you suddenly spot a new type of beast appearing out of a hole in the ground and run to the other side of the screen in a panic. Or when you finally understand what those little blue seedlings are for. Or when a creature you thought was dangerous, actually turns out to be more or less harmless so long as you leave it alone. If there’s a puzzle element to the game (and it’d be a stretch to say that there is) it’s in figuring out how the whole food chain fits together and what your place is in it. Who eats who? What are these fruits good for? What do I do with this pearl?
+
+In its revelatory moments, or in moments of sheer drama (avoiding camouflaged beasts in a tunnel system, catching a glimpse of a black tail in a tank of deep water) Rain World really does shine. The world is a huuuuuuge collection of screens and environments, each with particular threats and obstacles. Each area is woven together by bolt holes, and you can see a multi-layered map of everything you’ve uncovered by holding down a shoulder button.
+There’s some direction in the form of small eye-creatures that appear like weeds out of crevices in the rock or rusted metal. They will point you towards bats or fruits, and sometimes flash an image of a slugcat by a bolt hole (suggesting that they might know which way your family has gone) or some other mysterious image. However, their directions become less and less frequent as you go on, I found. Regardless of their directions, the desire to explore every region as fully as possible will infect you. Overcoming pitfalls and puzzling at dead ends is all part of being a lost animal in this weird place. But obviously, there is a bigger threat than lizards and unknown beasts: the rain.
+
+This comes periodically. I never timed it, but it felt like maybe every fifteen minutes or so. After a while, you get a sense for when rainfall is near. A little meter in the bottom left is telling you this, a cricle of dots ticking down to zero (not that the game offers you this information). But you also know when rain is about to fall because the sky starts to darken and the land shakes, slowly at first, then faster. It rains in a brief shower, nothing you can’t handle. But then this stops and everything goes still. Then: “tink!” A single sharp drop of what I can only describe as “super rain”. Tink tink! Two drops. TINK TINK TINK TINK TINK. Suddenly, the screen is lost in sledgehammer water. If you’re caught in the rain, you are dead.
+To survive each shower, you need to find special hibernation chambers, marked with a boxy symbol. To hibernate, you need to have eaten enough food – at least four pips worth. The hibernation process will always use up four pips of food, which means each new “morning” you are hungry again. Critically, these chambers are also your save points. And this is where it all starts to unravel for me. Because Rain World is cursed with some of the most teeth-grindingly bad checkpointing in any modern-day platformer.
+
+The hibernation chambers are often very far apart. In theory this fits with the survivalist theme. Living “winter” to “winter” while hiding and running from vicious predators of the natural world isn’t easy. Just ask any rabbit. But in reality this means you will often be repeating the same bunch of screens numerous times only to die from a frightening creature that ambushes you out of nowhere. That’s because the other creatures are spread out at the AI’s will. Sometimes, there are none to be seen. Sometimes three predators will appear at once, blocking your way to the next area or surrounding you from multiple avenues. Sometimes you take a bolt hole into the next screen and straight into the jaws of a waiting lizard.
+Other times you get caught in a game of Darwinian Pacman, trapped in narrow passages between two types of beast, both vying for your blood, with no way past either of them. It is all completely random and unavoidable. The best solution to getting past predators is often to accept death and try again – because next time they might not be in the same place. While all this replicates the brutish, nasty and short nature of the wilder-apocalypse, it makes for a frustrating platformer. Early on, the repetition of screens and areas is more forgiveable. But later you will navigate twenty or so screens only to die from some accident of fate. When you respawn, none of the map you have uncovered has been saved. This might have been Rain World’s most serious crime, if you didn’t count the controls.
+
+These are a baffling frustration. Sometimes you’ll land from a height and roll without meaning to, sometimes you’ll press down to duck into a hole and end up rolling around on the ground like a vulnerable white meatball. Very often, you will enter tunnels backwards, travelling much slower than normal (there’s a way to turn around, but it too is slow). Sometimes you’ll wiggle left or right while on a pole, trying to prepare for a jump and the game will think you want to “unhook” from the pole, resulting in a lethal fall. Sometimes you’ll be legging it from a deadly creature and suddenly stick to a pole because of the way your thumbstick is angled. I can’t count the deaths I have suffered because of an annoying control issue, whether it was rolling off a tower or ducking into the wrong crevice and missing my chance to escape into a proper bolt hole.
+These crevices are particularly frustrating. They are everywhere, carved into walls and the ground. Other creatures can appear from them, which is fine, because this makes it feel like your predators have their own separate system of bolt holes. But to you, they are totally useless, and worse, they get in the way. They are stubby dead ends not deep enough to hide in, yet the slugcat will start to clamber in if you are pushing the stick vaguely towards one. This would not be such a big problem, except that real bolt holes are almost always surrounded by these false nooks. Put this together with awkward, sticky controls and you will often be putting your cat’s head down the wrong hole. In split-second pursuits, this means the difference between life and death. Back to the last hibernation pod for you, kitten.
+
+That’s just one example of the way the tar-like controls taint the sense of adventure. The process of holding and throwing objects is also weirdly inconsistent. I just wrote and subsequently deleted an entire paragraph in which I tried to explain the system of picking things up, swallowing them, regurgitating, putting them down, throwing, and swapping items between paws. I deleted it because the description was so riddled with minor details and exceptions that the paragraph read like a bizarre legal document.
+“The left paw will be the thrower, insofar as there is no spear in the right paw, until such time that there is another more lethal object in the counterpaw, in which instance the thrown object will defer to the judgement of the game’s instructions, or to the nature of the object in the right paw.”
+
+It’s a mess. Carrying a useful object ten screens to use it in a particular place, and then accidentally throwing it away just as you approach your goal, is a regular occurrence. All these problems are especially surprising because the game markets itself as having a hero with “nimble movements” and “natural fluidity”. But I cannot think of a less befitting description for this troublesome animal. It’s a shame. For a platformer bad controls can be fatal. I don’t think they outright kill Rain World’s charisma and charm, but they’ve definitely maimed it.
+In many ways, Rain World isn’t trying to be a platformer – it is more in love with mystery and discovery and it pays equal homage to the Metroidvanias of the world. But in all the important mechanical ways, it remains tied to that ancestral genre of leaping from ledge to ledge. You need to run and jump and climb and swim and throw things, often at speed in order to escape some otherworldly nasty running behind you with its toothy maw ajar.
+
+Yet the controls feel stubbornly designed. Sticky, surly, often uncooperative. There are so many things that would make them feel better (a higher jump, less “weight”, a more sensible way to throw, drop and swap items) and yet those considerations seemed to have been ignored in favour of a method of movement that, yes, looks sublime yet often handles horribly.
+People will look at the toughness and the deaths and cite Limbo as a comparison. But for me, it is much more reminiscent of Abe’s various Oddysees and Exodduses (Exoddi?) The world is gorgeous, the characters are likeable, and the enemies especially are scary and fascinating in equal measure, and are often pitted against one another in clever ways that make the landscape feel bustling with life.
+
+But Abe too had an aggravating control scheme (although his required pinpoint precision and meticulous timing, whereas the slugcat just feels sticky). Abe too forced you to run onto new screens in a panic without knowing that there would be a pitfall or a trap waiting for you. Abe too sought pleasure in being masochistic. A carnivourous plant disguised as a pole is simply Rain World’s version of an unlabelled lever that, when pulled, crushes you beneath a giant rack of ribs. In so many ways it echoes the strengths of that lovable green farter but it also retains all the flaws, and in fact introduces whole new ones – at least Abe gave you a quicksave.
+Modern platformers that want to be difficult have learned the value of a quick and nearby spawn. Fell into some spikes? Never mind, says the game, and one second later you are at the last brick wall you leapt from. The slugcat doesn’t get this treatment, instead it is transported back to the nearest save point, the last hibernation chamber. The things you have done to the environment have been undone, the parts of the map you revealed have been recovered in shroud. You are ten screens back from where you were, only now the predators and prey will be in different places.
+
+It can get hugely frustrating, especially in those parts of the world where you have to navigate bothersome pools of leeches, or wall-jump up long shafts, or seek out a certain object before facing an otherwise impossible obstacle. Having to repeat these areas doesn’t feel like an exercise in hardcore gaming, it just feels like a chore. Some of the areas feel like you’d need the developer’s debug tools just to get through. It’s demoralising. You want to explore the next area, encounter the next weird tentacled species. But the game does everything it can to stop you from doing this. It is astounding that, after navigating twenty or thirty screens, you will die because a random enemy has spawned off the edge of the screen, impossible to see, and snapped you up with its tongue.
+The oddest thing about it is that, like the controls, this difficulty feels entirely deliberate. It is like Rain World wants to have the strength of difficulty we find in Dark Souls. But that classic of dying and re-dying had the impetus of soul currency, a sense of gambling, a sense of pace, and the relief of clever shortcuts with near-perfect geography. Not to mention the HUGELY SIGNIFICANT gesture of always putting the enemies reliably in the same place, like a solid, immovable set of spiky hurdles. You always had the means to overcome and defeat them. You just needed to learn.
+
+Here there is only the obstacle of repeating the same awkward platforming sections over and over again, sometimes being put out of your misery by a creature that gobbles you up out of the blue or makes your intended route suddenly impassable. It takes everything platformers have learned not to do over the last 10 years and throws each lesson over its shoulder into the waste basket. It definitely gains some originality thanks to this exercise, but it is often at the expense of basic playability.
+I’m wailing on it quite a lot here, which may seem unfair. But it’s only because so much potential has been lost. There’s a ton of things to fall in love with. The world is vast and wonderfully drawn. The process of discovery is wonderful, and it puts an encouraging amount of trust in the player to figure things out by themselves. As for the natural world it conveys, it can feel like living through a surreal season of BBC’s Planet Earth, set thousands of years after mankind’s demise. I have had run-ins with animals that have made me shiver, squeal or grin from ear to ear. A particular creature was so instinctively frightening that I had to take a short break to regain my courage before taking the slugcat on a long swim across some open water. He did not survive.
+
+And there’s depth here too. Creatures and mysterious personas are hidden at the extremities of the map, offering some small aid or boost, although you might not know how or why they do so until much later. There’s a method of travelling vast distances and it takes some experimentation to figure this system out. You might put something in your gullet and forget all about it, only for it to become suddenly very helpful two regions later, where you can vomit it up and put it to use. And these are just the details I figured out. There’s much more that I’d love to discuss with another player – what do those little [REDACTED] do? Did you visit the [REDACTED] with all those terrifying [REDACTED]? And – oh my god – what exactly are the consequences of eating the [REDACTED] by that [REDACTED]?
+I’m at a disadvantage with the review copy, see, since I don’t have the sanctuary of discussion threads or friends who’ve already clocked it to relieve my most pressing confusions, unlike y’all. It’s a game that I think will benefit from that out-sourcing of help, the many hands and many eyes of the internet making up for the lack of in-game teachings (although, being honest, it feels like it could have benefited from more voices in the testing phase too – maybe one of them would have said: “Uh, don’t you think the controls are a bit wonky?” or “Maybe we should, like, lay off”).
+
+So I don’t want to rubbish the experience too much. Apart from the mysteries and secrets, there is a cracking array of vicious wildlife on show here, and their accompanying methods of predation can be as impressive as they are unsettling. It often feels like a real, brutish ecosystem. Even if the AI sometimes acts weirdly, spasming in a corner, or twirling around in endless circles, it still seems earthly, red in tooth and claw, but also alien and unknown. Finding out exactly how that aquatic animal feeds or which sub-species of lizard acts in which manner is a joy. I just wish I could do that without having to repeat the same swim through cramped and flooded tunnels for the fifth time. Or the same protracted run across the ultra-dark [REDACTED], with, yes, a shelter at the end but also a perilous drop that undoes everything you just did.
+I feel like time and the fans will absolve it even of its awkward controls and terrible checkpointing. But in the same way that Dark Souls drop-outs often lament that they cannot explore Lordran in some sort of easy mode, I wish that Rain World was not so obtuse and punishing. Unlike Dark Souls, there’s no real reason behind the difficulty, no sense of purposeful design. And often there is evidence of some terrible design. Why are there poles drawn in the background, in almost exact same hue as the foreground’s ‘usable’ poles? Why does the ‘transition’ point from one screen to another sometimes land in critical areas – during a dangerous jump or (in one case) a winding vertical climb infested by invisible lizards, who snap you up from unseen positions far above the edge of your view. How it expects you to see the creatures before you are even on the next screen, I don’t know. Attention game makers: there is a difference between in being “hands off” and being straight-up neglectful.
+
+Mostly, the feeling I have come away with is frustration. The philosophy here isn’t “we refuse to hold your hand”. It’s more like: “we are going to cover your hands with lubricant and task you with climbing a fireman’s pole”. The game doesn’t seem to realise that it’s strength isn’t in difficulty, or repeating areas again and again, but in discovery and wandering, in exploration and a sense of wonder.
+At 20 hours, having discovered just 8 of the regions, I threw the gamepad aside with a mixture of exasperation and disappointment. There are those who will relish the challenge but I never found the slugcat’s family, and not just because there were no clues or direction as to their whereabouts. There was a big part of me that didn’t want to stop playing and maybe I’ll pick it up again some day, because there is so much to love about discovering the laws of nature behind this huge, ruined ecosystem. But with each random death, each accidental roll off a cliffside, each checkpoint drought, that love turned to ash. There is so much beauty and intrigue and diversity of life in Rain World. It’s a pity the game doesn’t want you to see any of it.
+Rain World is out March 28th for Windows via Steam for £15/$20/€20.
+
+27/03/2017 at 19:14
+
+heretic says:
+
+Damn, will probably pick it up at some point as the exploration premise sounds interesting – but long game and high difficulty doesn’t sound like my cup of tea :(
+
+28/03/2017 at 09:02
+
+Harlander says:
+
+I really appreciate a review which lets me decide, “As wonderful as this sounds, it’s just too hard for me.”
+Otherwise I’d be stuck with the nagging guilt of another game that I feel I should go back to, but never do because of some intractable difficulty spike.
+
+27/03/2017 at 19:16
+
+Merry says:
+
+I’m wailing on it quite a lot here
+I’m wondering if you meant waling?
+
+27/03/2017 at 19:37
+
+InternetBatman says:
+
+whaling
+
+27/03/2017 at 20:23
+
+Brendan Caldwell says:
+
+Wheely-ing
+
+27/03/2017 at 22:25
+
+skeletortoise says:
+
+Doesn’t sound like whaling would be out of the question.
+
+27/03/2017 at 19:17
+
+Atog says:
+
+Damn.
+
+27/03/2017 at 19:20
+
+Drib says:
+
+Too bad. This game looks great, from the screenshots, and that one with the slugcat sleeping in the grass is super cute.
+But replaying long sections for checkpoints sucks. Sometimes it’s forgivable, but the enemy spawns and stuff in this just sound awful.
+Too bad, ’cause like I said, it looks really nice and the exploration you mention sounds right up my alley.
+
+28/03/2017 at 05:55
+
+Barts says:
+
+Drib, don’t give up on Rain World too easily. It is a great game, if a little hard and occasionally rough around the edges. I very much second most of the points Brendon is making above, but I draw different conclusions. Difficult, yes, unfair, sometimes, frustrating, occasionally, but the joy of discovery, these “a-ha!” moments when you understand how the world works, the satisfaction of evading certain death, the thrill of sneaking through particularly hard section, these are all feelings I have too rarely experienced in games (Dark Souls actually is a notable example, albeit very different).
+
+27/03/2017 at 19:39
+
+mashkeyboardgetusername says:
+
+Bugger, that’s a shame. It seemed like it was going to be a wonderful game if they avoided, well, the exact mistakes they’ve ended up making with checkpointing etc.
+
+27/03/2017 at 19:40
+
+JamesPrimate says:
+
+Hello! This is James, one of the developers of Rain World here. I just wanted to give a quick shoutout to RPS. All the way back in 2012 it was Cara and Graham that first plucked our little weird arty ecosystem game out of the obscurity of TIGSource devblogs and made us think that we maybe actually could make a real game out of this that people would play? And the jury is still out on that! hahah. 
+Its been quite a wild ride of hype and madness since then, but I want to thank them sincerely for that, and encourage them to continue peeping into the weird nooks and crannies of videogame development.
+Ill be hanging in the thread if anyone has questions! <3
+
+27/03/2017 at 19:45
+
+djvecchitto says:
+
+I don’t mind crazy difficulty and the art style is incredible—I will DEFINITELY purchase this game if you patch out some of the control issues mentioned in this review! Patch patch patch! Please patch!
+
+27/03/2017 at 19:57
+
+JamesPrimate says:
+
+@djvecchitto
+Most definitely! Were not doubling down on too many of the issues we are hearing. Talking with a couple of journalists who were struggling under deadlines, it seems that a few minor tutorialization changes or additions could smooth out things quite a bit. And control / movement improvements are very easy once we know what to look for, etc etc.
+We already have updates underway, adding additional game modes such as multiplayer and additional narrative content geared toward players who might not want to sink 60hr in, etc etc., so expect to hear more from us once we survive the madness of this initial release!
+
+27/03/2017 at 22:38
+
+Jeroen D Stout says:
+
+If you do make these changes, could you make sure to let the game have a ‘vanilla’ version? I really, really fell in love with the game as it is now and would rather not see future versions to irrevocably different.
+
+28/03/2017 at 00:05
+
+JamesPrimate says:
+
+Ah, thank you for saying that! Thats good to hear!
+I wouldnt intend to make things easier per se, just smooth out some rough edges where they are necessary and maybe do a better job tutorializing some of the main concepts (such as the karma gate system.) 
+But! We’re definitely going to wait until the dust settles and we have more feedback from players on how they are approaching the game before we do anything at all.
+
+27/03/2017 at 23:27
+
+Daymare says:
+
+I read about Rain World some years ago here on RPS, been looking forward to it for a while now. Just wanna chime in to say: You’ve made a gorgeous looking game:)
+Happy to hear you’re planning those additions. I bought it now, will see if I can tear and mangle my way through — if not, I’m looking forward to the stuff you listed.
+
+27/03/2017 at 19:55
+
+Drib says:
+
+This particular game sounds kinda frustrating in the way that would drive me crazy.
+But I always like seeing devs popping in when their game is reviewed, and also I do want to say that the art looks great. So good work on that?
+Hope the release goes well.
+
+27/03/2017 at 20:08
+
+mashkeyboardgetusername says:
+
+I guess one question (for either James or Brenden) is: is a controller mandatory, or can it be played with a keyboard? Being a weirdo I prefer a keyboard for platformers – I completed Spelunky using one, if that gives any indication – but I don’t know if that’s feasible for Rainworld.
+
+27/03/2017 at 20:13
+
+JamesPrimate says:
+
+Controller is not mandatory! At the beginning you can choose between xbox, ps4 dualshock or keyboard and switch at any time in the options menu of course, as well as rebind keys, etc. 
+And in fact the game was originally designed for keyboard controls! I still play it that way when testing.
+
+27/03/2017 at 20:37
+
+mashkeyboardgetusername says:
+
+Neat, thanks for answering!
+
+27/03/2017 at 22:14
+
+Barts says:
+
+I second that! Played it on Xbox360 controller (I prefer PS3 one, but alas) and when my wife snagged it to play Endereal on our second computer, I begrudgingly started playing on a keyboard only to discover it was actually more comfy.
+
+28/03/2017 at 00:01
+
+Waltorious says:
+
+I was going to ask the same thing about keyboard controls. Unless a platformer actually supports analog movement, I find the precision of the keyboard to be much better for moving around. In fact, it seems like a lot of the trouble Brendan had might be solved by using discrete keys for directional input rather than an analog stick. That way it’s clear which direction he’s pushing. I had a similar problem with Dustforce when trying to play with a controller, even with a D-pad instead of analog stick it was hard to get precise directional input, so I kept climbing walls instead of simply clinging to them, etc.
+I wonder if anyone (other than the developers, of course) has played this with the keyboard and could comment on how it feels?
+
+28/03/2017 at 05:50
+
+Barts says:
+
+As I wrote above (and I’m definitely not a developer), I actually found it easier to play on the keyboard due to exactly the reasons you describe in your comment. Just like Dustforce!
+
+27/03/2017 at 21:34
+
+Flavorfish says:
+
+Hey! I’ve been hyped for this game since the early tigsource days. I’ve already preordered but if it doesn’t take too much time I have a few questions so I can know who I can reccomend this to.
+I love tough proc. gen platformers like Towerfall and Spelunky and so I don’t find the difficulty disconcerting but the control issues are definitely offputting. Does the proc. gen animations limit you in improving the controls?
+I’ve also heard that throwing items is horizontal, and the angle can’t be controlled. Was this intentional or was it a tradeoff to achieve other things?
+Rain World gives me really strong Knytt Underground vibes. I’m not sure if you’ve played that, but it has roughly 1,000 screens and was absolutely massive and took a long time to fully explore. It would seem to me that the relative difficulty of this would pace the exploration more, but roughly how many screens are in the game?
+Reviews for this game are really polarizing and the #1 complaint seems to be high emergent difficulty, the kind of difficulty that as the designer you don’t much control over. I want to reccomend this to a lot of friends but all of my friends are kind of scrubby at platformers. Would you consider patching in some kind of easy mode that limits the spawn rates of predators?
+Also, any rough eta on when local-coop is making an appearance :)? Have you figured out what to do when a player goes to another room or dies?
+I wish you guys good luck and hope you make lots of money! I feel like this game’s themes of emergence and ecosystems and awesome post industrial environments were pulled straight from my wishlist and then infused with a solid dose of psychadelics.
+
+27/03/2017 at 23:11
+
+Flavorfish says:
+
+Note that you don’t have to answer every question haha
+
+27/03/2017 at 23:48
+
+JamesPrimate says:
+
+@ Flavorfish
+Thank you friend!! Ill try to address some of these questions, haha.
+Re: “Does the proc. gen animations limit you in improving the controls?”
+Thats a good question! It does a little, but probably not for the things reviewers are disliking. To be honest, we wanted the controls to convey the experience of this little animal moving in this dangerous world; to be challenging! So climbing up some rough surface or wall jumping up a pipe felt like a taxing, hard won victory. In retrospect it makes perfect sense that something like that would put off some players, but we wanted you to feel that feedback, to be IN the game. At least that was the thought process! Id like to maintain aspects of that still, but hopefully there are also things we can do to make it less frustrating.
+Re: Knytt and “roughly how many screens are in the game?”
+Yes! The Knytt series is definitely a favorite of mine. That sense of exploration and scale is so rare in games, which was exactly what I was trying to accomplish with Rain World’s scope. There are over 1600 screens in Rain World! 
+Re: Would you consider patching in some kind of easy mode that limits the spawn rates of predators?
+The creatures in the world dont spawn per se, they exist perpetually moving around the world even when off screen, eating things, getting into fights, etc., but there are certainly things we can do to smooth some aspects of the difficulty curve. An issue is that since the whole point is that this world is filled with these unpredictable AI creature ecosystem, if we limit them too much then it defeats the whole purpose and becomes just some random run and jump platformer! But that said, I think there is some easy low hanging fruit we can tweak to smooth the experience a little.
+Also we want to introduce some alternate narrative paths (and possibly game modes!) toward the beginning that would be geared for players who like the game but dont necessarily want to spend 60hrs in scrambling terror!
+Re: Also, any rough eta on when local-coop is making an appearance :)
+News on this soon! Lets try to launch this game first and have it not blow up, haha.
+Thank you again for your questions and your enthusiasm! We will strive to live up to it!
+
+28/03/2017 at 00:27
+
+Flavorfish says:
+
+“Yes! The Knytt series is definitely a favorite of mine. That sense of exploration and scale is so rare in games, which was exactly what I was trying to accomplish with Rain World’s scope. There are over 1600 screens in Rain World! ”
+Holy shit!!
+All of the Knytt games have been real niche gem favorites of mine. Knytt Underground was easy to traverse and yet still the 1,000 screens felt immense and took a long time to explore. 1,600 is insane.
+Thanks for the reply. Getting that balance between weight that provides a connection with the world and fluid responsive movement sounds like a challenge but I wish you guys well.
+
+28/03/2017 at 06:38
+
+shjkull says:
+
+So you deliberately made shitty controls? This is really awful.
+
+28/03/2017 at 10:47
+
+Kitsunin says:
+
+It’s been a little while since I’ve seen someone being this much of an ass, actually.
+
+27/03/2017 at 23:13
+
+cpt_freakout says:
+
+KS backer here: congrats on the release! I’m holding off for a while because I want to finish a few other games first, but I, too, hope that you’ll patch some of the control issues that seem to be present!
+
+27/03/2017 at 19:43
+
+djvecchitto says:
+
+This sounds a lot like Alien Isolation – the atmosphere and promise of crazy, difficult survival drew me in, but I eventually gave up because it was just too random. The first time an alien pops out somewhere unexpected and leads to an instadeath is exhilarating – but 20 hours in, when the element of surprise is gone, all that stands out is the randomness and unfairness of some of these encounters, which saps away almost all of the fun.
+
+27/03/2017 at 21:45
+
+KenTWOu says:
+
+Let’s see, you don’t need to use food or any other resource to use a checkpoint in Alien: Isolation. It doesn’t have anything similar to the rainfall mechanic forcing you to save your progress. I’ve finished the game twice and found that only two, may be three checkpoints were frustratingly far away from each other. It has only one unpredictable Alien AI instead of the whole ecosystem of unknown species. Besides it’s possible to learn how to avoid Alien using stealth and gadgets. Human, Working Joe’s spawn points aren’t completely randomized after reloading the last save. The game control system works really great. It’s very easy to throw a gadget. Air vents certainly don’t have Rain World tunnels issues… This doesn’t sound like Alien: Isolation at all.
+
+27/03/2017 at 23:13
+
+Daymare says:
+
+Yeah, I finished A:I on the highest difficulty and I could generally muddle my way through everything with some careful stealth, hiding, gadgets and short bursts of flamethrower. Save spots were never too far away and I never felt movement was a problem — this certainly sounds much, much harder. Sure, I died a bunch of times in every level, but hey, that’s difficulty for ya.
+
+28/03/2017 at 02:02
+
+Otterley says:
+
+djvecchitto described perfectly well where he sees a similarity between the two games.
+
+28/03/2017 at 00:46
+
+JamesPrimate says:
+
+I absolutely loved Alien: Isolation. In fact, there was a period of time when it had just come out and we were still in the tedious, grinding mid-development section of Rain World, and I was a bit depressed thinking to myself “Oh no! AAA’s have caught on to the whole AI-driven prey/predator dynamic! What will we do?” But sadly (or fortunately for us!) it was just one game :/
+A:I is 100% exploring the same things as RW. Scope, improvisation using open spaces and structures in strategic ways, unpredictability of danger and constant looming dread. I still love it dearly.
+
+27/03/2017 at 20:14
+
+Laurentius says:
+
+Actually Oddworld Inhabitants learend their lesson and Abe’s Exoddus was not nearly masochisticaly hard as Abe’s Oddysee.
+
+27/03/2017 at 22:23
+
+Barts says:
+
+But not nearly half as good as the original either.
+
+27/03/2017 at 21:35
+
+Atog says:
+
+This piece might be considered a good counterpoint on the difficulty thing, although the core of the discussion would need to tackle what is indeed poorly designed and what is part of the steps required to make this world a dangerous one not tailored to the player’s needs. 
+link to waypoint.vice.com
+
+28/03/2017 at 02:09
+
+Otterley says:
+
+Thanks for the pointer, that was an excellent read. Might actually help me approach the game with a different mindset.
+
+27/03/2017 at 21:43
+
+jonahcutter says:
+
+Sounds like a mode with a a quick save or two available between the location save points (and which recharge upon reaching the location save point) would alleviate some frustration for those who may want a bit of an easier time. That way upon returning to a difficult section that just killed you, you can pop a quick save to spare yourself having to trudge all the way back yet again should you fail it a second, third, fourth, etc time. But with limited quicksaves you have to pick and choose your moments. You can’t trivialize all the challenge by quick saving before each new screen or jump. Some portion of that Dark Souls-ian progression danger remains.
+
+28/03/2017 at 02:16
+
+Otterley says:
+
+That reminds me of a similar system in Operation Flashpoint (and perhaps Arma?) where you could save a couple of times only. On longer missions you’d need to carefully choose your moments. 
+That might be a nice way to take the difficulty down a notch :)
+
+27/03/2017 at 22:15
+
+Kolbex says:
+
+Ugh, this sounds so great, but with Battle Brothers and Wings Over Flanders Fields both demanding my playtime right now (not to mention Overwatch), I just…don’t know where I’ll be able to fit it in. Maybe during the summer sale…
+
+27/03/2017 at 22:17
+
+kaicooper says:
+
+this generation kids need more Milky COD..
+no love for hard games..reviewers hates this game
+and Styx sequal cus its too challenging..totally day one buy
+u guys keep playing COD in space
+
+28/03/2017 at 05:24
+
+Snowskeeper says:
+
+Reviewer: “I don’t mind difficulty, but in these very specific ways, the game feels aunfair; the control scheme is also a little clunky.”
+Commenter: “LUL COD KIDDY”
+Yeah, okay, friend. You have a nice day now.
+
+27/03/2017 at 22:21
+
+Barts says:
+
+OBJECTION!
+I have been playing my review copy (I also backed Rain World back in 2014, but did not have early access rights) for last couple of days and I don’t agree with Brendan’s assessment.
+Yes, Rain World is hard, unpredictable and occasioanlly unfair. So is Dark Souls. So is nature. But boy oh boy, is there a sense of discovery, a thrill of life & death encounters, sudden joy of figuring out how to do something or what eating this strange plant does.
+It’s not for everyone, that’s for certain, just like some of the heavier Bowmore whiskys. For those who enjoy this kind of thing, though, it’s a treat.
+
+27/03/2017 at 22:48
+
+Jeroen D Stout says:
+
+SUSTAINED
+The incredibly punishing world is actually what makes it amazing for me. Almost all of the complaints I see about it would probably make it more fun for the complainer, but less fun for me. That a lizard shows up and blocks my path is the fun: “not today, then,” I say to myself, as I try another route. The world lends itself for exploration, retrying and mastery.
+Sure, there is no hand-holding, no explanations, you need to learn how not to crawl into a pipe with your butt first… and then after that learning process, you are the master of the world and you have earned it all the way. Even now returning to the game (after playing it quite a while back) I went into a new-ish area and was curb-stomped, then realised a feature I had never even considered and just laughed at the screen. I made it: it was an adventure, not a guided tour.
+To the comment that the controls are a waste of potential I would say… no. They’re not once you get used to working with them. Or so I think. I don’t know. When I control the slugcat I feel like a young god shooting through the world, then I get cocky and get eaten.
+Perhaps the game just requires you to place a lot of responsibility on yourself, ultimately. If you go off the right path into an area which will completely eviscerate you, you need to think “huh, I guess I am not ready,” and head back. It runs against current gaming stereotypes, but just running ahead in the world leads to the redoing screens again and again. Taking your time and studying and learning to understand the world makes it possible to go through it right away. Then after a while you learn enough to finally be a great Traveller through the world, to whom people look up and say “how the hell do you make this look easy.”
+It’s that responsibility which many will not like. But if you like for the game to want you to come to it (instead of it reaching out to you), you will love the game more than anything.
+
+28/03/2017 at 05:33
+
+Snowskeeper says:
+
+Brendan compared it to Dark Souls in the article. His point was that while Dark Souls is difficult, and difficulty isn’t a bad thing, Dark Souls rarely ever felt unfair. Every problem could be learned, and that learning would eventually help you overcome it. Death was also never framed as a punishment; the only thing that was punished was overextension (IE if you try to push farther than you’re able to reach, you might find it difficult to retrieve your souls). All of his major complaints related to ways in which the game is unfair. And even then, he notes that this unfairness could be dealt with by making checkpoints more common, or else allowing the player to quicksave, so that they didn’t have to keep going over the same ground over and over again every time you died. He also mentions creatures eating you from off-screen, in ways that offer no opportunity for escape. I think that’s a fair complaint.
+Granted, I haven’t bought the game. Didn’t really plan to before reading this; don’t plan to now, either. Deliberate or not (and the developer’s post above does suggest that this was a deliberate choice), clunky controls and unfair deaths don’t appeal to me, especially not when accompanied by trekking over the same landscape over and over again after each death. The description of the environment and the ecosystem have made me a lot more likely to pick it up on a sale, though.
+
+28/03/2017 at 05:45
+
+Barts says:
+
+Huge difference: Dark Souls is way more predictable. Enemies are in the same spot and have the same behavioural patterns, always. Rain World is more reliant on procedural generation and randomness, therefore much less predictable and prone to occasional unfortunate RNG, which then causes odds to be stacked against the player, hence the impression of unfairness.
+I think this is ultimately the reason Brendon found it harder and more punishing. I personally find it refreshing: sometimes you die not because of your own fault, but because of unfair set of circumstances. Just like nature, just like real life. 
+“It’s not always all about you, princess.”
+
+28/03/2017 at 05:55
+
+Snowskeeper says:
+
+I don’t mind games not being all about the player, but what you described isn’t the impression of unfairness. That is unfairness. Dying because of circumstances totally beyond your control may be a thing in nature, but that doesn’t make it fun, especially in a game where death means a long trek over ground you’ve already covered.
+
+28/03/2017 at 06:04
+
+Barts says:
+
+You are right and I agree. 
+It is perhaps worth noting that generally I am not a sucker for obnoxiously hard games, because life is too short, I have work and family obligations, and neither time nor skill some of the gamers apparently display. 
+That said, Rain World is often hard, but mostly fair as in “can be beaten with enough effort”. It’s just that there are some tough sections and occasional random moments which stack the odds to the point of unfairness. But these have been happening every now and then, not all the time (at least for me; you mileage may vary, Rain World is procedurally generated after all). And then they serve as a reminder “hey, it’s a brutal world out here”, not constant punishment of “git gud” kind.
+I hope I have clarified what I meant. I am definitely not saying it is for everyone. I just think it is not overly unfair or unbeatable.
+
+27/03/2017 at 23:19
+
+AutonomyLost says:
+
+Good review. I was hoping for something glowing, but enjoyed what’s here nonetheless. Definitely gonna pick this one up to see for myself, just not immediately. The sense of exploration and discovery sound delightful.
+
+28/03/2017 at 02:47
+
+Caiman says:
+
+As soon as Brendan compared it (in certain mechanical ways) with Abe’s Oddyssey, I was sold. I love that game to bits, and although it was tough in places, I felt that I could master the mechanics and get past it. Beating it was very satisfying.
+
+28/03/2017 at 06:07
+
+Barts says:
+
+It actually has similar sense of journey and discovery. In my review I compare it to Abe’s Oddysee as well.
+
+28/03/2017 at 12:18
+
+Flappybat says:
+
+Waited a long time for this but as soon as I died and went back 20 minutes I sighed. Understand why with the rain mechanic but it’s just brutal for a game with 20~ minute exploration sections you very easily die on. I hadn’t even found another hibernation chamber.
+I can understand mechanics for gameplay reasons but this feels like a step too far.
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+Adult Swim Games, feature, Rain World, review, Videocult, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

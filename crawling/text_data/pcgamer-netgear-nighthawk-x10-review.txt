@@ -1,0 +1,51 @@
+
+
+ 
+ 
+ 
+ 
+
+By
+Jonas DeMuro, 
+Tuan Nguyen
+ 
+
+Blistering speeds and more features than you can count, but better suited for video performance than gaming.
+Routers aren't sexy devices and really aren't meant to be noticed. If you're constantly fiddling with yours, it means there's likely a problem. A good one will turn on and be out of your way for good, but Netgear thinks it has a router worth gawking over.
+Sitting at the top of Netgear's router ranks is the Nighthawk X10—a culmination of features that represent a big step forward for consumer routers. So much is packed within the X10's shell that most of it remains open for venting away heat. In fact, this is probably the first consumer router I've come across with an actual fan/heatsink combo.
+
+
+The Nighthawk X10 router continues the Netgear tradition of horizontally configured, darkly colored, angulated networking gear. While it has a traditional row of status LED’s across the top front, there are additional lights to provide info about the 60 GHz frequency as well. A standout feature for LED aficionados is that each of the four antennas has a row of blue LED’s going up either side. (We also appreciate the LED on/off switch as this could be too bright in a bedroom when sleep beckons after a tough day of gaming.) 
+The cutting edge does not come cheaply, with a $499 retail price for the Nighthawk X10, and an Amazon street price around $477. With that kind of money, the Nighthawk X10 is competing on price with top-end mesh router kits.
+
+At the back of the Netgear X10 router are seven Gigabit ports—a single yellow WAN port, and six LAN ports. Ports 1 and 2 can be run in Aggregate Mode to combine throughput for double speed, a trick not found in lower priced routers.
+But this is not a router for mere mortals. Netgear tells us that the X10 is for those who truly want the most audacious network setups. As such, the X10 is one of the first consumer routers in the world to feature 10-gigabit support. That's basically 10-times faster than anything you'll find integrated on your gaming motherboard.
+
+The Netgear X10’s 10Gbit port is a SFP+ port, which requires a separate transceiver—usually optical—and offers you some irresponsible amounts of bandwidth. You can also buy copper-based cables called direct-attach Twinax cables, but they usually aren't very long.
+Netgear doesn't pitch connecting a PC directly to this port, but instead recommends using it for attaching 10Gbit capable NASes. This way, all machines connected to the router can fully tap into storage without bottlenecking. Thankfully, I have a nice QNAP TVS-871 NAS with 10Gbit support handy.
+With all that power handy, only the fastest wireless technologies will do, and the X10 doesn't skimp on that front either.
+The next standard in wireless, 802.11ad, adds the 60 GHz frequency to the venerable 2.4 GHz and the newer 5 GHz frequencies of existing 802.11ac wireless networking gear. This 60 GHz frequency is an unlicensed portion of the spectrum, so-called millimeter wireless which is also known as WiGig. The promise of low latency, combined with serious wireless speeds that start at a blistering 4 Gbps—yes that is Gbps—is what fuels our interest in 802.11ad gear.
+802.11ad is on the cutting edge of home networking gear. But that means there are only two routers that currently support this standard, the Netgear Nighthawk X10 Smart Wi-Fi Router, and the TP-Link Talon AD7200. On the client side, there are no WiGig-supporting USB adapters, leaving currently only one option: the Acer TravelMate P648 notebook with integrated WiGig support. Having said that, more WiGig products are coming—such as the Lenovo ThinkPad X1 Carbon Laptop, and a smartphone Snapdragon 835 processor that should find its way into multiple mobile devices with integrated WiGig that were announced at CES 2017. Against that background, we went hands on with the fastest wireless gear available.
+
+The Nighthawk X10 interface is typical of other Netgear router gear, with information displayed on each of the frequencies, the Guest Network, and on the bottom, the 60 GHz network, which we named x10-60.
+Setup proceeded smoothly, and the firmware was automatically identified to be out of date, and updated seamlessly. The specs are solid, with theoretical maximum throughput speeds of 800 Mbps on 2.4 GHz, 1733 Mbps on the 5 GHz frequency, and 4.6 Gbps on WiGig 60 GHz through the four high performance antennas. On the hardware side, it has a 1.7 GHz quad core processor and dual USB 3.0 ports. And in case you were wondering, there are only two WiGig channels: 2 and 3.
+
+The Nighthawk X10 goes beyond traditional routing to offer multiple services, a direction the industry is expected to head in. Still, there are plenty of routers offering similar speeds and specs, outside of WiGig support, that cost half as much. 
+Thankfully, when it came to features, Netgear thew just about everything you could think of into this flagship product, including apps that go beyond what a router can traditionally do. For example: you can insert a flash drive into one of the the two USB 3.0 ports to enable NAS functionality, or turn a USB printer into a networked one. It has an integrated smartphone app, as has become industry standard, for setup and management. There is also built in support to backup data to an Amazon Cloud Drive account, integrate with Kwilt for photos, provide a way to backup from the PC to the router, enable BitTorrent downloads directly on the router, or even use the Nighthawk X10 as a Plex Media Server. 
+The hardware side also goes above and beyond with six Gigabit LAN ports (most routers include four, and some even less). Two of those can be run in a link aggregate mode to double the throughput. 
+But while the Nighthawk X10 has just about every feature imaginable, the QoS (Quality-of-Service) features—that let you prioritize traffic based on game/application needs—falls short from a gaming perspective. It does support Wi-Fi Multimedia, an older standard that requires the combination of router, client, and video to all support it in order to reap the benefit of smoother video buffering. However, this does not prioritize gaming traffic, and there are no controls for manually configuring the QoS to prioritize by traffic type or device as some other routers offer. A future firmware update may improve this, but as of now, the X10 is lacking a bit on the gaming side.
+In 5 GHz tests, the Nighthawk X10 was within 1 percent of our current choice for high end router, the Asus AC5300, with 209.23 Mbps on the close test, and 202.59 Mbps on the far test. However, on the 2.4 GHz frequency throughput tests, while the far test of 202.59 Mbps led the pack, at close range the 135.93 Mbps speed was lacking. The 802.11ad throughput was measured at 1.6 Gbps on the 60 GHz frequency—the fastest speed we have seen for a wireless connection to date.
+One major caveat to the 60 GHz band is that it's strictly line-of-sight. This means that you'll basically get no signal if you're behind even the most basic of dry walls. To test the 60 GHz band we sat a few feet in front of the X10.
+The X10 also comes with Plex's powerful and popular media server baked in. Unfortunately, during our tests we weren't able to play back some very high bit-rate files without stuttering. We're fairly certain that a Plex update will resolve this, however, as the X10 has more than enough horsepower to chew through video. We will update this portion of the review if things improve.
+The bottom line on the Netgear Nighthawk X10 is that this is an incredibly powerful router—for the right setup. If you can take advantage of the 802.11ad connection and/or the 10Gbit SFP+ optical port, then this is an excellent choice. Our concern is that from a gaming perspective, the lack of QoS and device priority settings are a serious omission. It's clear from the included app support, including the integrated Plex media server, that the emphasis of this piece of gear is on video performance over gaming, so the target user should value that as well.
+
+Blistering speeds and more features than you can count, but better suited for video performance than gaming.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

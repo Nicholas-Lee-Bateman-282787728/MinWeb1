@@ -1,0 +1,17 @@
+
+
+
+CryptoCoinsNews
+Bitcoin.com, Bitmain Technologies and several bitcoin companies have announced a $1.2 million Bitcoin Development Grant for bitcoin protocol development. There is to be no “official” bitcoin.
+The statement announcing the grant acknowledged there has been a “deep rift” that has distracted the bitcoin community.
+The grant is to support teams working on bitcoin protocol, foster the greater diversity of innovation and improve freedom of choice for bitcoin users.
+The Bitcoin Development Grant website cited the following principles as a foundation upon which to establish common ground:
+1. No “Official” Bitcoin: No particular bitcoin protocol is to hold claim to being the “official” version of bitcoin.
+2. Multiple Implementations: Diversity of bitcoin protocol implementation and a variety of development teams is considered a net gain for the bitcoin community.
+3. Diversity of Innovation: Having more developers and more development teams will bring more diversity of innovation and solutions to the problems facing a growing industry.
+4. Bitcoin is Leaderless: No team of developers has decision-making authority for the entire bitcoin community.
+5. No Censorship: Disagreement is healthy within a complex community. Discussion, debate and dissent bring benefits but require communication channels to remain free and open. While the right of private communities to run themselves as they see fit will be respected, the signers of this statement implore the bitcoin community to reject censorship and support those platforms where the free and open discussion is permitted.
+Also read: Bitcoin Foundation to focus solely on Bitcoin Core development
+By finding common ground in the above statements, all developers seeking to contribute to bitcoin’s development can begin to mend the rift that has divided and distracted the industry.
+Bitcoin.com and Bitmain are listed as contributing signers. Supporting signers include Blockchain.info, Xapo, Purse, Mycelium, chbtc.com, Vaultoro, Coin ATM Radar, Jaxx, BitPays, Airbitz, bitbank, ANX International, ViaBTC, Bitcoin Knots, Lamassu, Blockchain Australia, Crypto Facilities, Bitcoin Suramerica, Luxstack, Coinut, Epiphyte, CoinSource, Stash, Coinucopia, BTC Ghana, Cryptomatic and more.
+Several individuals have also signed the statement.

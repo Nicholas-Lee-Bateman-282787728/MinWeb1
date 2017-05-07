@@ -1,0 +1,43 @@
+
+
+ 
+ 
+ 
+ 
+
+
+By
+Chris Thursten
+ 
+
+An original and deep game of strategic online warfare that brings your sci-fi capital ship fantasies to life. 
+What is it? Team-based space combat between massive capital ships.Expect to pay Free with microtransactionsDeveloper Edge Case GamesPublisher Edge Case GamesReviewed on Intel core i7 4Ghz, 16Gb RAM, GTX 980Multiplayer Online, up to 10 playersLink Official site
+Three red arrows indicate enemy ships clustered around our forward base in beta sector, attempting to wrest control of the station from the two friendly defenders still in position. My ship—a Colossus-class cruiser, 1.7km of armour and firepower—is scorching down a hyperspace tunnel, fresh from a respawn. I pick a jump destination in beta and adjust my bearing to match the little red arrow closest to my exit point. The jump drive spools up.
+The Colossus snaps out of hyperspace in a flash of white light. Having already lined up the broadside, I’m firing before that little red arrow—now a 1.4km-long Sentinel-class warship—can react. My starboard guns flak guns open up with a sound like the drums from the Battlestar Galactica intro. The Sentinel cracks apart under the pressure before exploding in a shockwave of orange flame. I’ve either just saved the day or warped across space and time to steal somebody’s kill, depending on who you ask.
+
+Fractured Space is a free to play, team-based game of sci-fi capital ship warfare. In form and structure there’s a little bit of World of Tanks in its DNA: outside of a match, you collect an ever-enlarging hangar full of massive starships and upgrade them using resources earned through play or microtransactions. Inside a match, however, Fractured Space is more like a MOBA.
+In the standard mode, Conquest, space is divided into five sectors: two ‘side’ sectors, alpha and beta, a central sector, gamma, and one home sector for each team. The objective is to capture the enemy’s home base, but to do that your team has to open up jump routes by capturing forward bases in alpha or beta. Resources gathered by controlling mining stations unlock power boosts for your team’s ships, and every couple of minutes a massive mining station in gamma becomes active. The team who captures gamma gets a buff that becomes more powerful as the game goes on—quite a lot like League of Legends’ dragon.
+You’ve got three-dimensional control of your ship’s movement, although your degree of pitch and roll is limited: which is to say that you can move up and down but not flip over. It feels sufficiently like commanding a huge spaceship, but it's not a simulation of space travel. Combat is more a matter of judgement and cooldown management than twitch skill. While there’s a degree of manual aim involved, the macroscale decisions you make are far more important. At what range is your ship most effective? How do you get into an ideal firing position? What is your opponent thinking, and where do your teammates need you to be?
+
+It takes a little while to get to grips with Fractured Space’s nuances, despite the decent tutorial. This is a slow-paced game, which some may find off-putting, but the more time you put in the more the game’s qualities reveal themselves. As you start to invest thought in the nitty-gritty details of missile flight paths, probable enemy hiding spots and bomber wing attack vectors, the game’s tactical breadth—and therefore its longevity—opens up. It’s not the only game that achieves this in a multiplayer context, of course, but it’s the only game I can think of that marries it to such a potent, under-served fantasy. I’ve got lots of options for competitive 5 vs. 5 online strategy, but none that make me feel like Admiral Adama.
+It’s like getting a few seasons’ worth of TV sci-fi space battles in the space of 20 minutes, without all of the talking and bottle episodes.
+Space is packed with cover—massive asteroids, hunks of rock, towering pillars of obsidian. These are strategically vital but it’s worth noting that the ‘full’ feeling of space can chip away at the fantasy from time to time. When massive warships are lined up and going at it, Fractured Space looks and sounds spectacular—but there are moments when it doesn’t quite work, such as when a 2km juggernaut bounces off a space-rock like a wayward bumper car. This is a minor quibble, ultimately, and in some senses the compressed nature of the game works in its favour: it’s like getting a few seasons’ worth of TV sci-fi space battles in the space of 20 minutes, without all of the talking and bottle episodes.
+There are just north of 40 ships available at present, which three made available after the tutorial and the rest unlocked through play or payment. Although they fit into broad roles—defense, offense, support and so on—there’s laudable variety in the way each ship is designed. The Colossus is a heavy defence ship, and fulfills this role by placing its bulky armour between enemy fire and vulnerable friendlies before moving in to tackle the foe at close range. Another heavy defender, the Destroyer, works very differently: preferring to set up at the back and keep the enemy at bay with devastating long-range firepower.
+
+Personal favourites include the cloaking Ghost and the Equalizer, a lightning-fast utility ship that’s great at slipping past the enemy to disrupt their back line. I admire but am useless with the Paragon, a massive starborne aircraft carrier that requires deft micromanagement of multiple fighter squadrons to be effective. There’s loads to discover in this deep roster of ships, and getting attached to a few favourites helps to take the sting out of the grind.
+The free to play model also extends to crew cards, which are unlocked via booster packs and can be assembled into hands that apply percentage boosts to things like turn rate, firepower, armour repair and so on. While the stat side of things is pretty dry, Fractured Space does a great job of investing these cards with personality. Each is a person with their own background and voice work, and the crew you bring with you directly effect the barks (and taunts) you hear in-game. Effectively, crew cards fill the role that account-wide power boosts and cosmetic voice packs would fill in another game, a novel combination that I’ve not seen before. There’s loads of voice work, too: your officers regularly make specific and useful call-outs, helping new players track details they might otherwise miss.
+It’s not a perfect system, however: you have to select your crew before you queue for a match, but you don’t pick which ship you’re going to fly before the game starts. This makes it less appealing to build a specialised hand of cards unless you know exactly what role you’re going to fill, which is fine if you’re playing with a group but a problem if you’re flying solo. Other upgrades can be tweaked before a game starts: it seems like a strange omission that your crew can’t.
+
+As with any game of this type, in-game chat can be hit and miss. Plenty of games pass in silence, and once or twice I’ve encountered genuinely friendly and helpful teammates. But hostility and blame-spewing is a sad inevitability when you’re playing an online team game, and although Fractured Space isn’t at fault for this it might affect your enjoyment. Bring friends and the issue goes away, and the developers are to be credited for a decent set of in-game reporting tools.
+Fractured Space is in a good place as it leaves Early Access: the core game is strategic, rewarding, and quite unlike anything else you might play at the moment. The player base is healthy enough to ensure that you can find a game of Conquest whenever you like, although Fractured Space’s sole other mode—Frontline, a single-sector skirmish—is unlocked after a few hours, and as a result the player population is much smaller.
+More modes, ships and features would do a lot to round out Fractured Space’s offering, but this is a solid foundation to build on and a worthy entry in a crowded part of our hobby. If you’re still not sure if it’s the game for you, here’s a test: what do the words ‘Adama Maneuver’ make you think of? If the answer is ‘probably the best thing to ever happen on television’, then play Fractured Space. Also, we’re friends now.
+An original and deep game of strategic online warfare that brings your sci-fi capital ship fantasies to life. 
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

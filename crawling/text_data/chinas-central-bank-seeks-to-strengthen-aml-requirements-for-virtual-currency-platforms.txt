@@ -1,0 +1,22 @@
+
+
+
+CryptoCoinsNews
+The People’s Bank of China (PBOC) has proposed revisions to its anti-money laundering (AML) requirements for bitcoin exchanges, according to Zhou Xuedong, director of the National People’s Congress and the bank’s department of business administration, according to Finance New Media.
+Despite recent actions with virtual currency exchanges, the central bank has not laid out any clear set of regulations upon the bitcoin industry in the country.
+Xuedong has called for China to look at regulatory efforts toward bitcoin internationally to establish a regulatory mechanism for the industry.
+Under the rules established in 2013, there are no know your customer (KYC) requirements. There was a requirement concerning bit currency risk for trading platforms to identify users’ identities, including real name, registration name, identity card numbers and other information.
+The proposed change includes two aspects regarding AML. One is to establish an AML structure to improve AML, anti-terrorism financing and an internal control system. Another is to clarify the platform’s obligations, including prevention and control measures. Such measures would include customer identity information, a system for preserving transaction records and a system for recording suspicious transactions.
+Virtual platforms will need to have “on-site certification.” The trading platform will have to follow the KYC principle and establish a system for customer identification. When users of virtual currency make withdrawals and redemptions, they will be required to have a valid identity document. Customers applying for counterfeit goods, virtual goods and the equivalent of more than 50,000 yuan should provide remote video certification.
+The customer for the first time would be required to have “presence certification.”
+In addition to making detailed requests for customer identification, the proposal stipulates that the platform should develop senior management personnel responsible for AML and anti-terrorism financing, and establish specialized agencies and positions and an internal control system.
+The platform should properly store customer identity information and transactions to ensure complete and accurate reproduction of each transaction.
+The proposal also includes a list of suspicious transactions to focus on. Should a transaction involve criminal activities like money laundering, the platform should report it to the central bank business management department.
+Xuedong said the whereabouts of funds can be learned from the blockchain technology.
+Also read: Report: China should clarify ‘bottom line” of bitcoin exchange supervision
+Since the beginning of January 2017, the People’s Bank of Beijing, Shanghai and other branches of the joint local financial regulatory authorities have carried out on-site inspections of exchanges that found the AML internal control system is not perfect.
+On January 11, the Shanghai and Beijing branches of the PBOC conducted on-site checks of three bitcoin exchanges, sending prices crashing. Exchanges in the country began enforcing sweeping changes, beginning with halting leveraged or loan-based trading of the cryptocurrency between platforms a week after the PBOC became involved. On January 24, Chinese exchanges ended zero-fee trading and began charging a flat 0.2 percent fee of the value of the transaction.
+The central bank continued its investigation of Chinese bitcoin exchanges in February. A closed door meeting with a number of domestic exchanges took place on February 8.
+On February 9, a notice was issued to upgrade the AML system and that the standard development and implementation period was expected to be one month.
+On March 8, a notice mentioned the need to address AML, foreign exchange management, payment settlement and other financial regulations.
+Featured image from Shutterstock.

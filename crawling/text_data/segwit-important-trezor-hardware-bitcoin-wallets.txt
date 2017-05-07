@@ -1,0 +1,18 @@
+
+
+
+CryptoCoinsNews
+Segregated Witness (Segwit) is a scalability solution introduced to scale the bitcoin network and to eliminate transaction malleability. Bach Nguyen, community director of prominent hardware bitcoin wallet manufacturer Trezor, states that Segwit also serves an important role in maximizing security measures and efficiency of hardware bitcoin wallets.
+Since its introduction to the bitcoin community, Segwit has been praised for its ability to open doors for two layer solutions such as TumbleBit and Lightning Network (Lightning). It establishes infrastructure for innovative scalability and privacy-focused solutions to operate on.
+On top of that, Lightning co-author Thaddeus Dryja described Segwit as a “real block size increase proposal,” as it expands single bitcoin blocks by 3,7x on the testnet, in comparison to the 2.1x increase discussed previously.
+Equally important to note, Nguyen explained that Segwit provides a solution to an issue hardware bitcoin wallet manufacturers like Trezor have struggled to deal with over the past few years.
+Trezor is considered one of the safest and most secure hardware wallet to store and manage bitcoin with. While most of the common issues are dealt by Trezor, there exists one minor complication which emerges with the current structure of bitcoin transactions.
+In the past, Segwit was criticized by several miners and company executives for altering too much of layer 1 infrastructure of bitcoin. However, Trezor states that this alteration of the bitcoin network’s layer 1 infrastructure
+At the moment, hardware bitcoin wallet manufacturers and developers including Trezor, Ledger, KeepKey and many more depend on their unique workaround methods to find the value of previous output. 
+Under the current structure of bitcoin transactions, Nguyen explains that hardware wallets have to undergo a complicated and impractical process of finding previous transactions from the public bitcoin blockchain.
+“When composing a new transaction, the wallet will stream the previous transaction from the blockchain, and ask for the specific output and its value. Once it receives the value, the wallet will start hashing then entire transaction. Only if the hash exactly matches the hash published, then the wallet can be certain that the amount is correct. The wallet has to do this for each and every input to be used for a new transaction,” says Nguyen.
+This process becomes an unproductive and time-consuming process when a large number of inputs are included in a new transaction. Because hardware wallets do not hold as much computing power as normal devices or computers, it becomes increasingly challenging for hardware devices to find previous transactions through the blockchain and update the new transaction.
+Alteration in layer 1 infrastructure of bitcoin resulting from the activation of Segwit eliminates this inefficient process of verification. Instead of segregating outputs, Segwit includes the value of previous outputs in the signature of a transaction. That way, hardware wallets can fetch outputs of previous transactions in a short period of time.
+Such shortening in the verification and discovery period of outputs prevent or eliminate the possibility of several situations such as the Fee Attack vendor, in which users can lose a large amount of funds due to an attack targeting an input within a transaction.
+“It might seem to be a trivial change, but the security implications are large. The lower the amount of operations the hardware wallets need to do, the lower the probability of something going awry.” explains Nguyen.
+Featured image from Trezor.

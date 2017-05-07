@@ -1,0 +1,18 @@
+./html_data_bitcoins/bitpay-ceo-safe-bitcoin-scaling-soft-fork-first-hard-fork-next.txt
+
+
+
+CryptoCoinsNews
+Over the past few months, Bitpay co-founder and CEO Stephen Pair has been advocating for a safe and non-contentious method to scale the Bitcoin network. In an informative blog post, Pair revealed his perception of a cautious approach to bitcoin scaling.
+Basically, Pair believes that a soft fork-based scalability solution is the most beneficial for the network and community. It eliminates the possibility of a hard fork, which will inevitably lead to a chain split at this phase of bitcoin development. While some hard forks such as the Ethereum forks executed in late 2016 allowed the network to facilitate changes in a safe manner, with the current tension between Segregated Witness (Segwit) and Bitcoin Unlimited communities, a split chain is inevitable if a hard fork breaks out.
+He wrote:
+“One very important challenge we must resolve is how to successfully upgrade Bitcoin in a safe, deliberate and non-contentious manner. And we must be able to upgrade Bitcoin because no organism can live in its own waste products.”`
+For Pair, the optimal scaling method is to start with the activation of a soft fork to enforce new rules into the network. Then, the developers can initiate another soft fork to deprecate the use of the old block and lastly, execute a non-contentious hard fork to drop the old block and adopt the secondary block as the primary block structure.
+The standard threshold for a soft fork implementation is a 95% acceptance from node operators and from the network. For Segwit to pass the network adoption phase of activation, 95% of the network apart from the miners must upgrade their nodes to support Segwit.
+Although Pair didn’t specify which scaling solution he is in favor of–Copay, bitcoin wallet platform of Bitpay, does support Segwit–Pair clarified that the most secure and viable approach to scaling the bitcoin network is to adopt a soft fork first, i.e. Segwit, and move on from there.
+If Segwit is substituted into Pair’s safe and non-contentious upgrade progress, the roadmap for development will be as follows:
+On March 19, major global bitcoin exchange Bitfinex announced the launch of prediction market for “chain split tokens,” enabling traders to place bets on the probability of the Bitcoin Unlimited hard fork from being executed. The announcement from Bitfinex signalled the likelihood of Bitcoin Unlimited on being forked.
+Bitfinex stated:
+“Today, Bitfinex proudly introduces trading on Chain Split Tokens (CST). The first such product of its kind, CSTs will allow Bitfinex customers to speculate on future fork events of the Bitcoin blockchain, specifically, the potential fork between Bitcoin Core and Bitcoin Unlimited. We are designating these CSTs as BCC (Bitcoin Core) and BCU (Bitcoin Unlimited).”
+However, the vast majority of the industry’s leading exchanges including Bitstamp, Bitfinex and BTCC are planning to consider Bitcoin Unlimited as an alt-asset, not as bitcoin. Therefore, even in the event of a Bitcoin Unlimited hard fork, the Bitcoin Core development team as well as the community can still pursue the scalability roadmap presented by Pair.
+Featured image from Shutterstock.

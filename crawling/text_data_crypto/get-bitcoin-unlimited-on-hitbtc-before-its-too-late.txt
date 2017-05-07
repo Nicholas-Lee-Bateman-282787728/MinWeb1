@@ -1,0 +1,16 @@
+./html_data_bitcoins/get-bitcoin-unlimited-on-hitbtc-before-its-too-late.txt
+
+
+
+CryptoCoinsNews
+Press Release: HitBTC, known for its cutting-edge technology, is giving you an opportunity to get Bitcoin Unlimited before the hard fork occurs. 
+Bitcoin has faced massive problems in recent times due to its small block size. The transaction pool is growing fast and it is taking more and more time to send bitcoins, with many transactions getting stuck. The solution to this problem was offered by 2 parties – Bitcoin Core (SegWit) and Bitcoin Unlimited.
+According to Coin Dance, the majority of miners currently support Bitcoin Unlimited.
+This suggests that a Bitcoin hard fork may occur in the near future.
+The hardfork may also lead to the split of the network. Earlier in 2016 such issue presented itself with ETH and ETC. The split was welcomed by the market and ETC is still traded as one of the most popular cryptocurrencies with a roughly $10m market capitalization. 
+“HitBTC aims to support cryptocurrency market development. That’s why we were one of the first cryptocurrency exchanges to support altcoins. It looks like some changes are going to happen in the near future and we want our customers to be part of these changes – not by reading news, but by trading,” – says Andrew King, Product Manager at HitBTC
+Although it is not yet clear how the situation will turn out, HitBTC is already giving users an opportunity to participate in the market reshuffle and securing their funds.
+Bitcoin Unlimited has been listed on the platform and is available for trading from March 24. The exact date of the hard fork is currently unknown and BTC and BTU withdrawals are temporarily locked due to the probable replay attack which may occur after the split. Withdrawals will be unlocked soon after the hard fork is complete.
+About HitBTC
+HitBTC is known as one of the leaders in the cryptocurrency market and aims to become a global platform for companies dealing with virtual currencies, providing the most advanced exchange and clearing technology.
+The platform’s development began in 2013 as a result of collaboration between software developers, finance professionals and experienced traders. The core matching engine is among the most advanced technological products in its class and implements innovative features such as real-time clearing and advanced order matching algorithms, and has received acclaim for its fault tolerance, uptime and high availability.

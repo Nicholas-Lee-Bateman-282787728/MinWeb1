@@ -1,0 +1,33 @@
+./html_data/pcgamer-space-hulk-deathwing-review.html
+
+
+ 
+ 
+ 
+
+By
+Tom Senior
+ 
+
+An accomplished piece of fan service, but the excitement fades fast and performance problems spoil it for some.
+What is it? First-person squad shooter set on the grim dark shipwrecks of the 41st millennium.Expect to pay £30 / $40Developer Streum On StudioPublisher Focus Home InteractiveReviewed on GeForce GTX 970, Intel i5-4670K, 8GB RAMMultiplayer 1-4Link Official siteBuy it: Humble Store 
+Read our affiliates policy. 
+Warhammer 40,000's Imperium of Man does not do things by halves. When it needs a crack team of tomb raiders to investigate a derelict vessel, it sends in terminators. Dressed in huge suits of power armour—part high-tech defensive shell, part sarcophogus—these monstrous genetically-modified humans brandish guns that would crush an ordinary human. Given the tendency of space hulks to gain new passengers as they pass through the parallel hell-dimension known as the warp, these are sensible precautions. A warm engine room makes a lovely nest for the chitinous, clawed Tyranids.
+It's an interesting setting for a squad-based first-person shooter, and the game renders the twisting corridors of these haunted wrecks with rare devotion to the source material. Games Workshop's Space Hulk was originally a turn-based tabletop game that simulated the Aliens fantasy in suitably exaggerated Warhammer 40K fashion, and for long-term fans of the fiction it's exciting to see these sinister, anachronistic warrens realised in fine detail. Sometimes you're fighting through hordes of aliens in a ship's maintenance pipes, but you'll just as easily find yourself melting Tyranid warriors at the foot of a huge statue of some long-dead Space Marine lord. Parts look like Alien's Nostromo, but you'll frequently find little macabre scenes. Floating skulls parade the corridors, and in one mission you disable a ship's engine by destroying living human batteries, each wired into a pillar of machinery.
+The single player campaign is structured as a series of nine missions, each set in a large maze representing a sub-vessel aboard the game's mega-hulk (sometimes a bunch of ships get mashed together in the warp). You take the role of a chapter Librarian and fight alongside two AI squadmates that take basic move, guard and heal orders, but otherwise fight automatically. As you move between waypoints hordes of Tyranids erupt from floor-vents and unseen nests in the cabled awnings above. In addition to the melee-focused warrior variants, Tyranid/human hybrids can gun you down from range—at great speed if they have a couple of rocket launchers.
+
+Left 4 Dead is an easy comparison, especially when the Tyranids start charging in numbers that flood your vision. Powerful special Tyranid 'strains' serve as enemy champions. There are cloaking aliens, big slow aliens that are deadly in melee and psychic hybrids that can nuke an area with a lightning storm. The rhythm of the game is simple, however: plod through atmospheric corridors, waiting for the next wave, then move back-to-back and mow down charging enemies until you've reached the objective switch.
+The addition of skill trees for your librarian adds some light RPG progression, and his psychic abilities (particularly the lightning strike) are fun to use. The real variation comes from weapon pickups, though. Lighting claws or the mace-and-shield combo feel significantly different to the pray-and-spray minigun and the shotgun-esque storm bolter. Melee attacks feel flailing and imprecise, particularly compared to the mighty hammers and blades of the Warhammer fantasy first-person squad game, Vermintide. The rapid-fire guns are better, but the process of fending off Tyranids, and even the hulks themselves, becomes wearying after a few hours. The story, sustained by visions mystic visions and comms chat from your superiors, doesn't help. There are interesting hooks for 40K fans, but to newcomers it's largely gibberish concerning the lost secrets of the Dark Angels chapter.
+
+Surprisingly, the the single-player campaign is the game's main focus. Co-op is available, but feels slightly bolted-on. You can attack any story mission with friends, but in the default mode you have to level up class skills all over again every time you start a session, which is madness—select codex mode instead to get access to all weapon loadout options. Playing with intelligent battle brothers lets you better take advantage of your ability to lock doors and hack turrets. The game is better in co-op, but you can't escape the dull objectives and the oppressive, unrelenting gunmetal palette.
+Deathwing has also been running poorly for some players, who have been voicing their concerns en masse on Steam and in the game's forums. Bizarrely the game ran poorly on my work PC but perfectly on my home PC, even though both machines use the same GPU and have similarly powerful CPUs—the twisted work of some Chaos god, surely. The Steam refund function is your friend here, and I can see many players turning to it even without technical hiccups. In co-op especially, when you're huddled together in a dark corner reducing hundreds of aliens to mush, it's good simple fun in a cool setting. If you're not a fan of the fiction, Left 4 Dead 2, Vermintide and Killing Floor 2 will serve you better.
+An accomplished piece of fan service, but the excitement fades fast and performance problems spoil it for some.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

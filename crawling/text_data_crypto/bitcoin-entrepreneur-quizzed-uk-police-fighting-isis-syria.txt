@@ -1,0 +1,18 @@
+./html_data_bitcoins/bitcoin-entrepreneur-quizzed-uk-police-fighting-isis-syria.txt
+
+
+
+CryptoCoinsNews
+A 29-year-old man Bitcoin developer has said that he has been under police investigation for the last year after returning from Syria where he was fighting against the Islamic State.
+Iranian-British Amir Taaki is a self-taught software engineer who has been a prominent figure in the bitcoin space. According to a report from Wired, in 2014 Taaki created his own revision of bitcoin’s core code called Libbitcoin and developed a prototype for a decentralized Silk Road-style darknet market.
+In late 2014 he is reported to have gone to Syria after reading about the Kurdish People’s Protection Units (YPG) military group who are affiliated with the leftwing Kurdish militant group called the Kurdistan Workers Party, or the PKK.
+Speaking to the BBC, Taaki said that he spent three and a half months fighting with the YPG, experiencing several battles against IS in Rojava, which is a term the Kurds use to refer to northern or Syrian Kurdistan.
+When I discovered Rojava I felt I had to go there.
+However, in another report from Wired, it states that Taaki had initially gone there to offer his technical skills in one of Rojava’s cities and not to fight. It adds that when Taaki tried to explain this to an officer in charge, his protests were ignored, which subsequently saw him enlisted to a unit with other foreigners. With the aid of a Kalashnikov and a uniform, and with no formal military training, he was sent to the front.
+He said:
+That’s how I ended up at the front. If you’re called on to fight, you have to fight.
+He was later removed to the northeastern city of Al-Malikiyah, and then the capital of Qamishli, where his technical skills were used in helping to rebuild the nation, training people to utilize open source software and the Internet. He is also reported to have aided the development of a fertilizer production factory, produced a guide for foreigners learning Kurdish and helped the creation of a young women’s revolutionary magazine.
+Despite the work he did in Syria, upon his arrival back to London in May 2016, the bitcoin developer was detained by police. He was questioned about his time in Syria and his connection with Cody Wilson who created the first 3-D printed gun.
+However, Taaki is adamant that that he made the right decision about going to Syria.
+I’m glad about it, to be honest, it was an important experience to have.
+Featured image from Wikimedia.

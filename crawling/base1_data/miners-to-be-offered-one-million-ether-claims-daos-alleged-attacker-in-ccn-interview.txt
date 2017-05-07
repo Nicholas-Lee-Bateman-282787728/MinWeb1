@@ -1,0 +1,21 @@
+./html_data_bitcoins/miners-to-be-offered-one-million-ether-claims-daos-alleged-attacker-in-ccn-interview.txt
+
+
+
+CryptoCoinsNews
+Following the publication of an alleged statement claimed to be from the DAO attackers who have appropriated 3.5 million Ether, an “intermediary” of the attackers who claims “nothing was hacked” appeared on the DAO slack channel, giving away 6.37 bitcoin as a “little demonstration that money speaks, and people in crypto are here for a profit. They don’t care if they’re being paid by “an attacker”.”
+The alleged intermediary claims that the “attack” was a team project and that the point of the pastebin was to open a dialogue. He further stated:
+“[S]oon we will have a smart contract to reward miners who oppose the soft fork and mines the transaction. 1 million ether + 100 btc will be shared with miners.”
+In response to our suggestion that miners would incriminate themselves if they accept the offer, the “intermediary” stated:
+“That’s the beauty of smart contracts and soft / hard forks… Forking requires action, not forking is just inaction; they can be plausibly deniable.
+Not to mention they don’t have to accept it. Someone will get paid to call the smart contract per block, and that call will pay the miner.”
+He was unable to provide any evidence of being the “attacker” besides the bitcoin giveaway, stating that words or proof does not matter, smart contracts matter. He was unable to provide a timeline of when the smart contract will be implemented, stating in a jab to the DAO creators that “it takes time to verify and make sure it is bug free.”
+Responding to our question that some are suggesting for the attacker to keep some of the funds and return the rest, thus resolving the situation without a fork, the alleged intermediary stated that “everything is on the table from our perspective, as long as there is no fork”. The attacker further stated:
+Just speculating (because only 1 million to miners is committed), but it makes sense to have a carrot and a stick. Carrot: return some of the eth to the DAO to make righteous people happy. Stick: return some of the eth to miners if they don’t fork to give monetary incentive to not fork. So… the impact and amounts will be a lot smaller than current estimations.
+The alleged attacker confirmed that they used the recursive call attack, stating that they could drain the rest of the ether, but stopped at 3.5 million after Vitalik Buterin proposed a fork.
+This latest intervention on the fork debate by the attacker may sway opinion either for or against as the latest poll shows a tight result with 51% of almost 500 users stating they are in favor of an Ethereum hardfork and 49% against, although it is not clear how many of them are ether users as opposed to bitcoiners.
+The attacker specifically does not seem to have a favorable view of Ethereum, but stated that he was primarily motivated by financial gain and would have carried out the “attack” even if he loved Ethereum, closing with “I like bitcoin, and I like breaking smart contracts.”
+We do emphasize that no hard evidence has been provided to show that the claimed attacker is legitimate save for the alleged giveaway of more than six bitcoins. We will have to wait, therefore, for the smart contract to be absolutely sure, but, the alleged attacker may succeed in opening negotiations with the Ethereum community on how the situation can be resolved, with the hardfork as a stick, and the “attackers” keeping some small amount of ether, perhaps 100k or so, as a carrot.
+How such negotiations would be conducted or whether they are desirable is not clear with the collective decision under intense time pressure of mere hours or days.
+A full transcript of the interview will be posted shortly.
+Featured image from Shutterstock.

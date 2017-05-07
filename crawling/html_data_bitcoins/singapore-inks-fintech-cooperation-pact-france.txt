@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta name="google-site-verification" content="fGveArZ0RozQK5IQ8Pqu0713cutQXiHgPDJry9kbc1E"/>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.cryptocoinsnews.com/xmlrpc.php">
+<script type="text/javascript" src="//use.typekit.net/kpb0che.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<title>Singapore Inks FinTech Cooperation Pact with France - CryptoCoinsNews</title>
+ 
+<meta name="description" content="The Monetary Authority of Singapore (MAS), Singapore’s central bank and financial authority has signed FinTech cooperation agreements with a pair of French regulators to boost FinTech ties between the two countries."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://www.cryptocoinsnews.com/singapore-inks-fintech-cooperation-pact-france/"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Singapore Inks FinTech Cooperation Pact with France - CryptoCoinsNews"/>
+<meta property="og:description" content="The Monetary Authority of Singapore (MAS), Singapore’s central bank and financial authority has signed FinTech cooperation agreements with a pair of French regulators to boost FinTech ties between the two countries."/>
+<meta property="og:url" content="https://www.cryptocoinsnews.com/singapore-inks-fintech-cooperation-pact-france/"/>
+<meta property="og:site_name" content="CryptoCoinsNews"/>
+<meta property="article:publisher" content="https://www.facebook.com/ccn.la"/>
+<meta property="article:tag" content="france"/>
+<meta property="article:tag" content="MAS"/>
+<meta property="article:tag" content="Monetary Authority of Singapore"/>
+<meta property="article:tag" content="singapore"/>
+<meta property="article:section" content="FinTech News"/>
+<meta property="article:published_time" content="2017-03-28T11:10:17+00:00"/>
+<meta property="og:image" content="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2017/03/Stock-tablet.jpg"/>
+<meta property="og:image:width" content="1000"/>
+<meta property="og:image:height" content="667"/>
+ 
+<link rel='dns-prefetch' href='//fonts.googleapis.com'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel="alternate" type="application/rss+xml" title="CryptoCoinsNews &raquo; Feed" href="https://www.cryptocoinsnews.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="CryptoCoinsNews &raquo; Comments Feed" href="https://www.cryptocoinsnews.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="CryptoCoinsNews &raquo; Singapore Inks FinTech Cooperation Pact with France Comments Feed" href="https://www.cryptocoinsnews.com/singapore-inks-fintech-cooperation-pact-france/feed/"/>
+<meta name="onesignal" content="wordpress-plugin"/>
+<link rel="manifest" href="https://www.cryptocoinsnews.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id=847574507270"/>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script> <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.cryptocoinsnews.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'ae0136af-8005-45b0-b77a-8ee1d4cd45a0';
+oneSignal_options['autoRegister'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://www.cryptocoinsnews.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.3cd6b41f-0715-4da8-9007-02ca4af2dc44";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['prenotify'] = true;
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.cryptocoinsnews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://cdn4.cryptocoinsnews.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all'/>
+<link rel='stylesheet' id='mashsb-styles-css' href='https://cdn4.cryptocoinsnews.com/wp-content/plugins/mashsharer/assets/css/mashsb.min.css?ver=3.3.4' type='text/css' media='all'/>
+<style id='mashsb-styles-inline-css' type='text/css'>.mashsb-count{color:#cccccc;}[class^="mashicon-"] .text,[class*=" mashicon-"] .text{text-indent:-9999px!important;line-height:0px;display:block;}[class^="mashicon-"] .text:after,[class*=" mashicon-"] .text:after{content:""!important;text-indent:0;font-size:13px;display:block!important;}[class^="mashicon-"],[class*=" mashicon-"]{width:25%;text-align:center!important;}[class^="mashicon-"] .icon:before,[class*=" mashicon-"] .icon:before{float:none;margin-right:0;}.mashsb-buttons a{margin-right:3px;margin-bottom:3px;min-width:0;width:41px;}.onoffswitch,.onoffswitch-inner:before,.onoffswitch-inner:after .onoffswitch2,.onoffswitch2-inner:before,.onoffswitch2-inner:after{margin-right:0px;width:41px;line-height:41px;}</style>
+<link rel='stylesheet' id='wpt-twitter-feed-css' href='https://cdn4.cryptocoinsnews.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.7.3' type='text/css' media='all'/>
+<link rel='stylesheet' id='mashnet-styles-css' href='https://cdn4.cryptocoinsnews.com/wp-content/plugins/mashshare-networks/assets/css/mashnet.min.css?ver=2.2.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='mashresp-styles-css' href='https://cdn4.cryptocoinsnews.com/wp-content/plugins/mashshare-responsive/assets/css/mashresp.min.css?ver=2.0.4' type='text/css' media='all'/>
+<style id='mashresp-styles-inline-css' type='text/css'>@media only screen and (max-width: 460px) {.mashsb-box .mashsb-count{display:none;}}</style>
+<link rel='stylesheet' id='paperback-style-css' href='https://cdn4.cryptocoinsnews.com/wp-content/themes/paperback/style.css?ver=4.7.3' type='text/css' media='all'/>
+<style id='paperback-style-inline-css' type='text/css'>.top-navigation,.secondary-navigation ul.sub-menu{background-color:#343e47;}.top-navigation,.top-navigation nav a,.top-navigation li ul li a,.drawer-toggle{color:#ffffff;}.main-navigation:not(.secondary-navigation) ul.menu>li.current-menu-item>a{border-color:#f35245;}.site-identity{background-color:#ecf1f7;}.main-navigation a,.site-title a,.site-description{color:#383f49;}.hero-cats a,.post-navigation .nav-label,.entry-cats a{background-color:#f35245;}.page-numbers.current,.page-numbers:hover,#page #infinite-handle button:hover{background-color:#f35245;}.site-footer{background-color:#343e47;}.site-footer .widget-title,.site-footer a:hover{color:#ffffff;}.site-footer,.site-footer a{color:rgba(255,255,255,0.8);}.footer-widgets ul li,.footer-widgets+.footer-bottom{border-color:rgba(255,255,255,0.3);}</style>
+<link rel='stylesheet' id='paperback-fonts-css' href='//fonts.googleapis.com/css?family=Lato%3A400%2C700%2C400italic%2C700italic%7COpen%2BSans%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all'/>
+<link rel='stylesheet' id='font-awesome-css' href='https://cdn4.cryptocoinsnews.com/wp-content/themes/paperback/inc/fontawesome/css/font-awesome.css?ver=4.4.0' type='text/css' media='screen'/>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/plugins/optin-monster/assets/js/api.js?ver=2.1.7'></script>
+<link rel='https://api.w.org/' href='https://www.cryptocoinsnews.com/wp-json/'/>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.cryptocoinsnews.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn4.cryptocoinsnews.com/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" content="WordPress 4.7.3"/>
+<link rel='shortlink' href='https://www.cryptocoinsnews.com/?p=103108'/>
+<link rel="alternate" type="application/json+oembed" href="https://www.cryptocoinsnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fsingapore-inks-fintech-cooperation-pact-france%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://www.cryptocoinsnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fsingapore-inks-fintech-cooperation-pact-france%2F&#038;format=xml"/>
+ 
+<style type="text/css">.floatright{float:right;padding-left:300px;display:block;}body,button{font-size:20px!important;}.share-comment{display:none! important;}.site-info{display:none! important;}@media (min-width:729px) {.showmobile{display:none;}}#CCNchart{overflow:hidden;width:310px;height:1210px;border:0px solid #666666;margin-left:0;margin-right:auto;margin-top:0px;background-image:url("https://chart.cryptocoinsnews.com/style/img/spinner.gif");background-repeat:no-repeat;background-position:center;overflow:hidden;background-color:transparent;}@media (min-width:480px) {#CCNchart{width:480px;height:1210px;}}@media (min-width:768px) {#CCNchart{width:768px;height:625px;}}@media (min-width:1020px) {#CCNchart{width:1020px;height:625px;}}@media (min-width:1200px) {#CCNchart{width:1200px;height:625px;}}#trades{float:left;margin-right:10px;}#trades .row{color:#888888;font-size:1.0em;}#trades #rowheader{font-size:1.2em;color:#eb9812;}#trades #row5{color:#888888;line-height:120%;font-size:0.7em;}#trades #row0{width:174px;color:#ffffff;line-height:120%;font-size:0.7em;}#trades #row1{width:174px;color:#ffffff;line-height:120%;font-size:0.7em;}#trades #row2{width:174px;color:#888888;line-height:120%;font-size:0.7em;}#trades #row3{width:174px;color:#bbbbbb;line-height:120%;font-size:0.7em;}#trades .amount{margin-left:10px;}#trades img{margin-left:10px;}#ccnlive .row2{color:#888888;font-size:0.9em;float:left;}#ccnlive #rowheader2{font-size:1.4em;float:left;}#ccnprice .row1{color:#ffffff;font-size:0.6em;float:left;}#ccnprice #rowheader{font-size:1.4em;float:left;}#ccnprice #row01{color:#bcbcbc;font-size:0.6em;line-height:120%;margin-left:7px;}#ccnprice #row02{color:#888888;line-height:120%;font-size:0.6em;float:left;}#ccnprice #row03{color:#888888;line-height:120%;font-size:0.6em;float:left;}#ccnprice #row04{color:#888888;line-height:120%;font-size:0.6em;float:left;}#ccnprice{float:right;margin-left:0px;margin-right:0px;margin-top:0px;}#ccnlive{float:left;margin-top:27px;height:90px;}@media(max-width:760px){
+    .mobile {
+        display:none;
+    }
+    
+    .mobile-only {
+        display:block !important;
+            }
+    }
+    
+    @media(min-width:760px){
+    .mobile {
+        display:block !important;
+    }
+    
+    .mobile-only {
+        display:none;
+            }
+    }
+    
+    
+    @media(max-width:800px){
+    .mobile1 {
+        display:none;
+    }
+    
+    
+    
+    .mobile-only {
+        display:block !important;
+            }
+    }
+
+ @media(max-width:1240px){
+    .mobile12 {
+        display:none;
+    }}
+</style>
+<!-- end Simple Custom CSS and JS -->
+	<style type="text/css">
+					.site-identity {
+				padding: 2% 0;
+			}
+		
+					.single .hero-posts .with-featured-image {
+				padding-top: 14%;
+			}
+		
+		
+					.titles-wrap {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+			</style>
+<link rel="icon" href="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2016/10/cropped-ccn-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2016/10/cropped-ccn-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2016/10/cropped-ccn-180x180.png" />
+<meta name="msapplication-TileImage" content="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2016/10/cropped-ccn-270x270.png" />
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6472069693657143",
+    enable_page_level_ads: true
+  });
+</script>
+</head>
+
+<body class="post-template-default single single-post postid-103108 single-format-standard has-sidebar two-column group-blog">
+
+<header id="masthead" class="site-header" role="banner">
+
+		<div class="top-navigation">
+			<div class="container">
+
+				<nav id="secondary-navigation" class="main-navigation secondary-navigation" role="navigation">
+					<div class="menu-minor-container"><ul id="menu-minor" class="menu"><li id="menu-item-70036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70036"><a href="https://www.cryptocoinsnews.com/submit-a-bitcoin-press-release/">Submit a Press Release</a></li>
+<li id="menu-item-25261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25261"><a href="https://www.cryptocoinsnews.com/advertise-with-bitcoins/">Advertise</a></li>
+<li id="menu-item-21188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21188"><a href="https://www.cryptocoinsnews.com/write-ccn/">Write for CCN</a></li>
+<li id="menu-item-45084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45084"><a href="https://www.cryptocoinsnews.com/tips-ccn/">News Tips</a></li>
+<li id="menu-item-25105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25105"><a href="https://www.cryptocoinsnews.com/contact">Contact</a></li>
+</ul></div>				</nav><!-- .secondary-navigation -->
+
+				<div class="top-navigation-right">
+					
+					<div class="overlay-toggle drawer-toggle drawer-open-toggle">
+						<span class="toggle-visible">
+							<i class="fa fa-search"></i>
+							Explore						</span>
+						<span>
+							<i class="fa fa-times"></i>
+							Close						</span>
+					</div><!-- .overlay-toggle-->
+
+					<div class="overlay-toggle drawer-toggle drawer-menu-toggle">
+						<span class="toggle-visible">
+							<i class="fa fa-bars"></i>
+							Menu						</span>
+						<span>
+							<i class="fa fa-times"></i>
+							Close						</span>
+					</div><!-- .overlay-toggle-->
+				</div><!-- .top-navigation-right -->
+			</div><!-- .container -->
+		</div><!-- .top-navigation -->
+
+		<div class="drawer-wrap">
+			<div class="drawer drawer-explore">
+	<div class="container">
+		<div class="drawer-search">
+			
+<div class="big-search">
+	<form method="get" id="searchform" action="https://www.cryptocoinsnews.com/" role="search">
+		<label class="screen-reader-text" for="s">Search for:</label>
+
+		<input type="text" name="s" id="big-search" placeholder="Search here..." value="" onfocus="if(this.value==this.getAttribute('placeholder'))this.value='';" onblur="if(this.value=='')this.value=this.getAttribute('placeholder');"/><br />
+
+		<div class="search-controls">
+		
+			<div class="search-select-wrap">
+				<select class="search-select" name="category_name">
+
+					<option value="">Entire Site</option>
+
+					<option value="accepts-bitcoin">Accepts Bitcoin</option><option value="cryptocurrency-analysis">Altcoin Analysis</option><option value="cryptocurrency-mining">Altcoin Mining</option><option value="altcoin-news">Altcoin News</option><option value="altcoin-politics">Altcoin Politics</option><option value="altcoin-prices">Altcoin Prices</option><option value="banking">Banking</option><option value="bitcoin-investment">Bitcoin &amp; Blockchain Investments</option><option value="bitcoin-analysis">Bitcoin Analysis</option><option value="bitcoin-announcements">Bitcoin Announcements</option><option value="bitcoin-business">Bitcoin Business</option><option value="bitcoin-companies">Bitcoin Companies</option><option value="bitcoin-crime">Bitcoin Crime</option><option value="bitcoin-documentaries">Bitcoin Documentaries</option><option value="bitcoin-economics">Bitcoin Economics</option><option value="bitcoin-education">Bitcoin Education</option><option value="bitcoin-elections">Bitcoin Elections</option><option value="bitcoin-events">Bitcoin Events</option><option value="bitcoin-exchange-news">Bitcoin Exchange</option><option value="bitcoin-films">Bitcoin Films</option><option value="bitcoin-food">Bitcoin Food</option><option value="bitcoin-funding">Bitcoin Funding</option><option value="bitcoin-gambling">Bitcoin Gambling</option><option value="bitcoin-in-media">Bitcoin in Media</option><option value="bitcoin-interviews">Bitcoin Interviews</option><option value="bitcoin-jobs">Bitcoin Jobs</option><option value="bitcoin-law">Bitcoin Law</option><option value="bitcoin-merchants">Bitcoin Merchants</option><option value="bitcoin-mining">Bitcoin Mining</option><option value="bitcoin-news-review">Bitcoin News in Review</option><option value="bitcoin-op-ed">Bitcoin Op-ed</option><option value="bitcoin-opinion">Bitcoin Opinion</option><option value="bitcoin-podcasts">Bitcoin Podcasts</option><option value="bitcoin-politics">Bitcoin Politics</option><option value="bitcoin-polls">Bitcoin Polls</option><option value="bitcoin-price-news">Bitcoin Price News</option><option value="bitcoin-progress">Bitcoin Progress</option><option value="bitcoin-regulation">Bitcoin Regulation</option><option value="bitcoin-research">Bitcoin Research</option><option value="bitcoin-reviews">Bitcoin Reviews</option><option value="bitcoin-scams">Bitcoin Scams</option><option value="bitcoin-security">Bitcoin Security</option><option value="bitcoin-services">Bitcoin Services</option><option value="bitcoin-sports">Bitcoin Sports</option><option value="bitcoin-technology">Bitcoin Technology</option><option value="bitcoin-trading">Bitcoin Trading</option><option value="bitcoin-tutorials">Bitcoin Tutorials</option><option value="bitcoin-value">Bitcoin Value</option><option value="bitcoin-videos">Bitcoin Videos</option><option value="bitcoin-wallets">Bitcoin Wallets</option><option value="blackcoin-news">Blackcoin News</option><option value="blockchain-news">Blockchain News</option><option value="ccn-announcements">CCN Announcements</option><option value="ccn-reveals">CCN Reveals</option><option value="darkcoin-news">Darkcoin News</option><option value="dogecoin-news">Dogecoin News</option><option value="ethereum-news">Ethereum News</option><option value="exclusive">Exclusive</option><option value="feature">Feature</option><option value="featured-press-release">Featured Press Release</option><option value="fintech">FinTech News</option><option value="funny-bitcoin">Funny Bitcoin</option><option value="global-economic-outlook">Global Economic Outlook</option><option value="guest-contributor">Guest Contributor</option><option value="hacked-2">Hacked</option><option value="interview">Interview</option><option value="learn-about-bitcoin">Learn about Bitcoin</option><option value="litecoin-news">Litecoin News</option><option value="mining-rig-review">Mining Rig Review</option><option value="news">News</option><option value="op-ed">Op-ed</option><option value="peercoin-news">Peercoin News</option><option value="press-releases">Press Releases</option><option value="random-coin-of-the-day">Random Coin of the Day</option><option value="smart-contracts">Smart Contracts</option><option value="sponsored-stories">Sponsored Stories</option><option value="uncategorized">Uncategorized</option><option value="voice-of-a-leader">Voice of a Leader</option><option value="websites-of-the-week">Websites of the Week</option><option value="weekly-altcoin-update">Weekly Altcoin Update</option><option value="world-economics">World Economics</option><option value="world-finance">World Finance</option><option value="world-politics">World Politics</option><option value="world-privacy">World Privacy</option><option value="world-security">World Security</option><option value="world-technology">World Technology</option><option value="xbt">xbt</option>				</select>
+			</div>
+
+		
+			<input type="submit" class="submit button" name="submit" id="big-search-submit" value="Search" />
+		</div><!-- .search-controls -->
+	</form><!-- #big-searchform -->
+
+</div><!-- .big-search -->		</div>
+
+					<div class="widget tax-widget">
+				<h2 class="widget-title">Categories</h2>
+
+				<a href="https://www.cryptocoinsnews.com/news/" title="View all posts in News" >News</a><a href="https://www.cryptocoinsnews.com/bitcoin-analysis/" title="View all posts in Bitcoin Analysis" >Bitcoin Analysis</a><a href="https://www.cryptocoinsnews.com/blockchain-news/" title="View all posts in Blockchain News" >Blockchain News</a><a href="https://www.cryptocoinsnews.com/bitcoin-price-news/" title="View all posts in Bitcoin Price News" >Bitcoin Price News</a><a href="https://www.cryptocoinsnews.com/bitcoin-announcements/" title="View all posts in Bitcoin Announcements" >Bitcoin Announcements</a><a href="https://www.cryptocoinsnews.com/bitcoin-technology/" title="View all posts in Bitcoin Technology" >Bitcoin Technology</a><a href="https://www.cryptocoinsnews.com/altcoin-news/" title="View all posts in Altcoin News" >Altcoin News</a><a href="https://www.cryptocoinsnews.com/accepts-bitcoin/" title="View all posts in Accepts Bitcoin" >Accepts Bitcoin</a><a href="https://www.cryptocoinsnews.com/bitcoin-exchange-news/" title="View all posts in Bitcoin Exchange" >Bitcoin Exchange</a><a href="https://www.cryptocoinsnews.com/bitcoin-business/" title="View all posts in Bitcoin Business" >Bitcoin Business</a><a href="https://www.cryptocoinsnews.com/bitcoin-regulation/" title="View all posts in Bitcoin Regulation" >Bitcoin Regulation</a><a href="https://www.cryptocoinsnews.com/press-releases/" title="View all posts in Press Releases" >Press Releases</a><a href="https://www.cryptocoinsnews.com/bitcoin-investment/" title="View all posts in Bitcoin &amp; Blockchain Investments" >Bitcoin &amp; Blockchain Investments</a><a href="https://www.cryptocoinsnews.com/bitcoin-progress/" title="View all posts in Bitcoin Progress" >Bitcoin Progress</a><a href="https://www.cryptocoinsnews.com/fintech/" title="View all posts in FinTech News" >FinTech News</a><a href="https://www.cryptocoinsnews.com/bitcoin-services/" title="View all posts in Bitcoin Services" >Bitcoin Services</a><a href="https://www.cryptocoinsnews.com/exclusive/" title="View all posts in Exclusive" >Exclusive</a><a href="https://www.cryptocoinsnews.com/bitcoin-merchants/" title="View all posts in Bitcoin Merchants" >Bitcoin Merchants</a><a href="https://www.cryptocoinsnews.com/hacked-2/" title="View all posts in Hacked" >Hacked</a><a href="https://www.cryptocoinsnews.com/bitcoin-opinion/" title="View all posts in Bitcoin Opinion" >Bitcoin Opinion</a>			</div>
+		
+					<div class="widget tax-widget">
+				<h2 class="widget-title">Tags</h2>
+
+				<a href="https://www.cryptocoinsnews.com/tag/bitcoin/" title="View all posts in bitcoin" >bitcoin</a><a href="https://www.cryptocoinsnews.com/tag/blockchain/" title="View all posts in blockchain" >blockchain</a><a href="https://www.cryptocoinsnews.com/tag/ethereum/" title="View all posts in Ethereum News" >Ethereum News</a><a href="https://www.cryptocoinsnews.com/tag/china/" title="View all posts in china" >china</a><a href="https://www.cryptocoinsnews.com/tag/bitcoin-price/" title="View all posts in Bitcoin price" >Bitcoin price</a><a href="https://www.cryptocoinsnews.com/tag/fintech/" title="View all posts in fintech" >fintech</a><a href="https://www.cryptocoinsnews.com/tag/coinbase/" title="View all posts in coinbase" >coinbase</a><a href="https://www.cryptocoinsnews.com/tag/mt-gox/" title="View all posts in mt gox" >mt gox</a><a href="https://www.cryptocoinsnews.com/tag/silk-road/" title="View all posts in silk road" >silk road</a><a href="https://www.cryptocoinsnews.com/tag/india/" title="View all posts in india" >india</a><a href="https://www.cryptocoinsnews.com/tag/bitpay/" title="View all posts in bitpay" >bitpay</a><a href="https://www.cryptocoinsnews.com/tag/cryptocurrency/" title="View all posts in cryptocurrency" >cryptocurrency</a><a href="https://www.cryptocoinsnews.com/tag/dogecoin/" title="View all posts in dogecoin" >dogecoin</a><a href="https://www.cryptocoinsnews.com/tag/australia/" title="View all posts in Australia" >Australia</a><a href="https://www.cryptocoinsnews.com/tag/bitcoin-atm/" title="View all posts in bitcoin atm" >bitcoin atm</a><a href="https://www.cryptocoinsnews.com/tag/litecoin/" title="View all posts in litecoin" >litecoin</a><a href="https://www.cryptocoinsnews.com/tag/russia/" title="View all posts in russia" >russia</a><a href="https://www.cryptocoinsnews.com/tag/japan/" title="View all posts in japan" >japan</a><a href="https://www.cryptocoinsnews.com/tag/bitcoin-regulation-tag/" title="View all posts in bitcoin regulation" >bitcoin regulation</a><a href="https://www.cryptocoinsnews.com/tag/bitcoin-exchange/" title="View all posts in bitcoin exchange" >bitcoin exchange</a>				</ul>
+			</div>
+		
+		<div class="widget tax-widget">
+			<h2 class="widget-title">Archives</h2>
+
+				<a href='https://www.cryptocoinsnews.com/2017/03/'>March 2017</a>
+	<a href='https://www.cryptocoinsnews.com/2017/02/'>February 2017</a>
+	<a href='https://www.cryptocoinsnews.com/2017/01/'>January 2017</a>
+	<a href='https://www.cryptocoinsnews.com/2016/12/'>December 2016</a>
+	<a href='https://www.cryptocoinsnews.com/2016/11/'>November 2016</a>
+	<a href='https://www.cryptocoinsnews.com/2016/10/'>October 2016</a>
+	<a href='https://www.cryptocoinsnews.com/2016/09/'>September 2016</a>
+	<a href='https://www.cryptocoinsnews.com/2016/08/'>August 2016</a>
+	<a href='https://www.cryptocoinsnews.com/2016/07/'>July 2016</a>
+	<a href='https://www.cryptocoinsnews.com/2016/06/'>June 2016</a>
+	<a href='https://www.cryptocoinsnews.com/2016/05/'>May 2016</a>
+	<a href='https://www.cryptocoinsnews.com/2016/04/'>April 2016</a>
+		</div>
+	</div><!-- .container -->
+</div><!-- .drawer -->
+<div class="drawer drawer-menu-explore">
+	<div class="container">
+					<nav id="drawer-navigation" class="main-navigation drawer-navigation" role="navigation">
+				<div class="menu-main4-container"><ul id="menu-main4" class="menu"><li id="menu-item-41767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41767"><a href="https://www.cryptocoinsnews.com/bitcoin-price">Bitcoin</a>
+<ul class="sub-menu">
+	<li id="menu-item-93788" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-93788"><a href="https://www.cryptocoinsnews.com/news/">News</a></li>
+	<li id="menu-item-93787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93787"><a href="https://www.cryptocoinsnews.com/bitcoin-price/">Price</a></li>
+	<li id="menu-item-43072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43072"><a href="https://www.cryptocoinsnews.com/bitcoin-chat/">Chat</a></li>
+	<li id="menu-item-41790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41790"><a href="https://www.cryptocoinsnews.com/bitcoin-analysis/">Analysis</a></li>
+	<li id="menu-item-70461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70461"><a href="https://www.cryptocoinsnews.com/bitcoin-calculator/">Calculator</a></li>
+</ul>
+</li>
+<li id="menu-item-92986" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92986"><a href="https://www.cryptocoinsnews.com/blockchain-news/">Blockchain</a></li>
+<li id="menu-item-75430" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-75430"><a href="https://www.cryptocoinsnews.com/fintech/">FinTech</a></li>
+<li id="menu-item-92945" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92945"><a href="https://www.cryptocoinsnews.com/ethereum-news/">ETH</a></li>
+<li id="menu-item-53786" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-53786"><a href="https://www.cryptocoinsnews.com/learn-about-bitcoin/">Learn</a>
+<ul class="sub-menu">
+	<li id="menu-item-42564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42564"><a href="https://www.cryptocoinsnews.com/bitcoin/">Bitcoin?</a>
+	<ul class="sub-menu">
+		<li id="menu-item-43306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43306"><a href="https://www.cryptocoinsnews.com/start-using-bitcoin/">How to Start?</a></li>
+		<li id="menu-item-44575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44575"><a href="https://www.cryptocoinsnews.com/tutorial-satoshi-nakamoto/">Creator?</a></li>
+		<li id="menu-item-43717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43717"><a href="https://www.cryptocoinsnews.com/buy-bitcoin/">Buy?</a></li>
+		<li id="menu-item-43824" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43824"><a href="https://www.cryptocoinsnews.com/trade-bitcoin/">Trade?</a></li>
+		<li id="menu-item-43311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43311"><a href="https://www.cryptocoinsnews.com/bitcoin-exchanges/">Exchanges?</a></li>
+		<li id="menu-item-47492" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47492"><a href="https://www.cryptocoinsnews.com/bitcoin-transaction-really-works">Transaction?</a></li>
+		<li id="menu-item-45268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45268"><a href="https://www.cryptocoinsnews.com/affects-bitcoin-price/">Price?</a></li>
+		<li id="menu-item-44614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44614"><a href="https://www.cryptocoinsnews.com/determines-value-bitcoin/">Value?</a></li>
+		<li id="menu-item-50173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50173"><a href="https://www.cryptocoinsnews.com/ways-to-earn-bitcoins/">Earn?</a></li>
+		<li id="menu-item-43005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43005"><a href="https://www.cryptocoinsnews.com/bitcoin-whale/">Whale?</a></li>
+	</ul>
+</li>
+	<li id="menu-item-42901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42901"><a href="https://www.cryptocoinsnews.com/altcoin/">Altcoin?</a></li>
+	<li id="menu-item-43560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43560"><a href="https://www.cryptocoinsnews.com/cryptocurrency/">Cryptocurrency?</a></li>
+	<li id="menu-item-101508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101508"><a href="https://www.cryptocoinsnews.com/what-is-ethereum/">Ethereum?</a></li>
+</ul>
+</li>
+<li id="menu-item-71145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-71145"><a href="https://www.cryptocoinsnews.com/5-ways-get-free-bitcoins/">Free</a>
+<ul class="sub-menu">
+	<li id="menu-item-71301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71301"><a href="https://www.cryptocoinsnews.com/5-ways-get-free-bitcoins/">5 Ways to get Free Bitcoins</a></li>
+	<li id="menu-item-72385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72385"><a href="https://www.cryptocoinsnews.com/get-paid-bitcoins-play-mobile-games/">Get Paid Bitcoins to Play Mobile Games</a></li>
+	<li id="menu-item-94543" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-94543"><a href="https://www.cryptocoinsnews.com/earn-money-bitcoin-%e2%80%8b/">How to Earn Money with Bitcoin ​</a></li>
+</ul>
+</li>
+<li id="menu-item-80404" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80404"><a href="https://www.cryptocoinsnews.com/press-releases/">PR</a></li>
+<li id="menu-item-45885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45885"><a href="https://www.cryptocoinsnews.com/bitcoin-price-news-widget">Widget</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+		
+					<nav id="secondary-navigation" class="main-navigation secondary-navigation" role="navigation">
+				<div class="menu-minor-container"><ul id="menu-minor-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70036"><a href="https://www.cryptocoinsnews.com/submit-a-bitcoin-press-release/">Submit a Press Release</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25261"><a href="https://www.cryptocoinsnews.com/advertise-with-bitcoins/">Advertise</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21188"><a href="https://www.cryptocoinsnews.com/write-ccn/">Write for CCN</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45084"><a href="https://www.cryptocoinsnews.com/tips-ccn/">News Tips</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25105"><a href="https://www.cryptocoinsnews.com/contact">Contact</a></li>
+</ul></div>			</nav><!-- .secondary-navigation -->
+		
+			</div><!-- .container -->
+</div><!-- .drawer -->		</div><!-- .drawer-wrap -->
+
+		<div class="site-identity clear">
+			<div class="container">
+<div class="showmobile"><center>Advertisement:<br>
+<!-- script: CryptoCoinsNews.com_ROS_Mobile - 300x90 -->
+<script type="text/javascript" src="https://ads.creative-serving.com/adj/reveng.PFWettingCCN/3027397;sz=300x90;ord=[timestamp]"></script>
+<noscript>
+<a href="https://ads.creative-serving.com/jump/reveng.PFWettingCCN/3027397;sz=300x90;ord=[timestamp]" target="_blank">
+<img src="https://ads.creative-serving.com/ad/reveng.PFWettingCCN/3027397;sz=300x90;ord=[timestamp]" border="0"/>
+</a>
+</noscript>
+<!-- end of script --></center></div>
+				<!-- Site title and logo -->
+					<div class="site-title-wrap">
+		<!-- Use the Site Logo feature, if supported -->
+							<p class="site-logo">
+						<a href="https://www.cryptocoinsnews.com/"><img src="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2016/10/cryptocoinsnews-vector-kopi-1-1.png" alt="CryptoCoinsNews" /></a>
+					</p>
+	 			
+		<div class="titles-wrap">
+							<p class="site-title"><a href="https://www.cryptocoinsnews.com/" rel="home">CryptoCoinsNews</a></p>
+ 			
+					</div>
+	</div><!-- .site-title-wrap -->
+
+
+
+
+				<!-- Main navigation -->
+				<nav id="site-navigation" class="main-navigation disabled" role="navigation">
+<div class="mobile"><div class="floatright"><!-- script: CryptoCoinsNews.com_HomePage_728x90 - Leaderboard (728x90) -->
+<script type="text/javascript" src="https://ads.creative-serving.com/adj/reveng.PFWettingCCN/3012563;sz=728x90;ord=[timestamp]"></script>
+<noscript>
+  <a href="https://ads.creative-serving.com/jump/reveng.PFWettingCCN/3012563;sz=728x90;ord=[timestamp]" target="_blank">
+    <img src="https://ads.creative-serving.com/ad/reveng.PFWettingCCN/3012563;sz=728x90;ord=[timestamp]" border="0"/>
+  </a>
+</noscript>
+<!-- end of script --></div></div>
+
+
+					<div class="menu-main4-container"><ul id="menu-main4-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41767"><a href="https://www.cryptocoinsnews.com/bitcoin-price">Bitcoin</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-93788"><a href="https://www.cryptocoinsnews.com/news/">News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93787"><a href="https://www.cryptocoinsnews.com/bitcoin-price/">Price</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43072"><a href="https://www.cryptocoinsnews.com/bitcoin-chat/">Chat</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41790"><a href="https://www.cryptocoinsnews.com/bitcoin-analysis/">Analysis</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70461"><a href="https://www.cryptocoinsnews.com/bitcoin-calculator/">Calculator</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92986"><a href="https://www.cryptocoinsnews.com/blockchain-news/">Blockchain</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-75430"><a href="https://www.cryptocoinsnews.com/fintech/">FinTech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92945"><a href="https://www.cryptocoinsnews.com/ethereum-news/">ETH</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-53786"><a href="https://www.cryptocoinsnews.com/learn-about-bitcoin/">Learn</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42564"><a href="https://www.cryptocoinsnews.com/bitcoin/">Bitcoin?</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43306"><a href="https://www.cryptocoinsnews.com/start-using-bitcoin/">How to Start?</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44575"><a href="https://www.cryptocoinsnews.com/tutorial-satoshi-nakamoto/">Creator?</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43717"><a href="https://www.cryptocoinsnews.com/buy-bitcoin/">Buy?</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43824"><a href="https://www.cryptocoinsnews.com/trade-bitcoin/">Trade?</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43311"><a href="https://www.cryptocoinsnews.com/bitcoin-exchanges/">Exchanges?</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47492"><a href="https://www.cryptocoinsnews.com/bitcoin-transaction-really-works">Transaction?</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45268"><a href="https://www.cryptocoinsnews.com/affects-bitcoin-price/">Price?</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44614"><a href="https://www.cryptocoinsnews.com/determines-value-bitcoin/">Value?</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50173"><a href="https://www.cryptocoinsnews.com/ways-to-earn-bitcoins/">Earn?</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43005"><a href="https://www.cryptocoinsnews.com/bitcoin-whale/">Whale?</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42901"><a href="https://www.cryptocoinsnews.com/altcoin/">Altcoin?</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43560"><a href="https://www.cryptocoinsnews.com/cryptocurrency/">Cryptocurrency?</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101508"><a href="https://www.cryptocoinsnews.com/what-is-ethereum/">Ethereum?</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-71145"><a href="https://www.cryptocoinsnews.com/5-ways-get-free-bitcoins/">Free</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71301"><a href="https://www.cryptocoinsnews.com/5-ways-get-free-bitcoins/">5 Ways to get Free Bitcoins</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72385"><a href="https://www.cryptocoinsnews.com/get-paid-bitcoins-play-mobile-games/">Get Paid Bitcoins to Play Mobile Games</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-94543"><a href="https://www.cryptocoinsnews.com/earn-money-bitcoin-%e2%80%8b/">How to Earn Money with Bitcoin ​</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-80404"><a href="https://www.cryptocoinsnews.com/press-releases/">PR</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45885"><a href="https://www.cryptocoinsnews.com/bitcoin-price-news-widget">Widget</a></li>
+</ul></div>
+				</nav>
+
+<a href="https://www.cryptocoinsnews.com/bitcoin-price/">
+
+        <div class="mobile12">  <div id="ccnprice">                             
+
+<div class="row1" id="row01">BITCOIN PRICE:   1040.80
+ USD</div>
+<div class="row1" id="row01" >HIGH:    1048.19
+ USD</div>
+<div class="row1" id="row01" >LOW:  1017.14
+ USD</div>
+
+
+
+           </div></div></a>
+
+
+
+
+
+				<!-- .main-navigation -->
+
+			</div><!-- .container -->
+		</div><!-- .site-identity-->
+
+		</header><!-- .site-header -->
+
+
+<div class="mini-bar">
+			<div class="mini-title">
+			<!-- Next and previous post links -->
+			<div class="fixed-nav"><a class="fixed-image" href=" https://www.cryptocoinsnews.com/newsflash-bitcoin-rises-us-dollar-sinks/ "> <img width="65" height="65" src="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2017/03/Bitcoin-USD-stack-65x65.jpg" class="attachment-65x65 size-65x65 wp-post-image" alt="Bitcoin USD" srcset="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2017/03/Bitcoin-USD-stack-65x65.jpg 65w, https://cdn4.cryptocoinsnews.com/wp-content/uploads/2017/03/Bitcoin-USD-stack-150x150.jpg 150w, https://cdn4.cryptocoinsnews.com/wp-content/uploads/2017/03/Bitcoin-USD-stack-50x50.jpg 50w" sizes="(max-width: 65px) 100vw, 65px" /> </a><div class="fixed-post-text"><span>Next</span><a href="https://www.cryptocoinsnews.com/newsflash-bitcoin-rises-us-dollar-sinks/" rel="prev">Newsflash: Bitcoin Rises, US Dollar Sinks</a></div></div>
+		</div>
+	
+	<ul class="mini-menu">
+					<li>
+				<a class="drawer-open-toggle" href="#">
+					<span><i class="fa fa-search"></i> Explore</span>
+				</a>
+			</li>
+				<li class="back-to-top">
+			<a href="#">
+				<span><i class="fa fa-bars"></i> Menu</span>
+			</a>
+		</li>
+		<li class="back-to-menu">
+			<a href="#">
+				<span><i class="fa fa-bars"></i> Menu</span>
+			</a>
+		</li>
+	</ul>
+</div><!-- .mini-bar-->
+
+	<div class="hero-wrapper">
+
+		<div class="hero-posts">
+			
+	<div id="post-103108" class="with-featured-image hero-post post-103108 post type-post status-publish format-standard has-post-thumbnail hentry category-fintech category-news category-world-finance tag-france tag-mas tag-monetary-authority-of-singapore tag-singapore">
+
+		<!-- Get the hero background image -->
+		
+			<div class="site-header-bg-wrap">
+				<div class="header-opacity">
+					<div class="header-gradient"></div>
+					<div class="site-header-bg background-effect" style="background-image: url(https://cdn4.cryptocoinsnews.com/wp-content/uploads/2017/03/Stock-tablet.jpg); opacity: 0.8;"></div>
+				</div>
+			</div><!-- .site-header-bg-wrap -->
+
+		
+		<div class="container hero-container">
+			<div class=" hero-cats"><a href="https://www.cryptocoinsnews.com/fintech/">FinTech News</a><a href="https://www.cryptocoinsnews.com/news/">News</a><a href="https://www.cryptocoinsnews.com/world-finance/">World Finance</a></div>
+			<!-- Hero title -->
+			<div class="hero-text">
+									<h1 class="entry-title">Singapore Inks FinTech Cooperation Pact with France</h1>
+				
+				<div class="hero-date">
+										<!-- Create an avatar link -->
+					<a href="https://www.cryptocoinsnews.com/author/samburaj-das/" title="Posts by  ">
+											</a>
+					<!-- Create an author post link -->
+					<a href="https://www.cryptocoinsnews.com/author/samburaj-das/">
+						Samburaj Das					</a>
+					<span class="hero-on-span">on</span>
+					<span class="hero-date-span">28/03/2017</span>
+				</div>
+			</div><!-- .photo-overlay -->
+		</div><!-- .container -->
+	</div>
+		</div><!-- .hero-posts -->
+
+	</div><!-- .hero-wrapper -->
+
+<div id="page" class="hfeed site container">
+	<div id="content" class="site-content">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+<div class="mobile"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- CCN Post Banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6472069693657143"
+     data-ad-slot="3542279808"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></br>
+
+
+		
+<article id="post-103108" class="post full-post post-103108 type-post status-publish format-standard has-post-thumbnail hentry category-fintech category-news category-world-finance tag-france tag-mas tag-monetary-authority-of-singapore tag-singapore">
+
+		
+	<div class="entry-content">
+		<aside class="mashsb-container mashsb-main "><div class="mashsb-box"><div class="mashsb-buttons"><a  class="mashicon-twitter mash-large mash-nomargin" href="https://twitter.com/intent/tweet?text=Singapore%20Inks%20FinTech%20Cooperation%20Pact%20with%20France&url=https://www.cryptocoinsnews.com/?p=103108&via=CryptoCoinsNews" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Twitter</span></a><a  class="mashicon-linkedin  mash-large mash-nomargin" href="https://www.linkedin.com/shareArticle?trk=Singapore+Inks+FinTech+Cooperation+Pact+with+France&amp;url=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fsingapore-inks-fintech-cooperation-pact-france%2F" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Linkedin </span></a><a class="mashicon-facebook mash-large mash-nomargin" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fsingapore-inks-fintech-cooperation-pact-france%2F" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Facebook</span></a><a class="mashicon-reddit  mash-large mash-nomargin" href="https://www.reddit.com/submit?url=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fsingapore-inks-fintech-cooperation-pact-france%2F&amp;title=Singapore+Inks+FinTech+Cooperation+Pact+with+France" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Reddit </span></a><a  class="mashicon-weibo mash-large mash-nomargin" href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fsingapore-inks-fintech-cooperation-pact-france%2F&amp;title=Singapore+Inks+FinTech+Cooperation+Pact+with+France" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Weibo</span></a><div class="onoffswitch2 mash-large" style="display:none;"></div></div>
+            </div>
+                <div style="clear:both;"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 3.3.4--><p>The Monetary Authority of Singapore (MAS), Singapore’s central bank and financial authority has signed FinTech cooperation agreements with a pair of French regulators to boost FinTech ties between the two countries.</p>
+<p>The cooperation agreement sees Singapore’s central bank partner the Autorité de Contrôle Prudentiel et de Résolution (ACPR), the authority monitoring banks &amp; insurance companies in France and the Autorité des Marchés Financiers (AMF), France’s stock market regulator.</p>
+<p>Under the <a href="http://www.amf-france.org/en_US/Actualites/Communiques-de-presse/AMF/annee-2017.html?docId=workspace%3A%2F%2FSpacesStore%2F13f0d8ee-44a5-434e-9b6c-225a6f90f386&amp;langSwitch=true" target="_blank">agreement</a>, the three authorities will adhere to a framework that fosters the sharing of information relating to FinTech trends and services. Joint innovation projects and regulatory hurdles will also be discussed between the two countries.</p><div class="insert-post-ads" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"><br><center><em>// Let us help you become financially independent. Read exclusive stories, bitcoin analysis, and tutorials. Use the coupon code "CCN5" and get $5 off. Join <a href="https://hacked.com" target="blank">Hacked.com</a> now. //</em></center><br></div>
+<p>AMF Chairman Gérard Rameix calls the agreement a “Fintech bridge between France and Singapore”, one that would help enable French industry firms to learn from their counterparts in Singapore.</p>
+<p>More pertinently, the agreement will also enable ‘authorized’ FinTech companies from both countries to gain guidance from these authorities about regulatory requirements in each other’s jurisdictions. While there are no details shared about how companies are authorized by regulators in both countries, the framework is geared toward assisting in expansion opportunities for companies in each other’s markets.</p>
+<p>Francois Villeroy de Galhau, chairman of the ACPR who is also the governor of the Banque de France, the country’s central bank, stated:</p>
+<blockquote><p>Cooperation between MAS and ACPR will create synergies for our two markets and promote innovative services, products and applications that have the potential to benefit consumers, corporates and the wider economy.</p></blockquote>
+<p>Singapore is traditionally known for its technology-friendly agenda and has unsurprisingly cemented itself as Asia’s and one of the world’s major FinTech hubs. The island nation’s geographical proximity makes it a gateway into Asia, making it a flourishing center for trade and travelers.</p>
+<p>The country’s FinTech agenda is notably spearheaded by the MAS which has <a href="https://www.cryptocoinsnews.com/singapores-central-bank-completes-blockchain-payments-pilot-nods-digital-currency/">successfully completed</a> a unique central bank-developed blockchain payments pilot for an inter-bank payments platform, earlier this month.</p>
+<div id="attachment_94561" style="width: 1010px" class="wp-caption aligncenter"><img class="wp-image-94561 size-full" src="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2016/10/Monetary-Authority-of-Singapore.jpg" alt="MAS Singapore Blockchain central Bank Monetary Authority of Singapore" width="1000" height="667" srcset="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2016/10/Monetary-Authority-of-Singapore.jpg 1000w, https://cdn4.cryptocoinsnews.com/wp-content/uploads/2016/10/Monetary-Authority-of-Singapore-300x200.jpg 300w, https://cdn4.cryptocoinsnews.com/wp-content/uploads/2016/10/Monetary-Authority-of-Singapore-768x512.jpg 768w, https://cdn4.cryptocoinsnews.com/wp-content/uploads/2016/10/Monetary-Authority-of-Singapore-375x250.jpg 375w" sizes="(max-width: 1000px) 100vw, 1000px" /><p class="wp-caption-text">Singapore&#8217;s central bank is notable for its FinTech initiatives and, in particular, the development of a blockchain inter-bank platform.</p></div>
+<p>Meanwhile, over the last six months, the MAS has signed similar FinTech pacts with the <a href="https://www.cryptocoinsnews.com/indian-singaporean-governments-partner-blockchain-fintech/">south Indian government of Andhra Pradesh</a>, the <a href="https://www.cryptocoinsnews.com/singapore-south-korea-come-together-fintech/">central Bank of South Korea</a>, the <a href="https://www.cryptocoinsnews.com/dubai-regulator-signs-fintech-pact-with-singapores-central-bank/">financial regulatory of Abu Dhabi</a> and Japan’s Financial Regulator, <a href="https://www.cryptocoinsnews.com/japan-jumps-aboard-singapores-fintech-train/">the FSA</a>. That trend continues, with the MAS setting itself apart from the rest as a specialist FinTech developer.</p>
+<p>With its latest partners in France, MAS managing director Ravi Menon added:</p>
+<blockquote><p>We look forward to closer interactions between our respective FinTech ecosystems, more opportunities for our businesses, and greater convenience for consumers in both our countries.</p></blockquote>
+<p><em>Images from Shutterstock.</em></p>
+<div class="mobile">Advertisement:<br><a href="http://humaniq.co/?utm_medium=banner&utm_source=CCN&utm_campaign=MainMedia&utm_term=Media&utm_content=Max" rel="nofollow" target="blank"><img src="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2017/03/Humaniq_728x90_concept_1_032017_v1.gif"></img></a>
+</div></p><aside class="mashsb-container mashsb-main "><div class="mashsb-box"><div class="mashsb-buttons"><a  class="mashicon-twitter mash-large mash-nomargin" href="https://twitter.com/intent/tweet?text=Singapore%20Inks%20FinTech%20Cooperation%20Pact%20with%20France&url=https://www.cryptocoinsnews.com/?p=103108&via=CryptoCoinsNews" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Twitter</span></a><a  class="mashicon-linkedin  mash-large mash-nomargin" href="https://www.linkedin.com/shareArticle?trk=Singapore+Inks+FinTech+Cooperation+Pact+with+France&amp;url=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fsingapore-inks-fintech-cooperation-pact-france%2F" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Linkedin </span></a><a class="mashicon-facebook mash-large mash-nomargin" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fsingapore-inks-fintech-cooperation-pact-france%2F" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Facebook</span></a><a class="mashicon-reddit  mash-large mash-nomargin" href="https://www.reddit.com/submit?url=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fsingapore-inks-fintech-cooperation-pact-france%2F&amp;title=Singapore+Inks+FinTech+Cooperation+Pact+with+France" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Reddit </span></a><a  class="mashicon-weibo mash-large mash-nomargin" href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fwww.cryptocoinsnews.com%2Fsingapore-inks-fintech-cooperation-pact-france%2F&amp;title=Singapore+Inks+FinTech+Cooperation+Pact+with+France" target="_blank" rel="nofollow"><span class="icon"></span><span class="text">Weibo</span></a><div class="onoffswitch2 mash-large" style="display:none;"></div></div>
+            </div>
+                <div style="clear:both;"></div></aside>
+            <!-- Share buttons by mashshare.net - Version: 3.3.4-->	</div><!-- .entry-content -->
+
+	
+			<div class="entry-meta">
+			<ul class="meta-list">
+
+				<!-- Categories -->
+				
+					<li class="meta-cat">
+						<span>Posted in:</span>
+
+						<a href="https://www.cryptocoinsnews.com/fintech/" rel="category tag">FinTech News</a>, <a href="https://www.cryptocoinsnews.com/news/" rel="category tag">News</a>, <a href="https://www.cryptocoinsnews.com/world-finance/" rel="category tag">World Finance</a>					</li>
+
+				
+				<!-- Tags -->
+				
+					<li class="meta-tag">
+						<span>Tagged in:</span>
+
+						<a href="https://www.cryptocoinsnews.com/tag/france/" rel="tag">france</a>, <a href="https://www.cryptocoinsnews.com/tag/mas/" rel="tag">MAS</a>, <a href="https://www.cryptocoinsnews.com/tag/monetary-authority-of-singapore/" rel="tag">Monetary Authority of Singapore</a>, <a href="https://www.cryptocoinsnews.com/tag/singapore/" rel="tag">singapore</a>					</li>
+
+				
+			</ul><!-- .meta-list -->
+		</div><!-- .entry-meta -->
+	
+</article><!-- #post-## -->
+
+
+
+
+
+			<!-- Comment toggle and share buttons -->
+			<div class="share-comment click">
+
+				
+									<a class="comments-toggle button" href="#">
+						<span><i class="fa fa-comments"></i>
+							Leave a comment						</span>
+						<span><i class="fa fa-times"></i> Hide comments</span>
+					</a>
+							</div>
+
+				
+	<!-- Here we load disqus comments -->
+	<div class="dcl-disqus-thread" id="comments" >
+	<div id="disqus_thread">
+			<div id='dcl-hidden-div' style='text-align: center;'>
+		<button data-disqus-url="https://www.cryptocoinsnews.com/singapore-inks-fintech-cooperation-pact-france/" id='dcl_comment_btn' class="" style="margin-bottom:20px;margin-top:20px;">Load Comments</button>
+		</div>
+		
+		</div>
+	</div>
+	
+		
+			<script type="text/javascript">
+	/* <![CDATA[ */
+		var disqus_url = 'https://www.cryptocoinsnews.com/singapore-inks-fintech-cooperation-pact-france/';
+		var disqus_identifier = '103108 https://www.cryptocoinsnews.com/?p=103108';
+		var disqus_container_id = 'disqus_thread';
+		var disqus_domain = 'disqus.com';
+		var disqus_shortname = 'cryptocoinsnews';
+		var disqus_title = "Singapore Inks FinTech Cooperation Pact with France";
+		var disqus_config = function () {
+			var config = this; // Access to the config object
+			config.language = '';
+
+			/* Add the ability to add javascript callbacks */
+			
+			/*
+			   All currently supported events:
+				* preData — fires just before we request for initial data
+				* preInit - fires after we get initial data but before we load any dependencies
+				* onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+				* afterRender - fires when template is rendered but before we show it
+				* onReady - everything is done
+			 */
+
+			config.callbacks.preData.push(function() {
+				// clear out the container (its filled for SEO/legacy purposes)
+				document.getElementById(disqus_container_id).innerHTML = '';
+			});
+								};
+	/* ]]> */
+	</script>
+	
+		
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		var DsqLocal = {
+			'trackbacks': [
+				],
+			'trackback_url': "https:\/\/www.cryptocoinsnews.com\/singapore-inks-fintech-cooperation-pact-france\/trackback\/"		};
+	/* ]]> */
+	</script>
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+		<div id="secondary" class="widget-area">
+		<aside id="text-211" class="widget widget_text">			<div class="textwidget"><!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//cryptocoinsnews.us7.list-manage.com/subscribe/post?u=3cb6c1ebcf594a857d586ea94&amp;id=c970df32b3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Don't Miss Out!</h2>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address </label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3cb6c1ebcf594a857d586ea94_c970df32b3" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup--></div>
+		</aside><aside id="text-205" class="widget widget_text"><h2 class="widget-title">Advertisement</h2>			<div class="textwidget"><center><a href="https://www.cloudbet.com/en/?utm_source=cryptocoinsnews&utm_campaign=cryptocoinsnews-20170201&utm_medium=banner&utm_content=ccn-300x250" rel="nofollow" target="blank"><img src="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2017/03/cloudbet_2017acquisition_ad_300x250_v2AW-1.gif"></a></center></div>
+		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Recent Posts</h2>		<ul>
+					<li>
+				<a href="https://www.cryptocoinsnews.com/bahrain-signs-fintech-pact-singapore-amid-plan-country-level-blockchain-adoption/">Bahrain Signs FinTech Pact with Singapore Amid Plan for ‘Country Level’ Blockchain Adoption</a>
+						</li>
+					<li>
+				<a href="https://www.cryptocoinsnews.com/industry-petition-urges-indian-govt-announce-bitcoin-legal/">Industry Petition Urges Indian Govt to Announce Bitcoin is Legal</a>
+						</li>
+					<li>
+				<a href="https://www.cryptocoinsnews.com/catching-fintech-winds-regtech-association-launches-australia/">Catching FinTech Winds, RegTech Association Launches in Australia</a>
+						</li>
+					<li>
+				<a href="https://hacked.com/start-trading-cryptocurrencies/">(+) How to Start Trading Cryptocurrencies</a>
+						</li>
+					<li>
+				<a href="https://www.cryptocoinsnews.com/arizonas-blockchain-bill-passes-senate-leading-way-smart-contracts/">Arizona’s Blockchain Bill Passes Senate Leading the Way to Smart Contracts</a>
+						</li>
+				</ul>
+		</aside>		<aside id="text-206" class="widget widget_text"><h2 class="widget-title">Advertisement</h2>			<div class="textwidget"><center><a href="https://www.bitstarz.io/welcome-package-fairytale-btc?refer=ccn2017&utm_source=ccn&utm_medium=banner&utm_campaign=ccn" rel="nofollow" target="blank"><img src="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2017/01/BStrzRedRidingWPbtc_300x400_en.gif"></img></a></center></div>
+		</aside><aside id="search-2" class="widget widget_search"><h2 class="widget-title">Search</h2>
+<form role="search" method="get" id="searchform" class="searchform" action="https://www.cryptocoinsnews.com/">
+	<div>
+		<label class="screen-reader-text" for="s">Search for:</label>
+
+		<input type="text" value="" name="s" id="s" class="search-input" placeholder="Search here..." />
+
+		<button type="submit" id="searchsubmit">
+			<i class="fa fa-search"></i> <span>Search</span>
+		</button>
+	</div>
+</form></aside><aside id="text-210" class="widget widget_text"><h2 class="widget-title">Advertisement</h2>			<div class="textwidget"><!-- script: CryptoCoinsNews.com_ROS_Side_300x600 - Half-page (300x600) -->
+<script type="text/javascript" src="https://ads.creative-serving.com/adj/reveng.PFWettingCCN/3027327;sz=300x600;ord=[timestamp]"></script>
+<noscript>
+<a href="https://ads.creative-serving.com/jump/reveng.PFWettingCCN/3027327;sz=300x600;ord=[timestamp]" target="_blank">
+<img src="https://ads.creative-serving.com/ad/reveng.PFWettingCCN/3027327;sz=300x600;ord=[timestamp]" border="0"/>
+</a>
+</noscript>
+<!-- end of script --></div>
+		</aside>	</div><!-- #secondary .widget-area -->
+
+	</div><!-- #content -->
+</div><!-- #page -->
+
+	<!-- Next and previous post links -->
+	
+		<nav class="post-navigation">
+			<div class="nav-prev nav-post"><div class="background-effect" style="background-image: url( https://www.cryptocoinsnews.com/wp-content/uploads/2017/03/Bitcoin-USD-stack-800x280.jpg );"> </div><div class="nav-post-text"><span class="nav-label">Next</span><div class="overflow-link"><a href="https://www.cryptocoinsnews.com/newsflash-bitcoin-rises-us-dollar-sinks/" rel="prev">Newsflash: Bitcoin Rises, US Dollar Sinks</a></div><span>27/03/2017</span></div></div>
+			<div class="nav-next nav-post"><div class="background-effect" style="background-image: url( https://www.cryptocoinsnews.com/wp-content/uploads/2017/03/Sri-Lanka-flag-800x280.jpg );"> </div><div class="nav-post-text"><span class="nav-label">Previous</span><div class="overflow-link"><a href="https://www.cryptocoinsnews.com/r3-calls-sri-lankas-central-bank-join-blockchain-consortium/" rel="next">R3 Tries to Woo Sri Lanka’s Central Bank to Join Blockchain Consortium</a></div><span>28/03/2017</span></div></div>		</nav><!-- .post-navigation -->
+	
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div class="container">
+
+					<div class="footer-widgets">
+				<aside id="text-208" class="widget widget_text"><h2 class="widget-title">Advertisement</h2>			<div class="textwidget"><center><a href="https://www.cloudbet.com/en/?utm_source=cryptocoinsnews&utm_campaign=cryptocoinsnews-20170201&utm_medium=banner&utm_content=ccn-300x250" rel="nofollow" target="blank"><img src="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2017/03/cloudbet_2017acquisition_ad_300x250_v2AW-1.gif"></a></center></div>
+		</aside><aside id="tag_cloud-2" class="widget widget_tag_cloud"><h2 class="widget-title">Tags</h2><div class="tagcloud"><a href='https://www.cryptocoinsnews.com/tag/australia/' class='tag-link-14 tag-link-position-1' title='79 topics' style='font-size: 11.2380952381pt;'>Australia</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitcoin/' class='tag-link-5 tag-link-position-2' title='1,070 topics' style='font-size: 22pt;'>bitcoin</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitcoin-asic-miner/' class='tag-link-5184 tag-link-position-3' title='36 topics' style='font-size: 8.09523809524pt;'>bitcoin asic miner</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitcoin-atm/' class='tag-link-511 tag-link-position-4' title='78 topics' style='font-size: 11.2380952381pt;'>bitcoin atm</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitcoin-core/' class='tag-link-3007 tag-link-position-5' title='36 topics' style='font-size: 8.09523809524pt;'>bitcoin core</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitcoin-exchange/' class='tag-link-614 tag-link-position-6' title='61 topics' style='font-size: 10.1904761905pt;'>bitcoin exchange</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitcoin-foundation/' class='tag-link-120 tag-link-position-7' title='53 topics' style='font-size: 9.61904761905pt;'>bitcoin foundation</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitcoin-price/' class='tag-link-270 tag-link-position-8' title='150 topics' style='font-size: 13.9047619048pt;'>Bitcoin price</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitcoin-regulation-tag/' class='tag-link-350 tag-link-position-9' title='63 topics' style='font-size: 10.380952381pt;'>bitcoin regulation</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitcoin-unlimited/' class='tag-link-9477 tag-link-position-10' title='39 topics' style='font-size: 8.38095238095pt;'>Bitcoin Unlimited</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitfinex/' class='tag-link-2012 tag-link-position-11' title='54 topics' style='font-size: 9.71428571429pt;'>bitfinex</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitlicense/' class='tag-link-4912 tag-link-position-12' title='41 topics' style='font-size: 8.57142857143pt;'>bitlicense</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitpay/' class='tag-link-625 tag-link-position-13' title='91 topics' style='font-size: 11.8095238095pt;'>bitpay</a>
+<a href='https://www.cryptocoinsnews.com/tag/bitstamp/' class='tag-link-170 tag-link-position-14' title='46 topics' style='font-size: 9.04761904762pt;'>bitstamp</a>
+<a href='https://www.cryptocoinsnews.com/tag/block-chain/' class='tag-link-3860 tag-link-position-15' title='55 topics' style='font-size: 9.80952380952pt;'>block chain</a>
+<a href='https://www.cryptocoinsnews.com/tag/blockchain/' class='tag-link-460 tag-link-position-16' title='294 topics' style='font-size: 16.6666666667pt;'>blockchain</a>
+<a href='https://www.cryptocoinsnews.com/tag/blockchain-info/' class='tag-link-1116 tag-link-position-17' title='36 topics' style='font-size: 8.09523809524pt;'>Blockchain.info</a>
+<a href='https://www.cryptocoinsnews.com/tag/canada/' class='tag-link-352 tag-link-position-18' title='35 topics' style='font-size: 8pt;'>canada</a>
+<a href='https://www.cryptocoinsnews.com/tag/china/' class='tag-link-98 tag-link-position-19' title='166 topics' style='font-size: 14.2857142857pt;'>china</a>
+<a href='https://www.cryptocoinsnews.com/tag/coinbase/' class='tag-link-110 tag-link-position-20' title='140 topics' style='font-size: 13.619047619pt;'>coinbase</a>
+<a href='https://www.cryptocoinsnews.com/tag/cryptocurrency/' class='tag-link-9 tag-link-position-21' title='88 topics' style='font-size: 11.7142857143pt;'>cryptocurrency</a>
+<a href='https://www.cryptocoinsnews.com/tag/dogecoin/' class='tag-link-1473 tag-link-position-22' title='83 topics' style='font-size: 11.4285714286pt;'>dogecoin</a>
+<a href='https://www.cryptocoinsnews.com/tag/ethereum/' class='tag-link-2124 tag-link-position-23' title='203 topics' style='font-size: 15.1428571429pt;'>Ethereum News</a>
+<a href='https://www.cryptocoinsnews.com/tag/fintech/' class='tag-link-6078 tag-link-position-24' title='148 topics' style='font-size: 13.8095238095pt;'>fintech</a>
+<a href='https://www.cryptocoinsnews.com/tag/ibm/' class='tag-link-5846 tag-link-position-25' title='43 topics' style='font-size: 8.7619047619pt;'>IBM</a>
+<a href='https://www.cryptocoinsnews.com/tag/india/' class='tag-link-1261 tag-link-position-26' title='93 topics' style='font-size: 11.9047619048pt;'>india</a>
+<a href='https://www.cryptocoinsnews.com/tag/japan/' class='tag-link-331 tag-link-position-27' title='69 topics' style='font-size: 10.7619047619pt;'>japan</a>
+<a href='https://www.cryptocoinsnews.com/tag/litecoin/' class='tag-link-38 tag-link-position-28' title='71 topics' style='font-size: 10.8571428571pt;'>litecoin</a>
+<a href='https://www.cryptocoinsnews.com/tag/mark-karpeles/' class='tag-link-2462 tag-link-position-29' title='49 topics' style='font-size: 9.33333333333pt;'>mark karpeles</a>
+<a href='https://www.cryptocoinsnews.com/tag/microsoft/' class='tag-link-538 tag-link-position-30' title='37 topics' style='font-size: 8.19047619048pt;'>microsoft</a>
+<a href='https://www.cryptocoinsnews.com/tag/mt-gox/' class='tag-link-15 tag-link-position-31' title='113 topics' style='font-size: 12.7619047619pt;'>mt gox</a>
+<a href='https://www.cryptocoinsnews.com/tag/mtgox/' class='tag-link-1114 tag-link-position-32' title='44 topics' style='font-size: 8.85714285714pt;'>mtgox</a>
+<a href='https://www.cryptocoinsnews.com/tag/okcoin/' class='tag-link-1487 tag-link-position-33' title='37 topics' style='font-size: 8.19047619048pt;'>okcoin</a>
+<a href='https://www.cryptocoinsnews.com/tag/overstock/' class='tag-link-1402 tag-link-position-34' title='36 topics' style='font-size: 8.09523809524pt;'>overstock</a>
+<a href='https://www.cryptocoinsnews.com/tag/paypal/' class='tag-link-32 tag-link-position-35' title='57 topics' style='font-size: 9.90476190476pt;'>paypal</a>
+<a href='https://www.cryptocoinsnews.com/tag/pboc/' class='tag-link-1130 tag-link-position-36' title='50 topics' style='font-size: 9.42857142857pt;'>pboc</a>
+<a href='https://www.cryptocoinsnews.com/tag/r3/' class='tag-link-8819 tag-link-position-37' title='49 topics' style='font-size: 9.33333333333pt;'>R3</a>
+<a href='https://www.cryptocoinsnews.com/tag/reddit/' class='tag-link-107 tag-link-position-38' title='42 topics' style='font-size: 8.66666666667pt;'>reddit</a>
+<a href='https://www.cryptocoinsnews.com/tag/regulation/' class='tag-link-571 tag-link-position-39' title='47 topics' style='font-size: 9.14285714286pt;'>regulation</a>
+<a href='https://www.cryptocoinsnews.com/tag/ripple/' class='tag-link-2609 tag-link-position-40' title='44 topics' style='font-size: 8.85714285714pt;'>ripple</a>
+<a href='https://www.cryptocoinsnews.com/tag/ross-ulbricht/' class='tag-link-709 tag-link-position-41' title='54 topics' style='font-size: 9.71428571429pt;'>Ross Ulbricht</a>
+<a href='https://www.cryptocoinsnews.com/tag/russia/' class='tag-link-812 tag-link-position-42' title='70 topics' style='font-size: 10.7619047619pt;'>russia</a>
+<a href='https://www.cryptocoinsnews.com/tag/satoshi-nakamoto/' class='tag-link-72 tag-link-position-43' title='49 topics' style='font-size: 9.33333333333pt;'>satoshi nakamoto</a>
+<a href='https://www.cryptocoinsnews.com/tag/security/' class='tag-link-1018 tag-link-position-44' title='42 topics' style='font-size: 8.66666666667pt;'>security</a>
+<a href='https://www.cryptocoinsnews.com/tag/silk-road/' class='tag-link-379 tag-link-position-45' title='99 topics' style='font-size: 12.1904761905pt;'>silk road</a></div>
+</aside><aside id="text-209" class="widget widget_text"><h2 class="widget-title">Advertisement</h2>			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Footer on CCN -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-6472069693657143"
+     data-ad-slot="8605045003"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside>			</div>
+		
+		<div class="footer-bottom">
+			
+			<div class="footer-tagline">
+Advertised sites are not endorsed by us. They may be unsafe, untrustworthy, or illegal in your jurisdiction.
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41507511-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+				<div class="site-info">
+					&copy; 2017 Paperback Theme by <a href="https://arraythemes.com/" rel="nofollow">Array</a>.				</div>
+			</div><!-- .footer-tagline -->
+		</div><!-- .footer-bottom -->
+	</div><!-- .container -->
+</footer><!-- #colophon -->
+
+            <script type="text/javascript">
+            // <![CDATA[
+            var disqus_shortname = 'cryptocoinsnews';
+            (function () {
+                var nodes = document.getElementsByTagName('span');
+                for (var i = 0, url; i < nodes.length; i++) {
+                    if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                        nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                        url = nodes[i].parentNode.href.split('#', 1);
+                        if (url.length == 1) { url = url[0]; }
+                        else { url = url[1]; }
+                        nodes[i].parentNode.href = url + '#disqus_thread';
+                    }
+                }
+                var s = document.createElement('script'); 
+                s.async = true;
+                s.type = 'text/javascript';
+                s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+                (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+            }());
+            // ]]>
+            </script>
+            <script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mashsb = {"shares":"38","round_shares":"1","animate_shares":"0","dynamic_buttons":"0","share_url":"https:\/\/www.cryptocoinsnews.com\/singapore-inks-fintech-cooperation-pact-france\/","title":"Singapore+Inks+FinTech+Cooperation+Pact+with+France","image":"https:\/\/www.cryptocoinsnews.com\/wp-content\/uploads\/2017\/03\/Stock-tablet.jpg","desc":"The Monetary Authority of Singapore (MAS), Singapore\u2019s central bank and financial authority has signed FinTech cooperation agreements with a pair of French regulators to boost FinTech ties between the two countries.\r\n\r\nThe cooperation agreement sees Singapore\u2019s \u2026","hashtag":"CryptoCoinsNews","subscribe":"link","subscribe_url":"http:\/\/eepurl.com\/OLQl5","activestatus":"1","singular":"1","twitter_popup":"1","refresh":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/plugins/mashsharer/assets/js/mashsb.min.js?ver=3.3.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mashnet = {"body":"Check out this article: ","subject":"I wanted you to see this site"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/plugins/mashshare-networks/assets/js/mashnet.min.js?ver=2.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var paperback_js_vars = {"ajaxurl":"https:\/\/www.cryptocoinsnews.com\/wp-admin\/admin-ajax.php","load_fixed":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/themes/paperback/js/paperback.js?ver=1.0'></script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/themes/paperback/js/jquery.fitvids.js?ver=1.6.6'></script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/themes/paperback/js/jquery.matchHeight.js?ver=1.0'></script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/themes/paperback/js/responsiveslides.js?ver=1.54'></script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/themes/paperback/js/jquery.touchSwipe.js?ver=1.6.6'></script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/themes/paperback/js/headroom.js?ver=0.7.0'></script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/themes/paperback/js/jQuery.headroom.js?ver=0.7.0'></script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8'></script>
+<script type='text/javascript' src='https://cdn4.cryptocoinsnews.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+<script  type="text/javascript">
+
+    var disqus_shortname = "cryptocoinsnews";
+    if (typeof ds_loaded == "undefined") {
+        var ds_loaded = false;
+    }
+    function loadDisqus() {
+        var disqus_div = document.getElementById("disqus_thread");
+        var top = disqus_div.offsetTop;
+        var disqus_data = disqus_div.dataset;
+        if ( !ds_loaded && ( window.scrollY || window.pageYOffset ) + window.innerHeight > top ) {
+            ds_loaded = true;
+            for (var key in disqus_data) {
+                if (key.substr(0,6) == "disqus") {
+                    window["disqus_" + key.replace("disqus","").toLowerCase()] = disqus_data[key];
+								}
+                }
+                var dsq = document.createElement("script");
+                dsq.type = "text/javascript";
+                dsq.async = true;
+                dsq.src = "https://" + window.disqus_shortname + ".disqus.com/embed.js";
+                if(document.getElementById("dcl-hidden-div")) {
+                    document.getElementById("dcl-hidden-div").innerHTML = "Loading...";
+                }
+                (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(dsq);
+            }
+        }
+					document.getElementById("dcl_comment_btn").onclick = function() { loadDisqus() };
+	</script><script   type='text/javascript'>
+                /* <![CDATA[ */
+                var hash = window.location.hash;
+                var disqus_shortname = 'cryptocoinsnews';
+                if(hash!==''){
+                    var ds_loaded = true;
+                    var dcl_loaded = 1;
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+                        dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.84';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();}
+                /* ]]> */
+            </script><!-- This site converts visitors into subscribers and customers with the OptinMonster WordPress plugin v2.1.7 - http://optinmonster.com/ -->
+<div id="om-icahb8jepn-lightbox" class="optin-monster-overlay" style="display:none;"><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script><style type="text/css" class="om-theme-clean-slate-styles">.optin-monster-success-message {font-size: 21px;font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;color: #282828;font-weight: 300;text-align: center;margin: 0 auto;}.optin-monster-success-overlay .om-success-close {font-size: 32px !important;font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif !important;color: #282828 !important;font-weight: 300 !important;position: absolute !important;top: 0px !important;right: 10px !important;background: none !important;text-decoration: none !important;width: auto !important;height: auto !important;display: block !important;line-height: 32px !important;padding: 0 !important;}.om-helper-field {display: none !important;visibility: hidden !important;opacity: 0 !important;height: 0 !important;line-height: 0 !important;}html div#om-icahb8jepn-lightbox * {box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;}html div#om-icahb8jepn-lightbox {background:none;border:0;border-radius:0;-webkit-border-radius:0;-moz-border-radius:0;float:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale;height:auto;letter-spacing:normal;outline:none;position:static;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;width:auto;visibility:visible;overflow:visible;margin:0;padding:0;line-height:1;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-shadow:none;-moz-box-shadow:none;-ms-box-shadow:none;-o-box-shadow:none;box-shadow:none;-webkit-appearance:none;}html div#om-icahb8jepn-lightbox {background: rgb(0, 0, 0);background: rgba(0, 0, 0, .7);font-family: helvetica,arial,sans-serif;-moz-osx-font-smoothing: grayscale;-webkit-font-smoothing: antialiased;line-height: 1;width: 100%;height: 100%;}html div#om-icahb8jepn-lightbox .om-clearfix {clear: both;}html div#om-icahb8jepn-lightbox .om-clearfix:after {clear: both;content: ".";display: block;height: 0;line-height: 0;overflow: auto;visibility: hidden;zoom: 1;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin {background: #fff;display: none;position: absolute;top: 50%;left: 50%;min-height: 175px;max-width: 714px;width: 100%;z-index: 734626274;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-wrap {position: relative;height: 100%;border: 7px solid #000;}html div#om-icahb8jepn-lightbox .om-close {color: #fff;font-weight: bold;position: absolute;top: -7px;right: -7px;font-size: 24px;line-height: 24px;text-decoration: none !important;font-family: Arial, sans-serif;display: block;padding: 8px 12px 2px 8px;background: #000;z-index: 1500;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-header {min-height: 30px;padding: 30px 15px 15px;width: 100%;background: #fff;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-title {font-size: 24px;color: #484848;width: 100%;margin: 0}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-content {padding: 15px;background: #fff;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-left {float: left;max-width: 410px;width: 100%;position: relative;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-tagline {font-size: 16px;line-height: 1.25;color: #484848;width: 100%;margin: 0 0 20px;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-bullets ul {padding: 0;margin: 0;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-bullets ul li { margin-left: 30px;line-height: 1.25;list-style-type: none;position: relative;font-size: 16px;color: #484848;margin-bottom: 7px;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-bullets ul li .om-arrow {width: 0;height: 0;border-top: 7px solid transparent;border-bottom: 7px solid transparent;border-left: 7px solid #ff6201;display: inline-block;vertical-align: middle;margin-right: 8px;margin-top: -1px;text-indent: -9999px;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-right {float: right;max-width: 230px;width: 100%;position: relative;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-image-container {position: relative;max-width: 230px;max-height: 195px;margin: 0 auto;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-image-container img {display: block;margin: 0 auto;text-align: center;height: auto;max-width: 100%;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-footer {background: #e9e9e9;border-top: 1px solid #bbb;padding: 30px 20px;}html div#om-icahb8jepn-lightbox label {color: #333;}html div#om-icahb8jepn-lightbox input,html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-name,html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-email {background-color: #fff;max-width: 225px;width: 100%;border: 1px solid #ccc;font-size: 16px;line-height: 24px;padding: 6px;overflow: hidden;outline: none;margin: 0 10px 0 0;vertical-align: middle;display: inline;}html div#om-icahb8jepn-lightbox .om-has-email #om-lightbox-clean-slate-optin-email {max-width: 460px;}html div#om-icahb8jepn-lightbox input[type=submit],html div#om-icahb8jepn-lightbox button,html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-submit {background: #484848;border: 1px solid #484848;max-width: 190px;width: 100%;color: #fff;font-size: 16px;padding: 6px;line-height: 24px;text-align: center;vertical-align: middle;cursor: pointer;display: inline;margin: 0;height: 38px;}html div#om-icahb8jepn-lightbox input[type=checkbox],html div#om-icahb8jepn-lightbox input[type=radio] {-webkit-appearance: checkbox;width: auto;outline: invert none medium;padding: 0;margin: 0;}@media (max-width: 700px) {html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin[style] {width: 100%;position: relative;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-left,html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-right,html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-name,html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-email,html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-submit,html div#om-icahb8jepn-lightbox .om-has-email #om-lightbox-clean-slate-optin-email {float: none;width: 100%;max-width: 100%;}html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-left,html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-name,html div#om-icahb8jepn-lightbox #om-lightbox-clean-slate-optin-email {margin-bottom: 15px;}}</style><div id="om-lightbox-clean-slate-optin" class="om-lightbox-clean-slate om-clearfix om-theme-clean-slate "><div id="om-lightbox-clean-slate-optin-wrap" class="om-clearfix" data-om-action="selectable" data-om-target="#optin-monster-field-body_border" style="border-color:#000000"><a href="#" class="om-close" title="Close" style="background-color:#000000">&times;</a><div id="om-lightbox-clean-slate-header" class="om-clearfix"><div id="om-lightbox-clean-slate-optin-title" data-om-action="editable" data-om-field="title" style="color:#484848;font-family:Open Sans;font-size:24px;text-align:center;">Welcome to the World&#39;s Leading<br />
+<span style="font-weight:bold;">Independent</span> Bitcoin News Outlet<br />
+&nbsp;</div></div><div id="om-lightbox-clean-slate-content" class="om-clearfix"><div id="om-lightbox-clean-slate-left"><div id="om-lightbox-clean-slate-optin-tagline" data-om-action="editable" data-om-field="tagline" style="color:#484848;font-family:Open Sans;font-size:18px;"><span style="font-size:36px;"><span style="font-weight: bold;">DON&#39;T MISS OUT</span></span><br />
+<span style="font-size:24px;">Receive the most important news and investment offers on email.</span></div><div id="om-lightbox-clean-slate-optin-bullets" data-om-action="editable" data-om-field="bullet"></div></div><div id="om-lightbox-clean-slate-right"><div id="om-lightbox-clean-slate-optin-image-container" class="om-image-container om-clearfix"><img class="optin-monster-image optin-monster-image-lightbox-clean-slate" src="https://cdn4.cryptocoinsnews.com/wp-content/uploads/2014/09/ccn-kopi-2-195x195.png" alt="" title="ccn kopi 2" /></div></div></div><div id="om-lightbox-clean-slate-footer" class="om-clearfix om-has-email" data-om-action="selectable" data-om-target="#optin-monster-field-footer_bg" style="background-color:#e9e9e9;border-top-color:#bbbbbb"><input id="om-lightbox-clean-slate-optin-email" type="email" value="" data-om-action="selectable" data-om-target="#optin-monster-field-email_field" placeholder="Enter your email address here..." style="color:#484848;font-family:Open Sans;" /><input id="om-lightbox-clean-slate-optin-submit" type="submit" data-om-action="selectable" data-om-target="#optin-monster-field-submit_field" value="Receive!" style="color:#ffffff;background-color:#484848;border-color:#484848;font-family:Open Sans;" /></div></div><input type="email" name="email" value="" class="om-helper-field" /><input type="text" name="website" value="" class="om-helper-field" /></div><script type="text/javascript">jQuery(document).ready(function($){WebFont.load({google: {families: ['Open+Sans']}});});</script></div>
+<script type="text/javascript">var icahb8jepn_lightbox, omo = {"id":43981,"optin":"icahb8jepn-lightbox","campaign":"CCN2","clones":[""],"hash":"icahb8jepn-lightbox","optin_js":"icahb8jepn_lightbox","type":"lightbox","theme":"clean-slate","cookie":30,"delay":1000,"second":1,"exit":false,"redirect":"","redirect_pass":false,"custom":false,"test":false,"global_cookie":0,"preview":false,"ajax":"https:\/\/www.cryptocoinsnews.com\/?optin-monster-ajax-route=1","mobile":false,"post_id":103108,"preloader":"https:\/\/www.cryptocoinsnews.com\/wp-content\/plugins\/optin-monster\/assets\/css\/images\/preloader.gif","error":"There was an error with your submission. Please try again.","ajax_error":"There was an error with the AJAX request: ","name_error":"Please enter a valid name.","email_error":"Please enter a valid email address.","bot_error":"Honeypot fields have been activated. Your submission is being flagged as potential spam.","success":"Please check your email in a couple of minutes to confirm."}; icahb8jepn_lightbox = new OptinMonster(); icahb8jepn_lightbox.init(omo);</script>
+<!--[if lte IE 9]><script type="text/javascript">var om_ie_browser = true;</script><![endif]--><!-- / OptinMonster WordPress plugin. -->
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 2.891 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-03-31 15:28:25 -->
+
+<!-- Compression = gzip -->

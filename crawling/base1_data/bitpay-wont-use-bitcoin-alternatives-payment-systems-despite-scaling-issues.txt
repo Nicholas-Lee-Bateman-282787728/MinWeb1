@@ -1,0 +1,28 @@
+./html_data_bitcoins/bitpay-wont-use-bitcoin-alternatives-payment-systems-despite-scaling-issues.txt
+
+
+
+CryptoCoinsNews
+While many expected bitcoin to replace the use of credit cards and replace the banking system in 2013, the cryptocurrency has faced challenges as a payment system since it has not been able to safely accommodate its growth, according to Nasdaq.
+Bitcoin is currently dealing with some issues as a payments platform, mainly because the system is experiencing growth at a rate faster than it can safely scale.
+Stephen Pair, a co-founder of BitPay, said customer service inquiries have increased due to transaction confirmation delays. BitPay has also witnessed higher transaction fees for its own transactions, causing the company to stop covering bitcoin network fees on invoice payments.
+BitPay has become more creative in designing user experience for delayed payments. Delays are often an opportunity to explain the way the bitcoin network works and direct people to wallets with dynamic transaction fees.
+Copay and BitPay wallet users have largely escaped transaction delays since their wallets dynamically calculate transaction fees.
+One method for addressing transaction delays and increased transaction fees is the Lightning Network. Its caching layer would allow for improved versions of features such as immediate transactions at no cost that people have associated with bitcoin.
+Pair said BitPay is exploring all possible scalability solutions. He is not surprised bitcoin has to scale. He is surprised that while short-term throughput bumps were expected, changes for on-chain throughput were expected a few years ago.
+The slow pace of increased throughput was not foreseen, he said. A scalability limit will be reached at some point that will be addressed by solutions like Lightning Network.
+BitPay has studied alternatives to the bitcoin blockchain and concluded none are compelling, Pair said.
+Some observers suspected BitPay and similar companies might switch from bitcoin to altcoins or permissioned blockchains on account of the high U.S.-dollar-denominated fees and network congestion.
+While Pair acknowledged there are scaling issues, the company continues to witness more consumers using the existing technology.
+He said bitcoin is the most cost effective, secure and fast means of value transfer on the Internet.
+BitPay sees itself as a payment innovator. Consumer and business-to-business payments are no different on BitPay’s platform and the bitcoin network.
+Tony Gallippi, BitPay co-founder, noted at the recent Distributed: Markets fireside chat that the company’s transaction count more than doubled in the last year. Much of the growth was in digital goods and video games.
+Gallippi said the Steam digital distribution platform’s acceptance of bitcoin was a source of growth for BitPay, and that there is much overlap between the bitcoin and gamer communities.
+Pair said BitPay is also witnessing growth in bitcoin’s use for B2B money transfers. He said bitcoin is a fantastic solution for such transfers, particularly for global payments where bank transfers are inefficient and slow.
+Also read: BitPay CEO on safe bitcoin scaling: soft fork first, hard fork next
+B2B companies are using the BitPay platform for billing settling international payments with a lot of suppliers, Pair said during the fireside chat.
+Gallippi noted there has been an increase in bitcoin’s use for payment disbursements.
+He said it is not easy to pay people on a regular basis in the majority of countries. It is hard to pay people in places where a lot of apps are being developed, such as India, Africa, the Middle East and Eastern Europe.
+For app stores or digital marketing companies, Gallippi said BitPay can receive one payment from the business and then disburse payments in bitcoin to all of the endpoints.
+BitPay built the product for its need to pay its employees in bitcoin, Pair said. There are now a lot of Fortune 500 companies asking BitPay to solve similar payment issues.
+Featured image from Shutterstock.

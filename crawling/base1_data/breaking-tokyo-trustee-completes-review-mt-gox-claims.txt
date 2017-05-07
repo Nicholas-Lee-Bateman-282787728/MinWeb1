@@ -1,0 +1,22 @@
+./html_data_bitcoins/breaking-tokyo-trustee-completes-review-mt-gox-claims.txt
+
+
+
+CryptoCoinsNews
+[Updated @ 16:20 UCT: Further details of today’s Tokyo meeting and announcement have been added.]
+In a major announcement at a scheduled Mt. Gox creditors meeting today in Tokyo, the court-appointed Trustee in the defunct bitcoin exchange Mt. Gox’s bankruptcy investigation has revealed that all claims to date have been reviewed. Notably, the status of all the claims has also been determined.
+A press release communicated to CCN by digital currency exchange Kraken which assisted the Tokyo District Court-assigned Trustee Nobuaki Kobayashi read:
+In a major and long-awaited development, on May 25, 2016, the Trustee announced that all claims to date have been reviewed and that the status of all claims has been determined.
+Thousands of claimants will, for the first time, soon be able to learn the status of their claim. At that time, claimants will be directed to visit the MtGox website at https://claims.mtgox.com/.
+A total of 24,750 creditors have filed claims to date, all of which have been reviewed, with their claims determined.
+The total amount claimed to date stands at 263,519,268,303,371 JPY, approximately $2,411,412,137,427 USD. The total amount of bitcoin held by the MtGox estate is approximately 202, 185 XBT, or approximately $91.2 million, which bitcoin exchange Kraken will help distribute among the claimants.
+A complete notice of today’s Tokyo meeting can be found here [PDF].
+The following is a statement by trustee Nobuaki Kobayashi, in full:
+My office and my partners on the Kraken team worldwide are proud to report outstanding news to thousands of MtGox creditors. During our thorough bankruptcy investigation, we have carefully reviewed over 24,000 individual claims and made individual determinations on their validity.
+In the near future, claimants will be able to browse the MtGox claims website to confirm their status. While the detailed schedule will inevitably be affected by each creditor’s response, we wish to proceed to the distribution process as soon as possible.
+Creditors who filed bankruptcy claims via the system put in place on the MtGox website will be able to ascertain the results of the acceptance or rejection of claims on or after May 26, 2016.
+Those who filed bankruptcy claims by post sent to the trustee’s office will be notified of the result of their claim by e-mail.
+The announcement came with the revelation of one claim, filed to the tune of 260 trillion yen, or $2.3 trillion, which is possibly the first claim following the commencement of the review to be publicly revealed and denied.
+Meanwhile, multiple investigations surrounding several factors of the MT Gox exchange are still ongoing, the Trustee revealed. For one, he is cooperating with the Tokyo Met Police Department in its still-ongoing criminal investigation of Mt. Gox CEO Mark Karpelès.
+Furthermore, Kraken, Deloitte and ReEx Accounting Firm have been revealed to be investigating the possibility of the disappearance of bitcoin and other currencies at MtGox.
+Featured image from Shutterstock.

@@ -1,0 +1,39 @@
+./html_data_bitcoins/treasury-bureau-drafts-supplement-to-evaluate-chartering-fintechs-accepts-comments-through-april-14.txt
+
+
+
+CryptoCoinsNews
+The Office of the Comptroller of the Currency (OCC), an independent bureau within the U.S. Department of the Treasury, has released additional detail on evaluating national bank charter applications from Fintech or financial technology companies that engage in banking.
+The OCC believes making special purpose national bank (SPNB) charters available to qualified fintech companies would be in the public interest. An SPNB charter provides a framework of uniform standards and supervision for companies that qualify.
+The new details were released in a draft supplement to the agency’s existing licensing manual.
+OCC does not usually solicit comments on procedural manuals and supplements. But on account of its guiding principles of transparency and promoting open dialogue with stakeholders, the agency will accept comments on the draft through April 14.
+Comptroller Thomas Curry announced last year that no topic in banking and finance has drawn more interest than fintech, and for good reason. The number of fintech companies in the U.S. and the U.K. has grown to more than 4,000, and in the last five years investment in the sector has expanded from $1.8 billion to $24 billion worldwide.
+The next step for the OCC was to move forward with chartering financial technology companies that offer bank products and services and meet its chartering requirements. Curry said doing so is in the public interest since fintech companies hold great potential to expand financial inclusion, empower consumers, and help families and businesses take more control of their financial matters.
+Policies already exist governing how the agency makes its decisions on chartering national banks. The new release explains how licensing standards will apply to existing regulations for fintech companies applying for SPNB charters.
+The release also outlines factors the agency will consider in evaluating applications from fintech companies. This includes expectations for promoting financial inclusion, fair treatment and fair access. It also describes the agency’s approach to supervising fintech companies that become national banks.
+The release expands on approximately two years of innovation at the agency and is consistent with guiding principles released in March 2016. It includes the agency’s consideration of comments it received to a December 2016 release concerning issues related to chartering fintech companies.
+An SPNB is a national bank engaging in a limited range of banking activities. These include core banking functions, but not taking deposits. SPNBs, therefore, are not insured by the Federal Deposit Insurance Corporation.
+The OCC recognizes fintech companies want to operate in the regulated space. The SPNB charter is one option.
+Some fintech firms can operate under state bank or state trust bank charters in states offering such options. Some may seek full-service national bank charters, while others will qualify to be another type of special purpose national bank.
+The release is not designed to discourage other ways of conducting business.
+Should a fintech seek further discussions regarding an SPNB charter, the OCC will arrange a meeting with the appropriate staff.
+In certain cases, an SPNB may propose activities that have not been determined to be part of the business of banking or to fall within a core banking function. The company should then discuss the permissibility of the activities and their status as core banking activities.
+The OCC could ask the fintech to prepare a legal analysis supporting its view that such activities are permissible and within core banking categories. The OCC will conduct an independent analysis to decide if the activities are permissible for an SPNB.
+In evaluating an application for a national bank, the OCC follows the following principles:
+• A safe and sound banking system
+• Fair access to financial services by helping to meet its entire community’s credit needs
+• Compliance with laws
+• Providing fair treatment of customers
+Additional considerations include whether the bank can achieve and maintain profitability and whether approving the charter will foster healthy competition.
+Once a firm submits a proposal, the agency decides if it satisfies the chartering standards. It imposes certain conditions on all “de novo” charters, such as the requirement that a bank obtain a supervisory non-objection letter if it deviates from its approved business plan
+The agency will not approve proposals that would cause an improper comingling of banking and commerce.
+The evaluation can identify requirements needed for the success of the applicant’s business plan or ensure the charter standards are met. The agency will set conditions to achieve these goals.
+Also read: U.S. Treasury bureau considers allowing fintech companies as special purpose national banks
+The regulations and licensing policy give guidance on the qualifications of organizers, management and directors.
+Applicants must submit a business plan, including the bank’s financial projections, analysis of risk and planned risk management systems. This is key to the OCC’s decision to approve a proposal. Companies without an established business record will face greater scrutiny.
+The agency grants approval in two steps: preliminary conditional and final approval. The period between the two is referred to as the organization phase.
+After final approval is given and the SPNB opens for business, the agency will supervise the SPNB according to scheduled cycles, including on-site examinations and periodic monitoring.
+The OCC received more than 100 comment letters on its SPNB paper. After considering those comments, the agency stated that in evaluating applications from fintech companies for an SPNB charter, it would be guided by certain threshold principles.
+Applying the framework to fintech would help ensure they operate in a safe manner and fairly serve consumers, businesses and communities. In addition, the OCC believes supervision by a federal regulator will promote consistency in applying federal laws.
+The agency believes innovation can broaden access to financial services.
+Featured image from Shutterstock.

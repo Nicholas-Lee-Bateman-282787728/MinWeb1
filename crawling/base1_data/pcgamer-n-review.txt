@@ -1,0 +1,39 @@
+./html_data/pcgamer-n-review.html
+
+
+ 
+ 
+ 
+ 
+
+
+By
+Shaun Prescott
+ 
+
+A masterful distillation of classic action-platforming gameplay, doling out tension and elation in equal measure.
+What is it? A virtually endless twitch-oriented action platformer.Expect to pay $15/ £11Developer MetanetPublisher MetanetReviewed on  GeForce GTX 980M / 97-4720HQ, 16GB RAMMultiplayer up to four players locally; online leaderboardsLink official website
+There isn’t much of a narrative in N++, but the one that does exist is as threadbare as they come. You’re a ninja, thus you’re able to run and jump very well. You enjoy gold, so you collect it, but more importantly, you like to live—even though your life expectancy is “1.5 minutes” according to developers Metanet. That’s a charitable estimate.
+Even that deliberately banal premise risks complexity: the bottom line is, N++ is an action platformer where you jump and evade obstacles on your way to the end of each level. Forget about the ninja stuff, it doesn’t matter. Weeks rarely pass without a new action platformer launching on Steam, but N++ is brilliant—probably even a classic—because it reduces the genre to its rawest components. Like the original flash game N, and then the Xbox exclusive N+ after it, there is nothing to do in N++ except run, jump, hit a switch, maybe collect some gold, and then exit the level. There are no puzzles, no plot twists and no fancy new skyboxes or environments. There are over 1,000 levels of dangerous platforming, and that's all it needs.
+The spartan premise is matched by the art style. Metanet risks no visual noise in pursuit of an immaculate distillation of run-and-jump platforming. N++’s severe lines and high-contrast colour schemes are more befitting a modern interior design magazine, or a spreadsheet, than they are a videogame. And yet it’s beautiful, in the way grace and fluidity is prized to an almost fetishistic degree: seeing this game played well is like a modernist drawing come to life, and the game’s slowly ramping difficulty ensures that you’re always on your way to mastering the nominal ninja’s rather unorthodox movement. 
+
+Regarding that movement: jeez, is it floaty. N++ is all about momentum, with the height of each leap dependent on the speed and angle at which you approach it. So in the beginning, when you’ve barely got a hold on your hapless fleet-footed ninja, you’re going to feel like an oaf. But when you learn to chain together light wall jumps, and when you’ve learned to bunny hop between platforms and glide serenely between laser beams and floating sentries, you’re not going to feel like just a boring everyday dullard ninja, but a ninja with an interpretative dance degree. N++ requires hair’s breadth precision at times, but even when it’s insurmountably tough, it just feels brilliant. It’s a game that can be played with no concern for winning, because handling the ninja is its own reward.
+Not that there’s any risk of ever completing the game. At a count, there are 1,125 levels across 225 episodes, taking in the 'intro' levels, the main game, and then all levels which featured in N+. If you want to try collecting all pieces of gold in each level, that’s possible (and rewarded) but good bloody luck. There are also local co-op and 'race' levels, with the former requiring collaboration between at least two players. The race levels are self-explanatory, and even the ostensibly 'solo' maps can be played together with up to three friends. There’s also a detailed global leaderboard for the solo levels, with each playthrough of a completed episode available as a replay, meaning you can watch other players’ successful attempts for hints on how to approach especially hairy gauntlets.
+For those with the stamina and skill to complete all of Metanet’s levels, there’s a level editor bearing all the tools needed to rival the vanilla creations. Levels can be uploaded and played across both PC and PS4 versions, but there doesn’t appear to be much quality control. I was able to upload a deliberately impossible level, and while there’s a “featured” tab which appears to be curated, many of the user levels are poor. If Metanet followed the likes of Mario Maker and required creators to master their own levels before uploading, trawling through user creations would feel more worthwhile. That said, especially dire levels tend not to remain visible for long, and I played the game before release. Hopefully with the arrival of a PC audience, the community content will blossom.
+
+If there’s another problem I have with N++, it’s one inherited from its predecessor: the requirement to play through levels in episodes. Each episode is a sequence of five levels, and all five must be finished in order to secure completion. This is fine in the beginning, but later on, when certain individual levels can take hours (sometimes days) to master, the requirement to do five at once can be overwhelming. Metanet is great at pacing its episodes so that especially difficult levels are buffered by more forgiving outings, but the structure can be a hinderance for those more inclined to dip in and out of a game like this. This is somewhat counteracted by the freeform nature of the episodes: there are always several you can attempt, so it's rare to feel hopelessly stumped.
+When I first played N++ on PS4 last year, I thought it would be the last action platformer I’d ever need. That sentiment still stands: since playing 300+ hours of this game on console, and another 20 or so on PC, I feel there are few platformers, classic or modern, that can rival N++ in terms of physics, fluidity, level design and sheer size. In some ways N++ feels like the end of the action platformer, like an exhaustive final document, a catalogue of its emotional highs and lows. It's obviously not really the last action platformer, but for anyone with even a vague affection for platforming, it's a game to play for years to come.
+
+
+
+
+A masterful distillation of classic action-platforming gameplay, doling out tension and elation in equal measure.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

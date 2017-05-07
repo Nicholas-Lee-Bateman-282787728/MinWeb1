@@ -1,0 +1,21 @@
+
+
+
+CryptoCoinsNews
+The Senate of the state of Arizona has passed a bill relating to the blockchain that would give smart contracts and blockchain signatures legal binding status.
+The bill, HB 2417, which was introduced by state representative Jeff Weninger on 6 February, 2017, means that a signature through the blockchain is considered as legally binding. Equally, ‘a record or contract that is secured through blockchain technology is considered to be in an electronic form and to be an electronic record.’
+The bill, which passed 28-1, will now be sent along to Governor Doug Ducey where it is expected to receive final clearance, which would then pass the bill into state law.
+What’s interesting about this bill is the fact that it also pertains to smart contracts. By including smart contracts in the bill, it means that they must now be upheld and enforced under Arizona law.
+The bill states:
+Smart contracts may exist in commerce. A contract relating to a transaction may not be denied legal effect, validity or enforceability solely because that contract contains a smart contract term.
+It further adds:
+Smart contract means an event-driven program, with state, that runs on a distributed, decentralized, shared and replicated ledger and that can take custody over and instruct transfer of assets on that ledger.
+The bill’s passing in Arizona’s senate will no doubt be welcomed by analysts who are been following the bill’s progress and what this now means particularly when it comes to court cases.
+Many law firms have already been experimenting with smart contracts, which will, no doubt, help to establish future-proof mechanisms for binding agreements that may see them used as evidence in court.
+To boost tourism in Hawaii, the 50th state of the U.S. announced in February that it had filed a bill, HB 1481, aimed at considering innovative ways to increase the state’s tourism and technology trade.
+If the bill is passed, the technology could change and improve public sector operations and private industry capabilities.
+New Hampshire has also been passing its own bill. Earlier this month, HB 436 was passed in the House of Representatives that would excuse people who use digital currencies from money transmitter regulations in the state.
+After passing by a vote of 185-170, it now proceeds to the state Senate who will determine its fate. If passed, it could mean that firms in New Hampshire would be capable of functioning without following KYC and AML systems.
+These bills demonstrate the increased interest that the U.S. is showing in blockchain technology.
+This can be further seen through the formation of a bipartisan Congressional blockchain caucus in Washington D.C., which is focused on studying the technology and regulations.
+Featured image from Shutterstock.

@@ -1,0 +1,16 @@
+./html_data_bitcoins/colbitex-forced-stop-bitcoin-trading-colombia.txt
+
+
+
+CryptoCoinsNews
+The first bitcoin exchange in Colombia has been forced to close after receiving complaints from the Colombian authorities.
+After only eight days of operating, Colbitex announced on social media that it has stopped trading while the authorities review the relevant legalities.
+In the post the company said:
+Dear users, we are going through some processes and themes of normativity in order to be able to continue operating within the law.
+In the next few days we will generate a statement by extending this information.
+Please ask for the withdrawal of their funds through an email to [email protected]/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */ or by means of a support ticket at https://colbitex.freshdesk.com/ the withdrawals will be processed immediately.
+On June 3, Colombia’s first bitcoin exchange was launched in a testnet mode. It seemed that the country was the ideal location to unveil a bitcoin exchange to boost the adoption of cryptocurrency within Latin America.
+Founded by Roman Parra, an industrial production engineer and marketing specialist, and Carlos Mesa, a computer systems engineer, they envisioned a dream of creating an exchange that would stop illegal activities, but at the same time still allowing users to take advantage of a bitcoin exchange that they have grown used to.
+However, with the Colombian market falling behind the likes of Brazil, Argentina, and Venezuela, it doesn’t seem as though Colbitex will be gaining much traction in the digital currency world anytime soon.
+Not only that but according to the Superintendencia Financiera de Colombia (SFC), the Colombian government agency responsible for overseeing the financial regulation and market systems, they claim that the use of bitcoin is a danger because cryptocurrencies like bitcoin are not regulated in the country.
+Featured image from Shutterstock.

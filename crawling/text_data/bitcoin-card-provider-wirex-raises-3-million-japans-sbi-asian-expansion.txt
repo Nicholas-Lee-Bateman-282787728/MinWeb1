@@ -1,0 +1,17 @@
+
+
+
+CryptoCoinsNews
+Bitcoin-based financial platform Wirex, formerly known as E-Coin, has raised $3 million in a Series A funding round from the Fintech fund established by Japanese financial giant SBI Group.
+UK-based Wirex, essentially a service provider enabling the use of bitcoin and other digital currencies in popular payment networks like Visa and Mastercard through prepaid virtual and plastic cards. Wirex also provides an exchange platform allowing for the exchange of fiat currencies with bitcoin. The company claims to have over 500,000 members across 130 countries, calling itself a ‘hybrid banking’ platform where prepaid cards can be topped up with crypto or fiat currencies.
+With the new capital, the company plans on introducing host of new features including new bitcoin-based financial products, contactless bitcoin payments and cards, as well as support for additional currencies.
+The company also intends to use the funds toward expansion plans in Japan.
+Wirex co-founder Pavel MAteev stated:
+Japan is a key market for bitcoin-compatible financial products and services, and one of our fastest-growing customer base…Together, we can push bitcoin adoption in the Asia-Pacific region to the next level.
+The SBI group’s investment arm, SBI Investment has made a number of notable investments in bitcoin companies out of its ‘FinTech Fund’, established in December 2015. Aside from announcing its investment in Wirex this month, SBI Investment led a ¥3 billion ($27 million) funding round – the largest ever by a bitcoin or a Fintech in Japan – for Tokyo-based bitcoin exchange bitFlyer last year. SBI Investment also participated as the lead investor in a Series B round of financing for prominent bitcoin exchange Kraken last year. Although the terms of the investment are unknown, Kraken revealed it to be a “multi-million dollar” agreement with SBI Investment.
+“The SBI Group has a clear vision and in-depth understanding of blockchain and cryptocurrencies” added co-founder Dmitry Lazarichev underlining the conglomerate’s interest in the cryptocurrency space. “We have been selective in the process of looking for the right investor, and finding the best possible fit is important for us. Our customers will greatly benefit from this collaboration.”
+SBI Holdings, the parent company of SBI Investment, is notably a joint-partner in the setting up of SBI Ripple Asia, in association with prominent Fintech firm Ripple. The company spearheads a consortium of 47 Japanese banks, one that recently completed a successful money transfer pilot for domestic and international transfers using Ripple’s blockchain technology. SBI estimates remittance costs to be cut by nearly 66% over the blockchain-based remittance platform when compared to traditional wire transfers.
+SBI Holdings also announced the establishment of SBI Virtual Currencies Co., Ltd., making it among the first notable financial institutions to launch a digital currency exchange.
+Established in November 2016, SBI explained its reasons behind its interest in the bitcoin and blockchain industry.
+In recent years, virtual currencies, like bitcoin, have attracted plenty of interest and have been covered in major media. It [virtual currencies] are also being traded actively.
+Image from Wirex.

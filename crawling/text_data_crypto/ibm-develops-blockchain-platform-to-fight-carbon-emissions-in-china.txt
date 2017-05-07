@@ -1,0 +1,16 @@
+./html_data_bitcoins/ibm-develops-blockchain-platform-to-fight-carbon-emissions-in-china.txt
+
+
+
+CryptoCoinsNews
+IBM has laid claim to the world’s first blockchain ‘green asset management platform’ in China to decrease emissions while supporting low carbon emission-enabling technology.
+Powered by the open source Hyperledger Fabric, the blockchain-based carbon management application is specifically developed for enterprises. The solution stems from a joint effort by IBM and Chinese company Energy Blockchain Labs. The two companies completed a proof-of-concept run of the platform in late 2016.The development comes at a time when China is pushing toward climate change action targets pre-2020. One of the objectives of that action plan, signed as a part of the Paris Agreement by China, is to build a standard nationwide carbon market.
+A steel plant in China. The country is the world’s largest emitter of carbon-dioxide.
+The solution works as a carbon credit management ledger that will enable carbon asset development aka CER or carbon emission reduction quota issuing, a popular way of encouraging companies and large enterprises to reduce their carbon footprint, according to IBM.
+The technology giant is pinning blockchain technology as a viable solution to decrease carbon emissions in enterprises. Smart contracts-enabled digital collaboration over a common ledger will push to improve the efficiency of carbon assets development and management. Just as significantly, blockchain’s core characteristic as an immutable ledger will bring credibility to the carbon emission reduction market, IBM contends. Increased transparency and straightforward auditability that will sit well with regulators are yet more reasons to use blockchain technology in the carbon market.
+Cao Yin, strategy chief at Energy-Blockchain Labs is quick to point out the significance of the solution in China, the world’s largest source of carbon emissions.
+He stated:
+It is estimated that the platform will significantly shorten the carbon assets development cycle and reduce the cost of carbon assets development by 20 to 30 percent, enabling cost-effective development of a large number of carbon assets.
+IBM’s carbon management platform is its latest blockchain-based effort in China. In October, IBM partnered Walmart’s Chinese subsidiary to enable the tracking of food products on a blockchain. Earlier this year, a partnership with the Postal Savings Bank of China resulted in the deployment of the technology for asset custody in the country.
+IBM’s blockchain-based carbon management platform will see a beta release in May before a commercially offering the solution in late 2017.
+Featured image from Shutterstock.

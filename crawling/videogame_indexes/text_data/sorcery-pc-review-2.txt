@@ -1,0 +1,194 @@
+./html_data/sorcery-pc-review-2.html
+
+RPS Feature
+Turn to page 273 
+By John Walker on April 12th, 2016 at 1:00 pm.
+
+Three games into Inkle’s four-part video game conversion of Steve Jackson’s legendary choose-your-own-adventure (CYOA) Sorcery! books, I decided I should catch up on the first two, and review them. Before noticing Richard already did. Oops. So, anyway, I’m covering the first two today, having chosen my own adventure through both. Then I’ll come on to the latest entry released last week. Of Sorcery! Parts 1 and 2 [official site], here’s wot I think:
+
+
+I’m very fortunate that I did enjoy a good few Steve Jackson and Ian Livingstone books as a kid in the early ‘80s, thanks to my father who was a big enthusiast, but I confess that I never did read the Sorcery! series. Although if they’re half as good as this video game conversion, I sure wish I had. The Sorcery games are such a splendid way to encounter a story, with genuinely wildly diverse paths and huge value in replaying, as well as far more RPG involvement than you’d likely be expecting.
+Beginning as either male or female, a Warrior or a Sorcerer (or most likely, both), you are sent on a mission to recover the lost Crown of Kings, in order to save the lands from being taken over by an evil Archmage. This involves choosing routes, avoiding or embracing dangerous situations, making dialogue decisions, buying new equipment, managing rations, working for gold, and a clever fighting system of balancing strengths of attacks against concern for defence.
+Replacing paper pages is an absolutely beautiful map, bulbous and textured, and a real pleasure to zoom around (with severe qualifications, as mentioned below). You drag the icon of your character from one spot to any of the potential destinations available, and off she or he trots. The rest is presented as text on the screen, but in a lovely scrolling screed that sews itself together as you make choices. Occasional illustrations from the original books appear, and although I find them dreadful, they provide some punctuation within the words.
+The map helps add a good deal of a feeling of place to things, especially as it leaves a trail showing where you’ve been. It underlines how much variation there potentially is, letting you see which regions you entirely missed, or which routes around or through a town you chose.
+
+Combat dispenses with the familiar dice rolls of the novels, and works by sliding your character toward the enemy a chosen distance. The farther you slide, the more powerful your attack. Stay still and you’ll defend. What you choose to do is based on what you guess the enemy will do, sometimes hinted at in the text descriptions of the fight. Defend and you’ll only lose one point of stamina against an attack of any strength, but if that attack was only – say – 1.3, you could have walloped it with a simply 2.0. Lunge at them with all your attack power and you’ll waste a massive pile of it if they defend, but could lop a chunk out of them if they perform a weaker attack. It’s so very simple, and yet interestingly involved, and the more stamina with which you come away from a fight, the better chance you have as the game goes on.
+Spellcasting is nearly very faithful to the books’ intentions. Each spell is made of three letters, these dependent upon the position of the stars at the time (ie. the ones it lets you access at that moment), which if correctly combined (and you have necessary items for casting) will unleash magic. I was confused at first as to why I was being given the letters without simple access to the spellbook, until I read that in the original release of the books the spells weren’t even included, but sold separately! Later editions had them as an appendix, but you were still encouraged not to look them up as you played. It does stop short of committing to the idea, however, letting you try any combination of the available letters without casting on the final selection, and seeing what it will create, which is a bit of a disappointment I think.
+
+I played the first game on my electronic telephone – the Sorcery series only finally ported to PC this year – and did so three times through. The first time I made poor choices, and by the end of the game I really wasn’t in any position to win a very difficult fight. But hurrah, the games simulate that old faithful of CYOA books: fingers and thumbs left as bookmarks of your moves! You can rewind your choices at any time, to any position in your current game, right back to the start. If you do so, of course, you’ll lose everything smart you did afterward too, and it’s remarkably difficult to remember exactly how you played each situation, and amazingly easy to find yourself on a completely different path.
+I ended up starting it over and playing much more sensibly, and whomped that final fight with the help of a giant I magicked and the hefty broadsword I’d purchased – two things I didn’t even know could be done on my first go. Then I played a third time, this time as a complete prick, seeing if being horribly rude to people made a significant difference. Gosh, it does, right down to how the story is told.
+Obviously my preferred route was the middle one, and I was disappointed at the idea of having to play a whole new route to carry on the series on PC. But no matter! A finished game offers a cloud save with a code, and starting Sorcery! 2 on PC, I popped in that code and the character and all her decisions and items transferred over. Completely splendid.
+
+By Sorcery! 2 things get a little more complicated. Clues are added alongside your various inventories, allowing you to piece together the information you need to escape the dangerous city of Kharé, and there’s a greater sense of freedom, of being able to occasionally retrace your steps, slightly more puzzle solving.
+It’s also a far, far bigger game, a straight run through the city lasting a lot longer than the first game, and that’s not including the need to repeatedly head back to earlier locations you missed the previous times if you’ve not gathered enough clues along the way. It feels enormous in comparison, far more involved, and with a huge amount of variation. It was a very smart decision to bundle parts 1 and 2 on PC, rather than sell them separately, as the result is one very lengthy adventure.
+
+However, there are some serious problems with the PC port. At the more minor end is the frustratingly glitchy spell casting, where for no discernible reason clicking on a letter will cause it to start spinning, or select a letter from a different group, which is fiddly and annoying. Much more seriously, there are features that just don’t work properly. Sorcery! 2 introduces a dice rolling gambling game that works very well, except that the game mangles its presentation of the results meaning you can’t read the text. Even more rubbish, the map that is exquisitely wonderful on phones is all over the place on PC, with the zoom levels of a (wrong direction) mouse wheel roll ridiculously far apart (pinch zoom on Android appears completely smooth).
+ Unfortunately, this means that when in buildings, drawing a path from your character to the next destination can become annoyingly tricky, either too closely zoomed in to be able to see both at once, or zoomed out too far for them to be marked on the map. (Again, the phone build seems to have no problems showing your character from any distance.) It demonstrates a concerning lack of playtesting at different resolutions, and is such a long way from the adaptive loveliness of the telephone build that even lets you flip seamlessly from landscape to portrait.
+
+Technical frustrations aside, this is a fantastic piece of work. As I mentioned at the start, I’ve not read Jackson’s originals, nor do I have them in front of me to meticulously check whether much new material has been added or taken away, but I am pretty certain that even the most diehard fans of the novels would be delighted by this conversion. It feels so much more involving than interactive fiction often can when just presented as text, but doesn’t get distracted by graphical features to dilute the effect of the narrative. This is really smart stuff, both in original content, and its execution.
+Sorcery! Parts 1 and 2 is available now for Windows and Mac.
+
+12/04/2016 at 13:29
+
+Imagined Realms says:
+
+Choose your own adventure? CHOOSE YOUR OWN ADVENTURE!?!? Bah! 
+The Sorcery! books were from the much superior ‘Fighting Fantasy’ series…
+
+12/04/2016 at 13:53
+
+malkav11 says:
+
+While there was a series specifically called Choose Your Own Adventure, it’s also become a term used for the entire genre of book (including other books like the CYOA series proper where it was just about choosing branches as well as the vastly more interesting gamebooks like Fighting Fantasy, Sorcery! and Lone Wolf).
+
+12/04/2016 at 13:50
+
+sharkwald says:
+
+John, would you recommend the PC/Mac port over the mobile one? It sounds, from your description of the zoom issues and similar, that the phone version might be the lower friction option?
+
+12/04/2016 at 13:54
+
+John Walker says:
+
+I’m a bit torn, but I think I’d recommend the phone versions.
+
+12/04/2016 at 15:48
+
+dontnormally says:
+
+Just throwing my chips in this pile: the game(s) is/are amazing and absolutely worth checking out. Mobile version for this seems slightly more appropriate.
+
+12/04/2016 at 14:12
+
+Lamb Chop says:
+
+I’ll vouch for the ipad version. If you have a tablet, it’s got good screen real estate and the touch controls feel very natural. Also, it’s definitely a game to be played in your bed and not at your desk.
+
+13/04/2016 at 13:29
+
+Ragnar says:
+
+Thanks, I will probably go that route. Things on iPad tend to get more traction with the rest of the family anyway.
+
+12/04/2016 at 13:51
+
+Neurotic says:
+
+Sold!
+
+12/04/2016 at 15:37
+
+DeadCanDance says:
+
+Finally something worthy of reading here on RPS. So tired of the division getting so much undeserved coverage.
+
+12/04/2016 at 16:00
+
+dontnormally says:
+
+RPS going forward is going to have two flavors:
+• click-research-driven articles that often but not always overlap with the longtimer demo
+• stuff they feel like writing about because they maintain an amount of autonomy
+
+13/04/2016 at 08:18
+
+John Walker says:
+
+Two things:
+1) The Division is ace, and lots of our readers want to read about it.
+2) There have been THIRTY posts since the last time The Division was mentioned.
+
+12/04/2016 at 15:46
+
+kalzekdor says:
+
+This is quite a nice series. I recently got the third one, but I haven’t tried it out yet. Miles ahead of the rather bland Fighting Fantasy games. It compares favorably with the Lone Wolf games, which are really the pinnacle of gamebook adaptations. The combat and progression in Lone Wolf makes it a better RPG, but Sorcery!’s charm and wit are a nice contrast to Lone Wolf’s grim and serious nature.
+The combat is fairly simple from a game perspective, and it’s fairly easy to beat even the toughest fights losing only 4 or so Stamina. While not challenging, the way your simple choices turn into paragraph after paragraph of unique and descriptive text make it wonderfully immersive, much more so than “You hit the Goblin for 2 damage!”, and it’s one of the things I really love about this series. It’s a brilliant adventure, in the full meaning of the word.
+
+12/04/2016 at 16:10
+
+Edgar the Peaceful says:
+
+Pedant’s corner: I bought the first edition of Sorcery 1 – The Shamutanti Hills. It came as two books held within a stiff cardboard case. One book was the adventure itself and the other, somewhat luxuriously, was the spell book containing many three letter spells – FOF, BIG etc. The reader was encouraged to read the spellbook before embarking on the adventure, learn the spellings ‘test revision’ style, then put the spellbook aside when playing the adventure. True wizard roleplaying.
+I agree that John Blanche’s illustrations are an acquired taste. I always much preferred Russ Nicholson’s spindly linear illustrations (he of The Warlock of Firetop Mountain).
+
+12/04/2016 at 19:56
+
+Telemikus says:
+
+In my mind the pinnacle of Fighting Fantasy book art was by Iain McCaig. Even now his work is etched into my imagination. 
+His work in books such as Deathtrap Dungeon, City of thieves and many others were so atmospheric as to be the fuel for much of my minds meanderings in the worlds he depicted.
+
+12/04/2016 at 16:19
+
+Bladderfish says:
+
+Really worth getting these on phone. I think the style fits better to a mobile device than a PC: the game works nicely with being able to jump in and out rather than fly through it in one go.
+Also, part 3 is even better than part 2. Some very interesting mechanics, and far more challenging. I’m looking forward to the last part, but I’m not sure when it is out.
+
+12/04/2016 at 17:01
+
+Vacuity729 says:
+
+Not sure if anyone from RPS will see this, but the tags for Inkle Studios are messed up; you’re using the tag “Inkle” and* the tag “Inkle Studios” willy-nilly, which makes it difficult to find old articles about them; clicking on whichever tag is at the end of a given article only brings up some of RPS’ articles about the studio, with the rest apparently missing. Try it; the “Inkle” tag on this article will not lead you to the previous Wot I Think.
+
+12/04/2016 at 18:54
+
+xalcupa says:
+
+I can vouch for the android phone/tablet version. Have played the tablet format on three long-haul flights forgetting time and uncomfort. Had a great time. Good replayability and well worth the money. Had no technical issues at all.
+
+12/04/2016 at 18:57
+
+xalcupa says:
+
+Would also like to add that the art is great for setting the theme and mood. The world feels wonderfully alien and yet recognizable. My only criticism would be that I need a simpler primer for the various spells. An one-pager would be great. Found it cumbersome to scroll through all the spells each time.
+
+12/04/2016 at 21:31
+
+caff says:
+
+Then it would be less of a spellbook and more of a spell pamphlet.
+
+14/04/2016 at 00:15
+
+syllopsium says:
+
+I did play the original Sorcery! books – the tablet/computer versions are better in every way, not that the originals were poor.
+The first game is quite close to the book, the second has a fair bit of new material, and by the time it reaches the third there’s as much new material as old.
+I’d recommend playing it on a tablet, I used the Android version. Phones are too small for effective play.
+The third game is truly outstanding, the time travel mechanic perfectly suited to a touch device, too.
+I’ll be playing with fourth game the moment it comes out.
+
+15/04/2016 at 15:00
+
+Xander77 says:
+
+A patch fixing specifically the tech issues you mentioned came out the other day. It doesn’t fix EVERYTHING wrong with the PC port, but it’s a major step forwards.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Inkle, review, Sorcery!, Sorcery! Parts 1 And 2, Steve Jackson's Sorcery!, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

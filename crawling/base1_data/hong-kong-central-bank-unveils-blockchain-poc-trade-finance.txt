@@ -1,0 +1,15 @@
+./html_data_bitcoins/hong-kong-central-bank-unveils-blockchain-poc-trade-finance.txt
+
+
+
+CryptoCoinsNews
+The Hong Kong Monetary Authority (HKMA) has today unveiled its proof-of-concept (PoC) blockchain platform for trade finance as the island nation looks to take a proactive leap in digitizing global trade as one of the world’s major trading hubs.
+According to a report in the South China Morning Post, Hong Kong’s defacto central bank has created the blockchain PoC platform to be used by banks as financiers of an international trade, buyers and sellers at both ends of the transaction and logistics providers such as shipping companies.
+Spearheaded by the HKMA, the initiative also included participants in services giant Deloitte and five of Hong Kong’s biggest banks including  Bank of China (Hong Kong), the Bank of East Asia, Hang Seng Bank, HSBC and Standard Chartered (Hong Kong).
+The trade finance sector in global trade and finance could become one of the earliest areas for use-cases of the innovation with a significant number of blockchain development efforts geared for the space. Current processes in trade finance are expensive and inefficient due to manual oversight and furthermore, time-consuming. Reduced transaction settlement times, increased transparency, an immutable record of the entire transaction and the manual processes turned automated are some of the benefits of the innovation.
+In quotes reported by the SCMP, Joshua Kroeker, senior product manager for global trade at HSBC, one of the participating banks developing alongside the central bank’s blockchain PoC stated:
+As the largest trade finance bank in the world…we were interested in assisting corporates to track transaction flows, reconcile transactions through invoice or purchase order matching, and reducing the risk of duplicate financing for the participating banks. This development puts Hong Kong at the heart of a global effort to digitize trade, making it easier, faster and cheaper for businesses.
+In late 2016, the HKMA established a FinTech Innovation Hub and a supervisory sandbox to allow banks and startups conduct PoC trials and services in the country. HMKA’s own project began trials in December before its completion this month, according to a Deloitte executive.
+In September 2016, the claim to the world’s first blockchain-based trade finance transaction saw butter and cheese exported from the UK to Seychelles.
+Other efforts in developing blockchain applications in trade finance include a joint endeavor by Standard Chartered & DBS in Asia, the Bank of America, a global experiment among member banks of R3, Microsoft and notably, a partnership between IBM and the Dubai government last month.
+Featured image from Wikimedia.

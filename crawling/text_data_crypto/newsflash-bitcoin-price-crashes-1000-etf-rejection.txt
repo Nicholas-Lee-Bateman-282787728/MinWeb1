@@ -1,0 +1,14 @@
+./html_data_bitcoins/newsflash-bitcoin-price-crashes-1000-etf-rejection.txt
+
+
+
+CryptoCoinsNews
+The aftermath of the SEC’s refusal to approve the Winklevoss bitcoin ETF has resulted in a predictable outcome for bitcoin trading markets. As news of the rejection spread, traders engaged in a rapid sell-off to see bitcoin price sink to a low of $975.
+Bitcoin price struck $1,288 on the Bitstamp Price Index (BPI) at 21:00 UTC. Ten minutes later, price plummeted to $975, a new 30-day low going back to February 9 when price last took a tumble after two major Chinese exchanges paused bitcoin withdrawals. In that 10-minute period, bitcoin lost nearly 25% of its value.
+Trading has since normalized after the panicking temporary sell-off among traders, with price now reverting back above $1,100. At the time of publishing, bitcoin is trading to the dollar at $1,108.
+
+It has been a roller-coaster day for the world’s most prominent cryptocurrency, which hit an all-time high of $1,350 earlier today.
+For a live Bitcoin Price chart, click here.
+For the most recent bitcoin price analysis piece from CCN analyst Jim Fredrickson, click here.
+All time references are in Coordinated Universal Time (UTC).
+Image from Shutterstock. Charts from Bitcoin Wisdom.

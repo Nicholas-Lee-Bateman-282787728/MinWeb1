@@ -1,0 +1,245 @@
+
+RPS Feature
+Monstrously clever 
+By Adam Smith on March 1st, 2017 at 5:00 pm.
+
+Within a couple of minutes of sitting down with Justin Ma and a build of his new game, Into the Breach [official site], preconceptions are torn to shreds. Ma is one half of the team behind FTL and when Into the Breach was announced, I wasn’t alone in thinking it looked like tactical skirmisher Advance Wars, with added monsters. It is that game, to an extent, but its most notable feature isn’t tied to the setting at all – it’s that this is a tactical combat game in which the enemy is entirely predictable. Everything is explained below, but in short, this might be the smartest turn-based design I’ve seen since Invisible, Inc. 
+
+Before plunging into all of the complexities, here are the basics. At the beginning of every turn, the monsters make their plans, and every move they make is written on to the tiny one-screen map. No action has been taken though. The monsters make their plans first, but the player acts first, using the abilities of their mechs and pilots to counter the coming onslaught.
+Many strategy games conceal information, forcing the player to work with an incomplete picture, and most use an element of randomness when the shit hits the fan and the bullets hit their target. Into the Breach ditches dice rolls and deception, relying instead on the abilities of units and terrain features to create emergent tactical situations that create chain reactions and unexpected, though predictable, outcomes.
+
+Ma’s reasoning for this approach is two-fold. First of all, it allows for detailed planning as a response to information rather than a stab in the dark. As in Invisible, Inc., expect to spend minutes figuring out the permutations of moves before committing to them, and trying to figure out where a positive outcome might lie in a seemingly hopeless situation. This is also about AI though.
+“In most strategy games you’re trying to play against a fake player. We don’t like making AI and in this system [the Vek] don’t have to be clever. You can make them hit each other, walk into fires, and do other things that seem stupid, but that make sense within the tactical structure of the turns. It’s not reliant on random chance or complex AI.”
+I’ll give examples in a moment but first, it’s important to understand the basic objective on each of the mini missions. You’re not there to destroy all monsters, though taking them out is an essential part of the process, you’re there to protect people and buildings from those monsters. There are other bonus objectives during each mission, which bring their own rewards, often in the form of reputation boosts that act as a form of currency, but the essential directive is to keep the settlement safe until the turn counter has run down.
+
+Mechs can recover health, and are replaced at the end of a mission if destroyed (though the pilot is lost), but when a building is destroyed, it’s gone for good. Each one that you lose removes a point from the city’s power grid and if that is reduced to zero, the mission is lost. 
+What this means in practice is that throwing one of your mechs in the path of an incoming projectile can be just as, or more important, than killing a monster. Or, better still, maybe you can push another creature into that projectile’s path, solving two problems with one action – the projectile no longer hits its original target and the poor schmuck that winds up on the receiving end takes the damage instead.
+Crucially, Into the Breach is about clever use of positioning rather than simply overpowering the enemy. As you progress through the game, you’ll find or buy new weapons for your mechs, and some of the most useful aren’t damage-dealing at all. At least not directly. I saw a grappling hook causing all kinds of problems for the monstrous Vek, dragging them into fires, inland lakes and other hazards, or simply shifting them into a corner of the map where their attacks are ineffectual. It’s more like a variant of Chess, about control of space and sacrifice, than the rock paper scissors of Advance Wars.
+At a basic level, there is a unit that can punch, removing two damage points and knocking enemies backwards. Then there’s an artillery mech, which attacks a specific tile and pushes neighbouring enemies away from the point of impact. Most weapons are adaptable for use in different situations and can be upgraded in ways that don’t simply involve buffing the damage they do. Artillery fire, for instance, can be altered so that it doesn’t damage buildings at the point of impact, allowing you to fire it directly at a district under attack, knocking enemies away without killing the occupants. 
+
+As he showed me the game, which is in a more complete state than almost any Early Access release I’ve ever seen, Ma explained the thinking behind the design and setting: “We wanted to put the player in a situation where protecting the city is the highest property.” He mentions Man of Steel as an example of the way in which civilian deaths are often treated as spectacular collateral rather than the awful outcome the heroes are trying to prevent, and Into the Breach is in some ways a response to that tendency. In the game’s fiction, humanity is on its last legs: sea levels have risen and nation states have dissolved, leaving a group of islands controlled by corporate entities. We’ve done ourselves down and the Vek are picking over our bones.
+Structurally, progress through the campaign has similarities with FTL. Though you’re not actually trekking through systems, left to right, you do tackle the islands one after another, each containing a series of missions that must be completed before you can move on. In the early stages, you’ll have to tackle islands in a specific order but later you’ll be able to choose where to head next. This is important because each kind of terrain, and the corporation controlling it, brings its own set of hazardous features and possible bonus objectives.
+Those hazardous features can, in keeping with the emergent possibilities that are central to the game’s tactics, be a danger to the Vek as well as to civilians and your own mechs. The ones that I saw range from the simple – mountains that block movement (but can be obliterated), and grassland and forests that burn when struck, causing fire to spread across the map – and more dramatic options such as a dam. Sitting at the edge of the map, it can be destroyed, causing water to flood across the field of play, altering the layout and damaging or drowning everything in its path.
+Ma explains the importance of these terrain features, as well as the variety of weapons and enemies: “In FTL there was a lot of variety from the events and the text, but what that meant was that you needed an infinite amount of text to be sufficient. Even with a novel’s worth of writing, or more, people start to see repetition. We try to avoid that entirely with Into the Breach by having the primary interesting factor be the ways that all of the rules and mechanics interact during the missions.”
+
+And all of this is happening, remember, in an entirely predictable space. If you fire a missile at that dam, you know where the water will flow and you know what damage it will do. You also know, before firing the missile, what the Vek are going to do when their turn rolls around. This means that when you make a mistake, you can immediately reverse engineer the process that lead to that mistake. It also means there are lots of triumphant moments and they come from the brilliance of a well-worked plan rather than the roll of a dice. It’s the difference between celebrating a critical hit that saves your squad in XCOM, like a player drawing a Full House on the turn in a game of Texas Hold ‘Em, and the Eureka moment that comes from spotting a checkmate opportunity. 
+Into the Breach is a small game with very big ideas. I don’t mean ‘small’ to sound derogatory in any way; it’s a fundamental part of the design that the maps are tight, the turn limits are brief, and the number of units in play is low. In part, this relates to every mission feeling like the final climactic moments of a battle rather than the long war, but it’s also tied to a need for legibility. Ma wants to ensure that everything on the screen is knowable and you won’t need a supersized tactical mind to hold it all in your mind simultaneously.
+That’s not to say the game doesn’t have breadth though. Ma’s aim is to have plenty of variety, both in terms of your own weaponry and enemy abilities, it’s just that it won’t all be on-screen at the same time. Depending on the specific bonus objectives and layout of a map (they’re randomly generated from hand-crafted components), you might choose to take out a monster that buffs its allies, or to concentrate on blocking new arrivals, which burrow out of the ground. Like everything else, these arrivals are telegraphed, the tile in question overlaid with a crack in the ground from which something is emerging. Blocking the emergence destroys the monster but also damages the unit on the tile at the time, and if you’ve been paying attention, you’ll realise that pushing an enemy onto that tile can kill two Vek with one metaphorical stone.
+Added to all this, there’s levelling for pilots, new weapons to find for mechs, and squads designed for higher-level players that barely cause any direct damage, but can use aerial abilities to leap over obstacles and enemies (like a Chess knight with a disruptive electric storm dispenser). Ma talked about mixing and matching units to make free-form squads, but I only saw set units of three, which are vaguely similar to FTL’s ships in that they teach and exercise specific mechanics and combinations of those mechanics.
+
+I haven’t even touched on time travel, which along with the final battle is the one part of the game that still seems to be in an experimental stage. There are pods to collect, during missions, that contain tech and pilots sent from alternate futures, sent back to help you in the battle, but there’s more to it than that, including a clever loop that makes sense of failed campaigns, knitting them into a larger narrative. 
+Toward the end of our conversation, I asked Ma if he was suffering from sophomore album nerves. FTL wasn’t his first experience in the games industry, he’d worked at 2K in a small role before going indie full-time, but it was the game that put his name out there in the world. He says development of Into the Breach has been more relaxed – “we’re not killing ourselves and have a better work/life balance this time around” – but also reckons its somewhat liberating to accept that he’ll never make a game as beloved as FTL.
+Maybe not. But on the evidence I’ve seen so far, while Into the Breach doesn’t have the immediate hook of captaining a ship full of tiny people, it has a more intelligent and intricate tactical structure than I expected. Within its micro-battles it manages to reference and build on ideas from both pop culture and other games without leaning on them too heavily, and trusts players to engage with its systems in complex and flexible fashion. While it may not be as widely beloved, I’m already more or less convinced that I’ll be part of a smaller audience that enjoys it more than its predecessor.
+Into the Breach doesn’t have a confirmed release window.
+
+01/03/2017 at 17:08
+
+shinkshank says:
+
+I expect to join you in that group. FTL was a fun game, but it was, in my eyes at least, brought down by how reliant you were on coming across the right items to be able to succeed. This looks like a much more calculated endeavor, which I’m very down for.
+Plus, let’s be frank, FTL is a pretty standard space game outside of it’s actual gameplay. Ain’t enough “giant time-traveling robots fightin’ monsters” games in the world.
+
+01/03/2017 at 19:25
+
+gleb09 says:
+
+I just finished the FTL episode of Roguelike Radio. They talked about how that was a common complaint of FTL that it was too reliant on finding the right items. They said that’s not really true because the guy did a no-shop run of the game and finished it.
+
+02/03/2017 at 13:43
+
+grrrz says:
+
+yes, with enough practice you can win almost every time. Well some ships are harder than others.
+
+02/03/2017 at 10:31
+
+dskzero says:
+
+That isn’t really true, but it’s a common complaint. It’s, after all, a really tough game. 
+But hey, losing’s half the fun, isn’t it? I spent a hundred hours with it over a couple of years before sitting one day and saying “Man, today I do not really want to play FTL” and I did beat the final boss… once. It was one hell of a deal for me.
+
+02/03/2017 at 13:10
+
+MajorLag says:
+
+“I expect to join you in that group. FTL was a fun game, but it was, in my eyes at least, brought down by how reliant you were on coming across the right items to be able to succeed.”
+I played a whole lot of FTL. According to Steam, it was precisely… 145 hours!!!??
+Ahem. Anyway, I played a lot of it. You are NOT reliant on what items come your way most of the time. There are setups that will make it easier, and setups that make it harder, but the game is not about what cards you’re dealt, it’s about how you play them.
+More than once in my quest to beat the game on the hardest difficulty with every ship (pre-expansion) I was surprised to discover that a setup I was sure would end in defeat actually ended up being my highest scoring. The game takes on this almost puzzle-game like quality where you try and arrange the pieces you have into a strategy for dealing with whatever situations you know you’ll face. And it turns out it is almost always possible to make it work.
+Of course, there are exceptions. RNG gonna RNG after all. But for me, even when I was limping around in a mostly-damaged ship, with nothing but weak ion weapons and 2 crew in sector 6, my shield system at half-capacity because I can’t spare anyone to brave the breaches and fix it and I haven’t seen a store since sector 2, I was having a blast trying desperately to pull out a victory, or at least see how far I could make it on basically nothing.
+In short: I disagree.
+
+01/03/2017 at 17:15
+
+FhnuZoag says:
+
+Okay, now you’ve got my attention.
+
+01/03/2017 at 17:20
+
+Shar_ds says:
+
+All the talk of shoving and pulling to arrange things optimally reminds me of the PS2 gem, Dynasty Tactics
+
+01/03/2017 at 17:27
+
+c-Row says:
+
+That sounds like the “one player moves, one player attacks” mechanic from the first Battle Isle to me. You could see your enemy’s movement orders on his side of the splitscreen but could issue attack orders to their current position on your half.
+
+01/03/2017 at 17:43
+
+Drib says:
+
+“We wanted to put the player in a situation where protecting the city is the highest property.” Highest priority? Or property?
+Anyway, game looks neat. I like the core idea of it anyway.
+
+01/03/2017 at 18:06
+
+Craig Stern says:
+
+Turn-based tactical fights that are effectively deterministic puzzles, then; sounds like my sort of title. :)
+
+01/03/2017 at 18:23
+
+ToughMochi says:
+
+Very intrigued. Game concept reminds of me Neon Genesis Evangelion with the focus on the pilots, mechs protecting cities, flinging monsters in to mountains and all. Waiting patiently for a release date!
+
+01/03/2017 at 18:46
+
+otakucore says:
+
+My biggest fear is that the game will have a massive difficulty spike in the final battle. I gave up on FTL because of that. (I gave up on Shadow of Mordor for the same reason. I really hate it when you feel like you’ve gotten good at a hard game, only to find the final battle seems impossible.)
+
+01/03/2017 at 19:39
+
+Kaeoschassis says:
+
+The final battle of FTL is in many ways the easiest part of the game to play well and if it’s what put you off, I heartily encourage you to go back and try again with this in mind – the final battle can be planned for. It is the same every time. Ignore anybody who tells you that you need this or that specific piece of equipment in order to win it, too – with the possible exception of a decent shield level, NO single upgrade or weapon is a requirement.
+Think of FTL’s final battle as a puzzle to be solved. The boss has specific abilities, attacks and defenses, and you need to have a counter for each of these, but there are multiple potential counters to each, and a lot of room exists for creativity. To give you one, simple example, it’s a high priority, especially in the first phase of the fight, to deal with the boss’ weapons as quickly as possible, since they have simply too much firepower for you to reliably survive them all for long. How do you do this? You could use an overwhelming barrage of guns of your own to take out the weapons and kill their operators, or you could use firebombs, or teleport your own crew over. You could use a cloak to buy you extra time, or max out your shields and engines. The list goes on.
+The advanced edition added so much extra STUFF, too, that the final boss becomes even more of an interesting puzzle – you could mind-control one of those weapon operators in the above example and use them in conjunction with your other methods to speed the destruction of the weapon. Or if you have a cloning bay, you can just keep teleporting in endless waves of attackers.
+I do not win every game of FTL I play, but I can play on normal and know I have a decent chance of success, and if I get to the boss, I know I’ll probably beat it. It’s the bit I dread least, to be honest. And let me make this clear, I am in NO way a particularly good gamer. I just realized I was dealing with a puzzle, and started thinking of the gameplay leading up to that puzzle as an opportunity to put together the pieces I would need to solve it. 
+Give it another chance with a different mindset. What could it hurt?
+
+02/03/2017 at 19:07
+
+Viral Frog says:
+
+I gave up on FTL because I played it with the “nothing specific is required to beat the boss” mindset, and in the 10 or so times I actually made it to the boss fight, never once had a set of weapons that could break it’s shields. It definitely matters what you have in the end of the game. No matter how well I did up until that point, I was never given the ability to pierce the boss’s shields along the way. With how much time spent getting to that point, it felt like an absolute waste of my time. I’m not a fan of wasting my time on fruitless endeavors. It would be different had I actually stood a chance once getting to the fight and just goofed it up myself, but I didn’t. I would say that means that there is a huge dependence on what you pick up along the way.
+
+02/03/2017 at 21:32
+
+MajorLag says:
+
+“No matter how well I did up until that point, I was never given the ability to pierce the boss’s shields along the way”
+You mean you never once, not once, got a Bomb or Missile system, Boarding Drones, or a Teleporter? Even an Automated Reloader and weak weapons capable of just barely producing 3 hits / cycle would be enough to get through the shields.
+
+03/03/2017 at 04:59
+
+zal says:
+
+It’s all my fault! I’ve never made it to the flagship WITHOUT a way to hurt it. I’m so sorry I took them all.
+
+01/03/2017 at 19:04
+
+terryterryd says:
+
+The look of it reminds me so much of the original Front Mission on the SNES
+
+01/03/2017 at 19:35
+
+nattydee says:
+
+Something about Into the Breach’s art style + design ethos + gameplay has me more excited about this than any other game in the last few years. Advance Wars was my jam as a kid, and I’m super excited to spend time with another game by the team that made FTL
+
+01/03/2017 at 19:40
+
+Kaeoschassis says:
+
+Yeah, I’m even more stoked for this now. Seems like the wait after FTL’s been worth it.
+
+01/03/2017 at 20:15
+
+TΛPETRVE says:
+
+Words cannot describe how bloody excited I am.
+
+01/03/2017 at 20:35
+
+ersetzen says:
+
+The trailer looked good and after reading this I am seriously excited. So, when can I get my hands on this?
+> Into the Breach doesn’t have a confirmed release window.
+Goddammit.
+
+01/03/2017 at 20:40
+
+jeppic says:
+
+First “Unexplored” and now this has been referred to as the best iteration of a mechanic of something since Invisible Inc. Invisible Inc. sits on a really high pedestal for me, so hearing this has me both interested but also interested in what Klei is cooking up next.
+
+02/03/2017 at 09:02
+
+SBLux says:
+
+Would you rank Unexplored above Dungeons Of Dredmore?
+
+01/03/2017 at 22:10
+
+Skydancer says:
+
+I would like to remind you Bionic Dues from Arcen Games works on a similar principle.
+It’s a brilliant little game, check it out in case you missed it: link to google.it
+
+02/03/2017 at 13:15
+
+MajorLag says:
+
+I played a bit of it recently in a bid to find something in my giant library of unplayed games to distract me from life for a while.
+It… didn’t really seem that good to me. Maybe I was playing it wrong, but given the lack of guidance on the game’s part I don’t really feel like that’s a fault with me.
+
+02/03/2017 at 15:41
+
+SirRoderick says:
+
+Well that’s all well and good, but what would REALLY sell me is another Ben Prunty soundtrack!
+Game has some great ideas though :)
+
+03/03/2017 at 22:48
+
+Cronstintein says:
+
+“this might be the smartest turn-based design I’ve seen since Invisible, Inc. ”
+Well that got my attention!
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, FTL: Faster Than Light, GDC 2017, Into the Breach, justin ma, preview, Subset Games.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

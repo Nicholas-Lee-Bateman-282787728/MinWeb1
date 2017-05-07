@@ -1,0 +1,152 @@
+
+RPS Feature
+"I never asked for this" 
+By Brendan Caldwell on March 14th, 2017 at 9:00 pm.
+
+Every week we send Brendan out to the slums of early access to see what goodies he can find in the rubbish bins. This time, the absurd chaos of Streets of Rogue [official site]. 
+“You better pay this back,” said the bartender as I took the money from him. I left the bar in silence and went looking for some cocaine. It’s not often you get to play as an investment banker in a roguelike, and I am enjoying it. This one has the special ability to convince shopkeepers and bartenders to lend him money. I made great use of this skill in every bar or shop I came across. “You better pay this back,” each of the donors, er, I mean investors said to me. A couple of levels later, I was suffering withdrawal and trying to find a drug dealer for my fix when a gang of ninjas came out of nowhere and tried to assassinate me for being so deep in debt. “Phew,” I thought as I escaped their attacks and rounded a corner. Then I ran into the killer robot. He was also hunting me, and I’ll say this for him: he has much better aim.
+Streets of Rogue is super. You’re a small hero of the Resistance, standing against the corrupt Mayor of a rotten futuristic city. You ascend into the tower-like metropolis level by randomly-generated level, taking on equally random missions and gaining new skills, items and fair-weather friends. It’s a roguelikelikelike, or whatever it is we’re now calling games that submerge you in roomy Binding of Isaac style randomness. There are drugs that turn you into a giant, bombs that blow doors off their hinges, cigarettes with which you can poison air filters, whiskey to drink for health (or use to bribe bouncers), boomboxes that make your enemies dance, and devices that hack the bullets out an enemy’s gun and into your own. It almost makes you wish Deus Ex was as imaginative with its approach to cyberpunky stealth and chaos.
+
+There’s a great cast of characters to choose from. The investment banker starts with an obscene amount of money and the ability to identify any type of drug but, like I’ve said, he also has an addiction that will slowly drain his health if you don’t keep his nose powdered. There’s a Shapeshifter that can leap into people’s bodies but who is naked and thus provokes any policeman on sight. A doctor who can chloroform people from behind but who can’t use normal weapons because of being a “pacifist”. There are werewolves, gangsters, jocks, comedians. They all have their benefits and trade-offs, each of them makes you “oh cool!” but then also “ah right.”
+
+But none of it would matter at all if you didn’t get a big playground to mess around in. The roguish streets are not hostile by default. They are miniature city neighbourhoods, with bars, libraries, laboratories, flats, prisons, clinics, cafes, public toilets and other such places. You’re just a punter until you do something to piss people off. But obviously, you will piss a lot of people off. The game gives you two or three randomly-generated missions in each new level. Usually it’s just some variant of “kill these two suckers” or “rescue this bloke” or “retrieve item X from person Y” or “destroy this crate and loot its contents”. This form would feel limited but there are many ways you can go about each mission.
+
+For example, my first ever task was to get a tooth from a slum dweller lying asleep in her own tiny boarding house room. I didn’t have any of the thief’s lockpicks or window cutters to sneak in, nor did I have the banker’s cash reserves to simply pay her to take out her own tooth and hand it over. I had to improvise as best as a fellow slum dweller could. I knocked on her locked door and when she answered I simply punched her until she fell over. It wasn’t my proudest moment (that was when I killed three scientists – but more on that later) but it got the job done. Into the elevator and onto the next level.
+
+To make matters slightly more interesting, there are map-wide events that sometimes get sprung on you when entering a new area. It might be raining bombs, forcing you to stay on the move constantly. Or maybe a radiation wave strikes outdoors every 15 seconds, forcing you to dash from doorway to doorway throughout the whole level keeping out of the storm, so to speak. Or there might just be a killer robot with good aim hunting you down. This, along with the rest of the interweaving silliness and random quest goals, all comes together to create small, chaotic vignettes – moments when everything comes falling apart in the most disastrous and funny ways. Or moments when, even through the bedlam, you manage to Get The Job Done.
+I once had to rescue a prisoner during a riot. The problem was he was stuck in cells of the local police station. Citizens were going mad, battering anything that moved and the police were battering right back. It was total anarchy and I somehow managed to warp through a wall using a special thief’s device, picklock the prison door and sneak us both out of there without any of the remaining guards noticing.
+
+Another mission demanded I “neutralise” four scientists in a secure lab. I had a gun by this point and they all simply had fists and knives. But if I blooped in there with my teleporter and started shooting, they could easily bum rush me. Not to mention the security guard at the front desk who would definitely hear the commotion and come storming in firing bullets from his 9mm. I looked around for another solution. There were cages in one of the wings of the lab. Two gorillas were locked up. Hm. Hmmmmmm.
+
+I warped in, right beside the ape and was relieved to find he wasn’t violent. I picked the lock to the first cage then ran over to the second. Within moments the gorillas had leaped into the lab proper and were tearing the scientists asunder, getting their bloodthirsty revenge for whatever experiments they must have been doing. The apes even killed the guard at the front desk, who had the bad idea to shoot at them. “Mission accomplished!” said the game. And then: “Character unlocked: Gorilla!”
+Yusssss.
+
+The joy then lies in how all the small rules can combine to create mini-dramas. The personal politics between character classes drives much of the street-fighting and daftness that can occur, even without you having any hand in it. The blue gang members don’t like the purple gang members and will fight each other on sight. As a thief you will get told to leave any bar you enter because the owners find you suspect (and rightly so, dirt bag). Scientists hate gorillas, shirtless wrestlers won’t get served in shops.
+
+The skills you earn between levels aren’t as inventive, often giving you better critical hits or cheaper deals at a shop or stuff like that. But you do unlock more of these between deaths by earning the most futuristic of all crypto-currencies: chicken nuggets.
+
+You hand these in at the Resistance HQ for new potential traits. The skill “Disturbing Facial Expressions” makes some people run away from you in combat. “Clumsiness Accepted” means people won’t mind if you break their things (normally, they really do not like this). “Bloody Mess” gibs everyone you kill, a call back to the Fallout trait. These are probably the most interesting of the bunch. The others, like getting more health from each chowed piece of food, feel dry in comparison to some of the wackier abilities and items.
+
+Nevertheless, Streets of Rogue feels like a thing of destruction and detail. Small, dumb mishaps occur all the time. But so do moments of micro-heroism. Here’s some more examples of what happened in my very first life as a resistance man in rags.
+
+
+
+It’s a marvellous wee thing. I haven’t tried the co-op yet but I can imagine some of the disarray you might cause by combining the abilities of certain characters. But I did spend over an hour last night wandering around with the Hacker character, hacking television sets and refrigerators and security systems. Pumping gas into the buildings of my enemies and reprogramming slot machines to give me increased odds of winning. It’s satisfying to see a developer run with the idea of a “randomly generated micro Deus Ex” and pull it off so faithfully, while retaining its own sense of silliness.
+
+Before I played this I dipped into two other games, each time intending to write about them for this column – Pamela and Hellion. Both are survival games and both were so undercooked that I stopped and put them on the back burner for now (Hellion was a crashing mess and Pamela took a full 15 minutes to load every time, before revealing a game-breaking menu bug). Streets of Rogue gave me a sense of physical relief – an early access game that is not only functional but a solid laugh from the moment it lands. The true joy here is that there is room for even more. More daft items, more maddening characters, more hackable machines. If the creativity keeps pace then the final release will be a small yet outstanding addition to the choose-your-own-accidental-death genre. But even now, at eleven quid (about 55 chicken nuggets) it feels worth it.
+Streets of Rogue is on Steam early access for £10.99/$14.99. These impressions are based on build 1681923
+
+14/03/2017 at 21:24
+
+Unportant says:
+
+This is perhaps due to my predilections with ‘immersion sims’ but it felt *very* shallow to me. It steers you towards violence too often (seemingly because the env’s don’t reliably produce the items/routes you need for sneakier options), not that I’m a peacenik, but I like these types of games because patience and comprehension really pay off … while this game is just kind of chaos most the time. That wouldn’t be bad if the combat were fun, but it’s really dull.
+I still feel like maybe everything would be fixed for me if he just stuck in some ducts….
+
+15/03/2017 at 02:15
+
+April March says:
+
+I don’t know, I think that, when you’re playing with the more brittle classes, combat very often feels like a punishment for screwing up. I get what you mean – most non-violent approaches rely on limited-use items that cannot get reliably refilled – but I haven’t had a problem with that myself, yet. Maybe I just die too soon 😐
+
+15/03/2017 at 12:43
+
+ersetzen says:
+
+I could see it as a complain that play style is very dependent on the class. Obviously subjective whether that actually is a bad thing but if you want to play without fighting you will have to choose a class that can do that.
+I quite like the cop who can arrest people to take them out without fighting but is punished for attacking or stealing from innocents. Or the bartender who can mix poisons and drugs into the drinks he mixes to take targets down.
+
+15/03/2017 at 19:07
+
+Paul Debrion says:
+
+You can use Cloning Machines to buy more of consumable items that you find essential provided you keep at least one of them.
+They’re fairly common and are pretty important if you’re playing a class like the Thief.
+
+14/03/2017 at 21:38
+
+Paul Debrion says:
+
+I ran across this while browsing around Itch.io before it hit Early Access and ended up playing the heck out of the Alpha.
+One time I managed to actually kill a target using the giant pills on them.
+The target was in this small room near the center of the facility with a generator in it.
+I administered the pills via the ventilation system and every NPC inside turned giant.
+He ended up becoming so large they took up almost all the space in their little room which crushed the generator. The generator exploded and killed them instantly.
+For another mission I managed to have an kill off a bunch of NPCs by surrounding the entrance of their building with the large number of banana peels I accumulated and punched the windows so they’d get pissed off and run outside. They tripped on the banana peels while I shot them from safety.
+
+14/03/2017 at 22:26
+
+TheAngriestHobo says:
+
+It’s nice that this finally got some love (although I’m still kind of surprised it wasn’t covered sooner, given how long it’s been on itch.io and how many games y’all review from that site). SoR has been a real diamond in the rough up until now. Here’s hoping Dabrowski’s sudden fame and success translates into a massively expanded game; after all, the foundations are rock solid, and I suspect he’s swimming in profits after such a successful release.
+
+15/03/2017 at 02:16
+
+April March says:
+
+It has been covered at least twice – I found out about it from here!
+
+15/03/2017 at 00:34
+
+Mandrake42 says:
+
+I really enjoyed playing this on the free weekend just passed. It really is a laugh, especially when the variety of ways to approach things opens up. It’s still only in alpha too, so I can’t wait to see what they add as the game gets closer to release. The random events that happen every 3 levels are bonkers. I can survive most of them, but if I get a killer robot I usually end up toasted.
+
+15/03/2017 at 00:54
+
+damnsalvation says:
+
+So far, hacker is my favorite. Mostly because of all the explosions. TV’s are dangerous, but a handy way to circumvent locked doors. And walls. And viewers.
+Gassing people and hacking security systems to kill their owners is a close second.
+Plus, the hacker gets dynamite powerful enough to erase buildings. Delightful. I’m going to play it some more now.
+
+15/03/2017 at 10:56
+
+Artiforg says:
+
+I played the alpha of this but got frustrated with it quite quickly. My main frustration was the level wide radiation pulse. The game was sort of fun up to that point as it was a contemplative process, how do I solve this puzzle. Then you get 15 seconds to move between buildings and you can’t got wandering round exploring to find alternate ways of doing things because you’re forced into this arbitrary timed situation. I also dislike timed levels/missions in other games so my own bias showing through there. I was also a little disappointed that the thief’s teleport item only has a couple of charges and no way to get them back once you’ve used them (or at least none that I could find).
+
+15/03/2017 at 19:03
+
+Paul Debrion says:
+
+Class consumables that are otherwise rare, which the Thief in particular has a lot of, can be replenished via Cloning Machines provided you always keep at least one.
+Also, the current version of the game has a “mutator” that removes disasters and it’s available right away if I recall right.
+
+15/03/2017 at 20:42
+
+April March says:
+
+The radiation pulse is a real bummer (though it can be funny when a target you need to neutralize escapes then you complete the mission when he stays outside). Though you seem to think it always happen. Level disasters are randomly chosen every three level, and I think there are some five disasters to choose from, so you have a fair chance of not getting it. Getting it is real boring though – I just rush through the level haphazardly when I get those.
+Conversely, the killer robot is the best think.
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+feature, Matt Dabrowski, Premature Evaluation, review, Streets of Rogue, tinyBuild.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

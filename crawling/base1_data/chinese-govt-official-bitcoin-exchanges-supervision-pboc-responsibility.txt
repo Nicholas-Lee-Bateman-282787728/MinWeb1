@@ -1,0 +1,21 @@
+./html_data_bitcoins/chinese-govt-official-bitcoin-exchanges-supervision-pboc-responsibility.txt
+
+
+
+CryptoCoinsNews
+Wu Xiaoling, vice chairwoman of the Financial and Economic Affairs Committee of the Congress in China has stated that the supervision of bitcoin exchanges and trading platforms in the country should fall under the purview of the People’s Bank of China (PBOC).
+Wu, who formerly served as the deputy governor for the PBOC, the country’s central bank, stated her opinion in response to a question fielding during an interaction journalists and reporters last week.
+As reported by major regional publication 163, Wu sees the central bank’s tasks in ensuring anti-money laundering guidelines and foreign exchange management as factors for the apex bank’s supervisory purview over exchanges in the country.
+The prominent government official also revealed that the central bank’s recent regulatory review and involvement in the local trading market are to ensure that the cryptocurrency does not become a channel for money laundering. Although these concerns have long been speculated, the PBOC has only led its crackdown on bitcoin exchange activity since the turn of the year. Capital outflows from China have proven to be particularly tricky for authorities to deal with.
+Wu says she hopes that Chinese trading platforms comply with AML, foreign exchange rules and payment settlement rules. Further, the former PBOC deputy governor added that bitcoin trading platforms are actively cooperating with the central bank toward self-regulation.
+“Bitcoin is a relatively successful use-case of blockchain technology,” Wu stated, in roughly translated comments. “Governments and regulatory authorities [around the world] have different attitudes toward bitcoin. In China, it is certified as a digital asset. There are some countries that identify it as illegal money [since it isn’t] issued centrally.”
+As CCN reported in late 2014, Wu has notably referred to bitcoin, as a “private digital money” can co-exist and function alongside government (fiat) money.
+She had stated:
+Private digital money can coexist with government money. […] Coexistence of private money and government money will be a normal part of our world.
+Speaking at a panel that included bitcoin exchange Huobi’s CEO Leon Lin at the time, Wu, although not directly mentioning bitcoin, referred to the world’s most known cryptocurrency as “private digital money,” “virtual money,” and “algorithmic money” during her speech.
+At the time, Huobi underlined Wu’s speech as “the highest-ranking government official to have made such positive public statements about bitcoin.”
+Notably, she added:
+A new value transfer network based on open-source, distributed information technology will reduce costs and increase efficiency; it is worthy of exploration and development.
+The former PBOC official’s statements were proved true when the PBOC revealed it was exploring the possibility of issuing its own central bank-issued digital currency. The PBOC announced that it was, in fact, looking to issue its own digital currency “as soon as possible”.
+Wu has been making public statements on bitcoin as early as 2013, when she stated that bitcoin, while not seen as a legal currency, was not explicitly prohibited by the central bank.
+Image from Shutterstock.

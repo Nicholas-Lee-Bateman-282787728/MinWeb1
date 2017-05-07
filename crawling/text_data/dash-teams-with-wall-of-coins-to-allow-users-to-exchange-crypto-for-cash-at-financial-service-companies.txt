@@ -1,0 +1,15 @@
+
+
+
+CryptoCoinsNews
+Dash has partnered with Wall of Coins, a peer-to-peer bitcoin exchange, to allow users to exchange the cryptocurrency for cash at financial service companies such as Bank of America, Chase, Wells Fargo, Western Union and MoneyGram, according to an announcement.
+The Wall of Coins website lets users deposit the cryptocurrency in a financial institution and exchange it for cash.
+Dash traders and investors will no longer have to buy Dash from a digital exchange using other cryptocurrencies. They will be able to convert cash to Dash almost immediately.
+Dash’s market cap has soared from $78 million to a record high of $233 million.
+Buying a new cryptocurrency usually requires having to sign up for an account, verify identity, wait for account approvals and transfer funds from a bank account. The process can take days. Wall of Coins allows users to buy Dash immediately at tens of thousands of physical locations in 12 countries.
+Because Wall of Coins supports Dash’s InstantSend feature, Dash transactions can be even faster, according to Ryan Taylor, Dash director of finance. Wall of Coins also provides another way to sell Dash, at a premium compared to rates available at traditional exchanges.
+Also read: Dash puzzlingly skyrockets 450% in two months
+Customers deposit cash at a financial institution, and in minutes, receive Dash or bitcoin to a wallet of their choice. They can then sell their cryptocurrency to Wall of Coins and withdraw the corresponding cash value at a financial institution.
+All of Wall of Coins services are offered through an API, enabling developers to build additional services on top of its platform.
+“We have become the first service to let people get Dash directly with paper money, and by far the fastest marketplace for it,” said Robert Genito, Wall of Coins project director.
+Featured image from Shutterstock.

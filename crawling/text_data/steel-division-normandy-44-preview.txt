@@ -1,0 +1,253 @@
+
+RPS Feature
+Divisionary 
+By Adam Smith on March 6th, 2017 at 2:17 pm.
+
+I can appreciate a carefully crafted digital tank rolling into combat as much as the next war game fan, but there are few things I enjoy more than a visible front line. Not the actual troops huddling beneath hedgerows as explosions tear up the dirt, but an actual line, drawn onto the map, bendling, flexing and breaking as the battle plays out. 
+Steel Division [official site] has authentically modeled units and detailed rules of engagement controlling their clashes, but it’s the front line that got me all excited when I saw a demo last week at GDC.
+
+RTS games often frustrate me. If the foundation of a game encourages me to click fast and think occasionally, I’m unlikely to enjoy it for long, and if every unit is disposable, every encounter can become a numbers game with little tactical or strategic interest. Early in the presentation, even before deployment is complete and the first bullet has been fired, I’m relieved to hear a Paradox representative summarising what kind of RTS Steel Division is: “Clicks per minute doesn’t matter. This is tactics over twitch.”
+
+Alexis Le Dressay, chief executive of Eugen Systems, is running the demo, playing the mission live. He explains that units will respond to your decisions but will also make choices of their own, responding to the changing situation in the field. If they come under fire, they’ll look for cover, and if you tell them to advance on a heavily defended enemy position with shells raining down around them, they might just break and head for the metaphorical hills.
+By ensuring that units react to combat situations in a believable fashion, Eugen want to make sure the player is only responsible for “interesting tactical decisions”, Dressay says. “Babysitting isn’t an interesting tactical decision.”
+So, then, what are the interesting tactical decisions? They begin with a choice of division. Rather than picking Axis or Allied forces, you select a specific division, with the selection including German, US, British, French, Polish and Canadian forces. The US 101st Airborne offer a very different set of tactical options than the 12th SS Panzer, and there’s a deck-building aspect to the actual make-up of your troops. Essentially, each Division has a set number of points to spend on units for each of the three phases of battle, and those phases are one of the key systems that affect Steel Division’s flow.
+
+As far as I can tell, the phases will provide a sense of momentum, not quite mirroring the construction of bases in a traditional RTS, but allowing each battle to progress from early recon and skirmish phases to consolidation and heavy armoured warfare. Some units will only be available in later phases, reflecting the time it takes to move them to the front and deploy them, while others can enter combat in phase one, securing strong tactical positions and attempting to hold them until stronger reinforcements arrive.
+The 101st would likely have an advantage against the 12th in phase one, able to storm the map with rapid infantry assault units that are able to capture key positions. As the battle moves into its later phases, however, armoured units will start to arrive and the Panzer will be attempting to turn the tide in their commander’s favour by breaking and dislocating the Airborne while their own backup scrambles onto the field. One of Eugen’s aims is to avoid the common RTS pattern which sees one side gain an advantage early in the game which is almost impossible to overturn. The phases should give battles ebb and flow.
+An example of an unexpected change of supremacy involves a stealthy infantry reconnaissance unit. Left behind enemy lines early in the battle, where most units might see their morale shattered before long, they retained their composure and scouted the area. Their allies were losing ground in the centre of the map, taking heavy damage and unable to withstand the bombardment of enemy artillery. Unable to make any impact even if they approached from the rear, due to their inability to penetrate armour reliably, the recon unit was all but forgotten as attention shifted to the frontline.
+
+Until, late in the third and final phase, the recon unit spotted a munitions truck, deployed to resupply the artillery. It never made that supply run, cut off and taken out of commission by that forgotten recon unit hadn’t taken it out of commission, causing the assault to falter. On the whole, it’s unwise to leave troops isolated behind enemy lines, as they can be captured or killed easily without support to back them up, but the rules of engagement in Steel Division are flexible enough to allow for this kind of twist.
+That kind of dramatic turnaround might be rare, but head-on confrontations won’t just be a case of chucking stacks of units at the enemy. They come with their own tactical tricks and Eugen’s ballistic system is a key part of them, underpinning all of the game’s encounters. When selecting units you can see precisely what kind of weaponry they use, and the penetration power of projectiles. Shells and bullets can be seen punching through armour, or deflecting, and the difference between impacts can be seen visually as well as predicted by those with historical knowledge or an eye on the stats.
+
+Thanks to the three phase system, which is an abstraction of the wider logistics that allow units to reach the battle, light tanks will have their uses, helping to clear out infantry or the spotter units that allow artillery to operate (all artillery units are off-screen, the spotters being their physical representatives). If heavier tanks arrive in phase three, it might be wise to pull lighter vehicles out of their path, sacrificing some parts of the front to concentrate your efforts elsewhere. Because the frontline changes shape dynamically, reflecting the course of the battle, you can see where reinforcements are needed, the points where the line is buckling, even if you don’t have direct line of sight to get the full picture.
+It’s too early to say precisely how Steel Division will play out, particularly in its campaigns, which give players a group of units that they must lead through a series of missions without relying on reinforcements. Multiplayer will support up to 10vs10, with a wide range of maps built using historical recon photography. The most impressive aspect of the game, from what I’ve seen so far, is how the phase system and positional tactics combine to create a pace that allows for reactive play. Even when air support comes into play, making the screen even busier, battles shouldn’t feel too chaotic.
+
+There is chaos in these clashes, of course, but from your commanding position you can read the situation and do what seems best, trusting your units to carry out instructions to the best of their ability. Along with all of the other elements that help to maintain the pace and sense of control, there’s the way in which many units are taken out of the fight. Rather than simply raining fire down on each other, vehicles will often fight until softened up, pinned or otherwise disabled, and then you’ll be able to move in another unit to capture them. The emphasis on shutting units down and removing them from the fight rather than destroying everything outright makes flanking, retreating and countering much more valid than in a game where the winner is whoever brings the biggest (or the most) guns.
+
+With around 400 types of unit and genuine tactical differences between them, Steel Division should be a strong skirmish combat simulation if nothing else. The deck-building division customisation is intriguing as well and if it works as well as I hope it might, it’ll allow for all kinds of approaches, from bombardment to stealth, and from control of zones through carefully placed snipers to storming with aerial and artillery supremacy. And that dynamic frontline brings in a lovely reminder of Eugen’s R.U.S.E., allowing for a quick read of any battle based on incomplete information. 
+The phrase “World War II real-time strategy” doesn’t entice me, but if Steel Division’s tactical cleverness and smart phase structure work as well as this initial demo suggests they might, this’ll be a winner.
+
+06/03/2017 at 14:30
+
+DM says:
+
+If “all artillery units are off-screen”, how come an infantry reconnaissance unit left behind ennemy lines managed to intercept a munition truck “deployed to resupply the artillery”.
+:3
+
+06/03/2017 at 14:35
+
+DeadCanDance says:
+
+I have high hopes for this. I also would like the soviet faction and the eastern front to be released later as a DLC.
+
+07/03/2017 at 07:48
+
+hamilcarp says:
+
+Here’s hoping for Steel Division Kursk 43
+
+06/03/2017 at 14:37
+
+GenialityOfEvil says:
+
+I don’t play many RTSs, so maybe I’m just out of the loop, but are there any that have autonomous AI where I lay out a plan and they execute it instead of me having to tell each unit or group exactly where to go and who to shoot?
+
+06/03/2017 at 14:41
+
+DeadCanDance says:
+
+It’s not actually an RTS but hearts of iron IV has a planning function which lays out a general direction for the AI to advance. It even gives a bonus for combat for units that are following the plan.
+
+06/03/2017 at 14:53
+
+Syt says:
+
+Command Ops 2 probably comes closest, if you don’t need flashy graphics and are ok with topographical maps/unit counters.
+I’ve played Battles from the Bulge (one of the predecessors) and enjoyed it. The game comes with a learning curve, though.
+link to store.steampowered.com
+Flaspoint Campaigns: Red Storm does something similar in a turn based setting. How many orders you give is actually a gamble, because more orders means more com chatter which means enemy SigInt have it easier to pinpoint your HQ and attack with artillery.
+link to store.steampowered.com
+
+06/03/2017 at 16:02
+
+Shiloh says:
+
+Command Ops 2 is an excellent wargame, but if the OP was looking for an RTS, I’m not sure they’d find it there.
+Maybe Graviteam Tactics: Op Star or Mius Front? Then again, if Co Ops 2’s learning curve is “steep”, I’m not sure how I’d describe GT: Op Star’s…
+
+06/03/2017 at 16:41
+
+GenialityOfEvil says:
+
+Thanks all for the suggestions. Command Ops reminds me of a more detailed version of the skirmish screen in Superpower 2, actually.
+
+07/03/2017 at 06:08
+
+Syt says:
+
+In that case I suppose Battlefront’s Combat Mission games deserve mention. If you can get past the price model, the paid patches (sorry, upgrades), and having to buy through their webpage instead of Steam, GOG or similar.
+
+08/03/2017 at 05:57
+
+harristweed says:
+
+I love Combat Mission games, but I’ve never experienced a company that tried harder to keep me from buying their games. Absolutely atrocious sales model.
+
+07/03/2017 at 16:07
+
+wodin says:
+
+Whoops missed you mentioning Graviteam..anyway I agree..another worthy of buying.
+Also if you want to move up a scale Decisive Campaigns Barbarossa is a must buy aswell..the mix of wargame and roleplay is superb and unique.
+
+07/03/2017 at 16:05
+
+wodin says:
+
+I agree that Command Ops, Flashpoint Campaigns and Combat Mission games are all worthy of buying. Also I’ll add Graviteam Tactics games to the mix.
+
+06/03/2017 at 14:47
+
+Troubletcat says:
+
+“It never made that supply run, cut off and taken out of commission by that forgotten recon unit hadn’t taken it out of commission, causing the assault to falter.”
+Err, I understand what you’re trying to say here but you might want to fix the wording.
+Game sounds pretty interesting, although I’ve got so much else on my plate strategy-wise at the moment…
+
+06/03/2017 at 15:04
+
+Shar_ds says:
+
+If you like visible front-lines in a turn-based setting, then Order of Battle is worth a look?
+link to store.steampowered.com
+
+06/03/2017 at 17:55
+
+Aetylus says:
+
+WW2 doesn’t understand front lines. Now WW1, that’s a war that gets front lines.
+link to store.steampowered.com
+
+06/03/2017 at 15:06
+
+balasco says:
+
+Hope they have implemented tactical pause in SP.
+
+06/03/2017 at 15:37
+
+mrpage says:
+
+The “Deckbuilding” was present and correct in Wargame, and worked well there. You had a maximum pool of units of different types in your deck, and over time earned points that you could use to summon units onto the map. It meant you could run out of access to types of unit if you were careless. The new phases thing sounds like a neat further twist.
+
+06/03/2017 at 15:49
+
+Retzinsky says:
+
+While it’s fair to say that WW2 is an incredibly well explored scenario for an RTS, I’m looking forward to this enormously. From what I’ve read it seems as though it’s basically going to be Wargame: WW2, which is a pretty exciting prospect. I thought Airland Battle in particular was excellent and one of the best RTS in recent memory. Throw in the new interesting sounding combat phases and this could be an absolute killer. Don’t sleep on this one like you did with Airland Battle please RPS :P
+
+06/03/2017 at 16:19
+
+1FSTCAT says:
+
+Battlefront.com has been building and selling iterations of this game for years. I’m excited to see what a mainstream publisher could add to the recipe, however.
+
+07/03/2017 at 16:03
+
+wodin says:
+
+Battlefront.com??? I think you have things abit mixed up if you’re referring to the Battlefront of Combat Mission fame…
+
+06/03/2017 at 17:25
+
+GernauMorat says:
+
+Even if this is ‘only’ Wargame in WW2, I will be very excited. However, sounds like they are bringing is some new concepts as well – can’t wait to try it. Is there any hint of a release date as of yet?
+
+06/03/2017 at 18:16
+
+Hyena Grin says:
+
+Genuinely pretty excited for this. Always enjoyed the Wargame series, and always enjoyed Company of Heroes. I had no idea they got married and had a kid, but boy does it look promising.
+
+06/03/2017 at 19:29
+
+SuicideKing says:
+
+I hereby declare that Tim Stone has been uh… volunteered… to review Steel Division. :P
+
+07/03/2017 at 03:28
+
+DeadCanDance says:
+
+Seconded.
+
+07/03/2017 at 08:26
+
+celticdr says:
+
+Thirded!
+
+18/03/2017 at 22:14
+
+Captain Narol says:
+
+Fourthed ! (wait, is that a word ?)
+
+06/03/2017 at 20:21
+
+Mi-24 says:
+
+This looks interesting: The scale looks a little smaller than wargame and I’m sure they’ll do a great job with the setting
+
+06/03/2017 at 21:34
+
+Dogshevik says:
+
+Since the clicks per minute element never appealed to me when it came to tactical/strategy games this is good news.
+Actually the idea of a 10 vs 10 multiplayer RTS match, hopefully with something like a chain of command where people are encouraged to plan together and specialize sounds very appealing.
+In my experience it is a sign of good games when talking shop with your fellow players or reminding each other of your victories and defeats is almost as much fun as playing itself.
+This sounds like it could be one of those games. Let´s hope the implementation is up to it.
+
+06/03/2017 at 22:18
+
+mrskwid says:
+
+i’m sure this game will be good but the two things i want are a good ai thats not too hard or too easy (looking at you wargame) and a pause button that all i need.
+
+07/03/2017 at 15:59
+
+wodin says:
+
+I hate realtime wargames..hate em..except the very first (esp the second) Close Combat games and the more recent Graviteam Tactics games, because not only are they trying to be realistic (esp Graviteam) they are also not a click fest and run at an easily manageable pace. So fingers crossed this joins that tiny list of mine. We will review it when released at AWNT. My main concern is that I never got into the modern war games. Hopefully my knowledge and interest in WW2 will help me get over any hurdles that I came across with the modern war games.
+You must be registered and logged in to post a comment.
+XHTML: Allowed code: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <s> <strike> <strong> 
+
+
+
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+Eugen Systems, feature, GDC 2017, Paradox Interactive, preview, Steel Division: Normandy 44.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams

@@ -1,0 +1,18 @@
+
+
+
+CryptoCoinsNews
+Canada’s largest securities regulator has stated that open access to data is fundamental to developing fintech solutions like blockchain technology, in a white paper, reports Reuters.
+Last November, the Ontario Securities Commission (OSC) hosted a hackathon, with the aim of discovering innovative FinTech solutions for the finance sector. Its paper was the result of the hackathon.
+According to Pat Chaukos, chief of OSC LaunchPad, which is a regulatory sandbox to promote innovative solutions, blockchain can provide answers for problems that companies are experiencing.
+Chaukos said:
+You need to have the open-access data before you can get to the innovation.
+In a bid to further expand the sector between the two nations, regulators in the U.K. and Canada signed an agreement earlier this month. By doing so they have made it easier for FinTech companies to expand into each other’s markets, which resolves the issue of growth.
+More, though, needs to be done.
+The European Union’s Payment Services Directives 2 (PSD2), which is due to come into effect in early 2018, is expected to bring the change that many financial technology companies are seeking.
+The new directive will allow a third party, such as a FinTech company, to access banking data with the customer’s permission, establishing greater confidence to users in the reliability of the services. It would also make signing up for financial services easier.
+And yet, while it will help shake up the way banks work with data, some European FinTech firms believe that banks are lobbying against the EU legislation.
+Of course, banks want tighter regulation on financial technology firms and their access to customer data for fear that cybercriminals will obtain the information. It is because of this that FinTech companies believe that banks will delay response times to access requests.
+But, if banks are to thrive in the face of FinTech it needs to collaborate with the companies to remain relevant. As with anything new, change is slow to take shape, but as Mark Carney, the governor of the Bank of England said, FinTech brings great promise and risk that need to be understood to realize the benefits.
+With access to open data, though, it would improve manual regulatory processes such as how information is collected and analysed, the white paper asserts. Not only that, but it would boost competition and provide concrete benefits for investors too.
+Featured image of Tehran from Shutterstock.

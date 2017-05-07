@@ -1,0 +1,17 @@
+./html_data_bitcoins/coinbase-comes-out-against-exchanges-fork-statement.txt
+
+
+
+CryptoCoinsNews
+Brian Armstrong, Coinbase’s CEO, publicly said he does not support the statement of around 20 bitcoin exchanges which says that in the event of a hard fork they will list the Bitcoin Core chain as BTC regardless of the longest chain or, presumably, regardless of price and other factors. Armstrong said:
+“It doesn’t make sense to say BTC can only be modified by one development team. If there is overwhelming support from miners and users around any new version of the software (regardless of who wrote it), then I think that will be called Bitcoin (or BTC).”
+Another exchange, Yunbi, has come out to say that they “respect the selection of the market and hash power, and will follow the longest BTC blockchain if hard fork happened.”
+This creates a potential situation whereby some exchanges will list the Bitcoin Core chain as BTC while others will list the Bitcoin Unlimited chain as BTC if Bitcoin Unlimited gains the majority of hashrate, which is very likely if they do fork.
+In such cases, users on both sides would be easily mislead and there would be much confusion, but one exchange which signed the statement, Shapeshift, came out to say they signed a different version. Kraken, too, came out to clarify that they may give the BTC ticker to the chain which has most support once that becomes apparent.
+The likelihood of a hardfork has now considerably increased as bitcoin unlimited is headed for around 40% network share, which may periodically give it a temporary share of 50% due to variance.
+Bitcoin Unlimited would probably not fork without some 75% or 80% of the network’s hardware share. That would require a switch by F2Pool, BW and either BitFury or BTCC or, alternatively, a number of smaller pools. F2Pool and BW might switch, but BitFury and BTCC have been strong supporters of Bitcoin Core.
+If a fork does happen, it is not very clear what exactly would follow. Luke-Jr, a Bitcoin Core developer and Blockstream contractor, has threatened a chain split through a PoW fork. In response, the vice chairman of BitFury threatened with lawsuit and prosecution of anyone who PoW forks, seemingly increasing tensions within the Bitcoin Core side and potentially suggesting strong supporters might shift.
+If there is a chain split, bitcoin holders would have an equal amount on each chain. They can then either wait it out and see how the market settles, or engage in what probably would be the most spectacular trading frenzy.
+It seems neither side really wants a chain split, but neither side is backing down either. Miners could have activated segwit back in November, but there are many bitcoiners who support bitcoin unlimited which plans to implement segwit as a hardfork. They appear to have rejected it with the resolution now either a continued stalemate or a fork.
+If BU does gain 75% or 80% of the network’s share, then Bitcoin Core will have to decide whether to bite their time, move to another currency, potentially unleash chaos through a PoW fork, or just wait it out until difficulty adjusts.
+Featured image from Shutterstock.

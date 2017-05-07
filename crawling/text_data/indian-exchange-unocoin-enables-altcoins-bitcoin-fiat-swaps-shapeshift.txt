@@ -1,0 +1,16 @@
+
+
+
+CryptoCoinsNews
+Indian bitcoin exchange Unocoin has announced a partnership with Shapeshift to enable users to convert altcoins, deemed as ‘blockchain assets’, into bitcoin.
+More specifically, Unocoin will make use of Shapeshift’s API, allowing the following cryptocurrencies to be converted to bitcoin through Shapeshift. Ethereum, Ethereum Classic, Litecoin, Monero, Ripple, Lisk and Factom are among the altcoins listed on Unocoin presently. While Unocoin’s announcement also lists Zcash and Dash among the altcoins for bitcoin swaps, the website does not show support for the cryptocurrencies at the time of publishing.
+Unocoin’s Altcoin-to-bitcoin dashboard.
+Unocoin’s users will also be able to change altcoins into Indian fiat rupees (INR), through bitcoin., in what is seen as a first in India.
+“When I first got involved in Bitcoin in 2011, it was mostly a Western community. It’s been tremendously exciting to see Unocoin help bring this technology into India,” stated Shapeshift founder and notable bitcoin evangelist Erik Voorhees.
+Indians’ interest in bitcoin is on the rise, particularly after November’s demonetization drive which plunged the country into cash chaos. There is a surge in Indian bitcoin adopters with exchanges witnessing record trading volumes. India also witnessed all-time high levels of peer-to-peer trading via LocalBitcoins in the aftermath of the demonetization run.
+Calling itself India’s leading bitcoin exchange, Unocoin confirms that interest in altcoins among Indians isn’t very high with the distinct lack of options to convert them into bitcoin or fiat cash. It hopes to spur investors’ and users’ adoption of altcoins with its new integration with Shapeshift, altogether contributing to a thriving cryptocurrency ecosystem.
+Sunny Ray, co-founder and president of Unocoin stated:
+Many view bitcoin as digital gold and we’re always looking for ways to make it easier for people to get into bitcoin. Many people learn about bitcoin through other crypto currencies and once they do, we’d like to give them an easy way to convert their blockchain assets into bitcoin.
+The executive also added that Unocoin “may or may not introduce deeper integrations in the future” hinting that the bitcoin exchange is likely to stick to focusing on the trading of bitcoin for the foreseeable future. The newly released Altcoin-to-Bitcoin feature is entirely powered by Shapeshift, through the latter’s APi.
+Unocoin’s biggest in-house development so far has been its own API, enabling individuals or companies to generate bitcoin wallets to transact with the cryptocurrency and merchants to accept bitcoin in the country. The release of its API followed soon after the bitcoin startup raised $1.5 million in Series A funding round, a record investment for a bitcoin company in the country.
+Image from Shutterstock.

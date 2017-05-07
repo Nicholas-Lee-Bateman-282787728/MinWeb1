@@ -1,0 +1,42 @@
+
+By
+PCGamer
+
+
+Reviews are at the heart of PC Gamer. We've been publishing PC game reviews since 1993 and we have a continuing responsibility to deliver honest and excellent criticism without compromise. We hold ourselves to high standards, and we want you to hold us to them too, which is why we've published our review policy here for your reference.
+We’re not infallible, and if we make a mistake, we'll hold our hands up and correct it as soon as possible. We're also constantly thinking about how we can deliver the best buying advice and criticism, and your ideas are encouraged: talk to us in the comments or email us at editors@pcgamer.com.
+This page was last updated January 24, 2017. Some sections have been simplified, a section on technical performance has been added, and our review score descriptions have been expanded.
+ Scored reviews: We review and assign scored verdicts to games and DLC available for sale or monetized through in-game purchases, as well as unreleased games for which we've been provided an early review copy.After a review is published, we may continue to cover notable free updates, but scores are final†. Updated re-releases (eg, Resident Evil 4 HD), however, may be given fresh reviews.
+Early Access, alphas, and betas: A game's state of completion shouldn't preclude us from praising or criticizing it—especially if it’s being sold—but we also understand that Steam Early Access games and other pre-release versions are subject to major changes as they develop, so we don't typically score games that are marked as unfinished. That won’t stop us from saying what we think of them, though, whether they’re great or comparable to salmonella poisoning.
+There are some exceptions. For instance, Hearthstone was monetized and marketed to a large audience in ‘beta,’ and we felt it was complete enough to warrant a score at that time. From our point of view, it was a beta in name only.
+Episodic games: When a game is released in episodes which can be purchased individually, each episode may be reviewed separately, but we may decide it’s most helpful to review the full season as a package, as we did with Hitman. Episodic release models vary from game to game, so we allow ourselves flexibility in deciding how to approach each one.
+Games which require a constant internet connection (any game with a major multiplayer mode or always-online DRM) will not be scored until after public release. We may post a 'review-in-progress' while playing, documenting our initial criticism as we work toward the scored review.
+Though not preferable, PC Gamer reviewers may attend publisher-run review events as long as the they can play the game on PC without interference. However, we won’t base  a review entirely on an event. We look at these events as headstarts before we get code to test on our own PCs, and multiplayer in a live environment. 
+We always consider technical quality when we review games, and will report when we encounter crashes, bugs, or other issues. FOV sliders and framerates matter to us, and our review scores will reflect that.
+Every game is different, though, so how we approach technical issues and scoring has to be on a case-by-case basis. For example, it’s more important for a shooter to support 144Hz monitors than a grand strategy game. And if a patch comes out while we’re reviewing a game and fixes any issues we were having, we’ll take that into account. We don’t factor in problems that no longer exist by the time we hit publish or send an issue to the printer. 
+We don't believe it should be the burden of the review to be a de facto index of every technical issue that exists for a game. We will, however, report heavily on launch issues elsewhere, calling out poor-quality releases and questioning publishers on what happened and when fixes are coming. And persisting technical problems, restrictive DRM, or a lack of standard features will affect our review scores.
+ PC Gamer uses a 100-point scoring system, expressed as a percentage. The descriptions and examples here are meant to clarify what those scores most often mean to us. Scores are a convenient summation of the reviewer's opinion, but it's worth underlining that they're not the review itself.
+00%-09% Utterly broken or offensively bad; absolutely no value. Eg, Big Brother, Mad Dog McCree
+10% - 19% We might be able to find one nice thing to say about it, but it’s still not worth anyone’s time or money. Eg, Hooters Road Trip, ShellShock: Nam '67
+20% - 29% Completely falls short of its goals. Very few redeeming qualities. Eg, Family Guy: Back to the Multiverse, Michael Schumacher's Kart Challenge 2005
+30%-39% An entirely clumsy or derivative effort. There’s little to no reason to play this game over a similar, better one. Eg, The War Z, Medal of Honor: Warfighter
+40%-49% Flawed and disappointing. Eg, Aliens: Colonial Marines, Deus Ex: The Fall
+50%-59% Mediocre. Other games probably do it better, or its unique qualities aren’t executed especially well. Eg, Primordia,  Painkiller: Hell & Damnation
+60%-69% There’s something here to like, but it can only be recommended with major caveats. Eg, No Man's Sky, The Bureau: XCOM Declassified
+70%-79% A good game that’s definitely worth playing. We like it. Eg, Life is Strange, Planet Coaster
+80%-89% A great game with exceptional moments or features; touches of brilliance. We love it. Eg, Battlefield 1, Thumper, Stardew Valley
+90%-94% A compelling recommendation for most PC gamers. Important to PC gaming as a whole, and likely ahead of its time. Eg, Portal 2, The Witcher 3
+95%-98% Absolutely brilliant. This is far and away one of the best games we’ve ever played, and we recommend it to the world. Eg, Half-Life 2, Minecraft, Kerbal Space Program
+99%-100% Advances the human species. Provides a feeling not dissimilar to the ending of Stanley Kubrick’s 2001: A Space Odyssey.
+The Editor's Choice Award is awarded in addition to the score at the discretion of the PC Gamer staff and represents exceptional quality or innovation.
+† Changing a score after a review has been published is impractical and problematic. Scores are disseminated so widely online that the first score we grant is likely to be the one that sticks, and altering it will cause confusion. Given that many of our readers will learn about our verdict through aggregation services and other sites, we weigh on the side of consistency rather than selectively re-scoring the vast number of games that are updated.
+We always value accuracy over timeliness when it comes to issuing a score—in some cases, we may wait longer to review games or post review-in-progress articles to make sure we get it right. That said, a review has to act as a snapshot of a game's worth at the point of release: it'd be impossible to maintain an accurate living document of the value of every game on the PC. Where problems arise after the launch of a game that warrant a second look, we'll let you know about them through subsequent articles. A score cannot be predictive, but we can react to new developments through post-release coverage.
+Subscribe to get the best content of the week, and great gaming deals, as picked by the editors.
+PC Gamer is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+©
+
+
+Future US, Inc. 
+One Lombard Street, Suite 200,
+San Francisco
+California 94111. 

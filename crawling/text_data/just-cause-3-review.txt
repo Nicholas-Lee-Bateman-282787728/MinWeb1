@@ -1,0 +1,807 @@
+
+RPS Feature
+2015's most fun-packed game. 
+By John Walker on December 1st, 2015 at 12:01 am.
+
+Avalanche’s Just Cause 3 is officially released Tuesday morning online and in something called “shops”. “Officially”, because it was apparently released early in a few naughty nations, prompting the developers to make a list of planned Day 0 fixes. Of course, that means the code we’ve been reviewing from for the last week also lacks that patch, making it tricky to know how many of the issues I encountered – in an otherwise stupendous game – will affect you. Bearing this in mind, here’s wot I think.
+
+
+You know what makes a good game? Helicopters with nitros. Also, flying a plane into a five storey fuel tank and leaping out just in time. Then there’s driving a Formula 1 car around some ancient ruins. And not forgetting standing upside down on the bottom of a helicopter half a mile in the air, shooting grenades at explosive barrels.
+The Just Cause series has always been to the open worlds of Far Cry as Saints Row has been to GTA: its irreverent, sillier, and ultimately far more entertaining cousin. However, Just Causes 1 and 2 both made the same mistake of letting difficulty get in the way of fun, and there seemed no sensible reason to assume the third game in the series wouldn’t do the same. It doesn’t do the same! Oh my goodness, Just Cause 3 – despite its bugs – is wonderful.
+
+Having previously liberated the islands of San Esperito and Panau, one-man army Rico Rodriguez is now returning to the land in which he was born – a sprawling network of islands called Medici. It is now under the oppression of fascist dictator General Di Ravello, who with the islands natural deposits of a rare element called Bavarium, intends on taking over the world. So, once more, Rico is tasked with ousting the political control of the ruler by recapturing dozens of bases and towns, as well as ploughing through a parallel main quest of scripted missions.
+In most senses, Just Cause 3 sticks to the series’ formula, but it’s about how it approaches it this time that makes this the finest game in the run. It’s bigger, sillier, and most importantly, freer. So much so that despite the 30+ hours I’ve put into it, I’ve not yet finished the main story, explored much of the largest island, discovered all manner of vehicles, nor ensured I won’t encounter any more severe crashes later on.
+
+So much so that it was only after about 12 hours of thoroughly enjoying myself playing the game that I realised I’d forgotten to play the first mission after the enforced introductory offerings. Genuinely forgotten, rather than avoided. I was having such a thrilling time parachuting into little towns, downing all the military equipment and propaganda, and liberating it for the locals, before zipping off to a large military base and blowing up everything red-and-grey striped, that it clean left my mind that there was something else I should be doing. But the game didn’t object a jot. There were no nags, no reminders, no dragging me inexorably toward its scripted goal. In fact, had I not then started off the plotted missions because I rather had to in order to review the game, I would have been left free to explore the game’s astonishingly huge spread of islands rather than approach them in thematic order.
+The catch of my first twelve hours was I hadn’t unlocked rebel supply drops, where weapons, vehicles and special equipment falls from the sky (so long as you have enough beacons in your inventory to summon them), nor fast travel (again rationed, this time by flares). But these appear very early on, freeing the more defiant player to go explore the largest third island long before the story wants to.
+
+Once more your non-scripted time is split three ways. There’s liberating towns, involving blowing up statues, destroying billboards and speakers, and often clearing out fortified police stations. Then there’s blowing everything up in a military base against increasingly ferocious army response. And thirdly, and most importantly, there’s goofing around, finding a plane and seeing if you can fly it through a tunnel, then flying a helicopter 3km into the sky and freefalling to the ground.
+Town liberation is oddly formulaic for too long this time. Far less sprawling than before, the towns of the first two islands are repetitive and rarely offer any real challenge. They feel more like a quick chore to get done, in order to turn the map more blue than red. It’s not until the third, far-largest island that these flourish into wonderful cityscapes and elaborate arrays. (Although, you can head straight to the third island and its tougher challenges, should you choose.) However, this is more than made up for by military bases, which are enormous, more elaborate and interesting. Huge, and often vertical as well as horizontal, they can involve stretches of land, cavernous cave networks, vast towering structures with networks of corridors and platforms, and hidden destructibles only revealed after hitting the right buttons. And that’s all one base.
+
+Clearing a town or base opens up challenges. These are minigames in which you can win gears, which then open up abilities related to the task. So do well enough at a race in a car, and you’ll unlock driving abilities, and succeed at a wingsuit course and you’ll better your aerial antics. There are very many of these, from the most obvious like taking a boat through checkpoints in a time limit, to gloriously explosive challenges in which you must blow up as much of a base as you can with a particular weapon, to genuinely strange tasks involving dragging a magic magnet behind a car to gather Bavarium ore and deposit it in a giant hole, while enemies try to blow you up. I’d far prefer the system had let you chose which unlocks to pick with earned gears, but it keeps things interesting, and offers fantastically silly extras like… nitros on a helicopter.
+
+The enemy response is stupendous, which is the thing that makes me most happy about JC3. The second game scuppered itself about halfway in, when its response to your just approaching a base was to spam the sky with one-hit-kill helicopters, making the whole process extremely tiresome. This time, while things escalate wildly, there’s a feel of control over it. You can even see which guards are calling in for back-up and take them out before they succeed, letting you manage things slightly. And when things do get crazy, you’re equipped not only with enough weaponry to cope, but the grapple is so utterly wonderful that you can make do even if you run out of ammo.
+
+It hasn’t changed dramatically, but it works far more effectively. Presumably taking inspiration from the mods that users quickly added to improve JC2, you’re far more free to have fun. Any two objects can be grappled together, and as you unlock “mods” (as the game calls them), you can get up to six separate tethers at any time. Press Shift and the tethers contract, meaning you can merrily drag soldiers up to cave roofs and pin them there, or fling tanks off cliffs by dragging them out of your path. It’s quick, and mostly easy (the downside being missing a target and tethering the ground to a wall, and wondering why nothing’s happening – sadly you can’t quite fold the world like a pop-up book).
+There are infinite parachutes, of course Just Cause’s trademark daftness. This time out you get to meet the lady responsible for this miraculous design, Dimah, who I’m fairly sure is my favourite NPC in any game ever. She is also responsible for your better grappling, and right at the start gives you a completely brilliant wingsuit. This makes for excellent flying, and is a brilliant addition to your tech. Dimah is also hilariously funny and the voice acting performance exquisite.
+
+Which neatly leads me to talk about the missions. As you’d probably expect, they’re not the strongest part of the game. Far too many rely on keeping NPCs alive, or protecting a vehicle, and in a scrappy madcap sandbox world, random events are far too often your undoing, rather than a lack of skill. How Avalanche haven’t received the NO MORE ESCORT MISSIONS memo escapes explanation. But, none is disastrous, and a few are great fun. And more importantly, each is accompanied by cutscenes. Wait, what? Yes, I mean it. This is a game where I find myself looking forward to the cutscenes.
+Rico is joined by his childhood friend, Mario, who is about as hoary a trope as you can imagine. He is, of course, a slightly goofy, over-confident jester with a heart of gold, who proves vulnerable. Original he is not. And yet the performance sells it – I find myself liking Mario a lot. There’s one scene in which just the animation’s comic timing is so perfect that I guffawed at a look he gave. Sheldon appears, of course – Rico’s former boss from The Agency, who is once again morally dubious and overtly American, Hawaiian shirt and all. And there’s Dimah, a tech guru with no concept of empathy, and a performance that nails every line with incredible timing. Later come other over-obvious-yet-delightful characters Teo and Annika, and others still. Rico has lightened up a lot, and is likeable for the first time, and wow if it doesn’t all make for a fantastic ensemble cast, with superb writing, that makes for properly entertaining viewing.
+
+So with fantastic combat, vehicles, flying and script, it’s a small shame things are a scrappy. While it’s not frequently buggy (I’ve become trapped in the scenery a couple of times, which is annoying, and had one major issue I’ll get to), it feels like it needs a good tidying up. Most frustrating is the fiddliness of picking things up, or getting into vehicles. For some odd reason, this is made needlessly complicated, with Rico needed to be stood in the perfect position to be able to enter a helicopter, or dig up a relic, or press a button. It’s a royal pain in the arse, because as ever, Rico is always least controllable when walking around. As with JC2, he feels leaden when he’s not grappling himself along the ground, or flipping about in a parachute. Clumsily arranging him to stand in the right place is tiresome, and I can think of no reason why the threshold for letting E activate something shouldn’t be widened. (Almost never are two things close enough that it could cause you to do the wrong thing.) That’d be something lovely to see patched in, and would make the whole experience significantly smoother.
+A rather strange omission this time out are the hidden chests of ammo and gubbins in the bases. JC2 had you chasing down these boxes via a proximity radar thing, and it added an extra element to reaching 100% in any area. It’s no great loss, but it does make bases and towns less involved. The proximity doodah is still in there, but now points you toward either taped messages recounting the General’s rise to power, or parts for classic vehicles built if you meticulously track down every buried site in the farthest flung corners. 
+
+My biggest issue however is the load times, especially when restarting failed challenges. They’re achingly slow, to the point where I’ve been playing puzzles on my phone during them. And when loading the game, you’re forced to sit through an unskippable logo sequence in which Rico sits stock still and nothing happens for a good 20 seconds. Of course, the counter to this is that the entire kerbillion acres of the world are accessible without loads at all times, but it doesn’t stop it being a pain when you restart a race because you crashed a few seconds in.
+And that big issue. I encountered a story mission a good way into the game that not only didn’t work because Rico’s plane refused to lock on to enemy targets, but would crash the entire game about two minutes in every time. After Square Enix failed to find a fix for that individual error over the weekend, the arrival of AMD’s latest (dreadful) Crimson driver files seemed to get me past the problem (or it was a coincidence) but broke everything else in the game. The world was reduced to fractured triangles, and obviously unplayable. However, past the crash, I was able to fight the god-awful Crimson shite off my computer and eventually convince the slightly less god-awful Catalyst back on, and have continues. Your results may vary, but be warned that at launch, JC3 doesn’t seem ready for AMD’s latest drivers.
+
+The game runs a lot of online features, measuring all manner of silly statistics (longest wingsuit flight, most enemies killed by a single clip, biggest fall) against other players and ranks you accordingly. You can also get ghosts of Steam friends’ best runs on challenges to compete against. All nice, relatively unobtrusive, and not necessary for the game to run. However, if you have a flaky internet connection (mine drops when it starts raining, because I live in a cartoon), it interrupts the game to complain. Try to log back in when you cannot, or they cannot, and it sits there spinning away and can’t be escaped. It seems if you’re at risk of brief connection drops, you’ll want to start in offline mode for your own sanity.
+
+Then once it’s loaded, I stop caring immediately, because it’s all so bloody gorgeous. Seriously, it’s breathtaking. Down to the finest details, everything looks incredible. It’s bright, colourful, cheerful – not a moment of the game even borders on grimdark severity. Floating mines are a brilliant red, that makes them look enticing rather than dangerous, the blue skies and green hills a pleasure to wingsuit over. And the sea – oh my goodness, the sea. It’s the best I’ve ever seen in a game, undulating and varyingly rough, beautiful to look at, and invisible tiling. 
+Then as you’re wandering a liberated town, you hear music. Buskers! And a small crowd watching, some dancing. Or gosh, the detail when you reload the game, and the title screen is Rico leaning against a car where you last stopped playing – hit play and he just stands up and is ready to go. Or the scene where Rico is forced to kiss a cow. Or the line, “Fuck you, missile!”
+
+The game is so ridiculously enormous that despite having played it for 30+ hours, I’ve still only switched half the map from red to blue. There are vast stretches I’ve not encountered, vehicles I’ve no idea about, surprises still in store. That’s not ideal when reviewing, of course, but then there’s also the issue of the limitations of a human lifespan.
+This is an epic work, and a wonderfully irreverent antidote to Far Cry’s po-faced severity. It’s so ludicrously detailed, packed with gags, surprises and kleptomania-inducing extras to find and collect. It’s good humoured throughout, while still finding room to acknowledge that fascist dictators aren’t hilarious clowns, and tells a story with some of the loveliest characters I’ve encountered in a game. Dimah 4ever. Oh, and David Tennant is brills as the held-hostage voice of the Merdici state radio! 834,000m of exploration in, I’ve scratched at what the game offers. Which means I’ve also potentially missed other severe issues too. I look forward to seeing what tomorrow’s patch brings, and I desperately hope it includes making getting in vehicles/using items far less of a fiddly faff.
+
+It’s a triumph of a game despite some flaws, and certainly one of my peak gaming moments of 2015. Bright, cheerful, ridiculous, and most of all, absolutely determined to ensure you have fun.
+Just Cause 3 is out today for Windows.
+
+01/12/2015 at 00:13
+
+caff says:
+
+Gosh, another probable must buy for me.
+What about multiplayer? It sounds like your internet isn’t up to it, but I’m wondering whether there servers to connect to, and what are they like? One of the best reasons for me buying JC2 was for the multiplayer addon, but it was a bit chaotic (putting it mildly).
+
+01/12/2015 at 00:26
+
+duquessheep says:
+
+There is no official multiplayer. (yet?)
+
+01/12/2015 at 23:35
+
+Belsameth says:
+
+No. Nor is it planned. They’re all just leaderboard type thingies for the weirdest things (bullets hit in a row on a single enemy, from a single clip).
+
+01/12/2015 at 00:28
+
+Henas says:
+
+Sounds good but the AMD issues will put me off it initially. Any word on performance and/or graphics options? Console folks are complaining readily about poor framerates.
+
+01/12/2015 at 11:03
+
+TacticalNuclearPenguin says:
+
+That’s the philistine’s fault with their passion for expensive door stoppers!
+
+01/12/2015 at 13:20
+
+Mokinokaro says:
+
+Except that some PC users are reporting even worse performance on high end systems.
+The day one patch apparently isn’t on steam yet though.
+
+01/12/2015 at 00:29
+
+jpm224 says:
+
+Have they fixed the awful, awful helicopter controls?
+
+01/12/2015 at 11:09
+
+udat says:
+
+And is there a skin to make said helicopter look like Airwolf? Those nitros look like they were made for an Airwolf skin. I’d buy it immediately if yes.
+
+01/12/2015 at 11:41
+
+Richeh says:
+
+Yeah, I was playing it last night and actively noticed how bloody lovely the helicopters handle now. In between the insufferable frame skip. I’m sure that’ll be fixed with drivers and tinkering though.
+
+01/12/2015 at 11:50
+
+Marclev says:
+
+Huh? The helicopters were the only thing in the game that controlled well in JC2. 
+Mouse up/down/left/right to control pitch and roll, WSAD (or WS+Shift+Ctrl, can’t remember) to control yaw and lift.
+I can’t actually see how the above can be improved on for an action game.
+
+01/12/2015 at 13:30
+
+Sin Vega says:
+
+Seconded. Been playing a lot of Just Cause 2 lately and they’re the simplest vehicles to control.
+
+01/12/2015 at 00:32
+
+malkav11 says:
+
+I am super torn on this. I wanted to like Just Cause 2 and I got a bit less than 15 hours of partial enjoyment out of it, but I certainly didn’t love it the way almost every critic seems to have and I found the general lack of guided/story content and worthwhile exploration left me bored pretty quickly. Not immediately, because mucking around with the parachute/grapple combination is fun for a few hours and things do blow up real good when you have explosives (not that the game does much to facilitate your having explosives), but quickly. And as John says, the difficulty ramps in a really unfun way.
+On the other hand, I thought Mad Max was great and it really seemed like maybe Avalanche has figured out what they did wrong with Just Cause 2. I just can’t tell for sure whether that’s the case from this review given that I am not coming at the franchise with the enthusiasm reviewers seem to and that I don’t think just giving me more toys to “make my own fun” is sufficient.
+
+01/12/2015 at 05:52
+
+Thirith says:
+
+I’m also one of those few, strange people that found Just Cause 2 boring (and not all that gorgeous to look at – technically it was great, but the island always looked too gaudy and artificial to my eyes), just like I didn’t particularly enjoy Saints Row 2. I’ve come to realise that sandboxy freedom means less to me than the coherence of the world I play in and the context provided by characters and story.
+
+01/12/2015 at 06:15
+
+Geebs says:
+
+It sounds like Rico’s excessive fragility is mitigated a bit. I had the same problem with JC2 where, just as things are getting interesting, you suddenly find that any tactic apart from “get helicopter gunship and blow everyone up from a distance” became the only viable tactic. I’m cautiously interested in this one, though.
+
+01/12/2015 at 09:59
+
+OmNomNom says:
+
+Yeah me too, there was something a little too superficial about it all, even more so than games like Far Cry. This does look like an improvement though, so toying with the idea of getting it.
+
+01/12/2015 at 06:38
+
+BannerThief says:
+
+For quick comparison, JC2 had 7-8 story missions, and this has over 20. There’s already a lot more story stuff for you if you wanted that more ‘guided’ experience, but then again, I thought Mad Max (the game) was tragically boring, and JC2 is one of my favorite games from last-gen, so YMMV in regards to my advice. Also, other reviews have pointed out that this game is significantly easier than the last one, but again, I thought JC2 was already pretty light on difficulty.
+
+01/12/2015 at 11:45
+
+Richeh says:
+
+Mmm, I enjoyed actually *playing* Mad Max, just for the sheer spectacle of it and the atmosphere, but the core gameplay mechanic was essentially taken from a flash webgame about teaching penguins to fly. I got halfway through, realized the car was about as fun as it was going to get, and got bored.
+
+02/12/2015 at 00:10
+
+malkav11 says:
+
+The atmosphere is definitely the biggest reason to play Mad Max. It’s my favorite post-apocalypse in gaming so far, I think, and I’ve played quite a few including virtually the entire Fallout franchise minus the latest but including the fairly crap console ARPG spinoff Brotherhood of Steel. Mind you, JC2 is pretty strong on atmosphere too. But Mad Max’s decent in most other respects including probably my favorite implementation of Batman-style combat so far (I’m sure it’s technically better in the Arkham games but I am better at Mad Max’s version of it and feel like a button-mashing scrub in Arkham), whereas I had serious problems with JC2’s game mechanics and like I say, found the developer-provided goals pretty sparse and underwhelming. And unlike JC2, it rewards exploration with unique scenery and nuggets of setting flavor. So I find it a much more consistent and lastingly appealing game. Not perfect by any means, but a big improvement and memorable for the atmosphere.
+
+01/12/2015 at 10:07
+
+Jakkar says:
+
+In a similar boat, bobbing about aimlessly nearby.
+JC2 had the correct ingredients but felt empty outside a few amusing plot missions, once you hit the repetition barrier at which nothing is new.
+I think the fundamental problem was that the combat was – like Half Life 2 – impactless, with enemies capable of taking entire magazines of bullets before suddenly flopping into a lifeless ragdoll.
+I can’t stand that feeling of ‘grinding down the healthbar’ to finish each and every meaningless mook just to stop them grinding down *my* healthbar while I’m trying to Press The Button, or Carry The Object. It’s an awful, RPG-like form of combat totally out of place in a modern action game.
+I, too, loved Mad Max, to my jarring surprise.
+I just don’t think I trust them to have made JC2 again, but good. At least not enough to justify an early purchase.
+
+01/12/2015 at 12:36
+
+Herr_C says:
+
+Really? After I figured out the recoil control soldiers in HL2 were dropping like flies? Zombies and ants were resistant to small caliber firearms but were doping instantly to shotgun. Even in JC2 it was like few bullets per person with a upgraded weapon, especially if you aimed for the head region. Whole magazines? Really?
+
+01/12/2015 at 13:06
+
+mukuste says:
+
+From a previous discussion it seemed that quite a few people didn’t realize that weapons could be upgraded, or just didn’t bother. It makes a big difference.
+
+02/12/2015 at 04:51
+
+Hedgeclipper says:
+
+and you were never more than a quick grappling hook away from some comically amusing murderising – I hate to do the ‘playing it wrong thing’ but I think a lot of people missed the ’cause chaos’ part of JC2, it didn’t really cater for cautious cover and shoot play and worked best as one long stunt reel where you swing between exploding things spraying bullets like Schwarzenegger and Tarzan’s homicidal love child.
+
+02/12/2015 at 06:20
+
+malkav11 says:
+
+Except you had really limited ammo and none of the fun guns or explosives were just lying around, you had to manually summon them in by calling the black market and dealing with cutscenes and substantial cash expenditures.
+
+02/12/2015 at 06:35
+
+Hedgeclipper says:
+
+That’s not how I found it, I maybe used the black market a half dozen times and got sick of the whole waiting and cut scenes thing. Personally I thought there were always a bunch of weapons laying about, and if you wanted bigger ones you just caused more chaos and the military would send some delivery boys – same for ammo.
+
+02/12/2015 at 07:09
+
+median says:
+
+malkav11: 
+– The cutscene was absolutely awful, but there was a mod that got rid of it. 
+– You will never run out of money to buy ammo. The game rewards you money with the idea that you’ll use it to buy a TANK, not a few bullets. 
+– You can upgrade weapons to increase their magazine size.
+
+02/12/2015 at 08:11
+
+Belsameth says:
+
+The black market concept is still in but *vastly* improved. It doesn’t cost money now, all you need is a Black Market beacon which can be picked up at any gas station (you’re also limited to just carrying one). Ammo is also (mostly) divided into general catagories, so no more running out.
+I really had the same issue with JC2 as you did, mostly because I never spend anything but just saved it “for the right time”. No more of that now. Nor any annoying cutscene on delivery!
+
+03/12/2015 at 13:48
+
+malkav11 says:
+
+I was using the mod that cut out the cutscene and the market was still unusable because you loaded into and loaded back out and the whole thing was slow and tedious and interrupted the flow badly. Heck, I also used a mod that eliminated cost from the market and it still didn’t help (though part of the problem is they never modded the DLC items to be free, to be fair). And I dunno, maybe in the later game the enemies start carrying something worth using (or, y’know, explosives) but I wasn’t having enough fun to keep playing that long. Same with upgrading the capacity on guns. Sure, you could do that and I did to a point, but you’d need to play a lot of game with guns that sucked to gather enough upgrades to make the good stuff last long enough. I wasn’t willing. (This was also a problem I had with Saints Row 3 but that game had better writing and more hooks to keep me going until I got the guns up to snuff.)
+
+01/12/2015 at 00:44
+
+yogibbear says:
+
+I am downloading on steam now! Count me in!
+
+02/12/2015 at 01:30
+
+yogibbear says:
+
+I am back from 10 hr romp. It was good! JC2 + Wingsuit = Awesome fun. Don’t expect anything more beyond that and you’ll be in for a good time.
+
+01/12/2015 at 00:48
+
+thedosbox says:
+
+I’m looking forward to an update of the “Rico walking away from explosions” gallery. Also glad to hear they’ve toned down the effects of higher heat levels.
+It seems if you’re at risk of brief connection drops, you’ll want to start in offline mode for your own sanity.
+Huh. The arstechnica review implied that you could switch to offline mode if there were connection issues, but did not state that you could default to offline.
+
+01/12/2015 at 00:54
+
+Spacewalk says:
+
+Is that a tactical beard?
+
+01/12/2015 at 11:47
+
+Richeh says:
+
+I don’t know why, but Rico now looks like Bob Ross without the ‘fro.
+
+01/12/2015 at 13:52
+
+Tacroy says:
+
+there are no mistakes, only happy explosions
+
+01/12/2015 at 13:53
+
+gunny1993 says:
+
+Just gona plant a small dictatorship over here, that’s out little secret.
+
+01/12/2015 at 01:00
+
+JiminyJickers says:
+
+Hmm, may have to be someone’s Christmas present to me. Pity I just spend so much money on other things in the Steam sale.
+
+01/12/2015 at 01:09
+
+meepmeep says:
+
+I’ve been playing since Saturday on the PS4 thanks to some zealous dispatching, and I have to say I absolutely agree with everything here.
+Chuffing awesome, and the most fun I’ve had in a game since…well…Just Cause 2, I guess, and it’s better than that game in every way.
+
+01/12/2015 at 01:27
+
+Davie says:
+
+Whoa! Just Cause 2 was my favorite game when it came out, but as we’ve both gotten older its flaws and shortcomings became more obvious, and I wasn’t particularly interested in this latest iteration. It sounds like I may have to change my mind though.
+I’m frankly amazed they apparently pulled off great characters and writing after the hilarious-due-to-absurd-awfulness of the previous games. That alone makes me want to give it a go.
+
+01/12/2015 at 09:30
+
+mukuste says:
+
+The writing and voice acting was great already in JC2. Bolo Santosi has to be one of the most memorable characters in a video game ever. What an entrance.
+
+01/12/2015 at 10:35
+
+The First Door says:
+
+I honestly can’t tell if this is sarcasm or not… The voice acting in Just Cause 2 was utter bums in my opinion! And not good bums either.
+
+01/12/2015 at 11:17
+
+mukuste says:
+
+There was an interview with that voice actress posted recently where she made it clear that she hammed it up intentionally; not that that should come as a surprise to anyone who played that game.
+What’s so hard to understand about a game which is basically a cheesy action movie in video game form having cheesy action movie characters with cheesy accents? I found it hugely entertaining, and judging from previous threads, I’m far from alone in that. If people really expected serious characters then they didn’t understand the game, at all.
+
+01/12/2015 at 11:28
+
+The First Door says:
+
+Goodness! Well, obviously I didn’t understand the game, at all, then! Or maybe I just the voice acting and writing was a bit pants? Opinions, eh?
+
+01/12/2015 at 01:59
+
+MD says:
+
+Can anyone tell me what the mouse input is like? JC2 had horrible negative acceleration, and I’m not comfortable enough with the xbox controller to enjoy playing shooters with it.
+
+02/12/2015 at 07:17
+
+median says:
+
+I can’t answer your question; but I can say that JC2 was the game that finally got me using the controller. If you give up on the idea of making every shot a headshot, you can have a lot of fun with the controller; there’s autoaim, if you want it, and a zoom/sniper mode that helps line up headshots. 
+I had much more control over vehicles — which is what pushed me to figure out the gun-juggling system on the controller. 
+I hope 3 has good mouse support, though, since I sometimes switch back to KBM for a few hours.
+
+01/12/2015 at 02:01
+
+Stevostin says:
+
+“The game is so ridiculously enormous that despite having played it for 30+ hours, I’ve still only switched half the map from red to blue”
+That barely qualifies as “enormous” this day. It’s pretty much the standard I expect for that kind of game.
+
+01/12/2015 at 08:43
+
+IJC says:
+
+For what kind of game? An enormous one?
+
+01/12/2015 at 11:08
+
+TacticalNuclearPenguin says:
+
+Just for a “big” one, considering 30 hours have to be splitted with fucking around and playing various activities, learning the game and so on.
+
+01/12/2015 at 20:06
+
+Universal Quitter says:
+
+It’s 1000 sq kilomters. For comparison’s sake, Chernarus is 225 sq km and Skyrim is less than 40. 
+Only Fuel and Daggerfall and a few others have larger maps than this one. Say whatever you want about them, Just Cause games have objectively big maps.
+
+02/12/2015 at 00:02
+
+malkav11 says:
+
+That’s not really a meaningful statistic considering that all three of those settings are purely virtual and thus their relation to real units of distance purely arbitrary.
+
+02/12/2015 at 02:01
+
+Darloth says:
+
+Sortof… but people are roughly the same size in any of these ‘arbitrary’ settings, so it does certainly have relevance. The speed you move through them is arbitrary, with Just Cause giving you massive amounts of movement ability and Skyrim being pretty slow unless you’re fast travelling, but it does give a good idea of the scope of the area in terms of amount of space relative to size of main character, and thus implicitly amount of space to have cities/towns in, since those are also strongly related to the size of the humans living therein.
+
+02/12/2015 at 06:27
+
+malkav11 says:
+
+And yet, those cities and towns are never EVER the scale of actual cities or towns. Unless they’re supposed to be one of those tiny boondock towns inhabited by like seven people, which I suppose do exist, but aren’t usually where gameplay-relevant stuff would be happening.
+
+02/12/2015 at 02:20
+
+Caelinus says:
+
+I am not sure what you are on about. The units are not arbitrary, but are absolutely based on real distance (i.e. the distance of a stride, a persons height, now many strides it takes to walk a mile.) Though the division of those in the real world are arbitrary, the space they describe is not.
+If you said that Skyrim was 1.5 Million Kleachnarks across, that would be an arbitrary measurement. But saying it is 40 square km is describing the space it simulates in a non arbitrary way.
+
+02/12/2015 at 06:24
+
+malkav11 says:
+
+But they can just define any arbitrary portion of the game as a “square kilometer”. I mean, space sims cover AU rather than KM, but it’s not really a meaningful difference from the perspective of a player experiencing it. What matters are things like “how quickly can you get from one end to the other” and “how often are you encountering interesting and/or unique things along the way?”
+
+01/12/2015 at 02:20
+
+Nereus says:
+
+How does it run? I don’t want to be one of those 60fps or bust fanboys but I’m intrigued what the performance is like considering Mad Max apparently ran very well and Avalanche have been good with these things in the past. That said, badly running AAA games seems to be a running theme in 2015.
+
+01/12/2015 at 03:04
+
+Person of Interest says:
+
+See my misplaced reply below. :)
+Granted, Nvidia’s official blog might be downplaying any day-one driver issues that other folks encounter.
+
+01/12/2015 at 13:24
+
+Mokinokaro says:
+
+There are performance issues for some folks but the day one patch isn’t up yet.
+
+01/12/2015 at 02:27
+
+Kitsunin says:
+
+Huh, I just realized Just Cause is a double-entendre.
+
+01/12/2015 at 16:20
+
+Belsameth says:
+
+Hah! You mentioning you noticed it made me notice it… :D
+
+01/12/2015 at 02:59
+
+Lexx87 says:
+
+This is one of the more positive reviews i’ve seen come out, which is nice!
+Happy to see John having so much fun with it.
+
+01/12/2015 at 03:15
+
+trjp says:
+
+Yeah, I’ve read/watched 3 reviews so-far and every one of them basically said
+“Visuals and some control things aside, this does nothing the first 2 didn’t”
+That’s not promising – but hey, early days…
+
+01/12/2015 at 03:43
+
+anHorse says:
+
+Weird, movement’s massively improved from 2 it’s so fluid and fun now (even if the wingsuit’s not that much of a revelation, you just fall sideways more now)
+
+01/12/2015 at 09:27
+
+trjp says:
+
+Whilst it’s great that it controls better – I think people kinda expected something to do with those controls outside of the “blow lots of shit up”
+Most reviews grumble about weird difficult level, dumber-than-cheese AI and a general feeling of losing interest after a while (only to return later when the desire to blow-shit-up returns)
+JC and JC2 were odd titles in some ways – some stuff in there was MEGA-janky and odd and I guess that persists here. How much of that you’ll tolerate at AAA full-price may be different to what you’ll tolerate when it’s rather cheaper…
+
+01/12/2015 at 13:19
+
+Shadow says:
+
+Yeah… Throughout the article, I kept wondering “okay, so how is this a meaningful step up from JC2?”
+I had a lot of fun with Just Cause 2, but if it’s just the same thing with new graphics and minor improvements here and there, I’m not too excited. I’m not prepared to pay AAA price for that.
+
+01/12/2015 at 20:09
+
+Universal Quitter says:
+
+You should see the Steam Reviews. Some of them are so toxic they could peel the paint of your walls, if you read them out loud.
+But I’ve never known John Walker to pull punches, so I’m cautiously optimistic.
+
+01/12/2015 at 06:12
+
+MisterFurious says:
+
+Why? Did you work on the game? What does it matter if other people like it or not?
+
+01/12/2015 at 09:20
+
+trjp says:
+
+The entire point of this massive communication thing we’re using is to share experiences and opinions on stuff – it’s kinda the entire point of being here…
+How the hell could you not understand that?
+
+01/12/2015 at 03:02
+
+Person of Interest says:
+
+On Nvidia cards at least, it seems to run well. With some settings turned down from Max to High, the game probably averages 60 FPS @ 1080p on a GTX 960 and 60 FPS @ 1440p on a GTX 970.
+Nvidia’s performance guide has performance charts for its current products, and outlines which settings you should turn down first if you want to improve your frame rate: link to geforce.com
+
+01/12/2015 at 03:09
+
+trjp says:
+
+Reports seems to suggest performance is TERRIBLE on consoles and not devoid of performance issues on PC either.
+Expressions like “not able to hold 30fps on console” may not worry PC players but some PC reviews are grumbling about loads of FPS hits (even on fairly decent kit) and IIRC their engine ties physics to framerate?
+Sounds like it needs work on all platforms as-yet – but that’s what refunds are for eh?
+
+01/12/2015 at 03:11
+
+trjp says:
+
+p.s. Steam reviews are looking a bit grim at this point – 120-odd positive to 95 negative (all moaning about performance)
+
+01/12/2015 at 04:07
+
+Rindan says:
+
+“A rather strange omission this time out are the hidden chests of ammo and gubbins in the bases. JC2 had you chasing down these boxes via a proximity radar thing, and it added an extra element to reaching 100% in any area.”
+Fucking sold. Holy fuck does this complaint sell the game to me like nothing else. I am so utterly sick of having to run around the fucking map picking up random crap that I struggle to articulate it. Saints Row 4 was fucking brilliant fun… except for the god damn fact I had to waste literally hours picking up floating blue balls to get all my cool abilities. If a game wants to simulate being assigned community service by a judge and sending you on a litter collection mission picking up every single piece of shit spewed across some big open world because humans love a good skinner box, great, but leave me and all the cool weapons/powers/abilities the fuck out of it. Just because someone can’t help but mindlessly pick up litter to make the completion number go up or get all the abilities doesn’t mean anyone actually likes it.
+I can’t wait for open world games to get rid of the litter collection missions for powers to go the way of “social gaming”. Good on you Just Cause 3 for leading the charge. Seriously, fucking sold. I am downloading it right now. Fuck litter collection missions.
+
+01/12/2015 at 08:27
+
+jonnychimpo says:
+
+100% this.
+
+01/12/2015 at 09:27
+
+alphager says:
+
+89% “oh fuck it I don’t really care about picking the last hidden items” agree.
+
+01/12/2015 at 13:34
+
+LionsPhil says:
+
+Hah.
+
+01/12/2015 at 16:25
+
+Belsameth says:
+
+Lol. I also agree fully. I’m ok with a few, but 648393374 of the things (per individual collection. Obviously there also have to be 3827475 different collections) just adds amazing bloat. My CDO doesn’t help I guess, making me *need* to collect them all before continuing, so I always burn out halfway due to boring grindfest.
+
+01/12/2015 at 19:11
+
+jonahcutter says:
+
+Agreed. I’m playing through JC2 right now, and I’m finding nothing so tedious and disruptive to the fun parts of the game then having to scour every balcony, corner and shack for upgrade +1s. It destroys any feeling of flow or rhythm. Several times I’ve given up hunting and just watched vids to find that last part, which has even sometimes been out behind a fucking rock in the nearbye woods.
+It’s one of the more obnoxious takes on the fairly standard,
+hunt for hidden parts game system.
+Good riddance.
+
+02/12/2015 at 00:14
+
+Raoul Duke says:
+
+So true about SR4. For the first couple of hours I was thinking that this was finally a game where the designers remembered that fun can still be fun even if you don’t have to do tedious work in order to gain access to it. The game basically starts with the player being given automatic weapons and told to shoot up a faux 1950s town. But then you get to the ‘main’ game and suddenly you have to run around collecting 12003249 blue orbs from inconvenient places because… reasons. Such a shame.
+
+02/12/2015 at 07:26
+
+median says:
+
+I liked a little bit of the garbage collecting. It forced me to explore a base, move quickly, decide whether to grab an object and run, or clear the area first, etc. 
+The two things I didn’t like: spending more time watching the radar meter than the actual screen — that thing should have been in the damn middle of the screen as a transparent HUD (there’s a mod that makes the treats gleam more brightly); and, holy jesus, getting to 97% on a base and then spending 10 minutes crawling around a now empty base for the remaining 3%. Yuck.
+
+01/12/2015 at 06:50
+
+shoefish says:
+
+After what he said about dogs, I just assume the exact opposite of whatever John says is true. Pity, I was considering getting this.
+
+01/12/2015 at 07:10
+
+Monggerel says:
+
+On the one hand, I’m a fan of Just Cause 2 and what I’ve seen of the third game makes it look good. Also, I never could have imagined that there exists a good version of Prodigy’s very own “Firestarter”.
+On the other hand, John Walker liked it.
+
+01/12/2015 at 07:33
+
+Laurentius says:
+
+Is it fair to say JC3 is JC2 meets Saints Row 4 ? I couldn’t like neither of them for some reasons, mostly vehicles handling is bad and world felt artificial.
+
+01/12/2015 at 23:39
+
+Belsameth says:
+
+From the bit I played this seems apt. That said, vehicle control isn’t as horrid as either JC2 or SR4 but neither is it as good as GTAV, its serviceble at best. That said, wingsuite so screw cars! They nailed that bit even if its freakishly hard when you just start.
+
+01/12/2015 at 08:52
+
+Muzman says:
+
+Is there gonna be a RPS verdict?
+Unusually for a game review, I feel like this time the views of people who don’t particularly like undirected open-world tomfoolery, even at its best, are worth hearing.
+John’s enthusiasm for Just Causes and Saint’s Rows and Far Crys is well known to me by now. Not that there’s anything wrong with that.
+
+01/12/2015 at 09:14
+
+noodlecake says:
+
+Hmmm. RPS always misleads me with these articles. They said Saints Row 4 was better than GTA IV, but despite it being bloated with lots of things to do, they all felt badly put together and I ended up still putting a lot more time into dicking around in GTA IV. GTA IV was vastly inferior to V too, but still better than Saints Row 3 and 4.
+I bounced right off Just Cause 2. Like Saints Row it had quitepoor physics compared to Far Cry 3 and GTA IV/V which meant despite having lots of things to do, none of it felt quite right or had anywhere near as many possibilities (particularly compared to GTA V)
+There’s no mention of physics in this article so I can’t really tell!
+
+01/12/2015 at 09:38
+
+mukuste says:
+
+Hmmm, while the game seems priced reasonably, I just noticed it has a 25€ day one DLC. And it’s not even discounted when you buy it together with the game. This… really sucks, I thought these guys were better than that.
+
+01/12/2015 at 11:55
+
+Richeh says:
+
+Mmm, it’s a bit crap when you consider how much the game costs. It’s not so much day-one DLC as a season pass for three forthcoming DLC packs though.
+DLC’s rubbish when you’ve clearly been short-changed on the core game to provide for extra packs. I’ve not heard anyone complain about the amount of content in JC3 though; and when done properly it means they can extend a game that people are enjoying for longer. The flaming wingsuit and fancy parachute is a nice little bonus but I don’t think anyone’s playing the main game wistfully thinking “It’s good, but couldn’t I be a bit more on fire?”
+
+01/12/2015 at 12:02
+
+mukuste says:
+
+Yeah, probably you’re right. But the description does mention additional missions, which could be a triviality or a good chunk of gameplay. There’s just no way to know at this point, and this nagging feeling of “am I actually getting the full game here?” really puts me off buying new games before they’re all bundled up and cheaper.
+It seems to work as a business strategy, otherwise they wouldn’t do it, but I can’t help wonder how many sales they are losing from people who hate that feeling.
+
+01/12/2015 at 16:30
+
+Belsameth says:
+
+They ptobably did the math and thus they are there, because for people like you there are also people like me. “Ooh, flaming wing suite *and* I might miss out otherwise?!?” *buys xl edition*…
+Yes, sorry. I am partially to blame what is wrong with this DLC culture. I still buy Ubisoft Season Passes ffs :(
+
+01/12/2015 at 09:40
+
+Hideous says:
+
+Whoa wait, if you didn’t do the initial missions for 12 hours… It took you 12 hours to get your wingsuit?
+
+01/12/2015 at 09:40
+
+Hideous says:
+
+I don’t mean that to sound like “oh wow what a dumbass”, I mean more like that must’ve been a pretty kickass surprise when you finally did get the wingsuit.
+
+01/12/2015 at 10:06
+
+The First Door says:
+
+I’m really torn about this game, too. I want to get it because it looks great, but I thought the same about JC2 and found JC2 to be just… frustrating as all hell. I tried replaying it recently to see if I just missed something, and the early mission to rescue someone from the Casino, and the following one getting away on the back of a car, reminded me how the game kept trying to get in the way of my fun. Oh, and also how rubbish the voice acting was.
+So, I was wondering, has anyone who didn’t like JC2 played this. Could you offer an opinion if you like JC3 more?
+
+01/12/2015 at 10:28
+
+Jay Load says:
+
+With the dev’s abandonment of JC1 still in mind – no patches after launch – I’m going to wait until this game is patched and running smoothly before dipping my toes in. It’s a Must Buy in that case, but not before.
+
+01/12/2015 at 10:57
+
+phuzz says:
+
+Well, as someone who’s ended up putting hundreds of hours into JC2 (despite it’s flaws), it looks like I’ll be spending cash on this too.
+(I didn’t pre-order it of course, I’m not that daft)
+
+01/12/2015 at 11:23
+
+Kollega says:
+
+I’ve been playing the game for about 7 hours now, and the fact that it’s still fun even if my rig can’t quite run it without severe FPS dips (I blame my outdated graphics card) stands as a testament to how fun it is. The driving is fun, the flying is fun, the combat is fun, the destruction is fun. My hat is off to you, Avalanche.
+
+01/12/2015 at 12:10
+
+IJC says:
+
+Just out of interest, which card do you have? Mine isn’t exactly new either and maybe comparable.
+
+01/12/2015 at 13:02
+
+Kollega says:
+
+I have a 2012 Radeon HD 7770. My problem is that those come with one or two gigabytes of video memory, and I’m unlucky to have a card with only one gigabyte, while Just Cause 3 requires at least two. Therefore, I had to drop the level of GWAFIX and play in smaller resolution to make it run. I would’ve upgraded it, but JC3 is really the first current-gen game I’m trying to run, and the system requirements were unknown up untill a few days ago.
+
+01/12/2015 at 11:24
+
+mingster says:
+
+Bought it for £21 from link to cjs-cdkeys.com key turned up instantly.
+Bargain.
+
+01/12/2015 at 12:12
+
+rapchee says:
+
+wow all the complaints about difficulty … i must be a gaming god (being sarcastic), i was worried to start the hardest mode but i did finish the story missions and another couple with relative ease. although at that point i’ve already finished it at got the game to about 80% completion on normal
+
+01/12/2015 at 13:41
+
+DuncUK says:
+
+“A rather strange omission this time out are the hidden chests of ammo and gubbins in the bases. JC2 had you chasing down these boxes via a proximity radar thing, and it added an extra element to reaching 100% in any area.”
+This is not strange, it was the worst part of JC2. It makes no sense that the defending force in a town or army base can be defeated by the final act of a man picking up a box with a spanner drawn on the side.
+
+01/12/2015 at 13:42
+
+Pulstar says:
+
+Denuvo, no sale. Just ’cause… and why am I not surprised by your recommendation when everyone else says wait for patches? Hmmm.
+
+01/12/2015 at 15:45
+
+geisler says:
+
+Be silent and pass the Doritos!
+
+01/12/2015 at 22:20
+
+kfix says:
+
+It’s funny (not funny) how you two can apparently write but not read. Did you get your mums to help you?
+
+01/12/2015 at 14:33
+
+Catchcart says:
+
+Or the line, “Fuck you, missile!”
+Ah yes, Rico the eloquent sophisticate, always ready with a witty comeback. Oh wait, I’m thinking of James Bond. Rico’s the moron. I seriously hoped Avalanche would ditch the guy. One-liners such as “Try to pump oil, now, punks” from JC2 still hurt my brain to this day.
+
+01/12/2015 at 14:49
+
+Kollega says:
+
+That would actually be “Try transporting oil now, you pipeline jerks!” And make no mistake – it is awesomely hilarious.
+
+01/12/2015 at 14:55
+
+Catchcart says:
+
+I stand corrected but my brain still hurts. What is a pipeline jerk?
+
+01/12/2015 at 15:34
+
+Kollega says:
+
+The same thing as a soda jerk, only operating the oil pipelines. Duh.
+
+02/12/2015 at 18:26
+
+cqdemal says:
+
+There’s an oil pipeline mission in Just Cause 3 that unlocks the achievement “Take That, You Pipeline Jerks.”
+
+01/12/2015 at 17:27
+
+Bull0 says:
+
+Yeah, they should dump the silly cheesy fun so it could be exactly like every other game. Good idea!
+
+02/12/2015 at 02:31
+
+Buggery says:
+
+You sound like you would have been disappointed with the dialogue in Bulletstorm, too. What’s wrong with a dumb game having dumb dialogue? Makes a nice change from dumb games trying to be serious ala CoD. Or Fallout 4 with the eternally unfortunate:
+Father
+– “I am your son”
+Also, “Try transporting oil now, you pipeline jerks!” is an objectively, scientifically funny line, composed by artisan dialogue writers.
+
+01/12/2015 at 15:10
+
+Viggo says:
+
+I’m just hoping it isn’t as shallow as the previous games.
+
+01/12/2015 at 16:31
+
+onodera says:
+
+I still wish it had viable stealth. That’s one thing that draws me to Far Cry. And Pagan Min, who turned out to be an interesting character and not another lolcrazy one.
+
+01/12/2015 at 20:31
+
+zigguratvertigo says:
+
+Just Cause always looks to me like the game Michael Bay would make once he’d exhausted the dramatic potential of what film had to offer. I’m afraid there’s nothing in John’s review to dissuade me of this.
+
+02/12/2015 at 00:12
+
+horsemedic says:
+
+I think that happened a long time ago and he just kept making movies anyway.
+
+01/12/2015 at 23:43
+
+haldolium says:
+
+I dont know. 
+It offers so much, but the horrible camera/low field of view, the fiddly controls (seriously Avalanche, you’re on pair with Egosoft and Bohemia here, which is never good) and quite a few bugs (hey here is an idea: make Rebel Drops not droping an half-exploding helicopter. And I still want my weapons!) taking the fun right out of the game. 
+Not entirely, but there just is no fucking gameplay flow. Every kilometer I find myself stuck on some fucking rocks, because for some reason the entire grappling hook mechanic is way less forgiving as in JC2, or unlocking some stupid helicopter no one in his right mind would ever need or use (srsly, only planes are not entirely worthless without guns) while constantly running out of ammo.
+And the fact that you have to do all those challenges to unlock the actual fun part of the game is almost tedious grinding. Because no, with THAT driving phyisc, its NOT fun to try to target some wonky quad half-way through a rock to hit some stupid blockade on the other side. 
+I also don’t see why there is no minimap but the entire right screen is filled with stupid leaderboard stuff. 
+When it works, it works very nice and pretty much exactly like a Just Cause should. The problem though is, it just doesn’t work that often.
+If you click our links to online stores and make a purchase we may receive a few pennies. Find more information here.
+Avalanche Studios, feature, Just Cause 3, review, RPS Recommends, wot i think.
+They look quite good
+PING!
+This is the end
+Dest2ny
+The Worthiest Reticules Of All Time
+The 5175th series of Planet Earth 
+Hit Parade
+The long awaited follow-up to Forgotten Realms: Baldur's Gate
+A list, probably wrong
+No free-to-play, just free.
+Read more
+NEWS ALERT. NEWS ALERT
+Parsers Verbed
+A Galaxy Of Errors
+WELL?
+2.5D remembered.
+A trip through nature
+Chilling
+Everything you need to know.
+Digital Extremes explain Octavia's Anthem
+This is my life (in games)
+For graphics, weapons, the UI and more.
+Square and 2K go Humble
+One of the best roguelikes, one of the strangest dev teams
